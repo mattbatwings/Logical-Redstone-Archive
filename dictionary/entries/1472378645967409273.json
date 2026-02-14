@@ -1,0 +1,14 @@
+{
+  "id": "1472378645967409273",
+  "terms": [
+    "BCD"
+  ],
+  "definition": "Binary Coded Decimal - A format for representing decimal numbers with binary, where each digit is 4 bits long.\nExample: 123 in BCD -> 0001 0010 0011",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472378645967409273",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+  "status": "PENDING",
+  "updatedAt": 1771112824818,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472378647146139820"
+}
