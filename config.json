@@ -7,34 +7,17 @@
         "type": "string",
         "description": "A description of the device."
       },
-      "author(s)": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        },
-        "description": "A list of who worked on the device.",
-        "minItems": 1
-      },
       "input": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        },
-        "description": "The input format."
+        "type": "string",
+        "description": "What data does it take in (binary/hex/other)? What is the format?"
       },
       "output": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        },
-        "description": "The output format."
+        "type": "string",
+        "description": "What data does it produce (binary/hex/other)?\nWhat is the format?"
       },
       "speed": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        },
-        "description": "The latency or throughput of the device."
+        "type": "string",
+        "description": "The latency (in redstone ticks) or the throughput (in hz) of the device."
       },
       "considerations": {
         "type": "array",
@@ -49,8 +32,7 @@
       }
     },
     "required": [
-      "description",
-      "author(s)"
+      "description"
     ]
   },
   "postStyle": {
@@ -58,25 +40,17 @@
       "depth": 0,
       "headerText": ""
     },
-    "author(s)": {
-      "depth": 2,
-      "headerText": "Author(s)",
-      "isOrdered": false
-    },
     "input": {
       "depth": 2,
-      "headerText": "Input",
-      "isOrdered": false
+      "headerText": "Input"
     },
     "output": {
       "depth": 2,
-      "headerText": "Output",
-      "isOrdered": false
+      "headerText": "Output"
     },
     "speed": {
       "depth": 2,
-      "headerText": "Speed",
-      "isOrdered": false
+      "headerText": "Speed"
     },
     "considerations": {
       "depth": 2,
