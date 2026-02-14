@@ -1,0 +1,17 @@
+{
+  "id": "1472379271392530514",
+  "terms": [
+    "Twos Complement",
+    "Twos Comp",
+    "2s Complement",
+    "2s Comp"
+  ],
+  "definition": "A format for representing both positive and negative numbers in binary that allows addition to work as expected.\nExample: 1001 (-7) + 0101 (5) = 1110 (-2) \nLearn more: https://www.geeksforgeeks.org/digital-logic/twos-complement/\nApplied to Minecraft: https://youtu.be/_fZP-r2yhnY",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472379271392530514",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472379271392530514/1472379272248295481",
+  "status": "PENDING",
+  "updatedAt": 1771112973874,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472379272248295481"
+}
