@@ -4,6 +4,12 @@
   "code": "AD",
   "category": "NEW ARITHMETIC",
   "description": "Adders",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472321792923406548",
+      "code": "AD001",
+      "path": "AD001_Fast_5hz_8-bit_Carry_Cancel_Adder_CCA"
+    }
+  ]
 }
