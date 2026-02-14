@@ -7,9 +7,9 @@
   "definition": "No memory or state. The output is the result of the input alone. \nFor example, an adder is combinational. For a given input, it will always produce the same output.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472379111153336494",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
-  "status": "PENDING",
-  "updatedAt": 1771112935680,
+  "status": "APPROVED",
+  "statusMessageID": "1472379112059437259",
+  "updatedAt": 1771113039492,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472379112059437259"
+  "referencedBy": []
 }
