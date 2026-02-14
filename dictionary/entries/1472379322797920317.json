@@ -7,9 +7,9 @@
   "definition": "Refers to one bit of a binary string being active at a time.\nExamples: 00001000, 1000000, 000100",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472379322797920317",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
-  "status": "PENDING",
-  "updatedAt": 1771112986113,
+  "status": "APPROVED",
+  "statusMessageID": "1472379323565478100",
+  "updatedAt": 1771113047867,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472379323565478100"
+  "referencedBy": []
 }
