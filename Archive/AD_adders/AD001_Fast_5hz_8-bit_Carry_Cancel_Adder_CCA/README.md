@@ -19,9 +19,3 @@ A 3 tick carry cancel adder, pipelinable at 5hz.
 
 ## Resources
 - [AD001_5HzCCA.schem](attachments/AD001_5HzCCA.schem): unknown
-
-## Comments
-
-### mattbatwings (2/14/2026)
-m
-
