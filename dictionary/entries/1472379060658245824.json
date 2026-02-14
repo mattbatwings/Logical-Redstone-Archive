@@ -7,9 +7,9 @@
   "definition": "Includes memory or state. The output is the result of the input AND a memory element.\nFor example, a counter is sequential. When the \"count\" input is pressed, the output depends on what is already in the counter.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472379060658245824",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
-  "status": "PENDING",
-  "updatedAt": 1771112923646,
+  "status": "APPROVED",
+  "statusMessageID": "1472379061555953840",
+  "updatedAt": 1771113020489,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472379061555953840"
+  "referencedBy": []
 }
