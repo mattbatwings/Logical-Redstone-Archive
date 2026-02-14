@@ -1,0 +1,91 @@
+{
+  "postSchema": {
+    "title": "Submission",
+    "type": "object",
+    "properties": {
+      "description": {
+        "type": "string",
+        "description": "A description of the device."
+      },
+      "author(s)": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "A list of who worked on the device.",
+        "minItems": 1
+      },
+      "input": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "The input format."
+      },
+      "output": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "The output format."
+      },
+      "speed": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "The latency or throughput of the device."
+      },
+      "considerations": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "Optional list of considerations/downsides of the device."
+      },
+      "notes": {
+        "type": "string",
+        "description": "Optional notes about the device."
+      }
+    },
+    "required": [
+      "description",
+      "author(s)"
+    ]
+  },
+  "postStyle": {
+    "description": {
+      "depth": 0,
+      "headerText": ""
+    },
+    "author(s)": {
+      "depth": 2,
+      "headerText": "Author(s)",
+      "isOrdered": false
+    },
+    "input": {
+      "depth": 2,
+      "headerText": "Input",
+      "isOrdered": false
+    },
+    "output": {
+      "depth": 2,
+      "headerText": "Output",
+      "isOrdered": false
+    },
+    "speed": {
+      "depth": 2,
+      "headerText": "Speed",
+      "isOrdered": false
+    },
+    "considerations": {
+      "depth": 2,
+      "headerText": "Considerations",
+      "isOrdered": false
+    },
+    "notes": {
+      "depth": 2,
+      "headerText": "Notes"
+    }
+  }
+}
