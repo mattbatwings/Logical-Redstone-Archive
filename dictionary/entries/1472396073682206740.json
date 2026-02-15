@@ -1,0 +1,15 @@
+{
+  "id": "1472396073682206740",
+  "terms": [
+    "Hard Power",
+    "Soft Power"
+  ],
+  "definition": "Two different ways of powering blocks which allow signals to travel through blocks.\n\nHard power - Created when powering a block with a repeater, comparator, torch, observers, levers, pressure plates etc. This allows redstone dust adjacent to that block to be powered as well as repeaters, comparators, lamps, etc.\n\nSoft power - Created when powering a block with redstone dust. Redstone dust adjacent to this block will not be powered, however components such as lamps, comparators, repeaters and torches will still be activated.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472396073682206740",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472396073682206740/1472396074374398004",
+  "status": "PENDING",
+  "updatedAt": 1771116979871,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472396074374398004"
+}
