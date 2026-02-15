@@ -1,0 +1,9 @@
+{
+  "id": "1472331318439444502",
+  "name": "read-write-memory",
+  "code": "RWM",
+  "category": "🧩 CPU COMPONENTS",
+  "description": "Memory storage used for reading and writing data in a CPU.",
+  "currentCodeId": 0,
+  "entries": []
+}
