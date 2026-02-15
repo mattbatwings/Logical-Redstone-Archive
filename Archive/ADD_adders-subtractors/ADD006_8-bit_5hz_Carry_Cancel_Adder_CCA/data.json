@@ -1,0 +1,118 @@
+{
+  "id": "1472328030499377256",
+  "name": "8-bit 5hz Carry Cancel Adder (CCA)",
+  "code": "ADD006",
+  "reservedCodes": [
+    "ADD006"
+  ],
+  "pastPostThreadIds": [
+    "1472430859339436032"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "206482298491764736",
+      "username": "sloimay",
+      "displayName": "sloimay",
+      "iconURL": "https://cdn.discordapp.com/avatars/206482298491764736/a778f49416122ef2e9b2339658466528.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383093590720616",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328030889185464",
+      "name": "8bit_5hz_cca.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328030499377256/1472328030889185464/8bit_5hz_cca.png?ex=69922bd5&is=6990da55&hm=b069e9ff2f8ac9ec0df000c4e4818309a126839421ec831b91391871550fecf1&",
+      "timestamp": 1771100757003,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 242093,
+      "canDownload": true,
+      "width": 505,
+      "height": 964,
+      "path": "images/8bit_5hz_cca.png",
+      "hash": "546338f0e3c278007d1dd32edbd3ae09a6e81d505b47bebdc93692f4254df61a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328031115935967",
+      "name": "ADD006_8bit_5hz_cca.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328030499377256/1472328031115935967/8bit_5hz_cca.schem?ex=69922bd5&is=6990da55&hm=36a8cbe5b275a17d2841453fb64eade083d316ec045278968d7c6ec329110406&",
+      "timestamp": 1771100757003,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1579,
+      "canDownload": true,
+      "hash": "cda8a607968de03fce80363438170931f572c4d8fa45b8a9f264bb18a05b2051",
+      "path": "attachments/ADD006_8bit_5hz_cca.schem",
+      "schematic": {
+        "size": "11x17x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit adder pipelinable at 5hz.",
+    "input": "2 8b numbers",
+    "output": "8b sum",
+    "speed": "6 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472430859339436032",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1472430863420624937"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472430859339436032",
+    "uploadMessageId": "1472430851945140437"
+  },
+  "archivedAt": 1771125270550,
+  "updatedAt": 1771125270550,
+  "num_comments": 0
+}
