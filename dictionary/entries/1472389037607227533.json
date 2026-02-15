@@ -10,5 +10,7 @@
   "statusMessageID": "1472389038723043390",
   "updatedAt": 1771125578366,
   "references": [],
-  "referencedBy": []
+  "referencedBy": [
+    "IOPORT001"
+  ]
 }

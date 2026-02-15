@@ -1,0 +1,116 @@
+{
+  "id": "1472532157447798988",
+  "name": "WafPortsV2",
+  "code": "IOPORT001",
+  "reservedCodes": [
+    "IOPORT001"
+  ],
+  "pastPostThreadIds": [
+    "1472533176319479910"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383146547740799",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472532157791473764",
+      "name": "WafPortsV2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472532157447798988/1472532157791473764/image.png?ex=6992e9f0&is=69919870&hm=571874a1e3cb21edf8a49f320b1e4cdc586b490f4774b9e0d071d367114f823e&",
+      "timestamp": 1771149424660,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "873944359849066588",
+        "username": "wueffi",
+        "displayName": "Waffle [Wueffi]",
+        "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Isorender of my IO-Ports.",
+      "size": 97815,
+      "canDownload": true,
+      "width": 626,
+      "height": 878,
+      "path": "images/WafPortsV2.png",
+      "hash": "0db0abc4013dbd210f2b3e72f5a6ec43c9f507876d122dd842ac7bb36cab68c7"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472532771611218003",
+      "name": "IOPORT001_WafPortsV2.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472532157447798988/1472532771611218003/WafPortsV2.schem?ex=6992ea83&is=69919903&hm=aed1732fcb9574373777eef2dcc26e2ec4a0c6b64a4341db4e2aa545ac110900&",
+      "timestamp": 1771149570155,
+      "author": {
+        "type": "discord-external",
+        "id": "873944359849066588",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+      },
+      "source": "DirectUpload",
+      "description": "Schematic of my IO-Ports.",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "04442fdd40d7ae47bdcae09de986ca6d43c4f49f9e352deab58ec923b78509ef",
+      "path": "attachments/IOPORT001_WafPortsV2.schem",
+      "size": 10430,
+      "schematic": {
+        "size": "31x29x9",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Seven very sleek (4-wide) single bus IO-ports with a total volume of 3915 Blocks.",
+    "input": "7 8b binary Inputs",
+    "output": "7 8b binary Outputs",
+    "speed": "3rt Read, 6rt Write",
+    "notes": "Control-/Feedback-lines (top to bottom): Data Out, Toggle Write (OFF = Read, ON = Write), Address bit 2, Address bit 1, Address bit 0"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Bus",
+      "id": "1472389037607227533",
+      "url": "https://discord.com/channels/1361854816837435433/1472389037607227533/1472389038723043390",
+      "matches": [
+        "bus"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472533176319479910",
+    "forumId": "1472331484122583040",
+    "continuingMessageIds": [
+      "1472533180723757116"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472533176319479910",
+    "uploadMessageId": "1472533169856188540"
+  },
+  "archivedAt": 1771149664860,
+  "updatedAt": 1771149664860,
+  "num_comments": 0
+}

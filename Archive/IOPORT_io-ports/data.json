@@ -4,6 +4,12 @@
   "code": "IOPORT",
   "category": "🧩 CPU COMPONENTS",
   "description": "Input and output ports for a CPU.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472532157447798988",
+      "code": "IOPORT001",
+      "path": "IOPORT001_WafPortsV2"
+    }
+  ]
 }
