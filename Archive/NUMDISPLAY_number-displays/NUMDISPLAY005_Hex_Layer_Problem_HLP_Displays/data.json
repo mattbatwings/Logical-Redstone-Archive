@@ -1,0 +1,125 @@
+{
+  "id": "1472329248516604019",
+  "name": "Hex Layer Problem (HLP) Displays",
+  "code": "NUMDISPLAY005",
+  "reservedCodes": [
+    "NUMDISPLAY005"
+  ],
+  "pastPostThreadIds": [
+    "1472416236989317202"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Aminotreal"
+    },
+    {
+      "type": "unknown",
+      "username": "Powsi"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383105225719920",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383105225719919",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329248869191854",
+      "name": "hlp_displays.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329248516604019/1472329248869191854/hlp_displays.png?ex=69922cf7&is=6990db77&hm=6e26cf8319decfa5179764dad3f93831f273b404ac6f5c8111be04d27561377c&",
+      "timestamp": 1771101047401,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 159869,
+      "canDownload": true,
+      "width": 1200,
+      "height": 500,
+      "path": "images/hlp_displays.png",
+      "hash": "e5fedd9d87d6d19c00df7dceed2125f3c87aa614f1650d03aa4a287c845dc12a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329249128976384",
+      "name": "NUMDISPLAY005_hlp_displays.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329248516604019/1472329249128976384/hlp_displays.schem?ex=69922cf7&is=6990db77&hm=9a05933835251996549f8f36319a1c005e6afc765e03c6164c31428c817c0b57&",
+      "timestamp": 1771101047401,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7951,
+      "canDownload": true,
+      "hash": "04aed3ce69f176e690a67cb752fab24966a351f0eda0c8797168ce976abdba3f",
+      "path": "attachments/NUMDISPLAY005_hlp_displays.schem",
+      "schematic": {
+        "size": "37x8x43",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Three incredible HLP displays, all stackable every 4x6 blocks. One is hex, one is BCD, and one is unordered BCD."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472416236989317202",
+    "forumId": "1472329280129204314",
+    "continuingMessageIds": [
+      "1472416241896526039"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472416236989317202",
+    "uploadMessageId": "1472416233101070368"
+  },
+  "archivedAt": 1771121784682,
+  "updatedAt": 1771121784682,
+  "num_comments": 0
+}
