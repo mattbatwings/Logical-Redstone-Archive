@@ -1,0 +1,101 @@
+{
+  "id": "1472332102128242981",
+  "name": "Modern Selector Panel",
+  "code": "INTERFACE001",
+  "reservedCodes": [
+    "INTERFACE001"
+  ],
+  "pastPostThreadIds": [
+    "1472385072261763346"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "407545330679152641",
+      "username": "craftymasterman",
+      "displayName": "CraftyMasterman",
+      "iconURL": "https://cdn.discordapp.com/avatars/407545330679152641/bdecd4cc7f0f918e3f277c8051598806.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383139534995697",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383139534995696",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472332103701237820",
+      "name": "modern_selector.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472332102128242981/1472332103701237820/modern_selector.png?ex=69922fa0&is=6990de20&hm=74d9e2296bae80c3b520cd600706319cd012f334377f531def3a11a5187be9f4&",
+      "timestamp": 1771101727755,
+      "author": {
+        "type": "discord-external",
+        "id": "1472332077662863554",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472332077662863554/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 84234,
+      "canDownload": true,
+      "width": 694,
+      "height": 710,
+      "path": "images/modern_selector.png",
+      "hash": "57495d0c92026517a78b7412ca441be1751ad66f24f463576a43d58ae5ae684f"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472332102618845184",
+      "name": "INTERFACE001_modern_selector.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472332102128242981/1472332102618845184/modern_selector.schem?ex=69922f9f&is=6990de1f&hm=b1d48d597e7a8b87f5606212b2d4a5e5f66122804cbc41d809c5e464efc1296f&",
+      "timestamp": 1771101727755,
+      "author": {
+        "type": "discord-external",
+        "id": "1472332077662863554",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472332077662863554/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 619,
+      "canDownload": true,
+      "hash": "a78e2eca32fbbba7b89179ef5d619fd08a166712f47753056d409f7e0432e74d",
+      "path": "attachments/INTERFACE001_modern_selector.schem"
+    }
+  ],
+  "records": {
+    "description": "A modern, 1 wide design for a selector panel using copper bulbs."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472385072261763346",
+    "forumId": "1472330876703473869",
+    "continuingMessageIds": [
+      "1472385076431028315"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472385072261763346",
+    "uploadMessageId": "1472385066968682589"
+  },
+  "archivedAt": 1771114355080,
+  "updatedAt": 1771114355080,
+  "num_comments": 0
+}
