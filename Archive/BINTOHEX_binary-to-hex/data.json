@@ -4,6 +4,12 @@
   "code": "BINTOHEX",
   "category": "💱 CONVERSION",
   "description": "Devices that convert binary to hexadecimal.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329704739569838",
+      "code": "BINTOHEX001",
+      "path": "BINTOHEX001_Small_Binary_to_Hex"
+    }
+  ]
 }
