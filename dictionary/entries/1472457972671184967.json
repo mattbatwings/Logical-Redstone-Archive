@@ -1,15 +1,24 @@
 {
   "id": "1472457972671184967",
   "terms": [
-    "MSB",
-    "LSB"
+    "MSB"
   ],
-  "definition": "MSB: The most significant bit, the bit that has the most value in a binary value\n\nLSB: The least significant bit, the bit that has the least value in a binary value",
+  "definition": "MSB: The most significant bit, the bit that has the most value in a binary value, also sometimes known as the sign bit in twos complement, and can be used for flags in an ALU, typically called \"negative\" or \"positive\"",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472457972671184967",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472457972671184967/1472457973522501653",
   "status": "PENDING",
-  "updatedAt": 1771131737709,
-  "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472457973522501653"
+  "statusMessageID": "1472457973522501653",
+  "updatedAt": 1771166027320,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Twos Complement",
+      "id": "1472379271392530514",
+      "url": "https://discord.com/channels/1361854816837435433/1472379271392530514/1472379272248295481",
+      "matches": [
+        "twos complement"
+      ]
+    }
+  ],
+  "referencedBy": []
 }
