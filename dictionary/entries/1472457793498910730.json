@@ -1,0 +1,25 @@
+{
+  "id": "1472457793498910730",
+  "terms": [
+    "Accumulator based architecture",
+    "1op architecture"
+  ],
+  "definition": "A form of CPU architecture where an accumulator and single read register file are used. This allows instructions to fit in a much smaller space (as little as 8 bits for an 8 bit CPU) at the cost of more instructions. It can also allow for a faster clock speed.\n\nIn a typical ALU operation, the first 4 bits are the opcode, and the next 4 bits are the register to operate on. For example, doing \"add r5\" does accumulator += r5. Instructions are also needed to swap the value in the accumulator with the register.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472457793498910730",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472457793498910730/1472457794467926177",
+  "status": "PENDING",
+  "updatedAt": 1771131694970,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Register file",
+      "id": "1472388697826656417",
+      "url": "https://discord.com/channels/1361854816837435433/1472388697826656417/1472388698602737674",
+      "matches": [
+        "register file"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472457794467926177"
+}
