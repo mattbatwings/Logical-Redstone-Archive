@@ -4,7 +4,7 @@
   "code": "NUMDISPLAY",
   "category": "📺 DISPLAYS",
   "description": "Devices that display numbers.",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1472329269358104786",
@@ -35,6 +35,11 @@
       "id": "1472329244070772928",
       "code": "NUMDISPLAY006",
       "path": "NUMDISPLAY006_Stackable_7-segment_Counter"
+    },
+    {
+      "id": "1472329238119186621",
+      "code": "NUMDISPLAY007",
+      "path": "NUMDISPLAY007_8bit_to_7seg_with_2s_comp_switch"
     }
   ]
 }

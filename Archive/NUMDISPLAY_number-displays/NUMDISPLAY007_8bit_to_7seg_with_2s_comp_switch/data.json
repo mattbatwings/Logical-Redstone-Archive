@@ -1,0 +1,114 @@
+{
+  "id": "1472329238119186621",
+  "name": "8bit to 7seg (with 2s comp switch)",
+  "code": "NUMDISPLAY007",
+  "reservedCodes": [
+    "NUMDISPLAY007"
+  ],
+  "pastPostThreadIds": [
+    "1472416778675163211"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Penscii"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383105225719919",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383105225719920",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329239045996544",
+      "name": "8bit_display_with_switch.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329238119186621/1472329239045996544/8bit_display_with_switch.png?ex=69922cf5&is=6990db75&hm=13fd61e7fb4dc34a4d5ba396ffd1046940a82d477a544296e92cb892bba70ef7&",
+      "timestamp": 1771101044922,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 270014,
+      "canDownload": true,
+      "width": 1137,
+      "height": 617,
+      "path": "images/8bit_display_with_switch.png",
+      "hash": "68c6a650c07b1cd12f627ce3073d056b39d85ab682565d7571e56d91be456775"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329238702067936",
+      "name": "NUMDISPLAY007_8bit_display_with_switch.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329238119186621/1472329238702067936/8bit_display_with_switch.schem?ex=69922cf5&is=6990db75&hm=5409436c92ecba2c52a24dab0e4ba5aa2b9b03ac3f25c4394023d0d47ff38a75&",
+      "timestamp": 1771101044922,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6600,
+      "canDownload": true,
+      "hash": "f20da51471743a891cb74241a592905e9ae712ac0f5005e751393c69d34cfd2d",
+      "path": "attachments/NUMDISPLAY007_8bit_display_with_switch.schem",
+      "schematic": {
+        "size": "17x8x34",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A display for showing any 8 bit number.",
+    "input": "8b number, Lever",
+    "notes": "Use the switch on the side to flip between positive integer (0 - 255) and 2s comp (-128 - 127)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Twos Complement",
+      "id": "1472379271392530514",
+      "url": "https://discord.com/channels/1361854816837435433/1472379271392530514/1472379272248295481",
+      "matches": [
+        "2s comp"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472416778675163211",
+    "forumId": "1472329280129204314",
+    "continuingMessageIds": [
+      "1472416782479265856"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472416778675163211",
+    "uploadMessageId": "1472416772547416185"
+  },
+  "archivedAt": 1771121913781,
+  "updatedAt": 1771121913781,
+  "num_comments": 0
+}
