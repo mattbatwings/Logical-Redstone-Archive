@@ -13,9 +13,9 @@
   "definition": "**BSH / Barrel Shifter**: A device capable of shifting a binary value by any number of bits left or right, which allows a processor to quickly multiply or divide numbers by powers of 2.\n\n**Logical Right Shift**: Where the bits are shifted to the right, without any extra modifications. I.e. 11000000 shifted 2 to the right becomes 00110000. Sometimes referred to as an unsigned right shift.\n\n**Arithmetic Right Shift**: Where the bits are shifted to the right, however, instead of unconditionally adding 0s to the left of the shifted number, if the initial number was negative, add 1s to the left.\nExamples: Shifting 0110 one to the right is the same as a logical shift: 0011, however shifting 1100 one to the right becomes 1110, since the original number was negative. AKA signed right shift\n\n**Left shift**: Shifts a number to the left, multiplying it by a power of 2. 0011 shifted left by 2 is 1100.\n\nLeft and right shift symbols respectively: <<,  >>",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472456321486819338",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472456321486819338/1472456323147759700",
-  "status": "PENDING",
+  "status": "APPROVED",
   "statusMessageID": "1472456323147759700",
-  "updatedAt": 1771131493975,
+  "updatedAt": 1771184534034,
   "references": [],
   "referencedBy": []
 }
