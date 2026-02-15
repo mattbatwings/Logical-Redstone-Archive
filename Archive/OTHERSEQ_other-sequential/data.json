@@ -4,6 +4,12 @@
   "code": "OTHERSEQ",
   "category": "🕐 SEQUENTIAL BLOCKS",
   "description": "Devices that perform other sequential functions.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329158062379119",
+      "code": "OTHERSEQ001",
+      "path": "OTHERSEQ001_8-bit_Manual_Accumulator"
+    }
+  ]
 }

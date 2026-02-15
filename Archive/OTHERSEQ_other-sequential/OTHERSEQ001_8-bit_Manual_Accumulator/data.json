@@ -1,0 +1,107 @@
+{
+  "id": "1472329158062379119",
+  "name": "8-bit Manual Accumulator",
+  "code": "OTHERSEQ001",
+  "reservedCodes": [
+    "OTHERSEQ001"
+  ],
+  "pastPostThreadIds": [
+    "1472418022231642244"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383103463854139",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383103463854140",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329159048036353",
+      "name": "8bit_accumulator.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329158062379119/1472329159048036353/8bit_accumulator.png?ex=69922ce2&is=6990db62&hm=03c1c7d716a30da6fef526ae82f51fc162c9fd9ee9ebbb6333bf28ab4e175c72&",
+      "timestamp": 1771101025835,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329145781452800",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329145781452800/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 226232,
+      "canDownload": true,
+      "width": 574,
+      "height": 778,
+      "path": "images/8bit_accumulator.png",
+      "hash": "c8885df540fd9f41767be64141d1195091fcfe5740b4096decd0a9e23a189c89"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329158418759784",
+      "name": "OTHERSEQ001_8bit_accumulator.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329158062379119/1472329158418759784/8bit_accumulator.schem?ex=69922ce1&is=6990db61&hm=121c6e8904f08d35604e2f5128542ab12ceb111f8e783d4ea2d4b9bca31b81b9&",
+      "timestamp": 1771101025835,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329145781452800",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329145781452800/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1864,
+      "canDownload": true,
+      "hash": "3ec36c743927e5c42b8de2ad52281521ba2f4cfdfd934ff2c7362a8e28c27645",
+      "path": "attachments/OTHERSEQ001_8bit_accumulator.schem",
+      "schematic": {
+        "size": "11x18x9",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Adds a number to the total using an adder and a register.",
+    "input": "8b number, Add button",
+    "output": "8b total"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472418022231642244",
+    "forumId": "1472329168116256841",
+    "continuingMessageIds": [
+      "1472418026170224660"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472418022231642244",
+    "uploadMessageId": "1472418012752777310"
+  },
+  "archivedAt": 1771122209662,
+  "updatedAt": 1771122209662,
+  "num_comments": 0
+}
