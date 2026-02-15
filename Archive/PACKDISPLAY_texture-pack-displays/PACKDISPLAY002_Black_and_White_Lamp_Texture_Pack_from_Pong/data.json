@@ -1,0 +1,81 @@
+{
+  "id": "1472329381316661462",
+  "name": "Black and White Lamp Texture Pack (from Pong)",
+  "code": "PACKDISPLAY002",
+  "reservedCodes": [
+    "PACKDISPLAY002"
+  ],
+  "pastPostThreadIds": [
+    "1472412521758593075"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383111412322542",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383111412322541",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "id": "1472329381635555479",
+      "name": "PACKDISPLAY002_Pong_Pack.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1472329381316661462/1472329381635555479/Pong_Pack.zip?ex=69922d17&is=6990db97&hm=c1b3cd47ceae5b60dc190b2e5c66a0c2f93831184e23f1eb1eb5905fa1ffc56d&",
+      "timestamp": 1771101079063,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329377197850665",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329377197850665/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 15357,
+      "canDownload": true,
+      "hash": "9c8938754641364f56f732c8aa5c48214708c5feab45aebf48601f9ac546fdab",
+      "path": "attachments/PACKDISPLAY002_Pong_Pack.zip"
+    }
+  ],
+  "records": {
+    "description": "Makes off lamps black and on lamps white.",
+    "input": "",
+    "output": ""
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472412521758593075",
+    "forumId": "1472329731553886301",
+    "continuingMessageIds": [
+      "1472412524015255592"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472412521758593075",
+    "uploadMessageId": "1472412518956666923"
+  },
+  "archivedAt": 1771120899994,
+  "updatedAt": 1771120899994,
+  "num_comments": 0
+}
