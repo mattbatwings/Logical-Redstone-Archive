@@ -1,0 +1,9 @@
+{
+  "id": "1472330051646390365",
+  "name": "binary-to-hex",
+  "code": "BINTOHEX",
+  "category": "💱 CONVERSION",
+  "description": "Devices that convert binary to hexadecimal.",
+  "currentCodeId": 0,
+  "entries": []
+}
