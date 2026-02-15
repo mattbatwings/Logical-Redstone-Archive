@@ -1,0 +1,111 @@
+{
+  "id": "1472331790273216604",
+  "name": "Bubble Sorter",
+  "code": "SORT002",
+  "reservedCodes": [
+    "SORT002"
+  ],
+  "pastPostThreadIds": [
+    "1472398370374029537"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "oscar91"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383136225689620",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383136506712247",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331790986383657",
+      "name": "bubble_sorter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331790273216604/1472331790986383657/bubble_sorter.png?ex=69922f55&is=6990ddd5&hm=142e6cb0581ece3328d7227e62ff71829e44369ab8eaffb13e4c815623a98db1&",
+      "timestamp": 1771101653403,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331777577058324",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331777577058324/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 124163,
+      "canDownload": true,
+      "width": 1081,
+      "height": 260,
+      "path": "images/bubble_sorter.png",
+      "hash": "663c30fedb99bcefb7deded6bbec4ad30fbe6488f99ac26c99e18bc994af9b01"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331790453706814",
+      "name": "SORT002_bubble_sorter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331790273216604/1472331790453706814/bubble_sorter.schem?ex=69922f55&is=6990ddd5&hm=5c66d1c7840b83aadb1e69bd2eb7fcbef0eb1b30193bff1b582257c576460e3e&",
+      "timestamp": 1771101653403,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331777577058324",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331777577058324/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2637,
+      "canDownload": true,
+      "hash": "87e55093b8204557b27efdca28f3ac93c8cb5c52c536cd0c253a662ac4650763",
+      "path": "attachments/SORT002_bubble_sorter.schem"
+    }
+  ],
+  "records": {
+    "description": "Uses \"Bubble Sort\" to sort 8 hex numbers.",
+    "input": "8 hex numbers",
+    "output": "8 hex numbers",
+    "speed": "17 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472398370374029537",
+    "forumId": "1472330754854883398",
+    "continuingMessageIds": [
+      "1472398374094245940"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472398370374029537",
+    "uploadMessageId": "1472398365361832038"
+  },
+  "archivedAt": 1771117525215,
+  "updatedAt": 1771117525215,
+  "num_comments": 0
+}

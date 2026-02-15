@@ -13,6 +13,7 @@
   "references": [],
   "referencedBy": [
     "INTERFACE004",
-    "SORT001"
+    "SORT001",
+    "SORT002"
   ]
 }
