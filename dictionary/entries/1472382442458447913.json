@@ -11,9 +11,9 @@
   "definition": "High speed memory in a device strategically used to reduce read and write times by only storing a part of the memory at once.\n\nD-cache: Used to store data from the RAM\nI-cache or P-cache: Used to store instructions for a computing unit\n\nLevels of cache: Different levels of cache: L1 is usually built into a CPU or GPU, directly connecting to the registers or sometimes the ALU. L2 connects swaps data in and out of L1, and is larger than L1.\n\nCache miss: When a processor attempts to retrieve data from the cache however the data requested is not found in the cache\n\nCache hit: The opposite of cache miss: The data requested is found in the cache",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472382442458447913",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
-  "status": "PENDING",
+  "status": "APPROVED",
   "statusMessageID": "1472382443175547060",
-  "updatedAt": 1771113785159,
+  "updatedAt": 1771114245113,
   "references": [],
   "referencedBy": []
 }
