@@ -1,0 +1,24 @@
+{
+  "id": "1472458903580311646",
+  "terms": [
+    "D-Latch"
+  ],
+  "definition": "A latch with two inputs: One for data and one for clock.\n\nWhen clock is pulsed, the state of the latch is set to the data.\n\nVery commonly implemented with a locked repeater and is used in registers and register files.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472458903580311646",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472458903580311646/1472458904158863456",
+  "status": "PENDING",
+  "updatedAt": 1771131959645,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Register file",
+      "id": "1472388697826656417",
+      "url": "https://discord.com/channels/1361854816837435433/1472388697826656417/1472388698602737674",
+      "matches": [
+        "register file"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472458904158863456"
+}
