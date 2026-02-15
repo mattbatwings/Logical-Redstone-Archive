@@ -1,0 +1,105 @@
+{
+  "id": "1472329189351751934",
+  "name": "3x5 Display Module",
+  "code": "DISMODULE004",
+  "reservedCodes": [
+    "DISMODULE004"
+  ],
+  "pastPostThreadIds": [
+    "1472417759399776308"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383106643263545",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383106643263544",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329189980901467",
+      "name": "3x5_module.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329189351751934/1472329189980901467/3x5_module.png?ex=69922ce9&is=6990db69&hm=0c494e4315af22a3ed85f6a8508bec283c8009e688f2224938fb8dc7f391ad80&",
+      "timestamp": 1771101033295,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329184335630448",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329184335630448/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 182690,
+      "canDownload": true,
+      "width": 632,
+      "height": 694,
+      "path": "images/3x5_module.png",
+      "hash": "49a79bccf3e862ae759489aac7ecacb7b244f1df86fbfbef5d8dff7bd03dfad8"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329189649813565",
+      "name": "DISMODULE004_3x5_module.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329189351751934/1472329189649813565/3x5_module.schem?ex=69922ce9&is=6990db69&hm=f43f8862a781824b3955b2e4d908ee58e8cca4094cc4d910994947a086586e54&",
+      "timestamp": 1771101033295,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329184335630448",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329184335630448/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1092,
+      "canDownload": true,
+      "hash": "6fc6ca50c373b0f74d5c903f819c637a02be7455ca8884400fdcce433cdd9cb5",
+      "path": "attachments/DISMODULE004_3x5_module.schem",
+      "schematic": {
+        "size": "5x10x11",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Wiring to display any pattern on a 1x1 density 3x5 display."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472417759399776308",
+    "forumId": "1472329335309471776",
+    "continuingMessageIds": [
+      "1472417764286271599"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472417759399776308",
+    "uploadMessageId": "1472417752085037099"
+  },
+  "archivedAt": 1771122147608,
+  "updatedAt": 1771122147608,
+  "num_comments": 0
+}

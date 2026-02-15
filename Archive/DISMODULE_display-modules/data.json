@@ -4,7 +4,7 @@
   "code": "DISMODULE",
   "category": "📺 DISPLAYS",
   "description": "Modules for the final wiring part of displays.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1472329204128551002",
@@ -20,6 +20,11 @@
       "id": "1472329194892558478",
       "code": "DISMODULE003",
       "path": "DISMODULE003_Small_7seg_Display_Module"
+    },
+    {
+      "id": "1472329189351751934",
+      "code": "DISMODULE004",
+      "path": "DISMODULE004_3x5_Display_Module"
     }
   ]
 }
