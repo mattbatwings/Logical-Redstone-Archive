@@ -1,0 +1,114 @@
+{
+  "id": "1472331480507351203",
+  "name": "Subset Selector (from 2048)",
+  "code": "RANDOM001",
+  "reservedCodes": [
+    "RANDOM001"
+  ],
+  "pastPostThreadIds": [
+    "1472398216610844844"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383134480859375",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383134854156371",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331481580830782",
+      "name": "subset_selector.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331480507351203/1472331481580830782/subset_selector.png?ex=69922f0b&is=6990dd8b&hm=447cd4f9896b8cc04fa8a12b1dc86a5c106ffc4e6ae9c2234d1e56e0fb812f4d&",
+      "timestamp": 1771101579549,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331474870079570",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331474870079570/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 259921,
+      "canDownload": true,
+      "width": 1200,
+      "height": 625,
+      "path": "images/subset_selector.png",
+      "hash": "1486667873db2a35a72cf2d43b76d7af18562820016ae4f4fde893c69bbccc47"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331481274650624",
+      "name": "RANDOM001_subset_selector.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331480507351203/1472331481274650624/subset_selector.schem?ex=69922f0b&is=6990dd8b&hm=529180736d74318718cfd048b9b1fad25dda9a9d879f47a5b60f659117a25658&",
+      "timestamp": 1771101579549,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331474870079570",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331474870079570/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2505,
+      "canDownload": true,
+      "hash": "f1353313cd7c13be54f3d78f677512f8e60e2a1457a58ef1358955a39613f514",
+      "path": "attachments/RANDOM001_subset_selector.schem"
+    }
+  ],
+  "records": {
+    "description": "Given any subset of 4 inputs, this chooses a random input from that subset",
+    "input": "4 bits. Press button to start",
+    "output": "4b one-hot (pulsed)",
+    "notes": "Requires /gamerule doTileDrops true"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "One-hot",
+      "id": "1472379322797920317",
+      "url": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
+      "matches": [
+        "one-hot"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472398216610844844",
+    "forumId": "1472330671040237599",
+    "continuingMessageIds": [
+      "1472398221132169419"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472398216610844844",
+    "uploadMessageId": "1472398212647354399"
+  },
+  "archivedAt": 1771117488296,
+  "updatedAt": 1771117488296,
+  "num_comments": 0
+}
