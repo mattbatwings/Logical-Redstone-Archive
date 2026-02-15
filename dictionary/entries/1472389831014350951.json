@@ -7,8 +7,9 @@
   "definition": "A form of memory which searches several registers for a specific value, and returns the location of that value.\ni.e. if a CAM holds the values 5, 4, 9 and 6, an input of \"4\" will give an output corresponding to the second input.\n\nUse case: Finding which cache line holds the data needed",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472389831014350951",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472389831014350951/1472389832570310761",
-  "status": "PENDING",
-  "updatedAt": 1771115491576,
+  "status": "APPROVED",
+  "statusMessageID": "1472389832570310761",
+  "updatedAt": 1771125590858,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -20,6 +21,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1472389832570310761"
+  "referencedBy": []
 }
