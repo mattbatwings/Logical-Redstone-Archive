@@ -1,0 +1,9 @@
+{
+  "id": "1472328867602628849",
+  "name": "other-combinational",
+  "code": "OTHERCOMB",
+  "category": "🔨 COMBINATIONAL BLOCKS",
+  "description": "Devices that perform other combinational functions.",
+  "currentCodeId": 0,
+  "entries": []
+}
