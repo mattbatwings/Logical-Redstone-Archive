@@ -1,0 +1,132 @@
+{
+  "id": "1472637035029467387",
+  "name": "2t/port 3-wide CAM",
+  "code": "OTHERCOMB010",
+  "reservedCodes": [
+    "OTHERCOMB010"
+  ],
+  "pastPostThreadIds": [
+    "1472693123351187586"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1192922842673717318",
+      "username": "rcs_33_91379",
+      "displayName": "RCS_33",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1472383095884746819"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472637035272732825",
+      "name": "CAM.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472637035029467387/1472637035272732825/CAM.png?ex=69934b9d&is=6991fa1d&hm=3d14204fc9f375a77ca99dc236f64e90d3d411e2ab21b84c491375967d7e9380&",
+      "timestamp": 1771174429424,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 173940,
+      "canDownload": true,
+      "width": 759,
+      "height": 914,
+      "path": "images/CAM.png",
+      "hash": "85c65d3cd1b12560c39c888bd03b80bcb22383a87b330d65509cd27fb5405e60"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472637035725586627",
+      "name": "OTHERCOMB010_CAM.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472637035029467387/1472637035725586627/CAM.schem?ex=69934b9d&is=6991fa1d&hm=cbd34c191c462430b51e9717216dfad24a5a1b66753220cf708f403fab846bfa&",
+      "timestamp": 1771174429424,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 27376,
+      "canDownload": true,
+      "hash": "dde75a4de79c8791deab7aa2a5aaf7dfb9c12005faa7441feb0ed105353b8a0f",
+      "path": "attachments/OTHERCOMB010_CAM.schem",
+      "schematic": {
+        "size": "39x37x33",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Description: multi-ported CAM. compares every element in some Set with every other element in another Set and outputs a binary hit Matrix\n\nInput: 2 Sets of Numbers, call them A(of size N) and B(of size K)\nOutput: N x K Binary bit Matrix where every element(1 bit) at index {i,j} specifes if element i in A and j in B are equal.\n\nSpeed:\n1) Speed of A: 2t per K\n2) Speed of B: 1t per N/5\n\nSize: (ceil of fraction)\nx = 3-wide tileable per N\nz = 9-wide tileable per K\ny = 2*bitwidth+2*(bitwidth/8)\n\nUse Cases:\n- Useful for Caches, Ram etc. For example, you could swap cache lines without halting the CPU since you can read/write in parallel through ports\n\nNote:\n- properbly optimal in time, but idk about size. Anyway, properbly good enough for everything you ever need\n- normally, youd connect your Memory to compare against in A and the values you want to search with in B\n\nSchematic Content:\n16-bit\nN = 10\nK = 4"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Content Addressable Memory",
+      "id": "1472389831014350951",
+      "url": "https://discord.com/channels/1361854816837435433/1472389831014350951/1472389832570310761",
+      "matches": [
+        "CAM"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "Cache",
+        "cache"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472693123351187586",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472693127201558589"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472693123351187586",
+    "uploadMessageId": "1472693113527992361"
+  },
+  "archivedAt": 1771187797425,
+  "updatedAt": 1771187797425,
+  "num_comments": 0
+}

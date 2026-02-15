@@ -4,7 +4,7 @@
   "code": "OTHERCOMB",
   "category": "🔨 COMBINATIONAL BLOCKS",
   "description": "Devices that perform other combinational functions.",
-  "currentCodeId": 9,
+  "currentCodeId": 10,
   "entries": [
     {
       "id": "1472328901517770888",
@@ -50,6 +50,11 @@
       "id": "1472651299618295838",
       "code": "OTHERCOMB009",
       "path": "OTHERCOMB009_2t_torchless_incrementor_8_bit_FAST"
+    },
+    {
+      "id": "1472637035029467387",
+      "code": "OTHERCOMB010",
+      "path": "OTHERCOMB010_2tport_3-wide_CAM"
     }
   ]
 }
