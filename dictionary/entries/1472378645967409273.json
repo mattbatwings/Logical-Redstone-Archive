@@ -10,5 +10,7 @@
   "statusMessageID": "1472378647146139820",
   "updatedAt": 1771113004059,
   "references": [],
-  "referencedBy": []
+  "referencedBy": [
+    "BINTOBCD001"
+  ]
 }

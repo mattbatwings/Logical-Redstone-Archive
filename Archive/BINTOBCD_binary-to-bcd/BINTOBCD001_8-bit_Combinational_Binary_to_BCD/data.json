@@ -1,0 +1,117 @@
+{
+  "id": "1472329898172485652",
+  "name": "8-bit Combinational Binary to BCD",
+  "code": "BINTOBCD001",
+  "reservedCodes": [
+    "BINTOBCD001"
+  ],
+  "pastPostThreadIds": [
+    "1472406154553327722"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383124104151279",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383124104151280",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329898650763385",
+      "name": "8bit_comb_binary_to_bcd.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329898172485652/1472329898650763385/8bit_comb_binary_to_bcd.png?ex=69922d92&is=6990dc12&hm=0aa3df9ad4eecbe6c187c47088822262d76d32eed174f9840c840a82331b9fa6&",
+      "timestamp": 1771101202291,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329894099947701",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329894099947701/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 227554,
+      "canDownload": true,
+      "width": 895,
+      "height": 549,
+      "path": "images/8bit_comb_binary_to_bcd.png",
+      "hash": "e2f4d11caa813f3270a30d48ad27b1559ddacbc99db3b0b0de6c537146b7ff4e"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329898327539743",
+      "name": "BINTOBCD001_8bit_comb_binary_to_bcd.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329898172485652/1472329898327539743/8bit_comb_binary_to_bcd.schem?ex=69922d92&is=6990dc12&hm=8ad88d9e9f0adb0248a170f891039134f6eacf7b5546da505d77a00ec8e9ebf5&",
+      "timestamp": 1771101202291,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329894099947701",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329894099947701/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1944,
+      "canDownload": true,
+      "hash": "14c1562a70afccc31588f931aa47dc97195ef40f4984e0470fbcc40b4d5b8047",
+      "path": "attachments/BINTOBCD001_8bit_comb_binary_to_bcd.schem",
+      "schematic": {
+        "size": "19x19x49",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts any 8 bit number to its BCD form.",
+    "input": "8b number",
+    "output": "3 BCD digits"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406154553327722",
+    "forumId": "1472330124052398243",
+    "continuingMessageIds": [
+      "1472406159620177920"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406154553327722",
+    "uploadMessageId": "1472406145351028901"
+  },
+  "archivedAt": 1771119380128,
+  "updatedAt": 1771119380128,
+  "num_comments": 0
+}
