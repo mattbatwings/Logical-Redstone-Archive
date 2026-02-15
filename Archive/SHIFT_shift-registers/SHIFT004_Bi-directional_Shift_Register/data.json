@@ -1,0 +1,95 @@
+{
+  "id": "1472329100323721368",
+  "name": "Bi-directional Shift Register",
+  "code": "SHIFT004",
+  "reservedCodes": [
+    "SHIFT004"
+  ],
+  "pastPostThreadIds": [
+    "1472419495921455297"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383101924544569",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329100902404280",
+      "name": "bidirectional_shift_reg_pistons.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329100323721368/1472329100902404280/bidirectional_shift_reg_pistons.png?ex=69922cd4&is=6990db54&hm=703c6eb888e07d4eda59c9495fea858aaf89f85d7efd31e249d4416023aef18d&",
+      "timestamp": 1771101012069,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329095034437674",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329095034437674/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 134238,
+      "canDownload": true,
+      "width": 866,
+      "height": 701,
+      "path": "images/bidirectional_shift_reg_pistons.png",
+      "hash": "22271c42a6d811711d2bc6cc8c1f59113b69df1e380c44178707c07c6a50ac77"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329101128892446",
+      "name": "SHIFT004_bidirectional_shift_reg_pistons.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329100323721368/1472329101128892446/bidirectional_shift_reg_pistons.schem?ex=69922cd4&is=6990db54&hm=5032321a09ce62de06ed76918666476bc6861ce3492621392315e0ec9a60e806&",
+      "timestamp": 1771101012069,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329095034437674",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329095034437674/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1290,
+      "canDownload": true,
+      "hash": "940fb554c83401980415c679ba1c9ab4926a389221c375d4c4671aff768acaa9",
+      "path": "attachments/SHIFT004_bidirectional_shift_reg_pistons.schem",
+      "schematic": {
+        "size": "13x11x22",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A bi-directional shift register using pistons.",
+    "input": "Shift left button, shift right button",
+    "output": "8b number"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472419495921455297",
+    "forumId": "1472329117041954866",
+    "continuingMessageIds": [
+      "1472419500254036124"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472419495921455297",
+    "uploadMessageId": "1472419490108276909"
+  },
+  "archivedAt": 1771122562002,
+  "updatedAt": 1771122562002,
+  "num_comments": 0
+}
