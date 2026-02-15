@@ -1,0 +1,122 @@
+{
+  "id": "1472642548962169045",
+  "name": "cancellable priority encoder",
+  "code": "OTHERCOMB013",
+  "reservedCodes": [
+    "OTHERCOMB013"
+  ],
+  "pastPostThreadIds": [
+    "1472693290150137866"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1192922842673717318",
+      "username": "rcs_33_91379",
+      "displayName": "RCS_33",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472642549184204800",
+      "name": "cancelAblePriority.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472642548962169045/1472642549184204800/cancelAblePriority.png?ex=699350c0&is=6991ff40&hm=7004059584c32c3bc1e5b4260c04d9adafb7f9499b464b8490bc0251b63d2b26&",
+      "timestamp": 1771175744048,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 29498,
+      "canDownload": true,
+      "width": 882,
+      "height": 257,
+      "path": "images/cancelAblePriority.png",
+      "hash": "c77ff7c5bfa60af58f49f43eb591602324a5cc622edbeed6251185b2a2f044d5"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472642549763014861",
+      "name": "OTHERCOMB013_cancelPriorityEncoder.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472642548962169045/1472642549763014861/cancelPriorityEncoder.schem?ex=699350c0&is=6991ff40&hm=2837b13767d37c950798d07f798d4d7c2088384c3022d20885e83082a0e1516d&",
+      "timestamp": 1771175744048,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1491,
+      "canDownload": true,
+      "hash": "d02c1c59ae8b7a9174b0058bc855875bd7351868f4dcadc4157b604bdf62819b",
+      "path": "attachments/OTHERCOMB013_cancelPriorityEncoder.schem",
+      "schematic": {
+        "size": "7x6x32",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Description: priority arbiter inspired by CCAs, that can isolate Regions inside the bit vector to not interfere with other regions.\n\nInput:\n1) n-wide bit vector \"I\" representing the elements you want to arbitrate between\n2) n-wide bit vector \"S\" representing the positions to split. \nIf a bit in S at index k is set, it represents that bits 0 to k and k+1 to n in I are behaving like separate priority encoders.\n\nOutput: \nn-wide bit vector with at most 1 set bit per isolated region. If no bit in S is set, it behaves like a normal left/right sided priority encoder\n\nSpeed: (ceil of the fraction)\n1) 1t per k/5 (wire delay)\n2) 2t\n\nSize:\nx = 3-wide tileable per n\nz = 5\ny = 5\n\nUse Cases:\n- useful for lots of nieche stuff, but mainly for forwarding logic(findin the youngest hitting element that is older than some known element)\n- understanding the principle opens up a lot of posibillities for other priority stuff\n\nNotes:\n1) since stacking might be confusing, I marked the region to stack with gold blocks\n1) i *think* the design is optimal in both speed and size\n\nSchematic Contents:\nn = 10"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Stack",
+      "id": "1472390574349750416",
+      "url": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
+      "matches": [
+        "stack"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472693290150137866",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472693294482981064"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472693290150137866",
+    "uploadMessageId": "1472693285360369808"
+  },
+  "archivedAt": 1771187838688,
+  "updatedAt": 1771187838688,
+  "num_comments": 0
+}
