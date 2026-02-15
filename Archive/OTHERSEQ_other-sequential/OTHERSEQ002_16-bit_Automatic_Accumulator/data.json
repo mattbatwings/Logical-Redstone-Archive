@@ -1,0 +1,100 @@
+{
+  "id": "1472329150919610584",
+  "name": "16-bit Automatic Accumulator",
+  "code": "OTHERSEQ002",
+  "reservedCodes": [
+    "OTHERSEQ002"
+  ],
+  "pastPostThreadIds": [
+    "1472418230994993296"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383103463854139",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383103463854140",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329152274104412",
+      "name": "16bit_looping_accumulator.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329150919610584/1472329152274104412/16bit_looping_accumulator.png?ex=69922ce0&is=6990db60&hm=3e83e3c828d83f47b0ddb48c2ac6d7fe26ef0c9b456103547f836e96a51605d7&",
+      "timestamp": 1771101024132,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329145781452800",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329145781452800/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 147062,
+      "canDownload": true,
+      "width": 259,
+      "height": 932,
+      "path": "images/16bit_looping_accumulator.png",
+      "hash": "91c70fc5f6f9d305e794f3760eca4dbe9e805298b15dda7795325c99b12dbc4c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329151443632242",
+      "name": "OTHERSEQ002_16bit_looping_accumulator.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329150919610584/1472329151443632242/16bit_looping_accumulator.schem?ex=69922ce0&is=6990db60&hm=08cc84b643dac9dba0e6d0f3c5c03a6e154b6ccc1b5cd82576a2cd64c435d8cc&",
+      "timestamp": 1771101024132,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329145781452800",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329145781452800/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2671,
+      "canDownload": true,
+      "hash": "53d658cce6b9ae579c93020bcc0aca5c101dbab9b5295551b6cce928a33285b6",
+      "path": "attachments/OTHERSEQ002_16bit_looping_accumulator.schem",
+      "schematic": {
+        "size": "12x34x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Adds a new number to the total every 2 ticks automatically.",
+    "input": "16b number (upside down, 2t pulse)",
+    "output": "16b total (upside down, inverted)",
+    "speed": "every 2 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472418230994993296",
+    "forumId": "1472329168116256841",
+    "continuingMessageIds": [
+      "1472418235659059395"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472418230994993296",
+    "uploadMessageId": "1472418225600991445"
+  },
+  "archivedAt": 1771122260407,
+  "updatedAt": 1771122260407,
+  "num_comments": 0
+}
