@@ -1,0 +1,106 @@
+{
+  "id": "1472329350102650941",
+  "name": "4-function Display",
+  "code": "PIXDISPLAY002",
+  "reservedCodes": [
+    "PIXDISPLAY002"
+  ],
+  "pastPostThreadIds": [
+    "1472413607072497697"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383109885460509",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383109885460510",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329350555631626",
+      "name": "4function_display.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329350102650941/1472329350555631626/4function_display.png?ex=69922d0f&is=6990db8f&hm=c55f3e54d53891de091818c98e5ec0410ad6fb21a6c83ad69f1709a5a42f594f&",
+      "timestamp": 1771101071621,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329335288627314",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329335288627314/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 237464,
+      "canDownload": true,
+      "width": 724,
+      "height": 747,
+      "path": "images/4function_display.png",
+      "hash": "0420508dcf605fa56ccd146aad350bfe8167b0f113ae44f03fb0d94def4dcf48"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329350237126747",
+      "name": "PIXDISPLAY002_4function_display.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329350102650941/1472329350237126747/4function_display.schem?ex=69922d0f&is=6990db8f&hm=4dfcbbc977e33e845beef1efd1dd19413dadde41530a424fa967339c42fcbdd8&",
+      "timestamp": 1771101071621,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329335288627314",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329335288627314/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3561,
+      "canDownload": true,
+      "hash": "14facad0c2af5ab581fded752d9d6cdf9d179ab3c91a07cbaa177fc142af37d9",
+      "path": "attachments/PIXDISPLAY002_4function_display.schem",
+      "schematic": {
+        "size": "20x25x24",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A display with 4 functions - Set specific pixel to 0, Set specific pixel to 1, Set all pixels to 0, and set all pixels to 1.",
+    "input": "3b X, 3b Y, Data, Plot single, Plot all"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472413607072497697",
+    "forumId": "1472329599731105862",
+    "continuingMessageIds": [
+      "1472413611178852382"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472413607072497697",
+    "uploadMessageId": "1472413596041609368"
+  },
+  "archivedAt": 1771121156572,
+  "updatedAt": 1771121156572,
+  "num_comments": 0
+}

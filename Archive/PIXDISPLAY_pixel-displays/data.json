@@ -4,12 +4,17 @@
   "code": "PIXDISPLAY",
   "category": "📺 DISPLAYS",
   "description": "Devices that display any combination of pixels.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1472329355219828786",
       "code": "PIXDISPLAY001",
       "path": "PIXDISPLAY001_Passthrough_Display"
+    },
+    {
+      "id": "1472329350102650941",
+      "code": "PIXDISPLAY002",
+      "path": "PIXDISPLAY002_4-function_Display"
     }
   ]
 }
