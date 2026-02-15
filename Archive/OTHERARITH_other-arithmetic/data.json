@@ -4,7 +4,7 @@
   "code": "OTHERARITH",
   "category": "➕ ARITHMETIC",
   "description": "Devices that perform other arithmetic operations.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472726848822575286",
@@ -15,6 +15,11 @@
       "id": "1472725915409715210",
       "code": "OTHERARITH002",
       "path": "OTHERARITH002_Sine_Lookup_Table"
+    },
+    {
+      "id": "1472732057309413499",
+      "code": "OTHERARITH003",
+      "path": "OTHERARITH003_Tangent_Lookup_Table"
     }
   ]
 }
