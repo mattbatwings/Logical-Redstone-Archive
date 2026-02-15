@@ -6,9 +6,9 @@
   "definition": "The lowest level programming language possible for a specific computer. This can often be translated directly into binary (machine code).",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472391270000492715",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472391270000492715/1472391270923243572",
-  "status": "PENDING",
-  "updatedAt": 1771115834561,
+  "status": "APPROVED",
+  "statusMessageID": "1472391270923243572",
+  "updatedAt": 1771125618556,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472391270923243572"
+  "referencedBy": []
 }
