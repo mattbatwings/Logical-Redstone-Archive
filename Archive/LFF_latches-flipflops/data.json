@@ -1,0 +1,9 @@
+{
+  "id": "1472328937248915517",
+  "name": "latches-flipflops",
+  "code": "LFF",
+  "category": "🕐 SEQUENTIAL BLOCKS",
+  "description": "SR latches, Data latches, and T flip flops.",
+  "currentCodeId": 0,
+  "entries": []
+}
