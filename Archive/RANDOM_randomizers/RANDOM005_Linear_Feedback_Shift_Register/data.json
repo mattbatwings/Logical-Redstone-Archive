@@ -1,0 +1,116 @@
+{
+  "id": "1472463016690847895",
+  "name": "Linear Feedback Shift Register",
+  "code": "RANDOM005",
+  "reservedCodes": [
+    "RANDOM005"
+  ],
+  "pastPostThreadIds": [
+    "1472588062658920611"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383134480859375",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472463017311469630",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472463016690847895/1472463017311469630/image.png?ex=6992a98c&is=6991580c&hm=016ecf12dc33986453f279020f71c958b42efa219828bed4af2b5db677b58aee&",
+      "timestamp": 1771132940219,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Isometric Render",
+      "size": 469421,
+      "canDownload": true,
+      "width": 1200,
+      "height": 800,
+      "path": "images/image.png",
+      "hash": "47e1b123225c899b2128cf573e75ae7c4e03776fecd66bf05e2ffccdf0f16bba"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472463285038350366",
+      "name": "RANDOM005_lfsr_1.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472463016690847895/1472463285038350366/lfsr_1.schem?ex=6992a9cc&is=6991584c&hm=dbdd6ff1e3ec7cf10691bf2e3eb02f1d30e9c7fce8551270f62ed0ce255f1356&",
+      "timestamp": 1771133002556,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "7f079f0d2e25950c4d3171e99ce907175d48d980f4c8a4b7e2c99a3702f55edf",
+      "path": "attachments/RANDOM005_lfsr_1.schem",
+      "size": 2526,
+      "schematic": {
+        "size": "19x22x59",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "MCHPRS compatible \"random\" number generator (16 long): Linear Feedback Shift Register",
+    "input": "Randomizer pulse",
+    "output": "8 bit random number",
+    "speed": "6t randomization + reset time",
+    "notes": "Built in pulse shortener. You can also change the randomizer seed by changing the states of the locked repeaters"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "MCHPRS",
+      "id": "1472395046694158458",
+      "url": "https://discord.com/channels/1361854816837435433/1472395046694158458/1472395047566835897",
+      "matches": [
+        "MCHPRS"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472588062658920611",
+    "forumId": "1472330671040237599",
+    "continuingMessageIds": [
+      "1472588067670851758"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472588062658920611",
+    "uploadMessageId": "1472588058766344283"
+  },
+  "archivedAt": 1771162751341,
+  "updatedAt": 1771162751341,
+  "num_comments": 0
+}
