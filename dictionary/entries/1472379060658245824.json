@@ -12,6 +12,7 @@
   "updatedAt": 1771113020489,
   "references": [],
   "referencedBy": [
-    "SQRT001"
+    "SQRT001",
+    "DIVIDE002"
   ]
 }

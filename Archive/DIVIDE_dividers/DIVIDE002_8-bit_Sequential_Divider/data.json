@@ -1,0 +1,117 @@
+{
+  "id": "1472328597195723008",
+  "name": "8-bit Sequential Divider",
+  "code": "DIVIDE002",
+  "reservedCodes": [
+    "DIVIDE002"
+  ],
+  "pastPostThreadIds": [
+    "1472427377463263315"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168811",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383084820168812",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328597770338529",
+      "name": "8bit_divider.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328597195723008/1472328597770338529/8bit_divider.png?ex=69922c5c&is=6990dadc&hm=bbef5931cf6d886fbc9afdb4738336dee834a4cf192bd2e900998aa0c6da3a6d&",
+      "timestamp": 1771100892114,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328583773950114",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328583773950114/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 225978,
+      "canDownload": true,
+      "width": 788,
+      "height": 746,
+      "path": "images/8bit_divider.png",
+      "hash": "9649144de39a029ebb0bdbed76e6772fe31a49a03f752f924b73895afa5c9c75"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328597413953587",
+      "name": "DIVIDE002_8bit_divider.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328597195723008/1472328597413953587/8bit_divider.schem?ex=69922c5c&is=6990dadc&hm=621b15b0932e9deba3026ab294e6cf64c057d54f44884639729fe5a153b55990&",
+      "timestamp": 1771100892114,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328583773950114",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328583773950114/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3861,
+      "canDownload": true,
+      "hash": "cc5d40f7c62e91b76bcef7bccd0b9900aced231c8b7940ce349f9e215117d047",
+      "path": "attachments/DIVIDE002_8bit_divider.schem",
+      "schematic": {
+        "size": "34x48x47",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit sequential divider.",
+    "input": "2 8b numbers, Start button",
+    "output": "8b quotient"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472427377463263315",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1472427381770948791"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472427377463263315",
+    "uploadMessageId": "1472427368248508436"
+  },
+  "archivedAt": 1771124440135,
+  "updatedAt": 1771124440135,
+  "num_comments": 0
+}
