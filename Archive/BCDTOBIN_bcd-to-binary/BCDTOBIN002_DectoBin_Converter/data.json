@@ -1,0 +1,127 @@
+{
+  "id": "1472329996646354944",
+  "name": "DectoBin Converter",
+  "code": "BCDTOBIN002",
+  "reservedCodes": [
+    "BCDTOBIN002"
+  ],
+  "pastPostThreadIds": [
+    "1472406590006104096"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "698322584810553404",
+      "username": "xoliks",
+      "displayName": "Xoliks",
+      "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Stickman"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383125706244308",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383125706244309",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329996864585839",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329996646354944/1472329996864585839/image.png?ex=69922da9&is=6990dc29&hm=c30ab01596c8341b3f81eb14e571903f4dd42a8b623f90db340737ffa0fecc37&",
+      "timestamp": 1771101225769,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329986689208472",
+        "username": "ketari",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329986689208472/301f1aba6ce26dad857eeff5b07f284a.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 191269,
+      "canDownload": true,
+      "width": 916,
+      "height": 863,
+      "path": "images/image.png",
+      "hash": "c19d29f9bacc18d8043c6db1c37ee97f82e6e22472a985290286133998ddf99a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329997132759265",
+      "name": "BCDTOBIN002_DectoBin_Converter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329996646354944/1472329997132759265/DectoBin_Converter.schem?ex=69922da9&is=6990dc29&hm=5753d00b0d49b5ed84d25ccaf2503817b952b7fc961066628287a2f89a59b723&",
+      "timestamp": 1771101225769,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329986689208472",
+        "username": "ketari",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329986689208472/301f1aba6ce26dad857eeff5b07f284a.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5301,
+      "canDownload": true,
+      "hash": "7b3b52636188f72981758db3a1736ef2800ec8af986f813c00cf1bcfcd963f9c",
+      "path": "attachments/BCDTOBIN002_DectoBin_Converter.schem",
+      "schematic": {
+        "size": "25x18x14",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts a Decimal number into Binary",
+    "input": "n digit value as ss on the bottom",
+    "output": "n bit value on the side",
+    "speed": "8(d) + 2rt (d = # of digits in input)",
+    "notes": "Infinitely Expandable (25x4x2 per cell)"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406590006104096",
+    "forumId": "1472330151210516531",
+    "continuingMessageIds": [
+      "1472406593520799929"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406590006104096",
+    "uploadMessageId": "1472406582083190867"
+  },
+  "archivedAt": 1771119484433,
+  "updatedAt": 1771119484433,
+  "num_comments": 0
+}
