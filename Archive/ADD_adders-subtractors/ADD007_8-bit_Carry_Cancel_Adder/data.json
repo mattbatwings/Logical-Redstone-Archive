@@ -1,0 +1,108 @@
+{
+  "id": "1472328034991341731",
+  "name": "8-bit Carry Cancel Adder",
+  "code": "ADD007",
+  "reservedCodes": [
+    "ADD007"
+  ],
+  "pastPostThreadIds": [
+    "1472430895419101369"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383093590720616",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328035557445693",
+      "name": "8bit_cca_matt.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328034991341731/1472328035557445693/8bit_cca_matt.png?ex=69922bd6&is=6990da56&hm=3fd5a4ff672ca0e8c0f085e9ab32643d7338dd482fba4deca129fb87040643e1&",
+      "timestamp": 1771100758074,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 281679,
+      "canDownload": true,
+      "width": 580,
+      "height": 976,
+      "path": "images/8bit_cca_matt.png",
+      "hash": "6125a9e1cbf918eb3e924e532efddc01c69b6eec4be0b9727aac9f30c78e0c4c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328035956035684",
+      "name": "ADD007_8bit_cca_matt.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328034991341731/1472328035956035684/8bit_cca_matt.schem?ex=69922bd6&is=6990da56&hm=4d1494319d747a5feeb04fa643819879663a111a109ae5b9dab3c05df8ea9c06&",
+      "timestamp": 1771100758074,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1025,
+      "canDownload": true,
+      "hash": "e84894ba1b99618251ca6759b95fbdca31dee926eabca2430075e36e4bbba5e1",
+      "path": "attachments/ADD007_8bit_cca_matt.schem",
+      "schematic": {
+        "size": "17x19x4",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A basic, unoptimized carry cancel adder.",
+    "input": "2 8b numbers",
+    "output": "8b sum",
+    "speed": "5 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472430895419101369",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1472430899189780574"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472430895419101369",
+    "uploadMessageId": "1472430887009517702"
+  },
+  "archivedAt": 1771125279393,
+  "updatedAt": 1771125279393,
+  "num_comments": 0
+}
