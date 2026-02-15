@@ -4,12 +4,17 @@
   "code": "SHIFT",
   "category": "🕐 SEQUENTIAL BLOCKS",
   "description": "Devices that store data and shift it.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1472329121836040344",
       "code": "SHIFT001",
       "path": "SHIFT001_Shift_Registers_w_Load_Up__Down_versions"
+    },
+    {
+      "id": "1472329117180629103",
+      "code": "SHIFT002",
+      "path": "SHIFT002_Shift_Registers_Up__Down_versions"
     }
   ]
 }

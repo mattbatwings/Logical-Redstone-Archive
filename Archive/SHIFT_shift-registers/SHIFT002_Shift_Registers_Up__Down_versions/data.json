@@ -1,0 +1,107 @@
+{
+  "id": "1472329117180629103",
+  "name": "Shift Registers (Up & Down versions)",
+  "code": "SHIFT002",
+  "reservedCodes": [
+    "SHIFT002"
+  ],
+  "pastPostThreadIds": [
+    "1472418887638192232"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383101924544569",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383101924544570",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329117650260231",
+      "name": "shift_regs_vertical.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329117180629103/1472329117650260231/shift_regs_vertical.png?ex=69922cd8&is=6990db58&hm=756723f789c47fc09faea2491071da18cb7bfc7ed09a7eb94b60fcb2799f1e96&",
+      "timestamp": 1771101016088,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329095034437674",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329095034437674/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 95881,
+      "canDownload": true,
+      "width": 571,
+      "height": 613,
+      "path": "images/shift_regs_vertical.png",
+      "hash": "f1fe3c051d5c8ea9997b8c8fa4f43886f86088695171ca5bfc2899adcb0787ef"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329117373300767",
+      "name": "SHIFT002_shift_regs_vertical.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329117180629103/1472329117373300767/shift_regs_vertical.schem?ex=69922cd8&is=6990db58&hm=63b24e5419c68d0970813b5a0582e7cd8df994ed96340c38f5f82256e344e47a&",
+      "timestamp": 1771101016088,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329095034437674",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329095034437674/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1314,
+      "canDownload": true,
+      "hash": "e2c972a04b5078e4f526af1b2025f6d34011aca4956f63f6a599139d095872af",
+      "path": "attachments/SHIFT002_shift_regs_vertical.schem",
+      "schematic": {
+        "size": "5x19x24",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A simple upward shift register and downward shift register.",
+    "input": "Shift button",
+    "output": "8b number"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472418887638192232",
+    "forumId": "1472329117041954866",
+    "continuingMessageIds": [
+      "1472418893153960030"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472418887638192232",
+    "uploadMessageId": "1472418878738137220"
+  },
+  "archivedAt": 1771122416313,
+  "updatedAt": 1771122416313,
+  "num_comments": 0
+}
