@@ -1,0 +1,24 @@
+{
+  "id": "1472461327996817620",
+  "terms": [
+    "Queue"
+  ],
+  "definition": "A form of memory where the first input is outputted first (FIFO, First in first out). Usually contrasted with a stack.\n\nFor example, when the numbers 1, 2, 3, 4 are inputted (pushed) in that order, they are then outputted (popped) in that order as well (1, 2, 3, 4)",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472461327996817620",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472461327996817620/1472461328898851050",
+  "status": "PENDING",
+  "updatedAt": 1771132537704,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Stack",
+      "id": "1472390574349750416",
+      "url": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
+      "matches": [
+        "stack"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472461328898851050"
+}
