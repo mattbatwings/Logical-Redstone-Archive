@@ -1,0 +1,78 @@
+{
+  "id": "1472329385183940649",
+  "name": "Color Texture Pack (from ModPunchTree's IRIS)",
+  "code": "PACKDISPLAY001",
+  "reservedCodes": [
+    "PACKDISPLAY001"
+  ],
+  "pastPostThreadIds": [
+    "1472412352136872029"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "ModPunchTree"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383111412322541",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383111412322542",
+      "name": "Recommended"
+    }
+  ],
+  "images": [],
+  "attachments": [
+    {
+      "id": "1472329385548972175",
+      "name": "PACKDISPLAY001_Color_Display_Pack.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1472329385183940649/1472329385548972175/Color_Display_Pack.zip?ex=69922d18&is=6990db98&hm=a340c9c997ff9c3d02b82a652af787c90408dc2abe74d5714ba36ada73b4d3a0&",
+      "timestamp": 1771101079985,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329377197850665",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329377197850665/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 51376,
+      "canDownload": true,
+      "hash": "d21e1fe62bf82f72d77b002b784d4590adbb666fa4ed652d5a1cdf5bec6fd095",
+      "path": "attachments/PACKDISPLAY001_Color_Display_Pack.zip"
+    }
+  ],
+  "records": {
+    "description": "Adds 16 different color faces to redstone dots based on their signal strength (Right click redstone dust). Great for a 2x2 pixel color screen.",
+    "input": "redstone signal strength",
+    "output": "16 different color faces on redstone dots"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472412352136872029",
+    "forumId": "1472329731553886301",
+    "continuingMessageIds": [
+      "1472412354544140549"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472412352136872029",
+    "uploadMessageId": "1472412349917958205"
+  },
+  "archivedAt": 1771120859744,
+  "updatedAt": 1771120859744,
+  "num_comments": 0
+}

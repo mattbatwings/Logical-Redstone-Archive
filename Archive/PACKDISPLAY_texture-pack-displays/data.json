@@ -4,6 +4,12 @@
   "code": "PACKDISPLAY",
   "category": "📺 DISPLAYS",
   "description": "Texture packs used to aid displays.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329385183940649",
+      "code": "PACKDISPLAY001",
+      "path": "PACKDISPLAY001_Color_Texture_Pack_from_ModPunchTrees_IRIS"
+    }
+  ]
 }
