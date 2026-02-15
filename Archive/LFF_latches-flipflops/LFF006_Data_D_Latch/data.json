@@ -1,0 +1,97 @@
+{
+  "id": "1472328947076305091",
+  "name": "Data (D) Latch",
+  "code": "LFF006",
+  "reservedCodes": [
+    "LFF006"
+  ],
+  "pastPostThreadIds": [
+    "1472423141648105544"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383097180786881",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383097180786882",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328947525091338",
+      "name": "dlatch.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328947076305091/1472328947525091338/dlatch.png?ex=69922caf&is=6990db2f&hm=8a05ced5e8b34b4690a1e25e1aae85e8b5eb8b8a64b8ee95da568098e1dc77e3&",
+      "timestamp": 1771100975532,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 134742,
+      "canDownload": true,
+      "width": 1043,
+      "height": 813,
+      "path": "images/dlatch.png",
+      "hash": "d803af24f04e8bcf0158ae1021e1c0635115b0d790441d7b2deb2e66d0285543"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328947206459403",
+      "name": "LFF006_dlatch.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328947076305091/1472328947206459403/dlatch.schem?ex=69922caf&is=6990db2f&hm=66f11d7eccad47fa2256b1df29b8fe36e24d26bcdf5d159a816602499cd3271a&",
+      "timestamp": 1771100975532,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 775,
+      "canDownload": true,
+      "hash": "0663302dfc40ac8c33055d5a43aefe834be4290bdda9baaec6f2ccab238cad54",
+      "path": "attachments/LFF006_dlatch.schem",
+      "schematic": {
+        "size": "8x3x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Saves the current data to the repeater lock whenever \"Clock\" is pressed."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472423141648105544",
+    "forumId": "1472328937248915517",
+    "continuingMessageIds": [
+      "1472423145179713762"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472423141648105544",
+    "uploadMessageId": "1472423137529299038"
+  },
+  "archivedAt": 1771123431727,
+  "updatedAt": 1771123431727,
+  "num_comments": 0
+}
