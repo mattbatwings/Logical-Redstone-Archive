@@ -10,8 +10,8 @@
   "threadURL": "https://discord.com/channels/1361854816837435433/1472712750974238823",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472712750974238823/1472712752421277849",
   "status": "PENDING",
-  "updatedAt": 1771192481575,
+  "statusMessageID": "1472712752421277849",
+  "updatedAt": 1771193848592,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472712752421277849"
+  "referencedBy": []
 }
