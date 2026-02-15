@@ -6,8 +6,9 @@
   "definition": "A latch with two inputs: One for data and one for clock.\n\nWhen clock is pulsed, the state of the latch is set to the data.\n\nVery commonly implemented with a locked repeater and is used in registers and register files.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472458903580311646",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472458903580311646/1472458904158863456",
-  "status": "PENDING",
-  "updatedAt": 1771131959645,
+  "status": "APPROVED",
+  "statusMessageID": "1472458904158863456",
+  "updatedAt": 1771184384234,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -19,6 +20,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1472458904158863456"
+  "referencedBy": []
 }
