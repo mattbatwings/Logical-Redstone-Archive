@@ -1,0 +1,9 @@
+{
+  "id": "1472331730621960202",
+  "name": "roms",
+  "code": "ROM",
+  "category": "🧩 CPU COMPONENTS",
+  "description": "Read Only Memory - Memory used for only reading in a CPU.",
+  "currentCodeId": 0,
+  "entries": []
+}
