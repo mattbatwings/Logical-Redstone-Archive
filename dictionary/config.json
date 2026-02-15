@@ -136,10 +136,11 @@
       "id": "1472390574349750416",
       "terms": [
         "Stack",
-        "Call stack"
+        "Call stack",
+        "LIFO"
       ],
-      "summary": "A form of memory where inputs are stored in a specific order. When a value is requested, the last value inputted is the first value out. (FILO, First in last out)\n\ni.e. if the numbers 1, 2, 3, 4 ar...",
-      "updatedAt": 1771125606183
+      "summary": "A form of memory where inputs are stored in a specific order. When a value is requested, the last value inputted is the first value out. (LIFO, Last in first out)\n\ni.e. if the numbers 1, 2, 3, 4 ar...",
+      "updatedAt": 1771185505696
     },
     {
       "id": "1472390929481728130",
