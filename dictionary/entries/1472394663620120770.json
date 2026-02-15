@@ -8,9 +8,9 @@
   "definition": "Different units of time used in Minecraft redstone.\n\nNormally, the game runs at 20 game ticks per second (this can be changed by lag or using the /tick command). Therefore, a **game tick is generally defined as 1/20th of a second, or 50 milliseconds.**\n\nA redstone tick is two game ticks. This isn't technically defined in the game's code, however many components used in computational redstone have even game tick delays, which makes this unit useful. **A redstone tick is defined as 1/10th of a second, or 100 milliseconds.**\n\nIn the context of computational redstone, when referring to a \"tick,\" you generally refer to redstone ticks.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472394663620120770",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
-  "status": "PENDING",
-  "updatedAt": 1771116643828,
+  "status": "APPROVED",
+  "statusMessageID": "1472394665230729298",
+  "updatedAt": 1771125665944,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472394665230729298"
+  "referencedBy": []
 }
