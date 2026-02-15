@@ -1,0 +1,93 @@
+{
+  "id": "1472331485423075542",
+  "name": "2 way Randomizer",
+  "code": "RANDOM002",
+  "reservedCodes": [
+    "RANDOM002"
+  ],
+  "pastPostThreadIds": [
+    "1472398246973538495"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383134480859375",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383134854156371",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331485905424578",
+      "name": "2way_randomizer.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331485423075542/1472331485905424578/2way_randomizer.png?ex=69922f0c&is=6990dd8c&hm=261b285df1010ba14510debe8ab74ec20e3edca1aa69177595ff251c00f37e23&",
+      "timestamp": 1771101580721,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331474870079570",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331474870079570/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 69713,
+      "canDownload": true,
+      "width": 581,
+      "height": 524,
+      "path": "images/2way_randomizer.png",
+      "hash": "59cc5504af4e43e995d0cf51dd4fcc316ca66815c9a3d4c05031e2bbaf05b152"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331485619949672",
+      "name": "RANDOM002_2way_randomizer.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331485423075542/1472331485619949672/2way_randomizer.schem?ex=69922f0c&is=6990dd8c&hm=4d1669a9950f932da5e9499d1530ebd0f1ca6b7af51cf4af8a59e0353bffb1d4&",
+      "timestamp": 1771101580721,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331474870079570",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331474870079570/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 665,
+      "canDownload": true,
+      "hash": "1d5b59598e08a9c37bbd3a9c0cfa7c41a3c9c3b6f7e2f21e1b781910421ee83e",
+      "path": "attachments/RANDOM002_2way_randomizer.schem"
+    }
+  ],
+  "records": {
+    "description": "Produces either 1 or 2 signal strength upon button press, 50/50 chance."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472398246973538495",
+    "forumId": "1472330671040237599",
+    "continuingMessageIds": [
+      "1472398250861662249"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472398246973538495",
+    "uploadMessageId": "1472398241868939334"
+  },
+  "archivedAt": 1771117495959,
+  "updatedAt": 1771117495959,
+  "num_comments": 0
+}

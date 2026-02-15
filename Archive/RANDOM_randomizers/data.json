@@ -4,12 +4,17 @@
   "code": "RANDOM",
   "category": "🌐 MISCELLANEOUS",
   "description": "Devices that generate random numbers.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1472331480507351203",
       "code": "RANDOM001",
       "path": "RANDOM001_Subset_Selector_from_2048"
+    },
+    {
+      "id": "1472331485423075542",
+      "code": "RANDOM002",
+      "path": "RANDOM002_2_way_Randomizer"
     }
   ]
 }
