@@ -1,0 +1,24 @@
+{
+  "id": "1472688318167908423",
+  "terms": [
+    "Decoder"
+  ],
+  "definition": "The opposite of an encoder: It takes in a coded binary value, such as a memory address, and activates a predetermined output line. A decoder outputs a one-hot value (each output is associated to a unique input)",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472688318167908423",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472688318167908423/1472688318931144960",
+  "status": "PENDING",
+  "updatedAt": 1771186656337,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "One-hot",
+      "id": "1472379322797920317",
+      "url": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
+      "matches": [
+        "one-hot"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472688318931144960"
+}
