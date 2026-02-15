@@ -1,0 +1,110 @@
+{
+  "id": "1472329658111623415",
+  "name": "8-bit Unary Counter",
+  "code": "HEX003",
+  "reservedCodes": [
+    "HEX003"
+  ],
+  "pastPostThreadIds": [
+    "1472410359854792815"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383141208654017",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383141208654018",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329658715345083",
+      "name": "8bit_unary_counter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329658111623415/1472329658715345083/8bit_unary_counter.png?ex=69922d59&is=6990dbd9&hm=2749537dc5a8cb0a669508b15eb99e00deb7e3af0db7bef966bbfcf1f9b7c9d9&",
+      "timestamp": 1771101145056,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329648758329494",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329648758329494/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 160074,
+      "canDownload": true,
+      "width": 1119,
+      "height": 547,
+      "path": "images/8bit_unary_counter.png",
+      "hash": "388fb47fb3c1f7e9a406eebbdd1061e40cce4ea92453486de97863fb74848cb8"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329659000684829",
+      "name": "HEX003_8bit_unary_counter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329658111623415/1472329659000684829/8bit_unary_counter.schem?ex=69922d59&is=6990dbd9&hm=59ce1abe1bb1cc69c080ada8dabbce4be94c3d0317f3563b3a75eaad50717a6f&",
+      "timestamp": 1771101145056,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329648758329494",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329648758329494/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1225,
+      "canDownload": true,
+      "hash": "c13c69d78c8b1cf1738e3e7068f2eb5f344fa2e6d97c3dd961104ed66f23059a",
+      "path": "attachments/HEX003_8bit_unary_counter.schem",
+      "schematic": {
+        "size": "8x2x17",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Counts how many bits are on.",
+    "input": "8b (inverted)",
+    "output": "Hex number",
+    "speed": "4 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472410359854792815",
+    "forumId": "1472330964884520980",
+    "continuingMessageIds": [
+      "1472410363722207316"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472410359854792815",
+    "uploadMessageId": "1472410355559825510"
+  },
+  "archivedAt": 1771120383791,
+  "updatedAt": 1771120383791,
+  "num_comments": 0
+}

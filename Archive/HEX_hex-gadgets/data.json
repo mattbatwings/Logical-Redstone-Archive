@@ -4,7 +4,7 @@
   "code": "HEX",
   "category": "🌐 MISCELLANEOUS",
   "description": "Devices that perform a small hexadecimal-related function.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329668681273504",
@@ -15,6 +15,11 @@
       "id": "1472329663304171540",
       "code": "HEX002",
       "path": "HEX002_15-bit_Unary_Counter"
+    },
+    {
+      "id": "1472329658111623415",
+      "code": "HEX003",
+      "path": "HEX003_8-bit_Unary_Counter"
     }
   ]
 }
