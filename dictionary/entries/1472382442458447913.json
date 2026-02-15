@@ -15,5 +15,7 @@
   "statusMessageID": "1472382443175547060",
   "updatedAt": 1771114245113,
   "references": [],
-  "referencedBy": []
+  "referencedBy": [
+    "ROM002"
+  ]
 }

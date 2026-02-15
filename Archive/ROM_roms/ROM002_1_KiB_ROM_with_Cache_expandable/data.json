@@ -1,0 +1,137 @@
+{
+  "id": "1472464443341275349",
+  "name": "1 KiB ROM with Cache (expandable)",
+  "code": "ROM002",
+  "reservedCodes": [
+    "ROM002"
+  ],
+  "pastPostThreadIds": [
+    "1472659629887717439"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383149441945790",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472464444050247742",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472464443341275349/1472464444050247742/image.png?ex=6992aae0&is=69915960&hm=f7dd36f0cae0cd62c7993d805a516cea1923a14d6f3a153e8473fc972f5d3074&",
+      "timestamp": 1771133280359,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 510217,
+      "canDownload": true,
+      "width": 1200,
+      "height": 824,
+      "path": "images/image.png",
+      "hash": "9c28b8f37f0bc63bdc8264cb3e5b8389696c7a613c0e37006d12b2cf10a2775f"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472464656646934528",
+      "name": "ROM002_1KiBROM_1.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472464443341275349/1472464656646934528/1KiBROM_1.schem?ex=6992ab13&is=69915993&hm=bab9f8fcc80b0b783a3d4842e17fa9491ab8e13873b6d000ecfbf3db2cc0d087&",
+      "timestamp": 1771133330248,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "1bd51aab01883199926cb915f95543a5e4dec7598359046fede46c8bacddb890",
+      "path": "attachments/ROM002_1KiBROM_1.schem",
+      "size": 25658,
+      "schematic": {
+        "size": "82x32x37",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A cached read only memory designed to hold CPU instructions",
+    "input": "Page swap address, Address within cache",
+    "output": "Values stored in barrels",
+    "speed": "7 tick read, 10 word/sec swap",
+    "considerations": [
+      "Putting the desired values in the barrels is kind of janky, you might have to mess with the hex to bin converter to see how it inputs the data into the ROM."
+    ],
+    "notes": "Page size: 32 word / 64 Byte. Main memory: 16 pages / 1 024 Byte. Main memory size: 2 blocks/bit."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "cache"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472659629887717439",
+    "forumId": "1472331730621960202",
+    "continuingMessageIds": [
+      "1472659637722550536"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472659629887717439",
+    "uploadMessageId": "1472659626318237913"
+  },
+  "archivedAt": 1771179812868,
+  "updatedAt": 1771179812868,
+  "num_comments": 0
+}
