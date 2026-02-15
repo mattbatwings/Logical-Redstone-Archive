@@ -4,12 +4,17 @@
   "code": "TRANSMIT",
   "category": "🔌 WIRING",
   "description": "Devices that showcase transmission techniques.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1472330274166542407",
       "code": "TRANSMIT001",
       "path": "TRANSMIT001_Upward_Diagonal_Binary_Transmission"
+    },
+    {
+      "id": "1472330279153696950",
+      "code": "TRANSMIT002",
+      "path": "TRANSMIT002_Flat_Hex_Transmission"
     }
   ]
 }
