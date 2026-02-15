@@ -75,6 +75,19 @@
       "updatedAt": 1771113047867
     },
     {
+      "id": "1472382442458447913",
+      "terms": [
+        "Cache",
+        "D-cache",
+        "I-cache",
+        "P-cache",
+        "Cache hit",
+        "Cache miss"
+      ],
+      "summary": "High speed memory in a device strategically used to reduce read and write times by only storing a part of the memory at once.\n\nD-cache: Used to store data from the RAM\nI-cache or P-cache: Used to s...",
+      "updatedAt": 1771114245113
+    },
+    {
       "id": "1472383809860407535",
       "terms": [
         "Serial"
