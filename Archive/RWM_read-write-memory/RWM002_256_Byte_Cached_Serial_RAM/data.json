@@ -1,0 +1,143 @@
+{
+  "id": "1472463954617040927",
+  "name": "256 Byte Cached Serial RAM",
+  "code": "RWM002",
+  "reservedCodes": [
+    "RWM002"
+  ],
+  "pastPostThreadIds": [
+    "1472690843444973814"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383143213269058",
+      "name": "Broken"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472463955979931668",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472463954617040927/1472463955979931668/image.png?ex=6992aa6c&is=699158ec&hm=abe6f2cd87cd982c908a8221c537cbafff4d629e414a6d8b19c1134d7fa54f52&",
+      "timestamp": 1771133163838,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 539288,
+      "canDownload": true,
+      "width": 1200,
+      "height": 835,
+      "path": "images/image.png",
+      "hash": "3cd3d6ced0c594495bafd80535ac2ed53253a444a729379a8b6650395eca0dfa"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472464166336856155",
+      "name": "RWM002_256Bseriamram_1_1.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472463954617040927/1472464166336856155/256Bseriamram_1_1.schem?ex=6992aa9e&is=6991591e&hm=ad9fc70e13e5769c843271fdf9ef5377b62bbaef8fac38ec5a9392001c19b2ff&",
+      "timestamp": 1771133213650,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "3c93980be0d929a86a291f44035510b861a1d46dea3980516085c9f59e75055c",
+      "path": "attachments/RWM002_256Bseriamram_1_1.schem",
+      "size": 13366,
+      "schematic": {
+        "size": "51x34x47",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "256 Bytes of cached serial RAM (6 bpb), including a 32 Byte 1-line cache.",
+    "input": "5b address within cache, input data, page addr for swap",
+    "output": "Data at address",
+    "speed": "10 hz swap, 9t read",
+    "notes": "Read cannot be on while swapping."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "Byte"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Serial",
+      "id": "1472383809860407535",
+      "url": "https://discord.com/channels/1361854816837435433/1472383809860407535/1472383812335042583",
+      "matches": [
+        "serial"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "cache"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472690843444973814",
+    "forumId": "1472331318439444502",
+    "continuingMessageIds": [
+      "1472690846850879560"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472690843444973814",
+    "uploadMessageId": "1472690838202093822"
+  },
+  "archivedAt": 1771187253464,
+  "updatedAt": 1771187253464,
+  "num_comments": 0
+}
