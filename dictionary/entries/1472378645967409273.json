@@ -12,6 +12,7 @@
   "references": [],
   "referencedBy": [
     "BINTOBCD001",
-    "BINTOBCD002"
+    "BINTOBCD002",
+    "BCDTOBIN001"
   ]
 }

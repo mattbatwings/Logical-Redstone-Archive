@@ -4,6 +4,12 @@
   "code": "BCDTOBIN",
   "category": "💱 CONVERSION",
   "description": "Devices that convert binary coded decimal to binary.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329991915175946",
+      "code": "BCDTOBIN001",
+      "path": "BCDTOBIN001_8-bit_Sequential_BCD_to_Binary"
+    }
+  ]
 }

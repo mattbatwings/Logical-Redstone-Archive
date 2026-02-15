@@ -1,0 +1,118 @@
+{
+  "id": "1472329991915175946",
+  "name": "8-bit Sequential BCD to Binary",
+  "code": "BCDTOBIN001",
+  "reservedCodes": [
+    "BCDTOBIN001"
+  ],
+  "pastPostThreadIds": [
+    "1472406495927992342"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383125706244308",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383125706244309",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329992527675473",
+      "name": "8bit_seq_bcd_to_binary.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329991915175946/1472329992527675473/8bit_seq_bcd_to_binary.png?ex=69922da8&is=6990dc28&hm=0720d29dae7ce35f066b996fee76033c580f95b3c70ebd2d822f47b18c6f02c1&",
+      "timestamp": 1771101224641,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329986689208472",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329986689208472/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 137496,
+      "canDownload": true,
+      "width": 543,
+      "height": 570,
+      "path": "images/8bit_seq_bcd_to_binary.png",
+      "hash": "bb2d14292b0470df1ecb906ee74e24adc003ed351d8dfb94ebddb1a0365e11ab"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329992107983052",
+      "name": "BCDTOBIN001_8bit_seq_bcd_to_binary.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329991915175946/1472329992107983052/8bit_seq_bcd_to_binary.schem?ex=69922da8&is=6990dc28&hm=ee163a2a5012a0749c3db9c59caa1eb9299b599257c5023bfd8365e69bab4056&",
+      "timestamp": 1771101224641,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329986689208472",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329986689208472/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1958,
+      "canDownload": true,
+      "hash": "4cb25c73df00990be242a3ea630c296cb0f22f36ba204d2ff0178fd738ba7aee",
+      "path": "attachments/BCDTOBIN001_8bit_seq_bcd_to_binary.schem",
+      "schematic": {
+        "size": "12x20x24",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts any list of BCD digits to its 8 bit binary form.",
+    "input": "BCD digit, Type button, Clear button",
+    "output": "8b number",
+    "notes": "BCD digits must be input in succession. Input digit, press type, repeat."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406495927992342",
+    "forumId": "1472330151210516531",
+    "continuingMessageIds": [
+      "1472406499451076622"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406495927992342",
+    "uploadMessageId": "1472406484930396182"
+  },
+  "archivedAt": 1771119460877,
+  "updatedAt": 1771119460877,
+  "num_comments": 0
+}
