@@ -4,6 +4,12 @@
   "code": "FLIPSWAP",
   "category": "🔌 WIRING",
   "description": "Devices that showcase flipping and swapping techniques.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472330580212322549",
+      "code": "FLIPSWAP001",
+      "path": "FLIPSWAP001_8-bit_flipper"
+    }
+  ]
 }

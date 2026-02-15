@@ -1,0 +1,100 @@
+{
+  "id": "1472330580212322549",
+  "name": "8-bit flipper",
+  "code": "FLIPSWAP001",
+  "reservedCodes": [
+    "FLIPSWAP001"
+  ],
+  "pastPostThreadIds": [
+    "1472406935650439198"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383130122981454",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383130122981455",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330581487386807",
+      "name": "8bit_flipper.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330580212322549/1472330581487386807/8bit_flipper.png?ex=69922e35&is=6990dcb5&hm=09fb5e8e225a43f2f2eafa30dcce98886123b68b41b1b17b0ba63ce9d1b735b4&",
+      "timestamp": 1771101364902,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330569613447331",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330569613447331/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 139918,
+      "canDownload": true,
+      "width": 419,
+      "height": 791,
+      "path": "images/8bit_flipper.png",
+      "hash": "6bf974f73cc10506a5cc477f666bd362e4e2674a1a9b7ade2573bfbeb01ef31c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330581068218429",
+      "name": "FLIPSWAP001_8bit_flipper.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330580212322549/1472330581068218429/8bit_flipper.schem?ex=69922e35&is=6990dcb5&hm=8e65072298a5f0846a157186e3dba87ba5c5004807973959bf410b15d928ab5e&",
+      "timestamp": 1771101364902,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330569613447331",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330569613447331/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 957,
+      "canDownload": true,
+      "hash": "2fbe6a80fdaf6ebf2b9fb27cd8e51529d5a6d2f05f1fea0a8bcde4585a5c9f55",
+      "path": "attachments/FLIPSWAP001_8bit_flipper.schem",
+      "schematic": {
+        "size": "8x16x9",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Reverses a vertical column of 8 bits.",
+    "input": "8b",
+    "output": "8b",
+    "speed": "2 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406935650439198",
+    "forumId": "1472330426411384922",
+    "continuingMessageIds": [
+      "1472406939018330283"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406935650439198",
+    "uploadMessageId": "1472406929190944853"
+  },
+  "archivedAt": 1771119567105,
+  "updatedAt": 1771119567105,
+  "num_comments": 0
+}
