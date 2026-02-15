@@ -140,7 +140,7 @@
         "LIFO"
       ],
       "summary": "LIFO: A data structure where the last input is outputted first (LIFO, Last in first out).\n\nFor example, when the numbers 1, 2, 3, 4 are inputted in that order, they are outputted in the reverse ord...",
-      "updatedAt": 1771185800275
+      "updatedAt": 1771185912380
     },
     {
       "id": "1472390929481728130",
@@ -280,6 +280,15 @@
       ],
       "summary": "Guide to data storage sizes:\n\n**Bit**: The smallest unit of data, representing a 0 or a 1 in binary. Abbreviated as b\n\n**Nibble**: One hexadecimal \"digit,\" representing either **4 bits** or the 16 ...",
       "updatedAt": 1771184371166
+    },
+    {
+      "id": "1472461327996817620",
+      "terms": [
+        "Queue",
+        "FIFO"
+      ],
+      "summary": "FIFO: A data structure where the first input is outputted first (FIFO, First in first out).\n\nFor example, when the numbers 1, 2, 3, 4 are inputted in that order, they are outputted in the same orde...",
+      "updatedAt": 1771185891115
     },
     {
       "id": "1472601898887418039",
