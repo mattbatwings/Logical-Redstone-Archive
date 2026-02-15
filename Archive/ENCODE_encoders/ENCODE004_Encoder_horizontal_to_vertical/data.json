@@ -1,0 +1,110 @@
+{
+  "id": "1472328746374660193",
+  "name": "Encoder (horizontal to vertical)",
+  "code": "ENCODE004",
+  "reservedCodes": [
+    "ENCODE004"
+  ],
+  "pastPostThreadIds": [
+    "1472426523293257819"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383090214179053",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383090214179054",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328747267915849",
+      "name": "encode_h2v.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328746374660193/1472328747267915849/encode_h2v.png?ex=69922c7f&is=6990daff&hm=5001fd71b270318cec60ab711d8740fe2e2937d82c532439aa8e3fe268ea1e49&",
+      "timestamp": 1771100927681,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328734949249046",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328734949249046/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 159646,
+      "canDownload": true,
+      "width": 569,
+      "height": 781,
+      "path": "images/encode_h2v.png",
+      "hash": "a9f769808740bda0669c0258978a843f7ab681737577ea4cdf4a9aa2d0ae5556"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328746957799542",
+      "name": "ENCODE004_encode_h2v.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328746374660193/1472328746957799542/encode_h2v.schem?ex=69922c7f&is=6990daff&hm=1ef1c26ac56b6076a2d7c850312b2a77d3a90e965b16af7b56be7d3ad51b077c&",
+      "timestamp": 1771100927681,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328734949249046",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328734949249046/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 547,
+      "canDownload": true,
+      "hash": "8a2d9daffc9bd4e8ed2d939073300c31cfae7db2ebc50daefc52a3a6a79599e1",
+      "path": "attachments/ENCODE004_encode_h2v.schem",
+      "schematic": {
+        "size": "6x9x9",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A programable and expandable encoder design.",
+    "input": "4b one-hot",
+    "output": "4b encoding",
+    "speed": "1 tick"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "One-hot",
+      "id": "1472379322797920317",
+      "url": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
+      "matches": [
+        "one-hot"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472426523293257819",
+    "forumId": "1472327138215727382",
+    "continuingMessageIds": [
+      "1472426527831625768"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472426523293257819",
+    "uploadMessageId": "1472426516955791421"
+  },
+  "archivedAt": 1771124236092,
+  "updatedAt": 1771124236092,
+  "num_comments": 0
+}
