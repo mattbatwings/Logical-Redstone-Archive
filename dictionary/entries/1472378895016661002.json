@@ -15,6 +15,7 @@
   "references": [],
   "referencedBy": [
     "DIVIDE001",
-    "DIVIDE003"
+    "DIVIDE003",
+    "MULTIPY001"
   ]
 }

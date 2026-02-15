@@ -1,0 +1,120 @@
+{
+  "id": "1472328543588454690",
+  "name": "8x8 bit combinational multiplier",
+  "code": "MULTIPY001",
+  "reservedCodes": [
+    "MULTIPY001"
+  ],
+  "pastPostThreadIds": [
+    "1472428193792393352"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Aminotreal"
+    },
+    {
+      "type": "unknown",
+      "username": "Don"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383083402494010",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1454176233955922114",
+      "name": "image.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1454176233523773581/1454176233955922114/image.png?ex=695022a7&is=694ed127&hm=a6f42c687c6cb082221f461805ea04c9e96de49b0965db621255b61ced7ea25d&",
+      "timestamp": 1771100879333,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": true,
+      "width": 580,
+      "height": 669,
+      "size": 151092,
+      "path": "images/image.png",
+      "hash": "55a8d53e681350bc57d07921ca18c53f9e05e1433ea78de5086570bacd052829"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328544016400444",
+      "name": "MULTIPY001_12t8bmult.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328543588454690/1472328544016400444/12t8bmult.schem?ex=69922c4f&is=6990dacf&hm=166544f7219f83e6b501c912496d12f5c446859bed04265acc75461fc48848fb&",
+      "timestamp": 1771100879333,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 10221,
+      "canDownload": true,
+      "hash": "075e6819b1bde9e24162ae71377e7f79fcd88763c9d2a49cb79e4fb68eb29338",
+      "path": "attachments/MULTIPY001_12t8bmult.schem",
+      "schematic": {
+        "size": "40x34x12",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A really fast synced 8x8b multiplier with a relatively small footprint",
+    "input": "Two 8 bit binary numbers",
+    "output": "One 16 bit binary number",
+    "speed": "12 ticks (3.33Hz throughput)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "Hz",
+        "throughput"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472428193792393352",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1472428198011736146"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472428193792393352",
+    "uploadMessageId": "1472428183734190194"
+  },
+  "archivedAt": 1771124634693,
+  "updatedAt": 1771124634693,
+  "num_comments": 0
+}
