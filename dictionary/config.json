@@ -73,6 +73,14 @@
       ],
       "summary": "Refers to one bit of a binary string being active at a time.\nExamples: 00001000, 1000000, 000100",
       "updatedAt": 1771113047867
+    },
+    {
+      "id": "1472383809860407535",
+      "terms": [
+        "Serial"
+      ],
+      "summary": "Refers to a form of data transfer where less wires are used to transfer more data: Each bit is sent one after the other. One wire can be used to transfer an infinite amount of data.\n\nTypical speeds...",
+      "updatedAt": 1771114211299
     }
   ]
 }
