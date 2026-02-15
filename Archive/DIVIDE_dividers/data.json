@@ -4,6 +4,12 @@
   "code": "DIVIDE",
   "category": "➕ ARITHMETIC",
   "description": "Devices that divide one number by another.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472328601629102140",
+      "code": "DIVIDE001",
+      "path": "DIVIDE001_8_Bit_Divider"
+    }
+  ]
 }

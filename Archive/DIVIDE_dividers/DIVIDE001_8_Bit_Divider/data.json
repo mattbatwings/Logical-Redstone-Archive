@@ -1,0 +1,130 @@
+{
+  "id": "1472328601629102140",
+  "name": "8 Bit Divider",
+  "code": "DIVIDE001",
+  "reservedCodes": [
+    "DIVIDE001"
+  ],
+  "pastPostThreadIds": [
+    "1472427159631953940"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168810",
+      "name": "Broken"
+    },
+    {
+      "id": "1472383084820168812",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328601981419652",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328601629102140/1472328601981419652/image.png?ex=69922c5d&is=6990dadd&hm=5dc887269e6fdbd671a096b76916bcedd916cb885fd7ac74bc6d541707711982&",
+      "timestamp": 1771100893171,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328583773950114",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328583773950114/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 351341,
+      "canDownload": true,
+      "width": 1046,
+      "height": 901,
+      "path": "images/image.png",
+      "hash": "9dafedf10a11480fb56851e3b110a1d05671acc31e01de45d481ba280140e582"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328602371620887",
+      "name": "DIVIDE001_5HzDivider_1.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328601629102140/1472328602371620887/5HzDivider_1.schem?ex=69922c5d&is=6990dadd&hm=59b84e69322533229b8a2d90ffafea74e4a91953ec4d53b58c2892120921ced5&",
+      "timestamp": 1771100893171,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328583773950114",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328583773950114/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11445,
+      "canDownload": true,
+      "hash": "f2f58ca2cd90ee2d9a933217eeb701269b272c29883721c5cf753cf0133c99a8",
+      "path": "attachments/DIVIDE001_5HzDivider_1.schem",
+      "schematic": {
+        "size": "74x21x16",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8 bit combinational divider",
+    "input": "2 8 bit levers for A/B",
+    "output": "2 8 bit outputs for quotient/remainder",
+    "speed": "52 ticks for quotient, 55 ticks for remainder (pipelined at 5Hz)",
+    "notes": "Uses Aminotreal's 8 bit 5Hz CCA, optimised for throughput. Anything /0 will result in the quotient being 255"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "pipelined",
+        "Hz",
+        "throughput"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472427159631953940",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1472427162807308361"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472427159631953940",
+    "uploadMessageId": "1472427151134298175"
+  },
+  "archivedAt": 1771124387892,
+  "updatedAt": 1771124387892,
+  "num_comments": 0
+}
