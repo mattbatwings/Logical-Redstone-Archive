@@ -4,7 +4,7 @@
   "code": "DIVIDE",
   "category": "➕ ARITHMETIC",
   "description": "Devices that divide one number by another.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1472328601629102140",
@@ -20,6 +20,11 @@
       "id": "1472328593307865118",
       "code": "DIVIDE003",
       "path": "DIVIDE003_16-bit_Combinational_5hz_Divider"
+    },
+    {
+      "id": "1472328588979212358",
+      "code": "DIVIDE004",
+      "path": "DIVIDE004_16-bit_Sequential_Divider"
     }
   ]
 }

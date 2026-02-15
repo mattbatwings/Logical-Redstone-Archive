@@ -13,6 +13,7 @@
   "references": [],
   "referencedBy": [
     "SQRT001",
-    "DIVIDE002"
+    "DIVIDE002",
+    "DIVIDE004"
   ]
 }
