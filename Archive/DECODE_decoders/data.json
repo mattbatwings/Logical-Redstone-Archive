@@ -4,6 +4,12 @@
   "code": "DECODE",
   "category": "🔨 COMBINATIONAL BLOCKS",
   "description": "Devices that decode a custom pattern into unique outputs.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472328816616804483",
+      "code": "DECODE001",
+      "path": "DECODE001_Decoder_vertical_to_vertical"
+    }
+  ]
 }
