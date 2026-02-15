@@ -1,0 +1,125 @@
+{
+  "id": "1472654768005451796",
+  "name": "Fractional BintoDec Converter",
+  "code": "BINTOBCD004",
+  "reservedCodes": [
+    "BINTOBCD004"
+  ],
+  "pastPostThreadIds": [
+    "1472669665674133779"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "698322584810553404",
+      "username": "xoliks",
+      "displayName": "Xoliks",
+      "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "762007539197411350",
+      "username": "stickman_cookies",
+      "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383124104151279",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472655669717893303",
+      "name": "FractionalBintoDec.png",
+      "url": "https://cdn.discordapp.com/attachments/1472654768005451796/1472655669717893303/FractionalBintoDec.png?ex=69935cf8&is=69920b78&hm=58cd4d38879f181f859136876fa055ef3c8a7bfb017e940e7cdcdabcc3b39c8e&",
+      "timestamp": 1771178871480,
+      "author": {
+        "type": "discord-external",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 890,
+      "height": 899,
+      "size": 199260,
+      "path": "images/FractionalBintoDec.png",
+      "hash": "768eeac48f4194a58e07d04e250d12ef0ee06fceca0035acdc93d9e0640b1dbc"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1452393079746203828",
+      "name": "BINTOBCD004_Fractional_BintoDec_Converter.schem",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1452393079465050122/1452393079746203828/Fractional_BintoDec_Converter.schem?ex=6992d136&is=69917fb6&hm=d34b29d4546299776b5d3c6a2a93c7d6181def8791ffa57b9c8ed06e5614af7d&",
+      "timestamp": 1771178976545,
+      "author": {
+        "type": "discord-external",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": true,
+      "hash": "038fdb1f25fe12aa3cd7af1d35bfb68c9854efb974f9a22967420fde20f546a4",
+      "path": "attachments/BINTOBCD004_Fractional_BintoDec_Converter.schem",
+      "size": 4692,
+      "schematic": {
+        "size": "25x19x16",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts a Fractional Binary number into Decimal",
+    "input": "n bit value on the side (MSB at the top)",
+    "output": "n digit value as ss on the top",
+    "speed": "4(b-1)+3rt, (b = # of bits in input)",
+    "notes": "Infinitely Expandable (25x4x2 per cell), Infinite precision by adding digits to the output."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472669665674133779",
+    "forumId": "1472330124052398243",
+    "continuingMessageIds": [
+      "1472669669386227937"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472669665674133779",
+    "uploadMessageId": "1472669657826594967"
+  },
+  "archivedAt": 1771182206585,
+  "updatedAt": 1771182206585,
+  "num_comments": 0
+}
