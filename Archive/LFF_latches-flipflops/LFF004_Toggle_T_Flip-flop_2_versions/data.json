@@ -1,0 +1,94 @@
+{
+  "id": "1472328955733475520",
+  "name": "Toggle (T) Flip-flop (2 versions)",
+  "code": "LFF004",
+  "reservedCodes": [
+    "LFF004"
+  ],
+  "pastPostThreadIds": [
+    "1472422365203009578"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383097180786881",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328956224078096",
+      "name": "tff.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328955733475520/1472328956224078096/tff.png?ex=69922cb1&is=6990db31&hm=8e66db8334ef1114000e2a7dc7e74a071688d5a0b5344621e443a5f99f843853&",
+      "timestamp": 1771100977596,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 58041,
+      "canDownload": true,
+      "width": 1032,
+      "height": 554,
+      "path": "images/tff.png",
+      "hash": "6e6c8caa8b0ffccb1bec67ced32902f35a04f417dcaf482e4efbd11d5ef1c8b8"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328955926151309",
+      "name": "LFF004_tff.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328955733475520/1472328955926151309/tff.schem?ex=69922cb1&is=6990db31&hm=06bcbbb566f0818ece1b998ae886d85f58c82d6f514c2f3a1eddf17b626b4a07&",
+      "timestamp": 1771100977596,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 681,
+      "canDownload": true,
+      "hash": "04415ee8a111f6147a62d07fbc0e424b62390efd4331d28defb8a4b65a4d7a82",
+      "path": "attachments/LFF004_tff.schem",
+      "schematic": {
+        "size": "6x3x9",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Toggles whenever the input is pressed.",
+    "notes": "Toggle (T) Flip-flop (2 versions)\nAuthor: Unknown"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472422365203009578",
+    "forumId": "1472328937248915517",
+    "continuingMessageIds": [
+      "1472422368851787889"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472422365203009578",
+    "uploadMessageId": "1472422361495244810"
+  },
+  "archivedAt": 1771123246209,
+  "updatedAt": 1771123246209,
+  "num_comments": 0
+}
