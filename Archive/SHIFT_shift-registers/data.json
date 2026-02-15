@@ -1,0 +1,9 @@
+{
+  "id": "1472329117041954866",
+  "name": "shift-registers",
+  "code": "SHIFT",
+  "category": "🕐 SEQUENTIAL BLOCKS",
+  "description": "Devices that store data and shift it.",
+  "currentCodeId": 0,
+  "entries": []
+}
