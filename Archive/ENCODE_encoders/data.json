@@ -1,0 +1,9 @@
+{
+  "id": "1472327138215727382",
+  "name": "encoders",
+  "code": "ENCODE",
+  "category": "🔨 COMBINATIONAL BLOCKS",
+  "description": "Devices that encode custom patterns per each unique input.",
+  "currentCodeId": 0,
+  "entries": []
+}
