@@ -1,0 +1,112 @@
+{
+  "id": "1472329605598679258",
+  "name": "Hex FIFO Register",
+  "code": "HEX005",
+  "reservedCodes": [
+    "HEX005"
+  ],
+  "pastPostThreadIds": [
+    "1472411232592990209"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "SamosTheSage"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383141208654018",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383141208654017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329606345527511",
+      "name": "hex_fifo.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329605598679258/1472329606345527511/hex_fifo.png?ex=69922d4c&is=6990dbcc&hm=ccd252b1f9132f9b1042a084bb615330258007e4967223505b84772205118de5&",
+      "timestamp": 1771101132536,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329599789826184",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329599789826184/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 150308,
+      "canDownload": true,
+      "width": 1200,
+      "height": 417,
+      "path": "images/hex_fifo.png",
+      "hash": "3766da066e480ea4a605974b2060ac4dcb758b64060bad4f03aa1431a95674d0"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329606018236588",
+      "name": "HEX005_hex_fifo.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329605598679258/1472329606018236588/hex_fifo.schem?ex=69922d4c&is=6990dbcc&hm=74aa0d296f9e09327fd2e9c51a7fb00d58418dd9525e8cff2a590752e5a349c5&",
+      "timestamp": 1771101132536,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329599789826184",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329599789826184/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 893,
+      "canDownload": true,
+      "hash": "b2c93c2fdb547d76c01f7b975d561895ebf63c3837b25a882f6765f6aaeb3549",
+      "path": "attachments/HEX005_hex_fifo.schem",
+      "schematic": {
+        "size": "21x2x33",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A first in, first out register for hex numbers."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472411232592990209",
+    "forumId": "1472330964884520980",
+    "continuingMessageIds": [
+      "1472411236275589141"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472411232592990209",
+    "uploadMessageId": "1472411224720543770"
+  },
+  "archivedAt": 1771120591367,
+  "updatedAt": 1771120591367,
+  "num_comments": 0
+}
