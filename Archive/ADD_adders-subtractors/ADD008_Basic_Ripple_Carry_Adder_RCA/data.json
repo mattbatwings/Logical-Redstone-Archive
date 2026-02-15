@@ -1,0 +1,95 @@
+{
+  "id": "1472328040519434302",
+  "name": "Basic Ripple Carry Adder (RCA)",
+  "code": "ADD008",
+  "reservedCodes": [
+    "ADD008"
+  ],
+  "pastPostThreadIds": [
+    "1472430932274446438"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328040918028390",
+      "name": "rca.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328040519434302/1472328040918028390/rca.png?ex=69922bd7&is=6990da57&hm=795e140d3cc0a8578b58e8174fbc9d2e9fcf714b1b0cf0602fccabcf8bdcc57a&",
+      "timestamp": 1771100759392,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 77622,
+      "canDownload": true,
+      "width": 576,
+      "height": 414,
+      "path": "images/rca.png",
+      "hash": "8b1a27552a62a55025dbda8eca5ba185c1d7106e9875277f394d22c69e0e8dfc"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328040632811640",
+      "name": "ADD008_rca.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328040519434302/1472328040632811640/rca.schem?ex=69922bd7&is=6990da57&hm=3d43eab92276a24eca0a52674a5f796568c5eb28a6c01dae06a10412edd40b24&",
+      "timestamp": 1771100759392,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 719,
+      "canDownload": true,
+      "hash": "c18b62e0010cf03f5a5c0bd81d79197ba90a0666bf8411af91a12f02249ef0e9",
+      "path": "attachments/ADD008_rca.schem",
+      "schematic": {
+        "size": "13x4x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "The original ripple carry adder with just dust and torches. Can be stacked to make any bit adder you want.",
+    "input": "A, B, Cin",
+    "output": "Sum, Cout"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472430932274446438",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1472430935487156430"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472430932274446438",
+    "uploadMessageId": "1472430923579527249"
+  },
+  "archivedAt": 1771125287555,
+  "updatedAt": 1771125287555,
+  "num_comments": 0
+}

@@ -4,7 +4,7 @@
   "code": "ADD",
   "category": "➕ ARITHMETIC",
   "description": "Devices that add/subtract 2 numbers.",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1472329567745343593",
@@ -40,6 +40,11 @@
       "id": "1472328034991341731",
       "code": "ADD007",
       "path": "ADD007_8-bit_Carry_Cancel_Adder"
+    },
+    {
+      "id": "1472328040519434302",
+      "code": "ADD008",
+      "path": "ADD008_Basic_Ripple_Carry_Adder_RCA"
     }
   ]
 }
