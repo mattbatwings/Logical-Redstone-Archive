@@ -1,0 +1,123 @@
+{
+  "id": "1472328593307865118",
+  "name": "16-bit Combinational 5hz Divider",
+  "code": "DIVIDE003",
+  "reservedCodes": [
+    "DIVIDE003"
+  ],
+  "pastPostThreadIds": [
+    "1472427586738192515"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168811",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328593815113920",
+      "name": "16bit_5hz_divider.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328593307865118/1472328593815113920/16bit_5hz_divider.png?ex=69922c5b&is=6990dadb&hm=bb5fb130970e22b029bcba1e8741332f5a1acfc068e700e0b0bd62e428139d3e&",
+      "timestamp": 1771100891187,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328583773950114",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328583773950114/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 198486,
+      "canDownload": true,
+      "width": 912,
+      "height": 520,
+      "path": "images/16bit_5hz_divider.png",
+      "hash": "635c462ce4d92c2e0a888b5d2e81201abe3d16c7feaaa66223b3e99709898964"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328593458729134",
+      "name": "DIVIDE003_16bit_5hz_divider.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328593307865118/1472328593458729134/16bit_5hz_divider.schem?ex=69922c5b&is=6990dadb&hm=cf9d6895994795621af45862384a78b664d5fae58492dc75f1968ed5a44187d1&",
+      "timestamp": 1771100891187,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328583773950114",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328583773950114/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 28849,
+      "canDownload": true,
+      "hash": "6a8f665fe34bc8f6f6a7a0dc11c255c09552185ad11d88bf23561d8f3fbf7e11",
+      "path": "attachments/DIVIDE003_16bit_5hz_divider.schem",
+      "schematic": {
+        "size": "20x36x155",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 16-bit combinational divider, pipelinable at 5hz.",
+    "input": "2 16b numbers",
+    "output": "16b quotient",
+    "speed": "5hz"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472427586738192515",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1472427589577609257"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472427586738192515",
+    "uploadMessageId": "1472427574066942094"
+  },
+  "archivedAt": 1771124488971,
+  "updatedAt": 1771124488971,
+  "num_comments": 0
+}
