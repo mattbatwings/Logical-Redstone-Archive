@@ -8,9 +8,9 @@
   "definition": "MSB: The most significant bit, the bit that has the most value in a binary value.\n\nIn twos complement, this bit is 1 when the number is negative and 0 otherwise. As such, it is sometimes called the \"sign bit\".",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472457972671184967",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472457972671184967/1472457973522501653",
-  "status": "PENDING",
+  "status": "APPROVED",
   "statusMessageID": "1472457973522501653",
-  "updatedAt": 1771184785050,
+  "updatedAt": 1771184933043,
   "references": [
     {
       "type": "dictionaryTerm",
