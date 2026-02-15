@@ -1,0 +1,14 @@
+{
+  "id": "1472687688028131408",
+  "terms": [
+    "Immediate"
+  ],
+  "definition": "Where a value used in a processor operation is stored directly in the instruction, instead of referencing a register, memory address or pointer register.\n\ni.e. ADD r3 r3 32 (which is equivalent to r3 += 32), \"32\" is the immediate.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472687688028131408",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472687688028131408/1472687695787458561",
+  "status": "PENDING",
+  "updatedAt": 1771186507811,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472687695787458561"
+}
