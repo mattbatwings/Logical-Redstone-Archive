@@ -4,7 +4,7 @@
   "code": "HEX",
   "category": "🌐 MISCELLANEOUS",
   "description": "Devices that perform a small hexadecimal-related function.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1472329668681273504",
@@ -20,6 +20,11 @@
       "id": "1472329658111623415",
       "code": "HEX003",
       "path": "HEX003_8-bit_Unary_Counter"
+    },
+    {
+      "id": "1472329653300494447",
+      "code": "HEX004",
+      "path": "HEX004_Hex_Halfer"
     }
   ]
 }

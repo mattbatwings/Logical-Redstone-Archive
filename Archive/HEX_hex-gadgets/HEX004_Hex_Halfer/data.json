@@ -1,0 +1,116 @@
+{
+  "id": "1472329653300494447",
+  "name": "Hex Halfer",
+  "code": "HEX004",
+  "reservedCodes": [
+    "HEX004"
+  ],
+  "pastPostThreadIds": [
+    "1472410595163639808"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Aminotreal"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383141208654017",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383141208654018",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329653518864415",
+      "name": "hex_divide_by_2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329653300494447/1472329653518864415/hex_divide_by_2.png?ex=69922d57&is=6990dbd7&hm=f1b9f22b5b3053524ba96b86aac1537c7b32a3768913c1b78d5f510da337cc83&",
+      "timestamp": 1771101143909,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329648758329494",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329648758329494/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 123800,
+      "canDownload": true,
+      "width": 1187,
+      "height": 753,
+      "path": "images/hex_divide_by_2.png",
+      "hash": "087a53ada2706ebf40304d34f1c02907103e70f9b990e6c61d2410ff5d764d10"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329653770518622",
+      "name": "HEX004_hex_divide_by_2.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329653300494447/1472329653770518622/hex_divide_by_2.schem?ex=69922d58&is=6990dbd8&hm=7a8ed4e745b683db9689463eb52b92b2f66c9d29eaa5d69e02df13a59d1c3d9c&",
+      "timestamp": 1771101143909,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329648758329494",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329648758329494/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1071,
+      "canDownload": true,
+      "hash": "3f54eb5de2f9f79eeb45992e1987ec89107fbf366da87453e7ee7bd640dcd9b2",
+      "path": "attachments/HEX004_hex_divide_by_2.schem",
+      "schematic": {
+        "size": "18x3x4",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Divides a hex number by 2.",
+    "input": "Hex number",
+    "output": "Hex number",
+    "speed": "3 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex",
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472410595163639808",
+    "forumId": "1472330964884520980",
+    "continuingMessageIds": [
+      "1472410599823511552"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472410595163639808",
+    "uploadMessageId": "1472410583482634323"
+  },
+  "archivedAt": 1771120438111,
+  "updatedAt": 1771120438111,
+  "num_comments": 0
+}
