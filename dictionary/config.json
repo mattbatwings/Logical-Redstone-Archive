@@ -94,6 +94,124 @@
       ],
       "summary": "Refers to a form of data transfer where less wires are used to transfer more data: Each bit is sent one after the other. One wire can be used to transfer an infinite amount of data.\n\nTypical speeds...",
       "updatedAt": 1771114211299
+    },
+    {
+      "id": "1472387365418041444",
+      "terms": [
+        "Display Buffer",
+        "D-latch Buffer",
+        "SR-latch Buffer"
+      ],
+      "summary": "A buffer for displays which allows a device to write to a display without the new data being instantly shown on the display. This allows full frames to be written to a screen at once.\n\nSR-latch buf...",
+      "updatedAt": 1771125550954
+    },
+    {
+      "id": "1472388697826656417",
+      "terms": [
+        "Register file",
+        "Simulated Dual Read / SDR Register",
+        "True Dual Read / TDR Register"
+      ],
+      "summary": "Register: A series of d-latches (repeater locks) that holds one binary value. A register has a data input, a write wire (which when pulsed, sets the value in the register to the input) and a read w...",
+      "updatedAt": 1771125571234
+    },
+    {
+      "id": "1472389037607227533",
+      "terms": [
+        "Bus"
+      ],
+      "summary": "A wire or collection of wires which transfer data from one place to another",
+      "updatedAt": 1771125578366
+    },
+    {
+      "id": "1472389831014350951",
+      "terms": [
+        "Content Addressable Memory",
+        "CAM"
+      ],
+      "summary": "A form of memory which searches several registers for a specific value, and returns the location of that value.\ni.e. if a CAM holds the values 5, 4, 9 and 6, an input of \"4\" will give an output cor...",
+      "updatedAt": 1771125590858
+    },
+    {
+      "id": "1472390574349750416",
+      "terms": [
+        "Stack",
+        "Call stack"
+      ],
+      "summary": "A form of memory where inputs are stored in a specific order. When a value is requested, the last value inputted is the first value out. (FILO, First in last out)\n\ni.e. if the numbers 1, 2, 3, 4 ar...",
+      "updatedAt": 1771125606183
+    },
+    {
+      "id": "1472390929481728130",
+      "terms": [
+        "Sync",
+        "Desync"
+      ],
+      "summary": "Sync: All input values take the same amount of time to reach the output, no matter the input.\nDesync: The opposite of sync: There is a possibility some input combinations take longer to process tha...",
+      "updatedAt": 1771125612672
+    },
+    {
+      "id": "1472391270000492715",
+      "terms": [
+        "Assembly Language"
+      ],
+      "summary": "The lowest level programming language possible for a specific computer. This can often be translated directly into binary (machine code).",
+      "updatedAt": 1771125618556
+    },
+    {
+      "id": "1472391535579365461",
+      "terms": [
+        "Instruction Set Architecture",
+        "ISA"
+      ],
+      "summary": "Describes how each instruction for a specific computer architecture is built. It shows which bits in an instruction are allocated to each operand, as well as which instructions are implemented into...",
+      "updatedAt": 1771125628791
+    },
+    {
+      "id": "1472391824550396157",
+      "terms": [
+        "NIMPLY gate"
+      ],
+      "summary": "A logic gate equivalent to A and (not B), commonly used in redstone since it describes a comparator on subtract mode (the back input is A, and the side input is B)",
+      "updatedAt": 1771125639647
+    },
+    {
+      "id": "1472393393115238653",
+      "terms": [
+        "Harvard Architecture",
+        "Modified Harvard Architecture",
+        "Von Neumann Architecture"
+      ],
+      "summary": "Three main categories for architectures, each with a different way of organizing instruction and data memory.\n\nHarvard: The program memory is a ROM (does not change), and is completely separate fro...",
+      "updatedAt": 1771125649285
+    },
+    {
+      "id": "1472394663620120770",
+      "terms": [
+        "Tick",
+        "Redstone tick",
+        "Game tick"
+      ],
+      "summary": "Different units of time used in Minecraft redstone.\n\nNormally, the game runs at 20 game ticks per second (this can be changed by lag or using the /tick command). Therefore, a **game tick is general...",
+      "updatedAt": 1771125665944
+    },
+    {
+      "id": "1472395046694158458",
+      "terms": [
+        "MCHPRS",
+        "Minecraft High Performance Redstone Server"
+      ],
+      "summary": "A specialized server which allows computational redstone to run at tens of thousands of times its regular speed. However, some components do not work in this server such as pistons, observers and d...",
+      "updatedAt": 1771125671599
+    },
+    {
+      "id": "1472396073682206740",
+      "terms": [
+        "Hard Power",
+        "Soft Power"
+      ],
+      "summary": "Two different ways of powering blocks which allow signals to travel through blocks.\n\nHard power - Created when powering a block with a repeater, comparator, torch, observers, levers, pressure plate...",
+      "updatedAt": 1771125676521
     }
   ]
 }
