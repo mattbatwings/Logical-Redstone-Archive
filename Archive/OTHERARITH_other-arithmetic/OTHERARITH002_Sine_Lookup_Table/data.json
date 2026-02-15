@@ -1,0 +1,125 @@
+{
+  "id": "1472725915409715210",
+  "name": "Sine Lookup Table",
+  "code": "OTHERARITH002",
+  "reservedCodes": [
+    "OTHERARITH002"
+  ],
+  "pastPostThreadIds": [
+    "1472729330374279290"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383088519676017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472725915770552432",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472725915409715210/1472725915770552432/image.png?ex=69939e64&is=69924ce4&hm=338e8bd000f95b3d115865bbe191c248d1dec1c337a1194db5cf3122fc31e52e&",
+      "timestamp": 1771195620158,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 359421,
+      "canDownload": true,
+      "width": 899,
+      "height": 767,
+      "path": "images/image.png",
+      "hash": "72f81001d2ccc4401dfd2fec7c1585bc9dc16d677bb583225ea9bb5027eefd4a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472726054715261142",
+      "name": "OTHERARITH002_sinlut.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472725915409715210/1472726054715261142/sinlut.schem?ex=69939e85&is=69924d05&hm=1e12fd2b8f252c820e201466215c866121167c0882faef24516b741ba70bc205&",
+      "timestamp": 1771195652591,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "f7247363903ad4036494f10ebb3b99d924bf53e56c88a31848ed3f1e07446f29",
+      "path": "attachments/OTHERARITH002_sinlut.schem",
+      "size": 58079,
+      "schematic": {
+        "size": "39x38x56",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A lookup table preprogrammed to calculate the sine of an angle (given in radians). Angle range 0 to 255/128 (1.992) radians.",
+    "input": "8 bit angle - unsigned 1.7 fixed point, radians",
+    "output": "8 bit value - unsigned 0.8 fixed point",
+    "speed": "9 ticks",
+    "notes": "Angle is in RADIANS!"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472729330374279290",
+    "forumId": "1472326515067850834",
+    "continuingMessageIds": [
+      "1472729334778167415"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472729330374279290",
+    "uploadMessageId": "1472729323566792796"
+  },
+  "archivedAt": 1771196430717,
+  "updatedAt": 1771196430717,
+  "num_comments": 0
+}
