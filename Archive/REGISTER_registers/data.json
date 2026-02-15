@@ -1,0 +1,9 @@
+{
+  "id": "1472329079880421558",
+  "name": "registers",
+  "code": "REGISTER",
+  "category": "🕐 SEQUENTIAL BLOCKS",
+  "description": "Devices that store data.",
+  "currentCodeId": 0,
+  "entries": []
+}
