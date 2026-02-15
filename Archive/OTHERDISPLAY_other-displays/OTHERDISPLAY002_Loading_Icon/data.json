@@ -1,0 +1,105 @@
+{
+  "id": "1472329426619334728",
+  "name": "Loading Icon",
+  "code": "OTHERDISPLAY002",
+  "reservedCodes": [
+    "OTHERDISPLAY002"
+  ],
+  "pastPostThreadIds": [
+    "1472412026872528961"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "206482298491764736",
+      "username": "sloimay",
+      "displayName": "sloimay",
+      "iconURL": "https://cdn.discordapp.com/avatars/206482298491764736/a778f49416122ef2e9b2339658466528.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383113035256059",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383113035256058",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329427206541446",
+      "name": "loading_icon.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329426619334728/1472329427206541446/loading_icon.png?ex=69922d22&is=6990dba2&hm=a1a98fdd252a7aae55c23bee4ae91ff7f857bdaf7ceaeeb645a87918870515f5&",
+      "timestamp": 1771101089864,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329421112213567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329421112213567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 249695,
+      "canDownload": true,
+      "width": 736,
+      "height": 1020,
+      "path": "images/loading_icon.png",
+      "hash": "4919f2a23b0b14197f70dea507c205684502799139e888ace15aa6fb96064a6c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329426871259250",
+      "name": "OTHERDISPLAY002_loading_icon.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329426619334728/1472329426871259250/loading_icon.schem?ex=69922d21&is=6990dba1&hm=c15edd05591cc8970505671e74b4bc5691d3b18d850fbdf8c6844fe9e381ab27&",
+      "timestamp": 1771101089864,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329421112213567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329421112213567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 783,
+      "canDownload": true,
+      "hash": "0ac594d7edae9e19243cf83e211cf4eeff1d9c8696b789a016159f5fcd7a1c2c",
+      "path": "attachments/OTHERDISPLAY002_loading_icon.schem",
+      "schematic": {
+        "size": "11x10x4",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A stylish and compact circle loading icon."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472412026872528961",
+    "forumId": "1472329757856235794",
+    "continuingMessageIds": [
+      "1472412031503306794"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472412026872528961",
+    "uploadMessageId": "1472412020942045339"
+  },
+  "archivedAt": 1771120781438,
+  "updatedAt": 1771120781438,
+  "num_comments": 0
+}

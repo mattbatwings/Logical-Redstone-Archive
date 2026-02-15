@@ -4,12 +4,17 @@
   "code": "OTHERDISPLAY",
   "category": "📺 DISPLAYS",
   "description": "Devices that perform other display functions.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1472329432663330919",
       "code": "OTHERDISPLAY001",
       "path": "OTHERDISPLAY001_Signal_Strength_Matrix_Decoder_from_Pacman"
+    },
+    {
+      "id": "1472329426619334728",
+      "code": "OTHERDISPLAY002",
+      "path": "OTHERDISPLAY002_Loading_Icon"
     }
   ]
 }
