@@ -7,9 +7,9 @@
   "definition": "A latch made typically out of two NOR gates pointing into each other, with two inputs, Set and Reset, and typically two outputs, Q and Q' (not Q).\n\nPulsing the \"set\" sets Q to 1, and Q' to 0\nPulsing the \"reset\" sets Q to 0, and Q' to 1\nPutting a pulse through both can set Q and Q' to the same value, both 0 or 1.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472458731156537364",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472458731156537364/1472458731957780522",
-  "status": "PENDING",
-  "updatedAt": 1771131918532,
+  "status": "APPROVED",
+  "statusMessageID": "1472458731957780522",
+  "updatedAt": 1771184526266,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472458731957780522"
+  "referencedBy": []
 }
