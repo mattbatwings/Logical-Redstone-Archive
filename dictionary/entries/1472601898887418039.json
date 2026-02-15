@@ -1,14 +1,15 @@
 {
   "id": "1472601898887418039",
   "terms": [
-    "LSB"
+    "LSB",
+    "Least Significant Bit"
   ],
   "definition": "LSB: The least significant bit, the bit that has the least value in a binary value. Can be used as a flag in an ALU, although it is less common. The LSB determines whether a number is even or odd.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472601898887418039",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472601898887418039/1472601900107956235",
   "status": "PENDING",
-  "updatedAt": 1771166052473,
+  "statusMessageID": "1472601900107956235",
+  "updatedAt": 1771184598776,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472601900107956235"
+  "referencedBy": []
 }
