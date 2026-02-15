@@ -1,0 +1,15 @@
+{
+  "id": "1472454689634386103",
+  "terms": [
+    "Turing Machine",
+    "Turing Complete"
+  ],
+  "definition": "```\nTuring Machine:\nA Turing Machine is a theoretical machine thought of by Alan Turing that can simulate any set of instructions given to it. It is made of 3 main parts:\n- Infinite Tape: it can store inputs, outputs, and intermediate data. It's just an infinite memory unit.\n- The head: it can read and write data to and from the tape, and move the tape 1 cell to the left or right.\n- State Register: stores the state of the machine, and tells it what to do based on a set of rules.\n\nNote that a turing machine can only change 1 bit at a time, which makes it the simplest, and yet very tricky, machine that can simulate literally anything, given the time and space.\n```\n```\nTuring Complete:\n\nWhen a machine is \"Turing Complete\", it can simulate a Turing Machine. This means it can do these things:\n- change data based on a set of rules.\n- save data to (theoretically infinite) memory.\n- loop a series of actions/instructions.\n- change the way it executes something based on a set of rules, aka conditions.\n- and simply be able to execute a series of 'instructions' without external support.\nOnce a machine can do those things, it is considered \"Turing Complete\", and can theoretically simulate ANYTHING given the time and resources.```\n\nCPUs are good examples of Turing Complete machines.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472454689634386103",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472454689634386103/1472454691479621664",
+  "status": "PENDING",
+  "updatedAt": 1771130954967,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472454691479621664"
+}
