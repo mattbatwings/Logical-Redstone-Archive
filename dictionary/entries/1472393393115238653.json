@@ -1,0 +1,26 @@
+{
+  "id": "1472393393115238653",
+  "terms": [
+    "Harvard Architecture",
+    "Modified Harvard Architecture",
+    "Von Neumann Architecture"
+  ],
+  "definition": "Three main categories for architectures, each with a different way of organizing instruction and data memory.\n\nHarvard: The program memory is a ROM (does not change), and is completely separate from the data memory (RAM). This is the easiest architecture to implement with redstone.\n\nVon Neumann: The instruction and data memories are shared. This allows programs to be modified as the processor is running. Unlike modified Harvard, the caches for data and instruction memory is unified, which makes it harder to read from both at the same time.\n\nModified Harvard: The instruction memory and data memory are combined in main RAM, however the caches at the lowest level are seperate. This allows instruction and data memory to be accessed independently and simultaneously.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472393393115238653",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472393393115238653/1472393394671194218",
+  "status": "PENDING",
+  "updatedAt": 1771116340867,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "cache"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472393394671194218"
+}
