@@ -1,0 +1,99 @@
+{
+  "id": "1472330274166542407",
+  "name": "Upward Diagonal Binary Transmission",
+  "code": "TRANSMIT001",
+  "reservedCodes": [
+    "TRANSMIT001"
+  ],
+  "pastPostThreadIds": [
+    "1472406729877753939"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383128646717446",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383128646717447",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330274544029833",
+      "name": "1wide_updiag.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330274166542407/1472330274544029833/1wide_updiag.png?ex=69922dec&is=6990dc6c&hm=8c14aa41c3ff8d90801fee6ab31b3f04a93507ca63822d5f61689205fd233d13&",
+      "timestamp": 1771101291935,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330268130934788",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330268130934788/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 63594,
+      "canDownload": true,
+      "width": 440,
+      "height": 719,
+      "path": "images/1wide_updiag.png",
+      "hash": "5f2f1d9b7cefdbda0199c63539d1e024518236d422dfb0e93002f5cd92705eae"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330274288439296",
+      "name": "TRANSMIT001_1wide_updiag.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330274166542407/1472330274288439296/1wide_updiag.schem?ex=69922deb&is=6990dc6b&hm=ea00542b4eca421a1ade4aebded0d2cfa062086b45f0e5362e5667724a7c34d2&",
+      "timestamp": 1771101291935,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330268130934788",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330268130934788/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 838,
+      "canDownload": true,
+      "hash": "e375753073f9427212241815108c59907bd744005ceb018c0ec6557902f4d01c",
+      "path": "attachments/TRANSMIT001_1wide_updiag.schem",
+      "schematic": {
+        "size": "2x22x19",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A way to transmit vertical binary using a signal strength trick, 1 wide",
+    "input": "4b",
+    "output": "4b"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406729877753939",
+    "forumId": "1472330395033927893",
+    "continuingMessageIds": [
+      "1472406733090586786"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406729877753939",
+    "uploadMessageId": "1472406723313664161"
+  },
+  "archivedAt": 1771119518190,
+  "updatedAt": 1771119518190,
+  "num_comments": 0
+}
