@@ -4,6 +4,12 @@
   "code": "QSTACK",
   "category": "🧩 CPU COMPONENTS",
   "description": "Queues and stacks for a CPU.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472331204916285440",
+      "code": "QSTACK001",
+      "path": "QSTACK001_16_Layer_10_bit_Call_Stack"
+    }
+  ]
 }

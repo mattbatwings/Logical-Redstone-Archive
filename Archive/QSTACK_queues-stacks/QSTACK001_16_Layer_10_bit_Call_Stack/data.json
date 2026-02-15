@@ -1,0 +1,99 @@
+{
+  "id": "1472331204916285440",
+  "name": "16 Layer 10 bit Call Stack",
+  "code": "QSTACK001",
+  "reservedCodes": [
+    "QSTACK001"
+  ],
+  "pastPostThreadIds": [
+    "1472398151980679231"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383138071318554",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331205583310859",
+      "name": "call_stack.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331204916285440/1472331205583310859/call_stack.png?ex=69922eca&is=6990dd4a&hm=3b6d5db0eaee90c5f2a46df716ce166663388f1f7f29be2161112ea33454c011&",
+      "timestamp": 1771101513843,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 469736,
+      "canDownload": true,
+      "width": 1155,
+      "height": 980,
+      "path": "images/call_stack.png",
+      "hash": "bde025a48ad84ba574cb62bc7896f4fd5d22e16faf08ff805c15ee2a1267f777"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331205134516275",
+      "name": "QSTACK001_call_stack.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331204916285440/1472331205134516275/call_stack.schem?ex=69922ec9&is=6990dd49&hm=9d46e6139926a18db8b3b6f88a34e43e2bb2d6a0f88e1f98b5aa2c0a487f6319&",
+      "timestamp": 1771101513843,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3153,
+      "canDownload": true,
+      "hash": "72ecf79d087c4c3a16da45df5a5de01d8f5f343b0e435c50812b9160268b8304",
+      "path": "attachments/QSTACK001_call_stack.schem"
+    }
+  ],
+  "records": {
+    "description": "A call stack with 16 layers, 10 bits each. Ability to push/pop data to the stack.",
+    "input": "10b data, Clock button, Push/pop lever",
+    "output": "10b data at top of stack"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472398151980679231",
+    "forumId": "1472330822794350663",
+    "continuingMessageIds": [
+      "1472398156040765470"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472398151980679231",
+    "uploadMessageId": "1472398143395074129"
+  },
+  "archivedAt": 1771117472553,
+  "updatedAt": 1771117472553,
+  "num_comments": 0
+}
