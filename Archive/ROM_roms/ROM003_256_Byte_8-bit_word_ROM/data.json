@@ -1,12 +1,14 @@
 {
   "id": "1472712483893678080",
   "name": "256 Byte, 8-bit word ROM",
-  "code": "ENCODE005",
+  "code": "ROM003",
   "reservedCodes": [
-    "ENCODE005"
+    "ENCODE005",
+    "ROM003"
   ],
   "pastPostThreadIds": [
-    "1472713636127445033"
+    "1472713636127445033",
+    "1472716983014260860"
   ],
   "authors": [
     {
@@ -28,8 +30,8 @@
   ],
   "tags": [
     {
-      "id": "1472383090214179053",
-      "name": "Tested & Functional"
+      "name": "Tested & Functional",
+      "id": "1472383149441945790"
     }
   ],
   "images": [
@@ -81,7 +83,7 @@
   "attachments": [
     {
       "id": "1472712689678549073",
-      "name": "ENCODE005_8b8bROM.schem",
+      "name": "ROM003_8b8bROM.schem",
       "url": "https://cdn.discordapp.com/attachments/1472712483893678080/1472712689678549073/8b8bROM.schem?ex=69939212&is=69924092&hm=dbeeb75067fd4976f8f40e61c4618572aa39a0da1c6f203b5f2fc20ccb7765ad&",
       "timestamp": 1771192465943,
       "author": {
@@ -95,7 +97,7 @@
       "contentType": "unknown",
       "canDownload": true,
       "hash": "3902a62ce687198390fa5c62b7a02856c4821b4bb8d7ce78f53cde6151db0599",
-      "path": "attachments/ENCODE005_8b8bROM.schem",
+      "path": "attachments/ROM003_8b8bROM.schem",
       "size": 55012,
       "schematic": {
         "size": "40x38x59",
@@ -133,15 +135,15 @@
   ],
   "author_references": [],
   "post": {
-    "threadId": "1472713636127445033",
-    "forumId": "1472327138215727382",
+    "threadId": "1472716983014260860",
+    "forumId": "1472331730621960202",
     "continuingMessageIds": [
-      "1472713639596392490"
+      "1472716987103969341"
     ],
-    "threadURL": "https://discord.com/channels/1361854816837435433/1472713636127445033",
-    "uploadMessageId": "1472713626485002327"
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472716983014260860",
+    "uploadMessageId": "1472716976370483383"
   },
   "archivedAt": 1771192688203,
-  "updatedAt": 1771192688203,
+  "updatedAt": 1771193485669,
   "num_comments": 0
 }

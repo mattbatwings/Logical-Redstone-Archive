@@ -25,11 +25,6 @@
       "id": "1472328746374660193",
       "code": "ENCODE004",
       "path": "ENCODE004_Encoder_horizontal_to_vertical"
-    },
-    {
-      "id": "1472712483893678080",
-      "code": "ENCODE005",
-      "path": "ENCODE005_256_Byte_8-bit_word_ROM"
     }
   ]
 }

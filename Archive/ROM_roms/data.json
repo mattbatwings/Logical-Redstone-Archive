@@ -4,7 +4,7 @@
   "code": "ROM",
   "category": "🧩 CPU COMPONENTS",
   "description": "Read Only Memory - Memory used for only reading in a CPU.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472331192262201478",
@@ -15,6 +15,11 @@
       "id": "1472464443341275349",
       "code": "ROM002",
       "path": "ROM002_1_KiB_ROM_with_Cache_expandable"
+    },
+    {
+      "id": "1472712483893678080",
+      "code": "ROM003",
+      "path": "ROM003_256_Byte_8-bit_word_ROM"
     }
   ]
 }

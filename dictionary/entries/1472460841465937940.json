@@ -77,6 +77,7 @@
     "HEX002",
     "HEX003",
     "ALU003",
-    "ENCODE005"
+    "ENCODE005",
+    "ROM003"
   ]
 }

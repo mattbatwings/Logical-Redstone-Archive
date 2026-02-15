@@ -7,7 +7,7 @@
 
 **Tags:** *Tested & Functional*
 
-**Original post:** [View on Discord](https://discord.com/channels/1361854816837435433/1472713636127445033)
+**Original post:** [View on Discord](https://discord.com/channels/1361854816837435433/1472716983014260860)
 
 A simple, addressed repeater ROM with an 8 bit word, and 8 bit address (256 Bytes)
 ## Input
@@ -21,4 +21,4 @@ A simple, addressed repeater ROM with an 8 bit word, and 8 bit address (256 Byte
 <img src="images/image_1.png?raw=1" height="300px">
 
 ## Resources
-- [ENCODE005_8b8bROM.schem](attachments/ENCODE005_8b8bROM.schem): unknown
+- [ROM003_8b8bROM.schem](attachments/ROM003_8b8bROM.schem): unknown
