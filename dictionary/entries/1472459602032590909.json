@@ -3,12 +3,12 @@
   "terms": [
     "Word"
   ],
-  "definition": "A fixed size of data that is transmitted at once, operated on at once and stored at once. It's known as the \"data size\" of a CPU. \n\nAn \"8-bit\" CPU has a word size of 8 bits.",
+  "definition": "A fixed size of data that is transmitted at once, operated on at once and stored at once. It's known as the \"data size\" of a processor or device. \n\nAn \"8-bit\" CPU has a word size of 8 bits.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472459602032590909",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472459602032590909/1472459609082958021",
   "status": "PENDING",
-  "updatedAt": 1771132126206,
+  "statusMessageID": "1472459609082958021",
+  "updatedAt": 1771163617742,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472459609082958021"
+  "referencedBy": []
 }
