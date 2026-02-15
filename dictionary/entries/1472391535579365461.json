@@ -1,0 +1,15 @@
+{
+  "id": "1472391535579365461",
+  "terms": [
+    "Instruction Set Architecture",
+    "ISA"
+  ],
+  "definition": "Describes how each instruction for a specific computer architecture is built. It shows which bits in an instruction are allocated to each operand, as well as which instructions are implemented into a CPU architecture.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472391535579365461",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472391535579365461/1472391536749707435",
+  "status": "PENDING",
+  "updatedAt": 1771115897948,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472391536749707435"
+}
