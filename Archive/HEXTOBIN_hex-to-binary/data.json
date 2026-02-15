@@ -1,0 +1,9 @@
+{
+  "id": "1472330081488867479",
+  "name": "hex-to-binary",
+  "code": "HEXTOBIN",
+  "category": "💱 CONVERSION",
+  "description": "Devices that convert hexadecimal to binary.",
+  "currentCodeId": 0,
+  "entries": []
+}
