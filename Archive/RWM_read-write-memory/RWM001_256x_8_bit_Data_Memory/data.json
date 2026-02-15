@@ -1,0 +1,99 @@
+{
+  "id": "1472331198662447328",
+  "name": "256x 8 bit Data Memory",
+  "code": "RWM001",
+  "reservedCodes": [
+    "RWM001"
+  ],
+  "pastPostThreadIds": [
+    "1472398186923556916"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383143213269059",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331199547572390",
+      "name": "data_memory.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331198662447328/1472331199547572390/data_memory.png?ex=69922ec8&is=6990dd48&hm=d3d4c72a537c1b4429c344b0b1c0ec6c34b0d44cafcbb8c47a4aaf82001bca0f&",
+      "timestamp": 1771101512352,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 474320,
+      "canDownload": true,
+      "width": 1070,
+      "height": 802,
+      "path": "images/data_memory.png",
+      "hash": "fd7bcff084b79d06a043b53dd228de3e8730cd68e63cf1d983db9c75e0091bac"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331199132340526",
+      "name": "RWM001_data_memory.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331198662447328/1472331199132340526/data_memory.schem?ex=69922ec8&is=6990dd48&hm=e0e61f37be4d1f5d7104cb3e4efd52e61a9101b9163b7484a7184b4f44a62693&",
+      "timestamp": 1771101512352,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 34791,
+      "canDownload": true,
+      "hash": "7b16ffc201e7fa1bf9b23243f00361e927c57eb9740596abc8c603e5bb939294",
+      "path": "attachments/RWM001_data_memory.schem"
+    }
+  ],
+  "records": {
+    "description": "A data memory with 256 addresses, 8 bits each. Ability to write/read to any address.",
+    "input": "8b address, 8b data, Clock button, Write/read lever",
+    "output": "8b read port (pulsed)"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472398186923556916",
+    "forumId": "1472331318439444502",
+    "continuingMessageIds": [
+      "1472398190702755953"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472398186923556916",
+    "uploadMessageId": "1472398177071272199"
+  },
+  "archivedAt": 1771117480584,
+  "updatedAt": 1771117480584,
+  "num_comments": 0
+}

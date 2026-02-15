@@ -4,6 +4,12 @@
   "code": "RWM",
   "category": "🧩 CPU COMPONENTS",
   "description": "Memory storage used for reading and writing data in a CPU.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472331198662447328",
+      "code": "RWM001",
+      "path": "RWM001_256x_8_bit_Data_Memory"
+    }
+  ]
 }
