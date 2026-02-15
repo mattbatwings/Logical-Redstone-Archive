@@ -1,0 +1,97 @@
+{
+  "id": "1472328975824060436",
+  "name": "Horizontal Hex Set-Reset (SR) Latch",
+  "code": "LFF001",
+  "reservedCodes": [
+    "LFF001"
+  ],
+  "pastPostThreadIds": [
+    "1472421213807575081"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383097180786881",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383097180786882",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328976109404262",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328975824060436/1472328976109404262/image.png?ex=69922cb6&is=6990db36&hm=749546015237c2797a6398509487294bc9df45d6733b1dcc351187b8d6c3b7d4&",
+      "timestamp": 1771100982386,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 103680,
+      "canDownload": true,
+      "width": 778,
+      "height": 512,
+      "path": "images/image.png",
+      "hash": "09859eb19c1bd3443d067e2da34739140ab5c52f44e6db94328a3a334f308963"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328976310472715",
+      "name": "LFF001_hex_rs_latch_horizontal.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328975824060436/1472328976310472715/hex_rs_latch_horizontal.schem?ex=69922cb6&is=6990db36&hm=38aa33d95c6e0b18f0efcfcd4324c601ddf214df5fd2e591eda29aa5a08434e1&",
+      "timestamp": 1771100982386,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 559,
+      "canDownload": true,
+      "hash": "5f3d0da86c464bc3efd3b62f047b327aa13990e5a2ce65bd700b263685851e85",
+      "path": "attachments/LFF001_hex_rs_latch_horizontal.schem",
+      "schematic": {
+        "size": "3x3x5",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Becomes \"Set\" when set is pressed, or becomes \"Reset\" when reset is pressed."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472421213807575081",
+    "forumId": "1472328937248915517",
+    "continuingMessageIds": [
+      "1472421217423331410"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472421213807575081",
+    "uploadMessageId": "1472421208791453923"
+  },
+  "archivedAt": 1771122971652,
+  "updatedAt": 1771122971652,
+  "num_comments": 0
+}
