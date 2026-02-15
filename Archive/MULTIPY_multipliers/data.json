@@ -4,7 +4,7 @@
   "code": "MULTIPY",
   "category": "➕ ARITHMETIC",
   "description": "Devices that multiply 2 numbers.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472328543588454690",
@@ -15,6 +15,11 @@
       "id": "1472328537431343157",
       "code": "MULTIPY002",
       "path": "MULTIPY002_8_Bit_Multiplier"
+    },
+    {
+      "id": "1472328529743057007",
+      "code": "MULTIPY003",
+      "path": "MULTIPY003_8-bit_5hz_Combinational_Multiplier"
     }
   ]
 }

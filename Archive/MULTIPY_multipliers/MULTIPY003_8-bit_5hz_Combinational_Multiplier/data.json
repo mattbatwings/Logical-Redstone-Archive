@@ -1,0 +1,131 @@
+{
+  "id": "1472328529743057007",
+  "name": "8-bit 5hz Combinational Multiplier",
+  "code": "MULTIPY003",
+  "reservedCodes": [
+    "MULTIPY003"
+  ],
+  "pastPostThreadIds": [
+    "1472428889773965322"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "206482298491764736",
+      "username": "sloimay",
+      "displayName": "sloimay",
+      "iconURL": "https://cdn.discordapp.com/avatars/206482298491764736/a778f49416122ef2e9b2339658466528.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494007",
+      "name": "Untested"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328530225529033",
+      "name": "8bit_comb_multiplier.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328529743057007/1472328530225529033/8bit_comb_multiplier.png?ex=69922c4c&is=6990dacc&hm=cca9ab261a90c49850b4dabc6cb748b3ba2c68b51e6298ccef96cc64f241f48e&",
+      "timestamp": 1771100876032,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 385870,
+      "canDownload": true,
+      "width": 928,
+      "height": 924,
+      "path": "images/8bit_comb_multiplier.png",
+      "hash": "be7e5c69a241db73662759f6ccb57e3f9215f2e4c9ce1617ce9517722c36dfaa"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328529906499665",
+      "name": "MULTIPY003_8bit_comb_multiplier.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328529743057007/1472328529906499665/8bit_comb_multiplier.schem?ex=69922c4c&is=6990dacc&hm=6a491acc01e648380d8984439117f86ac6a5adb3452e0f924652dd644d4cd02e&",
+      "timestamp": 1771100876032,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 13376,
+      "canDownload": true,
+      "hash": "94602dcdad670ff8a13fee096f2878417ce4b5c92f2af8a9123fc880bd6011ba",
+      "path": "attachments/MULTIPY003_8bit_comb_multiplier.schem",
+      "schematic": {
+        "size": "62x35x24",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit combinational multiplier, piplinable at 5hz.",
+    "input": "2 8b numbers",
+    "output": "16b product",
+    "speed": "5hz",
+    "notes": "Possibly incorrect output when given 255 * 255"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472428889773965322",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1472428893028749514"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472428889773965322",
+    "uploadMessageId": "1472428879087141019"
+  },
+  "archivedAt": 1771124800027,
+  "updatedAt": 1771124800027,
+  "num_comments": 0
+}
