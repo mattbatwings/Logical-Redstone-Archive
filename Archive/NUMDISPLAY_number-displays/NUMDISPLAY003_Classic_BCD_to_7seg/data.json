@@ -1,0 +1,116 @@
+{
+  "id": "1472329264006172842",
+  "name": "Classic BCD to 7seg",
+  "code": "NUMDISPLAY003",
+  "reservedCodes": [
+    "NUMDISPLAY003"
+  ],
+  "pastPostThreadIds": [
+    "1472415651443376370"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383105225719919",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383105225719920",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329264379728076",
+      "name": "classic_bcd_to_7seg.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329264006172842/1472329264379728076/classic_bcd_to_7seg.png?ex=69922cfb&is=6990db7b&hm=c2954bcd36a838e3a9684f06925d345a837c1f7534fe84f54715747860ff702f&",
+      "timestamp": 1771101051094,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 355249,
+      "canDownload": true,
+      "width": 1149,
+      "height": 983,
+      "path": "images/classic_bcd_to_7seg.png",
+      "hash": "f0341012a3917fa9a068365334c70d397c001668331b274b6a83432077a6a7f3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329264723529893",
+      "name": "NUMDISPLAY003_classic_bcd_to_7seg.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329264006172842/1472329264723529893/classic_bcd_to_7seg.schem?ex=69922cfb&is=6990db7b&hm=5f881be4a99e21423118b3fb0289ff076e777808f8970ea76a53ef0af0708c32&",
+      "timestamp": 1771101051094,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1289,
+      "canDownload": true,
+      "hash": "85b21f85af3fd4da2d7aed3ef795fea2f2d47a6bc02f646c9a21f80a61e4023b",
+      "path": "attachments/NUMDISPLAY003_classic_bcd_to_7seg.schem",
+      "schematic": {
+        "size": "28x10x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A classic design to show a BCD number. Unsynced, but nice form factor.",
+    "input": "4b"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472415651443376370",
+    "forumId": "1472329280129204314",
+    "continuingMessageIds": [
+      "1472415654983368888"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472415651443376370",
+    "uploadMessageId": "1472415644908650707"
+  },
+  "archivedAt": 1771121644516,
+  "updatedAt": 1771121644516,
+  "num_comments": 0
+}

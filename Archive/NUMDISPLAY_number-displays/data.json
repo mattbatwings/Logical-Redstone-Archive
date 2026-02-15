@@ -4,7 +4,7 @@
   "code": "NUMDISPLAY",
   "category": "📺 DISPLAYS",
   "description": "Devices that display numbers.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329269358104786",
@@ -15,6 +15,11 @@
       "id": "1472329258025222296",
       "code": "NUMDISPLAY002",
       "path": "NUMDISPLAY002_Fast_Hex_to_7seg"
+    },
+    {
+      "id": "1472329264006172842",
+      "code": "NUMDISPLAY003",
+      "path": "NUMDISPLAY003_Classic_BCD_to_7seg"
     }
   ]
 }
