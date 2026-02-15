@@ -1,0 +1,158 @@
+{
+  "id": "1472631627128639632",
+  "name": "Choose-n Arbiter",
+  "code": "OTHERCOMB007",
+  "reservedCodes": [
+    "OTHERCOMB007"
+  ],
+  "pastPostThreadIds": [
+    "1472643663023706303"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1192922842673717318",
+      "username": "rcs_33_91379",
+      "displayName": "RCS_33",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472631628001181800",
+      "name": "arbiter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472631627128639632/1472631628001181800/arbiter.png?ex=69934694&is=6991f514&hm=9033e65151c5718a2ffdbda1f1169691894c64ac436551b63cb0da777823aeee&",
+      "timestamp": 1771173140080,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "Horizontal Version",
+      "size": 96906,
+      "canDownload": true,
+      "width": 718,
+      "height": 581,
+      "path": "images/arbiter.png",
+      "hash": "c0be9cb4b31fbc88e1cb340fe8227a2a449bca8563d1282dd6983070639c04a0"
+    },
+    {
+      "id": "1472633188621746458",
+      "name": "arbiterVertical.png",
+      "url": "https://cdn.discordapp.com/attachments/1472631627128639632/1472633188621746458/arbiterVertical.png?ex=69934808&is=6991f688&hm=3f0d85c5abc59d84d43e464484d663a2a7bf8e104b2739c14e5211865cecd4b4&",
+      "timestamp": 1771173511647,
+      "author": {
+        "type": "discord-external",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "DirectUpload",
+      "description": "Vertical Version",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 262,
+      "height": 340,
+      "size": 22799,
+      "path": "images/arbiterVertical.png",
+      "hash": "50cd5bf96f77a3e7a75ee0ac1427f526e9abd5aa2ac0852cb490e5abcf059f9c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472631629032722494",
+      "name": "OTHERCOMB007_arbiter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472631627128639632/1472631629032722494/arbiter.schem?ex=69934694&is=6991f514&hm=407ab1d6865452c6af05336cbbaa1eba63cd21711b28d3ea52cb2523c60c9282&",
+      "timestamp": 1771173140080,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3048,
+      "canDownload": true,
+      "hash": "5326a1cad1afd617fb53c9139838a40dd4d7a1ad7f804fa9ab1355b7dc04ffaa",
+      "path": "attachments/OTHERCOMB007_arbiter.schem",
+      "schematic": {
+        "size": "22x7x32",
+        "version": "1.18.2"
+      }
+    },
+    {
+      "id": "1472631629674713098",
+      "name": "OTHERCOMB007_arbiterVertical.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472631627128639632/1472631629674713098/arbiterVertical.schem?ex=69934694&is=6991f514&hm=ed6df31489a266e2a781d48ba2cedadc212adb837778b9ea3857da9d1c66afd5&",
+      "timestamp": 1771173140080,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1029,
+      "canDownload": true,
+      "hash": "66e5b3592dae65db92e56b3f84bf85696f02e4b0c700b10a6548022416d83dfc",
+      "path": "attachments/OTHERCOMB007_arbiterVertical.schem",
+      "schematic": {
+        "size": "16x22x6",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Chooses n true bits out of a k-wide bit vector based on left/right sided priority. \nif there are at least n set bits in the vector, the arbiter *guarantees* to choose n of them\n\nInput:\n1) bit vector to choose from\n2) bit vector to disable a choosing layer\n\nOutput: \nn bit vectors of length k with at most 1 set bit\n\nSpeed: (ceil of the fraction)\n1) 1t per k/5 (wire delay)\n2) 2t per n (no base delay)\n\nSize:\n1) 3-wide tileable per k\n2) 4-wide tileable per n\n3) 5 high\n\nUse cases:\n-> comes in handy when wanting to choose multiple entries in a set recursively to convert some of the bandwidth to througput\n-> if you want to design OoO Cores, you will properbly need this a *lot*\n\nNotes: \n1) since stacking might be confusing, I marked the region to stack with gold blocks\n1) the design is optimal in both speed and size. This is the 5th Iteration, trust me.\n(There is also a Vertical Version with equal Timings)\n\nSchematic Content:\nn = 4\nk = 10 (2 modules. Each module consists of 4 normal layers and 1 repeater layer)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Stack",
+      "id": "1472390574349750416",
+      "url": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
+      "matches": [
+        "stack"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472643663023706303",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472643667779916069"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472643663023706303",
+    "uploadMessageId": "1472643653091725424"
+  },
+  "archivedAt": 1771176004450,
+  "updatedAt": 1771176004450,
+  "num_comments": 0
+}
