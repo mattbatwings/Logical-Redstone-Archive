@@ -78,6 +78,7 @@
     "HEX003",
     "ALU003",
     "ENCODE005",
-    "ROM003"
+    "ROM003",
+    "OTHERARITH001"
   ]
 }

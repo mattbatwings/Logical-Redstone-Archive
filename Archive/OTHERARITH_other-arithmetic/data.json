@@ -4,6 +4,12 @@
   "code": "OTHERARITH",
   "category": "➕ ARITHMETIC",
   "description": "Devices that perform other arithmetic operations.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472726848822575286",
+      "code": "OTHERARITH001",
+      "path": "OTHERARITH001_Cosine_Lookup_Table"
+    }
+  ]
 }
