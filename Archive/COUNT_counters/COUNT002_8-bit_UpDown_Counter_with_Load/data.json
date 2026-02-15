@@ -1,0 +1,107 @@
+{
+  "id": "1472329029070880936",
+  "name": "8-bit Up/Down Counter with Load",
+  "code": "COUNT002",
+  "reservedCodes": [
+    "COUNT002"
+  ],
+  "pastPostThreadIds": [
+    "1472420753168404642"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383098934268041",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383098934268042",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329029817208842",
+      "name": "8bit_updown_counter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329029070880936/1472329029817208842/8bit_updown_counter.png?ex=69922cc3&is=6990db43&hm=aa7843cc002a42bc42ae70803207a9b04077f9459f4cb265f7f13103b147ce39&",
+      "timestamp": 1771100995081,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329019566461073",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329019566461073/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 262486,
+      "canDownload": true,
+      "width": 639,
+      "height": 939,
+      "path": "images/8bit_updown_counter.png",
+      "hash": "334f84a647c98430ca7c26fbe8347ad8adb8d9a71148426751303f6acfd3db05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329029443911824",
+      "name": "COUNT002_8bit_updown_counter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329029070880936/1472329029443911824/8bit_updown_counter.schem?ex=69922cc3&is=6990db43&hm=7cf98fd67f6526f1e71f4ad440d71d79248924e0532e1ee203158231aea543eb&",
+      "timestamp": 1771100995081,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329019566461073",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329019566461073/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1589,
+      "canDownload": true,
+      "hash": "4abbc121a8f6acdb077840d028b092d53e5857d5182096fed570d33d9a328dac",
+      "path": "attachments/COUNT002_8bit_updown_counter.schem",
+      "schematic": {
+        "size": "19x18x4",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A counter with options to count up, count down, or load a new number.",
+    "input": "8b number, Load button, Count button, Up/down lever",
+    "output": "8b number"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472420753168404642",
+    "forumId": "1472329063317242077",
+    "continuingMessageIds": [
+      "1472420756452278426"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472420753168404642",
+    "uploadMessageId": "1472420746398793915"
+  },
+  "archivedAt": 1771122861621,
+  "updatedAt": 1771122861621,
+  "num_comments": 0
+}
