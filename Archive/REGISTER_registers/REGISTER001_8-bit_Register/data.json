@@ -1,0 +1,107 @@
+{
+  "id": "1472329064827060267",
+  "name": "8-bit Register",
+  "code": "REGISTER001",
+  "reservedCodes": [
+    "REGISTER001"
+  ],
+  "pastPostThreadIds": [
+    "1472420025724829727"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383100062404727",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383100339359987",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329065590427903",
+      "name": "8bit_register.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329064827060267/1472329065590427903/8bit_register.png?ex=69922ccb&is=6990db4b&hm=8905798cf239626eab1e733a70cad75524f7fb3bed2a453f66388cfbdb2d1b02&",
+      "timestamp": 1771101003606,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329059773055170",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329059773055170/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 91871,
+      "canDownload": true,
+      "width": 290,
+      "height": 810,
+      "path": "images/8bit_register.png",
+      "hash": "eabc36d34cb5a6847e2cc523b28b8c29b536f3fa14e9cb1d0ebf69ac55d59500"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329065229848710",
+      "name": "REGISTER001_8bit_register.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329064827060267/1472329065229848710/8bit_register.schem?ex=69922ccb&is=6990db4b&hm=bd1fdd3a6f50919f6dd3fbfc6e8187c1d7db28d19169ce6195e68596cf835b1a&",
+      "timestamp": 1771101003606,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329059773055170",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329059773055170/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1142,
+      "canDownload": true,
+      "hash": "b454e88873e2e124f161eb7502eb7722489b076917f0da84cf758fb1c40479ea",
+      "path": "attachments/REGISTER001_8bit_register.schem",
+      "schematic": {
+        "size": "6x18x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit register with read and write.",
+    "input": "8b number, Write button, Read button",
+    "output": "8b number"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472420025724829727",
+    "forumId": "1472329079880421558",
+    "continuingMessageIds": [
+      "1472420030271455339"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472420025724829727",
+    "uploadMessageId": "1472420018506432635"
+  },
+  "archivedAt": 1771122688027,
+  "updatedAt": 1771122688027,
+  "num_comments": 0
+}

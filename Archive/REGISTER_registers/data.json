@@ -4,6 +4,12 @@
   "code": "REGISTER",
   "category": "🕐 SEQUENTIAL BLOCKS",
   "description": "Devices that store data.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329064827060267",
+      "code": "REGISTER001",
+      "path": "REGISTER001_8-bit_Register"
+    }
+  ]
 }
