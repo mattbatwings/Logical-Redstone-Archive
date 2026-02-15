@@ -1,0 +1,103 @@
+{
+  "id": "1472331185408446719",
+  "name": "16x 8 bit Register File (Dual-read)",
+  "code": "REGISTERFILE001",
+  "reservedCodes": [
+    "REGISTERFILE001"
+  ],
+  "pastPostThreadIds": [
+    "1472407129418891294"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383147936317670",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331186612342957",
+      "name": "register_file.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331185408446719/1472331186612342957/register_file.png?ex=69922ec5&is=6990dd45&hm=0c95c0bf7d38a902a9bb56d3d9adc90ddff9a4adc97943476c0896116db57a63&",
+      "timestamp": 1771101509192,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 226461,
+      "canDownload": true,
+      "width": 640,
+      "height": 752,
+      "path": "images/register_file.png",
+      "hash": "e304dd046bcb2ce5157a7136385c50ba7bd0f98044e0c7b77723e7dae43c9c11"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331186214015248",
+      "name": "REGISTERFILE001_register_file.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331185408446719/1472331186214015248/register_file.schem?ex=69922ec5&is=6990dd45&hm=320f2c27131b62159bcd192f658f28ff722073bc23d3c3605c4d70b3a6bf6058&",
+      "timestamp": 1771101509192,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7953,
+      "canDownload": true,
+      "hash": "158370f236d9339d3de9b3f6021572c422f5cfd683fbc3ca0870a3af2db52229",
+      "path": "attachments/REGISTERFILE001_register_file.schem",
+      "schematic": {
+        "size": "19x32x37",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A dual read register file with 16 registers, 8 bits each. Register 0 is a zero register.",
+    "input": "2 4b read addresses, 4b write address, Clock button, Enable lever",
+    "output": "2 8b read ports"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472407129418891294",
+    "forumId": "1472331518817992704",
+    "continuingMessageIds": [
+      "1472407132841185444"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472407129418891294",
+    "uploadMessageId": "1472407114591764613"
+  },
+  "archivedAt": 1771119611489,
+  "updatedAt": 1771119611489,
+  "num_comments": 0
+}
