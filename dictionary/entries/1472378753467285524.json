@@ -14,6 +14,7 @@
   "referencedBy": [
     "INTERFACE004",
     "SORT001",
-    "SORT002"
+    "SORT002",
+    "REDCODE001"
   ]
 }

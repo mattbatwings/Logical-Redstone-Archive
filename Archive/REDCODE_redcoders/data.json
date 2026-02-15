@@ -4,6 +4,12 @@
   "code": "REDCODE",
   "category": "💱 CONVERSION",
   "description": "Devices that convert hexadecimal to one of 16 unique outputs.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472330051545595926",
+      "code": "REDCODE001",
+      "path": "REDCODE001_1-wide_Redcoder_Pulse_output"
+    }
+  ]
 }

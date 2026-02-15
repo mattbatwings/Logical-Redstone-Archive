@@ -1,0 +1,123 @@
+{
+  "id": "1472330051545595926",
+  "name": "1-wide Redcoder (Pulse output)",
+  "code": "REDCODE001",
+  "reservedCodes": [
+    "REDCODE001"
+  ],
+  "pastPostThreadIds": [
+    "1472406633157099530"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "AndrewsTechMC"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383127254204533",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383127254204534",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330052296245365",
+      "name": "1wide_redcoder.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330051545595926/1472330052296245365/1wide_redcoder.png?ex=69922db7&is=6990dc37&hm=1320fb384089fd7dedc88a55ce8b1f8c4d2716d95e785d11de9aad4dec6db859&",
+      "timestamp": 1771101238858,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330046877466705",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330046877466705/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 68964,
+      "canDownload": true,
+      "width": 683,
+      "height": 604,
+      "path": "images/1wide_redcoder.png",
+      "hash": "20b1d7fc15d8a978885c45fb6e2cb981b1c0451001a1ae3494dd0d450d6dd751"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330051839332454",
+      "name": "REDCODE001_1wide_redcoder.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330051545595926/1472330051839332454/1wide_redcoder.schem?ex=69922db6&is=6990dc36&hm=db3a61f4d72f421b284429705e4ccb5cd575d54bb6cc202359ea278bf8a28889&",
+      "timestamp": 1771101238858,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330046877466705",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330046877466705/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 670,
+      "canDownload": true,
+      "hash": "5de0d7858d52e6e4ccd764689936840627e6d45d6069489559e30ae5ddc09b45",
+      "path": "attachments/REDCODE001_1wide_redcoder.schem",
+      "schematic": {
+        "size": "1x9x18",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 1-wide redcoder.",
+    "input": "Hex number",
+    "output": "16b one-hot (pulsed)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "Hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "One-hot",
+      "id": "1472379322797920317",
+      "url": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
+      "matches": [
+        "one-hot"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406633157099530",
+    "forumId": "1472330299160399883",
+    "continuingMessageIds": [
+      "1472406636151967764"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406633157099530",
+    "uploadMessageId": "1472406628275060920"
+  },
+  "archivedAt": 1771119494788,
+  "updatedAt": 1771119494788,
+  "num_comments": 0
+}
