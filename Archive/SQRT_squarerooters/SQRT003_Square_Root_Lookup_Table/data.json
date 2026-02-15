@@ -1,0 +1,125 @@
+{
+  "id": "1472738766706839594",
+  "name": "Square Root Lookup Table",
+  "code": "SQRT003",
+  "reservedCodes": [
+    "SQRT003"
+  ],
+  "pastPostThreadIds": [
+    "1472739325086011595"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383086338773106",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472738767382249693",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472738766706839594/1472738767382249693/image.png?ex=6993aa5c&is=699258dc&hm=834e3dfac79364c159e80df19b61920f4bee5a4583b9df63285da79666c7eb67&",
+      "timestamp": 1771198684146,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 366219,
+      "canDownload": true,
+      "width": 899,
+      "height": 767,
+      "path": "images/image.png",
+      "hash": "3b57c867e632b668ede2d13bde516587f45a7b2dd8f26a43f22283a07e2e085a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472739170249084960",
+      "name": "SQRT003_sqrtlut.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472738766706839594/1472739170249084960/sqrtlut.schem?ex=6993aabc&is=6992593c&hm=5f9f836e84d816636e43c67b8751b5daf6ddb85c5df0b67184f625d2e6b0b092&",
+      "timestamp": 1771198779581,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "6d31993e6c5f3da1fcf1c82dec9fb162d858709b616e93880be4a5a774a98369",
+      "path": "attachments/SQRT003_sqrtlut.schem",
+      "size": 57672,
+      "schematic": {
+        "size": "45x40x60",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A lookup table preprogrammed to calculate the square root of an unsigned integer",
+    "input": "8 bit value",
+    "output": "8 bit value - unsigned 4.4 fixed point",
+    "speed": "9 ticks",
+    "notes": "If you're looking for a much smaller square root design, then this should not be your primary choice. However, this square root is very fast."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472739325086011595",
+    "forumId": "1472326463179985037",
+    "continuingMessageIds": [
+      "1472739334653345803"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472739325086011595",
+    "uploadMessageId": "1472739318555738277"
+  },
+  "archivedAt": 1771198814021,
+  "updatedAt": 1771198814021,
+  "num_comments": 0
+}
