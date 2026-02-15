@@ -1,0 +1,124 @@
+{
+  "id": "1472640883756368006",
+  "name": "fastest and smallest possible 1t/port vertical write ports",
+  "code": "OTHERCOMB012",
+  "reservedCodes": [
+    "OTHERCOMB012"
+  ],
+  "pastPostThreadIds": [
+    "1472693245036335147"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1192922842673717318",
+      "username": "rcs_33_91379",
+      "displayName": "RCS_33",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472640884167413982",
+      "name": "writeports.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472640883756368006/1472640884167413982/writeports.png?ex=69934f33&is=6991fdb3&hm=c20453c53248b8e28edc91e4b72774daca573787f30a9148596d4331a0d59913&",
+      "timestamp": 1771175347032,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 72953,
+      "canDownload": true,
+      "width": 478,
+      "height": 782,
+      "path": "images/writeports.png",
+      "hash": "fa776ba3d3397b3bd1a685c13c9a9806c191a52319412351372179df30ca8b61"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472640884502827018",
+      "name": "OTHERCOMB012_writeports.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472640883756368006/1472640884502827018/writeports.schem?ex=69934f33&is=6991fdb3&hm=f92a3da68476ed06f51c51d088d9ddd920fca6ee30ae8f25e32cfc5bdad1f75f&",
+      "timestamp": 1771175347032,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7767,
+      "canDownload": true,
+      "hash": "22e7bb78981cc5c2626fd1b58ba9c678aeaabe93504aaafe0951cc3dcba49405",
+      "path": "attachments/OTHERCOMB012_writeports.schem",
+      "schematic": {
+        "size": "33x38x17",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Description: distributes N inputs(numbers) onto K outputs.\n\nInput: N numbers of any size s. additionally, N K-sized bit vectors at the bottom specifying from which N to pull Data from\nOutput: K numbers of size s.\n\nSpeed:\n1) 1t per K/5\n2) 1t per N + (1t base from number input or 2t base from selection input at the bottom)\n\nSize:(ceil of fraction)\nx = 3-wide tileable per K\nz = 4-wide tileable per N\ny = 2 * bitwidth + 2 * (bitwidth/8) < (air gaps between bytes)\n\nUse cases:\n- insanely useful for all sorts of Memory when you want to write to multiple locations in parallel\n- can be used for Schedulers, Ram, Cache and basically any form of Memory. It can let components/clients write in parallel without interfering with each other.\n\nNote:\n- due to a design quirk, the output is always 11111111 when nothing is being read, except for every 5th output that is always 0. (this is due to the fact that every 5th input is inverted, but the default state for it is still 11111111 which gets inverted to 00000000)\n- it is optimal in speed and size and both bit-width and port-count can be expanded indefinitly\n- For Reference, Write ports distribute N->K where the delay scales less with K than it does with N. Use them if K > N. (Hand rule: use write ports when you have more Outputs than inputs)\n\nSchematic Content:\nbit-width = 16bit\nK = 10\nN = 4\n*grows towards +x +y +z when pasting*"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "byte"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "Cache"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472693245036335147",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472693250233208844",
+      "1472693251432775762"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472693245036335147",
+    "uploadMessageId": "1472693237318811807"
+  },
+  "archivedAt": 1771187827794,
+  "updatedAt": 1771187827794,
+  "num_comments": 0
+}

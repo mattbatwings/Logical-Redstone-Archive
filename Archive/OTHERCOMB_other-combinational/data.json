@@ -4,7 +4,7 @@
   "code": "OTHERCOMB",
   "category": "🔨 COMBINATIONAL BLOCKS",
   "description": "Devices that perform other combinational functions.",
-  "currentCodeId": 11,
+  "currentCodeId": 12,
   "entries": [
     {
       "id": "1472328901517770888",
@@ -60,6 +60,11 @@
       "id": "1472639401770352671",
       "code": "OTHERCOMB011",
       "path": "OTHERCOMB011_fastest_and_smallest_possible_1tport_vertical_read_ports"
+    },
+    {
+      "id": "1472640883756368006",
+      "code": "OTHERCOMB012",
+      "path": "OTHERCOMB012_fastest_and_smallest_possible_1tport_vertical_write_ports"
     }
   ]
 }
