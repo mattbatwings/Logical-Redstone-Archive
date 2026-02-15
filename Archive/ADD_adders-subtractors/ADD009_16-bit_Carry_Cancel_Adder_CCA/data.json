@@ -1,0 +1,105 @@
+{
+  "id": "1472328025650761749",
+  "name": "16-bit Carry Cancel Adder (CCA)",
+  "code": "ADD009",
+  "reservedCodes": [
+    "ADD009"
+  ],
+  "pastPostThreadIds": [
+    "1472431067649540200"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Aminotreal"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383093590720616",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328026292359289",
+      "name": "16bit_cca.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328025650761749/1472328026292359289/16bit_cca.png?ex=69922bd4&is=6990da54&hm=784e907896eb3ab010e0b2230a3c73fe7ade79d6d750bece970992c0c4fed87a&",
+      "timestamp": 1771100755847,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 85320,
+      "canDownload": true,
+      "width": 219,
+      "height": 905,
+      "path": "images/16bit_cca.png",
+      "hash": "47e1d46225b029ff441d84069141ff6dec86d6428efd0f0f274903af83444b6c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328026606796851",
+      "name": "ADD009_16bit_cca.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328025650761749/1472328026606796851/16bit_cca.schem?ex=69922bd4&is=6990da54&hm=e02e33b5979a386d8eaee8c944965f4e5eb789740ec268cdee708e2e8112709a&",
+      "timestamp": 1771100755847,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1813,
+      "canDownload": true,
+      "hash": "d478fb830f1f5e41cfe11cbe02dc966cea3b718f4e080d96caf5c72dbee5fcd8",
+      "path": "attachments/ADD009_16bit_cca.schem",
+      "schematic": {
+        "size": "9x35x6",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 16-bit adder.",
+    "input": "2 16b numbers",
+    "output": "16b sum",
+    "speed": "3 ticks w/ 2 tick carry to upper 8 bits"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472431067649540200",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1472431070480961618"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472431067649540200",
+    "uploadMessageId": "1472431062629220530"
+  },
+  "archivedAt": 1771125321058,
+  "updatedAt": 1771125321058,
+  "num_comments": 0
+}
