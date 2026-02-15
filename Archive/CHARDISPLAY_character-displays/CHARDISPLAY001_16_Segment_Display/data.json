@@ -1,0 +1,134 @@
+{
+  "id": "1472329320226750485",
+  "name": "16 Segment Display",
+  "code": "CHARDISPLAY001",
+  "reservedCodes": [
+    "CHARDISPLAY001"
+  ],
+  "pastPostThreadIds": [
+    "1472414438635212948"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383108333441152",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329320843182084",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329320226750485/1472329320843182084/image.png?ex=69922d08&is=6990db88&hm=e3b56672dd99695dda01e260c9c439786db2c3bd8a30f43a50460593a30821d8&",
+      "timestamp": 1771101064498,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329299796426986",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329299796426986/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 216555,
+      "canDownload": true,
+      "width": 914,
+      "height": 653,
+      "path": "images/image.png",
+      "hash": "2ee27f6d7ffa95927628fbfb17fc3618c7fb54becd031d38b19c8fb6bf590940"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329321182924800",
+      "name": "CHARDISPLAY001_16seg_4.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329320226750485/1472329321182924800/16seg_4.schem?ex=69922d08&is=6990db88&hm=e6b41a7a7ddaec8789b21874cebe3e292146069f93de62e12291eab96f2ef4db&",
+      "timestamp": 1771101064498,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329299796426986",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329299796426986/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2639,
+      "canDownload": true,
+      "hash": "20d3535a7e8539560c944880438e0fa09aa74f97f659e98a5d995bfa638a10de",
+      "path": "attachments/CHARDISPLAY001_16seg_4.schem",
+      "schematic": {
+        "size": "15x10x11",
+        "version": "1.21.8"
+      }
+    },
+    {
+      "id": "1472329321455816755",
+      "name": "CHARDISPLAY001_16segdisplay.txt",
+      "contentType": "text/plain; charset=utf-8",
+      "url": "https://cdn.discordapp.com/attachments/1472329320226750485/1472329321455816755/16segdisplay.txt?ex=69922d08&is=6990db88&hm=4614f2e5d2b54431228fc781cdad36c07d1497a4e82986eaea5a5de386af2a55&",
+      "timestamp": 1771101064498,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329299796426986",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329299796426986/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 515,
+      "canDownload": true,
+      "hash": "1da77a67dbbb06fdbd8acca5d8827e1088f4733d22e21333e4c9adf95be7be35",
+      "path": "attachments/CHARDISPLAY001_16segdisplay.txt"
+    }
+  ],
+  "records": {
+    "description": "A 16 segment display for letters and numbers",
+    "input": "4 Hex inputs",
+    "output": "The lamps display",
+    "speed": "8 ticks",
+    "notes": "Can be stacked horizontally with 1 block apart and vertically with 2 blocks apart, I included a text file for mapping some common characters"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472414438635212948",
+    "forumId": "1472329368914104463",
+    "continuingMessageIds": [
+      "1472414442959540418"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472414438635212948",
+    "uploadMessageId": "1472414431911743623"
+  },
+  "archivedAt": 1771121354468,
+  "updatedAt": 1771121354468,
+  "num_comments": 0
+}

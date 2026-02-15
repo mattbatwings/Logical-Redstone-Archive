@@ -32,6 +32,7 @@
     "HEX005",
     "HEX006",
     "ADD001",
-    "OTHERDISPLAY001"
+    "OTHERDISPLAY001",
+    "CHARDISPLAY001"
   ]
 }
