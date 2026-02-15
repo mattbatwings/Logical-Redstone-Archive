@@ -1,0 +1,107 @@
+{
+  "id": "1472329113045041193",
+  "name": "Bi-directional Shift Register w/ Load",
+  "code": "SHIFT003",
+  "reservedCodes": [
+    "SHIFT003"
+  ],
+  "pastPostThreadIds": [
+    "1472419123198824530"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383101924544569",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383101924544570",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329113707614430",
+      "name": "bidirectional_shift_reg_load.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329113045041193/1472329113707614430/bidirectional_shift_reg_load.png?ex=69922cd7&is=6990db57&hm=5c1f1a2443f2cff12d5f84ecdd00f554040035b8a427fa86c7516b9b1bdacd89&",
+      "timestamp": 1771101015102,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329095034437674",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329095034437674/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 182282,
+      "canDownload": true,
+      "width": 449,
+      "height": 801,
+      "path": "images/bidirectional_shift_reg_load.png",
+      "hash": "92694a0df5a956b4d60998c554d636d0b2ca4b79c5520561da09f09d587b964c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329113384784015",
+      "name": "SHIFT003_bidirectional_shift_reg_load.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329113045041193/1472329113384784015/bidirectional_shift_reg_load.schem?ex=69922cd7&is=6990db57&hm=542a3d2d238ba3d2079a43ee278cf9470a68c7021bc8f537c696563334ae958a&",
+      "timestamp": 1771101015102,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329095034437674",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329095034437674/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1734,
+      "canDownload": true,
+      "hash": "c99484a10fcc12f877f1f95ce14b5a503bb950ebce8f16d86bd1b37b1f18b11d",
+      "path": "attachments/SHIFT003_bidirectional_shift_reg_load.schem",
+      "schematic": {
+        "size": "12x18x9",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A pistonless bi-directional shift register with a load function.",
+    "input": "8b number, Load button, Shift up button, Shift down button",
+    "output": "8b number"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472419123198824530",
+    "forumId": "1472329117041954866",
+    "continuingMessageIds": [
+      "1472419132552118315"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472419123198824530",
+    "uploadMessageId": "1472419116177686730"
+  },
+  "archivedAt": 1771122472999,
+  "updatedAt": 1771122472999,
+  "num_comments": 0
+}
