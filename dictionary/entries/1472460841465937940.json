@@ -75,6 +75,7 @@
     "RANDOM001",
     "RANDOM005",
     "HEX002",
-    "HEX003"
+    "HEX003",
+    "ALU003"
   ]
 }

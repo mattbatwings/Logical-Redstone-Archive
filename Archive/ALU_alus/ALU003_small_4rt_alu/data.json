@@ -1,0 +1,142 @@
+{
+  "id": "1472694322758553600",
+  "name": "small 4rt alu",
+  "code": "ALU003",
+  "reservedCodes": [
+    "ALU003"
+  ],
+  "pastPostThreadIds": [
+    "1472702174076342422"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383145008562312",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472694323073257585",
+      "name": "small_4rt_ALU.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472694322758553600/1472694323073257585/image.png?ex=699380f7&is=69922f77&hm=3eb39eba07f55c77aaaa9161a42a6de4696147f66a29ee4d691f37b4554eb16f&",
+      "timestamp": 1771188087883,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "9*10",
+      "size": 134551,
+      "canDownload": true,
+      "width": 626,
+      "height": 921,
+      "path": "images/small_4rt_ALU.png",
+      "hash": "801873066eb091d3414786824fadb81fb811e2335b8735690f8ebda98e0489e1"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472694323429507082",
+      "name": "ALU003_Truth_Table.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1472694322758553600/1472694323429507082/image.png?ex=699380f8&is=69922f78&hm=ced970d6b5f9e0460af0d3edd954c253023240e540beb8b670a6a9b27ed31bf0&",
+      "timestamp": 1771188087883,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "White indicates when an input should be powered. Black indicates when it should not. Grey indicates when either input can be toggled for the function to work but only one should be enable simultaneously",
+      "size": 17442,
+      "canDownload": true,
+      "hash": "78139934b062e507263fbc225aaea0f4cec85a88d76c10c45b2cbfe92e952ead",
+      "path": "attachments/ALU003_Truth_Table.png",
+      "image": {
+        "width": 460,
+        "height": 640
+      }
+    },
+    {
+      "id": "1472694323710660910",
+      "name": "ALU003_4rt_alu.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472694322758553600/1472694323710660910/4rt_alu.schem?ex=699380f8&is=69922f78&hm=6e984c4fd85a185c4aa39b4317c05ecb1d1935b6204df680699f9d0c6f33b9e0&",
+      "timestamp": 1771188087883,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Signs may not display in file",
+      "size": 2381,
+      "canDownload": true,
+      "hash": "706a02e842388ba48bd57f5b3ac3095d18b59d8ea529b356931275be2470da65",
+      "path": "attachments/ALU003_4rt_alu.schem",
+      "schematic": {
+        "size": "12x19x11",
+        "version": "1.21.1"
+      }
+    }
+  ],
+  "records": {
+    "description": "Based on Aminotreal's 3rt CCA. 9*10 in size. Fixed some quirks and the truth table from the original message.",
+    "input": "A and B (8 bit), !A, !B, Xor (FC), And, Cin, Rsh",
+    "output": "C (8 bit), Cout",
+    "speed": "4rt (For all operations)",
+    "notes": "Greyed areas mean only one input should be toggled, but either works."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472702174076342422",
+    "forumId": "1472331373846069430",
+    "continuingMessageIds": [
+      "1472702178551533630",
+      "1472702179445047629"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472702174076342422",
+    "uploadMessageId": "1472702167566778585"
+  },
+  "archivedAt": 1771189956776,
+  "updatedAt": 1771189956776,
+  "num_comments": 0
+}
