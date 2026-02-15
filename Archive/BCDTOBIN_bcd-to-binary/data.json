@@ -1,0 +1,9 @@
+{
+  "id": "1472330151210516531",
+  "name": "bcd-to-binary",
+  "code": "BCDTOBIN",
+  "category": "💱 CONVERSION",
+  "description": "Devices that convert binary coded decimal to binary.",
+  "currentCodeId": 0,
+  "entries": []
+}
