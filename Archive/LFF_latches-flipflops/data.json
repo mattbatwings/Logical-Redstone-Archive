@@ -4,7 +4,7 @@
   "code": "LFF",
   "category": "🕐 SEQUENTIAL BLOCKS",
   "description": "SR latches, Data latches, and T flip flops.",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1472328975824060436",
@@ -35,6 +35,11 @@
       "id": "1472328947076305091",
       "code": "LFF006",
       "path": "LFF006_Data_D_Latch"
+    },
+    {
+      "id": "1472328936884273152",
+      "code": "LFF007",
+      "path": "LFF007_Set-Reset_SR_Latch"
     }
   ]
 }

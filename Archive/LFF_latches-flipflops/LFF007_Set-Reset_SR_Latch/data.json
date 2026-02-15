@@ -1,0 +1,98 @@
+{
+  "id": "1472328936884273152",
+  "name": "Set-Reset (SR) Latch",
+  "code": "LFF007",
+  "reservedCodes": [
+    "LFF007"
+  ],
+  "pastPostThreadIds": [
+    "1472423358967840920"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383097180786881",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383097180786882",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328943246774344",
+      "name": "srlatch.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328936884273152/1472328943246774344/srlatch.png?ex=69922cae&is=6990db2e&hm=00abd58de34baf6e4bdb59fdd5117d420abc851dd33b6cf81ef22678eae053db&",
+      "timestamp": 1771100973102,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 106718,
+      "canDownload": true,
+      "width": 837,
+      "height": 725,
+      "path": "images/srlatch.png",
+      "hash": "609801aa7a2e8685a60b14810de507ee7d14160ae7cefc438bc1048505032c4a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328937001582805",
+      "name": "LFF007_srlatch.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328936884273152/1472328937001582805/srlatch.schem?ex=69922cad&is=6990db2d&hm=05eff067a2a4840387fcf935397ba00e14ee93e3e12006cfdf41f4637415d13d&",
+      "timestamp": 1771100973102,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 720,
+      "canDownload": true,
+      "hash": "9c0d77a9fdbae30c325bee98d68511dfa17c193f0344ef0727c31429a5c9aca8",
+      "path": "attachments/LFF007_srlatch.schem",
+      "schematic": {
+        "size": "3x3x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Becomes \"Set\" when set is pressed, or becomes \"Reset\" when reset is pressed.",
+    "notes": "If set and reset are pressed simultaneously, it will end in the \"Set\" state."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472423358967840920",
+    "forumId": "1472328937248915517",
+    "continuingMessageIds": [
+      "1472423362323152927"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472423358967840920",
+    "uploadMessageId": "1472423354089738381"
+  },
+  "archivedAt": 1771123483356,
+  "updatedAt": 1771123483356,
+  "num_comments": 0
+}
