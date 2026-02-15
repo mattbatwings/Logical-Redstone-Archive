@@ -1,0 +1,128 @@
+{
+  "id": "1472543617108148320",
+  "name": "16-Bit Arithmetic Logic Unit",
+  "code": "ALU002",
+  "reservedCodes": [
+    "ALU002"
+  ],
+  "pastPostThreadIds": [
+    "1472589688002052355"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "775293592171446283",
+      "username": "creeperdoesredstone",
+      "displayName": "creeperdoesredstone",
+      "iconURL": "https://cdn.discordapp.com/avatars/775293592171446283/1303631111755795f1849624e0944434.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383145008562312",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472543617716584550",
+      "name": "build.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1472543617108148320/1472543617716584550/image.png?ex=6992f49d&is=6991a31d&hm=866aeb19ec7cb066509fab34cace55031d4bd86e5d3c9e305feea5edd9753e5a&",
+      "timestamp": 1771152156856,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "775293592171446283",
+        "username": "creeperdoesredstone",
+        "displayName": "creeperdoesredstone",
+        "iconURL": "https://cdn.discordapp.com/avatars/775293592171446283/1303631111755795f1849624e0944434.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "The 16-bit ALU",
+      "size": 378553,
+      "canDownload": true,
+      "width": 620,
+      "height": 1189,
+      "path": "images/build.png",
+      "hash": "6eceef27cb79ede8a0f6f42e11dc2f9211d64e5357e6837865e5ccf16da448ba"
+    },
+    {
+      "id": "1472543618559381544",
+      "name": "operations.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1472543617108148320/1472543618559381544/image.png?ex=6992f49d&is=6991a31d&hm=2cfba88bdb224a39759ea4dfc0e6d3f773d81c2aaa94c001a8d42f23e3ad5f13&",
+      "timestamp": 1771152156856,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "775293592171446283",
+        "username": "creeperdoesredstone",
+        "displayName": "creeperdoesredstone",
+        "iconURL": "https://cdn.discordapp.com/avatars/775293592171446283/1303631111755795f1849624e0944434.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "The documented operations for the 16-bit ALU.",
+      "size": 48859,
+      "canDownload": true,
+      "width": 830,
+      "height": 845,
+      "path": "images/operations.png",
+      "hash": "6eeb86765a1f4d7fec19581996e61fe4369d1b3ff8899766f0cf3fa7f76fd6c4"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472547462605570179",
+      "name": "ALU002_cdr_16bALU.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472543617108148320/1472547462605570179/cdr_16bALU.schem?ex=6992f831&is=6991a6b1&hm=f4e786924ebac5be0e54eca9db8c5f12112f5adf7795d676f4a06bf1b89ace3a&",
+      "timestamp": 1771153072858,
+      "author": {
+        "type": "discord-external",
+        "id": "775293592171446283",
+        "username": "creeperdoesredstone",
+        "iconURL": "https://cdn.discordapp.com/avatars/775293592171446283/1303631111755795f1849624e0944434.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "473bb8cd0e65bd83a3900708277315b4926f69913413a9d5140f7e31fda3c537",
+      "path": "attachments/ALU002_cdr_16bALU.schem",
+      "size": 3812,
+      "schematic": {
+        "size": "34x40x13",
+        "version": "1.19.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 16-bit ALU capable of performing 23 operations.",
+    "input": "2 16b numbers, 7 levers to control operation",
+    "output": "1 16b number",
+    "speed": "18 rt from input to output",
+    "notes": "Refer to the attached table for the documented operations of this ALU.\nFeel free to mess around the ALU and find out, as you may discover undocumented operations that the ALU can perform."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472589688002052355",
+    "forumId": "1472331373846069430",
+    "continuingMessageIds": [
+      "1472589693286613116"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472589688002052355",
+    "uploadMessageId": "1472589682503192773"
+  },
+  "archivedAt": 1771163138915,
+  "updatedAt": 1771163138915,
+  "num_comments": 0
+}
