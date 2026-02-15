@@ -212,6 +212,29 @@
       ],
       "summary": "Two different ways of powering blocks which allow signals to travel through blocks.\n\nHard power - Created when powering a block with a repeater, comparator, torch, observers, levers, pressure plate...",
       "updatedAt": 1771125676521
+    },
+    {
+      "id": "1472458903580311646",
+      "terms": [
+        "D-Latch"
+      ],
+      "summary": "A latch with two inputs: One for data and one for clock.\n\nWhen clock is pulsed, the state of the latch is set to the data.\n\nVery commonly implemented with a locked repeater and is used in registers...",
+      "updatedAt": 1771184384234
+    },
+    {
+      "id": "1472460841465937940",
+      "terms": [
+        "Data sizes",
+        "Bit",
+        "Nibble",
+        "Byte",
+        "Kilobit",
+        "Kibibit",
+        "Kilobyte",
+        "Kibibyte"
+      ],
+      "summary": "Guide to data storage sizes:\n\n**Bit**: The smallest unit of data, representing a 0 or a 1 in binary. Abbreviated as b\n\n**Nibble**: One hexadecimal \"digit,\" representing either **4 bits** or the 16 ...",
+      "updatedAt": 1771184371166
     }
   ]
 }
