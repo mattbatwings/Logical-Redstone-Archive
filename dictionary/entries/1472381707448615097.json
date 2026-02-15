@@ -6,8 +6,9 @@
   "definition": "When a device can begin processing another input before the value for the previous calculation has finished.\n\nExample: 5 Hz pipelined multiplier (Means that multiplier can process a new number every 2 redstone ticks)",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472381707448615097",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472381707448615097/1472381708300189758",
-  "status": "PENDING",
-  "updatedAt": 1771113554654,
+  "status": "REJECTED",
+  "statusMessageID": "1472381708300189758",
+  "updatedAt": 1771113673473,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -19,6 +20,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1472381708300189758"
+  "referencedBy": []
 }
