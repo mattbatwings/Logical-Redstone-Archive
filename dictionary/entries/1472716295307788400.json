@@ -4,11 +4,12 @@
     "Floats",
     "Floating Point"
   ],
-  "definition": "Floats (Floating Point Numbers) are binary strings used to express very large and very small numbers way larger or smaller than normal binary would allow that contain 3 parts:\nSign: A singular bit that indicates whether the number is negative or positive.\nExponent: Multiple bits that indicate how much the original number was shifted by (2^n). It is usually offset by a certain value to allow for positive and negative exponents.\nMagnitude: The “number” itself which the sign and magnitude reference. Usually the largest portion of bits in the float.",
+  "definition": "Floats (Floating Point Numbers) are binary strings used to express very large and very small numbers way larger or smaller than normal binary would allow that contain 3 parts:\nSign: A singular bit that indicates whether the number is negative or positive.\nExponent: Multiple bits that indicate how much the original number was shifted by (2^n). It is usually offset by a certain value to allow for positive and negative exponents.\nMagnitude: The “number” itself which the sign and magnitude reference. Usually the largest portion of bits in the float.\nAdditionally, some implementations of floats also include representations for some “special” values such as +/- 0, \n+/- ∞ and NaN (Not a Number)",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472716295307788400",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472716295307788400/1472716296092254394",
   "status": "PENDING",
-  "updatedAt": 1771193326633,
+  "statusMessageID": "1472716296092254394",
+  "updatedAt": 1771194031409,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -20,6 +21,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1472716296092254394"
+  "referencedBy": []
 }
