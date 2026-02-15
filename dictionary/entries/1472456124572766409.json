@@ -1,0 +1,15 @@
+{
+  "id": "1472456124572766409",
+  "terms": [
+    "Encoder",
+    "Decoder"
+  ],
+  "definition": "Encoder - usually converts easier to read data (like decimal) into more compact or cryptic data (like binary).\nDecoder - usually converts compact or cryptic data into easier to read data. (Binary -> decimal)",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472456124572766409",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472456124572766409/1472456125495509034",
+  "status": "PENDING",
+  "updatedAt": 1771131297099,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472456125495509034"
+}
