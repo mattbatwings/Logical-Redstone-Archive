@@ -1,0 +1,100 @@
+{
+  "id": "1472330883058106379",
+  "name": "Classic crosswire",
+  "code": "CROSSWIRE002",
+  "reservedCodes": [
+    "CROSSWIRE002"
+  ],
+  "pastPostThreadIds": [
+    "1472407038117285951"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383131813281829",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383131813281830",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330883771142175",
+      "name": "classic_crosswire.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330883058106379/1472330883771142175/classic_crosswire.png?ex=69922e7d&is=6990dcfd&hm=49720b4f76e7d552299c193f3089622075bc8275af3967b7ff93a0717d04dc38&",
+      "timestamp": 1771101437106,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330873629053039",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330873629053039/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 106717,
+      "canDownload": true,
+      "width": 316,
+      "height": 760,
+      "path": "images/classic_crosswire.png",
+      "hash": "21c25606b222c7af19ea760ed62b5773edcd4fd041138e59fa0810f41033e122"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330883435462849",
+      "name": "CROSSWIRE002_classic_crosswire.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330883058106379/1472330883435462849/classic_crosswire.schem?ex=69922e7d&is=6990dcfd&hm=d409499e804fe09b1691db712b012176ddf2687692f87c46afee785d6795a958&",
+      "timestamp": 1771101437106,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330873629053039",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330873629053039/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 468,
+      "canDownload": true,
+      "hash": "2a56c7eb1cd9b1c775d4e1a5fa8c1adf2d2c29e9361496ae8484fd8e7779a976",
+      "path": "attachments/CROSSWIRE002_classic_crosswire.schem",
+      "schematic": {
+        "size": "5x11x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "The classic way to cross multi-bit vertical wires through each other using repeaters.",
+    "input": "5b",
+    "output": "5b",
+    "speed": "1 tick"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472407038117285951",
+    "forumId": "1472330471156355286",
+    "continuingMessageIds": [
+      "1472407042080641195"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472407038117285951",
+    "uploadMessageId": "1472407031720706152"
+  },
+  "archivedAt": 1771119591776,
+  "updatedAt": 1771119591776,
+  "num_comments": 0
+}
