@@ -1,0 +1,135 @@
+{
+  "id": "1472684559119286526",
+  "name": "Tristate Register",
+  "code": "REGISTER002",
+  "reservedCodes": [
+    "REGISTER002"
+  ],
+  "pastPostThreadIds": [
+    "1472729369951867113"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383100062404727",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472684559349842022",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472684559119286526/1472684559349842022/image.png?ex=699377e0&is=69922660&hm=e3cc1ea6d254c492d0894c632a42c184ce006013a24ace9fb270c4197b2f9136&",
+      "timestamp": 1771185760050,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 93652,
+      "canDownload": true,
+      "width": 254,
+      "height": 767,
+      "path": "images/image.png",
+      "hash": "49579b095185d6302df58c1e8731952b9e20fdefb6904e2fe7007b2980a35a83"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472684742603313407",
+      "name": "REGISTER002_tristatereg.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472684559119286526/1472684742603313407/tristatereg.schem?ex=6993780b&is=6992268b&hm=d6f7ea55478b881b961a1e3188be976b50ee48a16cf4f7c91b0e92692906f869&",
+      "timestamp": 1771185803015,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "b6083d66bce0ece56581c95b509458ae01c569657a54c40232baeb5329a77d97",
+      "path": "attachments/REGISTER002_tristatereg.schem",
+      "size": 1541,
+      "schematic": {
+        "size": "8x18x4",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A versatile tristate register ready to be used in caches or cache less RAM. It is able to (in the right conditions) read and write at 10 Hz, and is more compact than certain traditional registers without much added complexity.",
+    "input": "8-bit data, Read line, Write pulse",
+    "output": "8-bit data",
+    "speed": "2 tick read, 3 tick including standard decoder",
+    "notes": "Read and write lines are inverted (this allows standard glass tower decoders to take one tick). Since this is a tristate register, you cannot read and write at the same time (reading while writing outputs 0). The containers in the schematic which are hoppers must stay that way in order for the glass towers to not be cut off when the register is pasted 2 wide apart (staggered). The barrels can stay as such."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "cache"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "Hz"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472729369951867113",
+    "forumId": "1472329079880421558",
+    "continuingMessageIds": [
+      "1472729373848240435"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472729369951867113",
+    "uploadMessageId": "1472729364104872192"
+  },
+  "archivedAt": 1771196439351,
+  "updatedAt": 1771196439351,
+  "num_comments": 0
+}

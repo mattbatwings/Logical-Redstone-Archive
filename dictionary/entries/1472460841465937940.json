@@ -80,6 +80,7 @@
     "ENCODE005",
     "ROM003",
     "OTHERARITH001",
-    "OTHERARITH002"
+    "OTHERARITH002",
+    "REGISTER002"
   ]
 }
