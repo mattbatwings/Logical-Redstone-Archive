@@ -4,12 +4,12 @@
     "Queue",
     "FIFO"
   ],
-  "definition": "FIFO: A data structure where the first input is outputted first (FIFO, First in first out).\n\nFor example, when the numbers 1, 2, 3, 4 are inputted in that order, they are then outputted in that order as well (1, 2, 3, 4)\n\nQueue: An implementation of FIFO, typically using shit registers. The first value inputted (pushed) is the first value outputted (popped)",
+  "definition": "FIFO: A data structure where the first input is outputted first (FIFO, First in first out).\n\nFor example, when the numbers 1, 2, 3, 4 are inputted in that order, they are outputted in that order as well (1, 2, 3, 4)\n\nQueue: An implementation of FIFO, typically using shift registers. The first value inputted (pushed) is the first value outputted (popped)",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472461327996817620",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472461327996817620/1472461328898851050",
   "status": "PENDING",
   "statusMessageID": "1472461328898851050",
-  "updatedAt": 1771185730021,
+  "updatedAt": 1771185813195,
   "references": [],
   "referencedBy": []
 }
