@@ -1,0 +1,123 @@
+{
+  "id": "1472329432663330919",
+  "name": "Signal Strength Matrix Decoder (from Pacman)",
+  "code": "OTHERDISPLAY001",
+  "reservedCodes": [
+    "OTHERDISPLAY001"
+  ],
+  "pastPostThreadIds": [
+    "1472411799197581343"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "206482298491764736",
+      "username": "sloimay",
+      "displayName": "sloimay",
+      "iconURL": "https://cdn.discordapp.com/avatars/206482298491764736/a778f49416122ef2e9b2339658466528.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383113035256058",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383113035256059",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329433204527337",
+      "name": "ss_matrix_decoder.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329432663330919/1472329433204527337/ss_matrix_decoder.png?ex=69922d23&is=6990dba3&hm=4e7323c0ef05db5a760d632df1ccb663660e19a284d6cc59e8d146f0c85e2829&",
+      "timestamp": 1771101091305,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329421112213567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329421112213567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 501181,
+      "canDownload": true,
+      "width": 755,
+      "height": 1080,
+      "path": "images/ss_matrix_decoder.png",
+      "hash": "81c4d0d406abd30eaf0477f263e8f3d4b7483f1e982d3792874fb693d0a7ccb7"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329433472831559",
+      "name": "OTHERDISPLAY001_ss_matrix_decoder.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329432663330919/1472329433472831559/ss_matrix_decoder.schem?ex=69922d23&is=6990dba3&hm=b3505d41c9c5ccf687b0bd4d6e26c060cb400982b9500cb2a930552b42218923&",
+      "timestamp": 1771101091305,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329421112213567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329421112213567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 35294,
+      "canDownload": true,
+      "hash": "0a017515ba762d15b8e9eac89f29c537633b20c4c4284ad1e4a754eddb5d16d7",
+      "path": "attachments/OTHERDISPLAY001_ss_matrix_decoder.schem",
+      "schematic": {
+        "size": "82x71x11",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An XY decoder that plots a hex value. Great for a color display.",
+    "input": "5b X, 5b Y, 4b strength"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472411799197581343",
+    "forumId": "1472329757856235794",
+    "continuingMessageIds": [
+      "1472411802728927336"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472411799197581343",
+    "uploadMessageId": "1472411788137070809"
+  },
+  "archivedAt": 1771120725679,
+  "updatedAt": 1771120725679,
+  "num_comments": 0
+}
