@@ -1,0 +1,100 @@
+{
+  "id": "1472330293640954130",
+  "name": "Upward/Downward Binary Transmission",
+  "code": "TRANSMIT005",
+  "reservedCodes": [
+    "TRANSMIT005"
+  ],
+  "pastPostThreadIds": [
+    "1472406879345971349"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383128646717446",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383128646717447",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330294223962202",
+      "name": "stackable_spirals.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330293640954130/1472330294223962202/stackable_spirals.png?ex=69922df0&is=6990dc70&hm=aeb35ec36578a5ca3fe6952b5147108353e252b67738b2f616858c79b1cf9466&",
+      "timestamp": 1771101296578,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330268130934788",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330268130934788/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 120924,
+      "canDownload": true,
+      "width": 596,
+      "height": 576,
+      "path": "images/stackable_spirals.png",
+      "hash": "917f835760688d9a38af836d26226f85fbe77e5af5efa4b5453bce6086246e4f"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330293904937050",
+      "name": "TRANSMIT005_stackable_spirals.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330293640954130/1472330293904937050/stackable_spirals.schem?ex=69922df0&is=6990dc70&hm=7ebebf52d64e8311d33a0afd3055bccab0ee56fc9b715144ba75b82c5abfbc62&",
+      "timestamp": 1771101296578,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330268130934788",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330268130934788/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 823,
+      "canDownload": true,
+      "hash": "61030dd3d54aab12789547928bbaaa5200878f9251ae8f09394506c14cdd8cc7",
+      "path": "attachments/TRANSMIT005_stackable_spirals.schem",
+      "schematic": {
+        "size": "3x18x24",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A way to transmit binary upward or downward by staggering spirals every 2 blocks.",
+    "input": "4b",
+    "output": "4b",
+    "notes": "Overview of more transmission techniques: https://youtu.be/pT-VWjqYli0"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406879345971349",
+    "forumId": "1472330395033927893",
+    "continuingMessageIds": [
+      "1472406888552464621"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406879345971349",
+    "uploadMessageId": "1472406872710582445"
+  },
+  "archivedAt": 1771119553911,
+  "updatedAt": 1771119553911,
+  "num_comments": 0
+}
