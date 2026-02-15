@@ -239,6 +239,16 @@
       "updatedAt": 1771184488096
     },
     {
+      "id": "1472457972671184967",
+      "terms": [
+        "MSB",
+        "Most Significant Bit",
+        "Sign Bit"
+      ],
+      "summary": "MSB: The most significant bit, the bit that has the most value in a binary value.\n\nIn twos complement, this bit is 1 when the number is negative and 0 otherwise. As such, it is sometimes called the...",
+      "updatedAt": 1771184933043
+    },
+    {
       "id": "1472458731156537364",
       "terms": [
         "SR Latch",
@@ -269,6 +279,15 @@
       ],
       "summary": "Guide to data storage sizes:\n\n**Bit**: The smallest unit of data, representing a 0 or a 1 in binary. Abbreviated as b\n\n**Nibble**: One hexadecimal \"digit,\" representing either **4 bits** or the 16 ...",
       "updatedAt": 1771184371166
+    },
+    {
+      "id": "1472601898887418039",
+      "terms": [
+        "LSB",
+        "Least Significant Bit"
+      ],
+      "summary": "LSB: The least significant bit, the bit that has the least value in a binary value. \n\nThis bit can be used to determine a numbers parity. In binary, all even numbers have an LSB or 0, and all odd n...",
+      "updatedAt": 1771184936655
     }
   ]
 }
