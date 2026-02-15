@@ -1,0 +1,133 @@
+{
+  "id": "1472328537431343157",
+  "name": "8 Bit Multiplier",
+  "code": "MULTIPY002",
+  "reservedCodes": [
+    "MULTIPY002"
+  ],
+  "pastPostThreadIds": [
+    "1472428470431649935"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Aminotreal"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383083402494010",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328538236649483",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328537431343157/1472328538236649483/image.png?ex=69922c4e&is=6990dace&hm=0e86a77016597f1f36b0d0c7cce81ef8ac7454976a665c707b96d2f53cd3e4cb&",
+      "timestamp": 1771100877865,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 231652,
+      "canDownload": true,
+      "width": 530,
+      "height": 735,
+      "path": "images/image.png",
+      "hash": "a402cbc12dfb22cf746a4c2023c7a0516d7d107fa69588cac01f9318b92f9f5b"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328538521604207",
+      "name": "MULTIPY002_5HzMultiplier_1_2.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328537431343157/1472328538521604207/5HzMultiplier_1_2.schem?ex=69922c4e&is=6990dace&hm=1bfbe976a8edc0a2ee19179ff3a7beca82321e27fff9b5ff2f5cb6dab0cf3b04&",
+      "timestamp": 1771100877865,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mixelmaniac7",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/6e0bce782b1b64a2c2feb05a7ad29c18.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11177,
+      "canDownload": true,
+      "hash": "24fce8ef9cdfd1bf122909f590e28876394d0454a09dceb279b1fd3ed0827019",
+      "path": "attachments/MULTIPY002_5HzMultiplier_1_2.schem",
+      "schematic": {
+        "size": "14x35x35",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8 bit combinational multiplier with 16 bit output",
+    "input": "2 8 bit levers for A/B",
+    "output": "16 bits output",
+    "speed": "24 ticks (pipelined at 5Hz)",
+    "notes": "Uses Aminotreal's 16 bit 5Hz CCA, optimised for size"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "pipelined",
+        "Hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472428470431649935",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1472428477188669451"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472428470431649935",
+    "uploadMessageId": "1472428460122181781"
+  },
+  "archivedAt": 1771124700037,
+  "updatedAt": 1771124700037,
+  "num_comments": 0
+}
