@@ -1,0 +1,97 @@
+{
+  "id": "1472329194892558478",
+  "name": "Small 7seg Display Module",
+  "code": "DISMODULE003",
+  "reservedCodes": [
+    "DISMODULE003"
+  ],
+  "pastPostThreadIds": [
+    "1472417446517407744"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383106643263545",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383106643263544",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329195375038577",
+      "name": "small_7seg_module.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329194892558478/1472329195375038577/small_7seg_module.png?ex=69922cea&is=6990db6a&hm=fa67b55290b5f230496525370ee14b43024657db130b4b48c99939485bc6e87e&",
+      "timestamp": 1771101034616,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329184335630448",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329184335630448/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 129507,
+      "canDownload": true,
+      "width": 649,
+      "height": 763,
+      "path": "images/small_7seg_module.png",
+      "hash": "0bf19ee74d95aefc3e0b5e36ca4b380fb06c1f8914ce07fc8e5024873d1d92b8"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329195077111900",
+      "name": "DISMODULE003_small_7seg_module.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329194892558478/1472329195077111900/small_7seg_module.schem?ex=69922cea&is=6990db6a&hm=b5a9b888312f57082c3681f781e96966a0cd637865240d4376da5709faa406ac&",
+      "timestamp": 1771101034616,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329184335630448",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329184335630448/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 464,
+      "canDownload": true,
+      "hash": "947d9dcf3984d53b653a9b1fdf3f25edaa1334a7550b52b04cb53f71a076a63a",
+      "path": "attachments/DISMODULE003_small_7seg_module.schem",
+      "schematic": {
+        "size": "5x6x4",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Wiring to display 7 segments 3x5 display."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472417446517407744",
+    "forumId": "1472329335309471776",
+    "continuingMessageIds": [
+      "1472417450342613177"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472417446517407744",
+    "uploadMessageId": "1472417440452444243"
+  },
+  "archivedAt": 1771122073334,
+  "updatedAt": 1771122073334,
+  "num_comments": 0
+}
