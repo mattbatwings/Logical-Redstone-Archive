@@ -6,9 +6,9 @@
   "definition": "A logic gate equivalent to A and (not B), commonly used in redstone since it describes a comparator on subtract mode (the back input is A, and the side input is B)",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472391824550396157",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472391824550396157/1472391825074425867",
-  "status": "PENDING",
-  "updatedAt": 1771115966744,
+  "status": "APPROVED",
+  "statusMessageID": "1472391825074425867",
+  "updatedAt": 1771125639647,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472391825074425867"
+  "referencedBy": []
 }
