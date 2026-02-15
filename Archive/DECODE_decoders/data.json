@@ -1,0 +1,9 @@
+{
+  "id": "1472327175737704703",
+  "name": "decoders",
+  "code": "DECODE",
+  "category": "🔨 COMBINATIONAL BLOCKS",
+  "description": "Devices that decode a custom pattern into unique outputs.",
+  "currentCodeId": 0,
+  "entries": []
+}
