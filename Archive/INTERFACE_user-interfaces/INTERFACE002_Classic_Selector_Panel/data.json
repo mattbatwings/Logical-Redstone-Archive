@@ -1,0 +1,101 @@
+{
+  "id": "1472332097250263200",
+  "name": "Classic Selector Panel",
+  "code": "INTERFACE002",
+  "reservedCodes": [
+    "INTERFACE002"
+  ],
+  "pastPostThreadIds": [
+    "1472385503960764561"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383139534995696",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383139534995697",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472332097703379015",
+      "name": "classic_selector.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472332097250263200/1472332097703379015/classic_selector.png?ex=69922f9e&is=6990de1e&hm=d3920d5dd5e47b528dbc98b6bf0f9b035200275ce127ee9baff8df33b73c1473&",
+      "timestamp": 1771101726592,
+      "author": {
+        "type": "discord-external",
+        "id": "1472332077662863554",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472332077662863554/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 177968,
+      "canDownload": true,
+      "width": 1043,
+      "height": 638,
+      "path": "images/classic_selector.png",
+      "hash": "f14393045992931cad3e1b7b49b01cb7285ef023fc4209d12acd18100227f618"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472332097401262120",
+      "name": "INTERFACE002_classic_selector.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472332097250263200/1472332097401262120/classic_selector.schem?ex=69922f9e&is=6990de1e&hm=cf30f9b23d72e42a4184bbe4a40d3043035015ae417694f88b59215c906fc665&",
+      "timestamp": 1771101726592,
+      "author": {
+        "type": "discord-external",
+        "id": "1472332077662863554",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472332077662863554/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 608,
+      "canDownload": true,
+      "hash": "f52add4e4a6599d2ae47e68873151fe471760db899eac8a4da8ed53c8130dfb8",
+      "path": "attachments/INTERFACE002_classic_selector.schem"
+    }
+  ],
+  "records": {
+    "description": "A classic design for a selector panel using SR latches."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472385503960764561",
+    "forumId": "1472330876703473869",
+    "continuingMessageIds": [
+      "1472385507282649140"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472385503960764561",
+    "uploadMessageId": "1472385496767270953"
+  },
+  "archivedAt": 1771114457413,
+  "updatedAt": 1771114457413,
+  "num_comments": 0
+}
