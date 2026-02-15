@@ -1,0 +1,116 @@
+{
+  "id": "1472329252794798222",
+  "name": "Classic Hex to 7seg",
+  "code": "NUMDISPLAY004",
+  "reservedCodes": [
+    "NUMDISPLAY004"
+  ],
+  "pastPostThreadIds": [
+    "1472415883233202247"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383105225719919",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383105225719920",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329253155504149",
+      "name": "classic_hex_to_7seg.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329252794798222/1472329253155504149/classic_hex_to_7seg.png?ex=69922cf8&is=6990db78&hm=ad362b40a702579ec41c9362fc0f324f16452e98e015c29add5fbd45f2487386&",
+      "timestamp": 1771101048421,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 369762,
+      "canDownload": true,
+      "width": 1200,
+      "height": 896,
+      "path": "images/classic_hex_to_7seg.png",
+      "hash": "02f2b635280f30898e7faacb50bdfaacc70b79df80957e307e0128f52a0a375d"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329253470208060",
+      "name": "NUMDISPLAY004_classic_hex_to_7seg.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329252794798222/1472329253470208060/classic_hex_to_7seg.schem?ex=69922cf8&is=6990db78&hm=43d769a58b00c96e98a6c6274afe6ec514a97a79e997d919f5608faa5c0549d8&",
+      "timestamp": 1771101048421,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1506,
+      "canDownload": true,
+      "hash": "67c9bdd8936514af9538d39f5ed6609b0a067900ebb36b8e7c8dfb477b5eaf14",
+      "path": "attachments/NUMDISPLAY004_classic_hex_to_7seg.schem",
+      "schematic": {
+        "size": "41x10x7",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A classic design to show a hex number. Unsynced, but nice form factor.",
+    "input": "4b"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472415883233202247",
+    "forumId": "1472329280129204314",
+    "continuingMessageIds": [
+      "1472415886945161474"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472415883233202247",
+    "uploadMessageId": "1472415878103695523"
+  },
+  "archivedAt": 1771121700673,
+  "updatedAt": 1771121700673,
+  "num_comments": 0
+}
