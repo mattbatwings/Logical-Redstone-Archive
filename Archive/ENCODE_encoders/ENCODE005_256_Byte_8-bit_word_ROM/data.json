@@ -1,0 +1,147 @@
+{
+  "id": "1472712483893678080",
+  "name": "256 Byte, 8-bit word ROM",
+  "code": "ENCODE005",
+  "reservedCodes": [
+    "ENCODE005"
+  ],
+  "pastPostThreadIds": [
+    "1472713636127445033"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383090214179053",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472712484141007063",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472712483893678080/1472712484141007063/image.png?ex=699391e1&is=69924061&hm=c2d65d83f982fd76ea3a9edcf93d71bc4eb7a7e46a8635776947c9953f4ad2da&",
+      "timestamp": 1771192417835,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 416782,
+      "canDownload": true,
+      "width": 925,
+      "height": 788,
+      "path": "images/image.png",
+      "hash": "0b58bda28752bb5d4c4fc80be286c9b6c6f6ab0cba11e453acdd3e2a66776b97"
+    },
+    {
+      "id": "1472713502291656928",
+      "name": "image_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472712483893678080/1472713502291656928/image.png?ex=699392d4&is=69924154&hm=aed9334c8830ae2f747a3fa3257548ec01766a7ddf8c1702038cb4076c685bbd&",
+      "timestamp": 1771192660602,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 455977,
+      "canDownload": true,
+      "width": 1200,
+      "height": 700,
+      "path": "images/image_1.png",
+      "hash": "ecf8cc0ff8a4c63bc6577a8efc97b1d1e6301d6693bb65ea871f8078de7d3254"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472712689678549073",
+      "name": "ENCODE005_8b8bROM.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472712483893678080/1472712689678549073/8b8bROM.schem?ex=69939212&is=69924092&hm=dbeeb75067fd4976f8f40e61c4618572aa39a0da1c6f203b5f2fc20ccb7765ad&",
+      "timestamp": 1771192465943,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "3902a62ce687198390fa5c62b7a02856c4821b4bb8d7ce78f53cde6151db0599",
+      "path": "attachments/ENCODE005_8b8bROM.schem",
+      "size": 55012,
+      "schematic": {
+        "size": "40x38x59",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A simple, addressed repeater ROM with an 8 bit word, and 8 bit address (256 Bytes)",
+    "input": "8-bit address",
+    "output": "8-bit preprogrammed value",
+    "speed": "9 tick read"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "Byte"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472713636127445033",
+    "forumId": "1472327138215727382",
+    "continuingMessageIds": [
+      "1472713639596392490"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472713636127445033",
+    "uploadMessageId": "1472713626485002327"
+  },
+  "archivedAt": 1771192688203,
+  "updatedAt": 1771192688203,
+  "num_comments": 0
+}
