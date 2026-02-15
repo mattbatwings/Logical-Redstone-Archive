@@ -1,0 +1,107 @@
+{
+  "id": "1472328965464129642",
+  "name": "Hex Data (D) Latch",
+  "code": "LFF003",
+  "reservedCodes": [
+    "LFF003"
+  ],
+  "pastPostThreadIds": [
+    "1472421810598449254"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383097180786881",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383097180786882",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328966080696603",
+      "name": "hex_d_latch_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328965464129642/1472328966080696603/hex_d_latch_render.png?ex=69922cb4&is=6990db34&hm=d4b58f0d78f649d58dc458b632d4300045fedd4183ad98deb4b19de7b05c2e78&",
+      "timestamp": 1771100979916,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 33447,
+      "canDownload": true,
+      "width": 359,
+      "height": 299,
+      "path": "images/hex_d_latch_render.png",
+      "hash": "f95265369a6ff026f227f59b647d5479f5ad06bdc4ca98b113414542fc3b6184"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328966311252061",
+      "name": "LFF003_hex_d_latch.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328965464129642/1472328966311252061/hex_d_latch.schem?ex=69922cb4&is=6990db34&hm=ebeaa048ea6e481e879a66bd9cffaa45d4c944193a56a3bcce35c8ecbb6af15d&",
+      "timestamp": 1771100979916,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 570,
+      "canDownload": true,
+      "hash": "ff1cab41c797126ad7552ca1250a3fdf4aa52abc074ba4b3a7f7e7a3060589fd",
+      "path": "attachments/LFF003_hex_d_latch.schem",
+      "schematic": {
+        "size": "3x3x5",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Saves the current Hex number in the latch"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472421810598449254",
+    "forumId": "1472328937248915517",
+    "continuingMessageIds": [
+      "1472421814176321749"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472421810598449254",
+    "uploadMessageId": "1472421803904209078"
+  },
+  "archivedAt": 1771123113286,
+  "updatedAt": 1771123113286,
+  "num_comments": 0
+}
