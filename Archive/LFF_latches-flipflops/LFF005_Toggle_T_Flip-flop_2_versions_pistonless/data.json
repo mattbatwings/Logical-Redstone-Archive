@@ -1,0 +1,97 @@
+{
+  "id": "1472328950767419499",
+  "name": "Toggle (T) Flip-flop (2 versions, pistonless)",
+  "code": "LFF005",
+  "reservedCodes": [
+    "LFF005"
+  ],
+  "pastPostThreadIds": [
+    "1472422839108898927"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383097180786881",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383097180786882",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328951635640421",
+      "name": "tff_pistonless.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328950767419499/1472328951635640421/tff_pistonless.png?ex=69922cb0&is=6990db30&hm=22b67c47fecc838ecb1e70d50f43ef35442189082d8165472d9864d1895083c8&",
+      "timestamp": 1771100976412,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 131423,
+      "canDownload": true,
+      "width": 1177,
+      "height": 752,
+      "path": "images/tff_pistonless.png",
+      "hash": "4ac8987fdbc65bfb77ac1c831000fba66ea509e963b34fe45e15085978d40939"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328951291580456",
+      "name": "LFF005_tff_pistonless.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328950767419499/1472328951291580456/tff_pistonless.schem?ex=69922cb0&is=6990db30&hm=071b766d9bd41b7fe58d1ba2c1ec65f6f97a6c4b27f741ff6a0c584389df86b6&",
+      "timestamp": 1771100976412,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 711,
+      "canDownload": true,
+      "hash": "19ed87a585f4b6d56b876ef9061002a39ce9a04a419d7b246bb85c733e2be1e7",
+      "path": "attachments/LFF005_tff_pistonless.schem",
+      "schematic": {
+        "size": "9x4x10",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Toggle (T) Flip-flop (2 versions, pistonless). Toggles whenever the input is pressed."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472422839108898927",
+    "forumId": "1472328937248915517",
+    "continuingMessageIds": [
+      "1472422842472726573"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472422839108898927",
+    "uploadMessageId": "1472422826471330015"
+  },
+  "archivedAt": 1771123356529,
+  "updatedAt": 1771123356529,
+  "num_comments": 0
+}
