@@ -6,12 +6,12 @@
     "MMIO",
     "PMIO"
   ],
-  "definition": "I/O (Input/Output) ports are the registers that a cpu uses to communicate with external hardware such as displays, keyboards, other processors etc.\nMMIO (Memory Mapped I/O) is I/O ports that are built into the address space of the data memory (RAM) so are accessed in the same way as data.\nPMIO (Port Mapped I/O) is separate I/O ports that do not share the same address space of the data memory, but are instead accessed using a completely instruction(s)",
+  "definition": "I/O (Input/Output) ports are the registers that a cpu uses to communicate with external hardware such as displays, keyboards, other processors etc.\nMMIO (Memory Mapped I/O) is I/O ports that are built into the address space of the data memory (RAM) so are accessed in the same way as data.\nPMIO (Port Mapped I/O) is separate I/O ports that do not share the same address space of the data memory, but are instead accessed using a completely different instruction(s)",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472712750974238823",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472712750974238823/1472712752421277849",
   "status": "PENDING",
   "statusMessageID": "1472712752421277849",
-  "updatedAt": 1771193848592,
+  "updatedAt": 1771193978156,
   "references": [],
   "referencedBy": []
 }
