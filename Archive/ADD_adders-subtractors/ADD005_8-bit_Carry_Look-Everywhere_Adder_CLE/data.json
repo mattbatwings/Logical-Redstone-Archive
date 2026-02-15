@@ -1,0 +1,104 @@
+{
+  "id": "1472328045477101710",
+  "name": "8-bit Carry Look-Everywhere Adder (CLE)",
+  "code": "ADD005",
+  "reservedCodes": [
+    "ADD005"
+  ],
+  "pastPostThreadIds": [
+    "1472430273793884273"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "402883421363503125",
+      "username": "kuggo",
+      "displayName": "Kuggo",
+      "iconURL": "https://cdn.discordapp.com/avatars/402883421363503125/d3259ab3b09fe70a7ad821185584a4e4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328046198395086",
+      "name": "8bit_cle.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328045477101710/1472328046198395086/8bit_cle.png?ex=69922bd8&is=6990da58&hm=22581d500448c7ba9aa669681f596ba03127c80456661f45f282f6c00e654084&",
+      "timestamp": 1771100760574,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 186072,
+      "canDownload": true,
+      "width": 641,
+      "height": 695,
+      "path": "images/8bit_cle.png",
+      "hash": "b85fa066d6fb33f016388d3ae61dc0797f6b31283ff96f11d7196e9ac5eda9a9"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328045875433512",
+      "name": "ADD005_8bit_cle.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328045477101710/1472328045875433512/8bit_cle.schem?ex=69922bd8&is=6990da58&hm=2074d2f3b0c4bf950762937ba495f1e81ef06cb468009c0d307ae453c3e113ef&",
+      "timestamp": 1771100760574,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1560,
+      "canDownload": true,
+      "hash": "3b4e13cd09dc8ad0b5770370d6f416e1d8140e2eec416c207ba76d8a79af46ca",
+      "path": "attachments/ADD005_8bit_cle.schem",
+      "schematic": {
+        "size": "13x21x20",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit adder using look everywhere logic, a popular choice IRL.",
+    "input": "2 8b numbers",
+    "output": "8b sum",
+    "speed": "4 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472430273793884273",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1472430277040013475"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472430273793884273",
+    "uploadMessageId": "1472430266130891033"
+  },
+  "archivedAt": 1771125131323,
+  "updatedAt": 1771125131323,
+  "num_comments": 0
+}

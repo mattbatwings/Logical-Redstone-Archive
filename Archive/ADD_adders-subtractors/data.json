@@ -4,7 +4,7 @@
   "code": "ADD",
   "category": "➕ ARITHMETIC",
   "description": "Devices that add/subtract 2 numbers.",
-  "currentCodeId": 4,
+  "currentCodeId": 5,
   "entries": [
     {
       "id": "1472329567745343593",
@@ -25,6 +25,11 @@
       "id": "1472328051193942169",
       "code": "ADD004",
       "path": "ADD004_8-bit_Instant_Carry_Adder_ICA"
+    },
+    {
+      "id": "1472328045477101710",
+      "code": "ADD005",
+      "path": "ADD005_8-bit_Carry_Look-Everywhere_Adder_CLE"
     }
   ]
 }
