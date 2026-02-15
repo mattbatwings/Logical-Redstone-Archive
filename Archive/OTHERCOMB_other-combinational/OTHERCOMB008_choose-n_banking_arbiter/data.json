@@ -1,0 +1,113 @@
+{
+  "id": "1472634051004465313",
+  "name": "choose-n banking arbiter",
+  "code": "OTHERCOMB008",
+  "reservedCodes": [
+    "OTHERCOMB008"
+  ],
+  "pastPostThreadIds": [
+    "1472643720863027313"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1192922842673717318",
+      "username": "rcs_33_91379",
+      "displayName": "RCS_33",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472634051276968007",
+      "name": "banking-arbiter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472634051004465313/1472634051276968007/banking-arbiter.png?ex=699348d6&is=6991f756&hm=6527c1777b4c35989d4fe9000cd33ea07ab72fce76b5c7c5c7939ac9d4aee37e&",
+      "timestamp": 1771173717977,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 24742,
+      "canDownload": true,
+      "width": 511,
+      "height": 310,
+      "path": "images/banking-arbiter.png",
+      "hash": "5bf88f854f181f4719efc8cf4afd39aaaff7f40d30acd537c1abe643b77e6bdc"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472634051776086117",
+      "name": "OTHERCOMB008_bankingArbiter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472634051004465313/1472634051776086117/bankingArbiter.schem?ex=699348d6&is=6991f756&hm=f53b776768e892edb6181ce675351dd488ca16529d401e757774479bb21756f9&",
+      "timestamp": 1771173717977,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1433,
+      "canDownload": true,
+      "hash": "2ed9b1882c646cb105252a70719efaa4fbc0782094fc3dd5b6ea8e3ea2ef7275",
+      "path": "attachments/OTHERCOMB008_bankingArbiter.schem",
+      "schematic": {
+        "size": "23x8x31",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Description: \nchooses n true bits out of a k-wide bit vector based on left/right sided priority. \nIn Contrast to the normal arbiter, it does *not* guarantee to choose n bits, when at least n bits in the bit vector are set. But its way faster, so when its not that important, you will choose this over the arbiter most of the time\n\nInput:\n1) bit vector to choose from\n2) bit vector to disable a choosing layer\n\nOutput: \nn bit vectors of length k with at most 1 set bit\n\nSpeed: (ceil of the fraction)\n1) 1t per k/5 (wire delay)\n2) 2t per n/4 (no base delay)\n\nSize:\nx = 3-wide tileable per k\nz = 2-wide tileable per n\ny = 6 high\n\nUse Cases:\n- Same as normal arbiter, but faster when you don't care about precision\n\nNotes: \n1) since stacking might be confusing, I marked the region to stack with gold blocks\n1) the design is optimal in both speed and size. This is the 1st Iteration, but im pretty confident\n\nSchematic Content:\nn = 4\nk = 10 (2 modules. Each module consists of 4 normal layers and 1 repeater layer)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Stack",
+      "id": "1472390574349750416",
+      "url": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
+      "matches": [
+        "stack"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472643720863027313",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472643725405454590"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472643720863027313",
+    "uploadMessageId": "1472643715506901092"
+  },
+  "archivedAt": 1771176020870,
+  "updatedAt": 1771176020870,
+  "num_comments": 0
+}
