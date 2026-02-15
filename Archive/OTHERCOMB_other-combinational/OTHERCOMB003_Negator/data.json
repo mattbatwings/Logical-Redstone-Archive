@@ -1,0 +1,105 @@
+{
+  "id": "1472328890793070656",
+  "name": "Negator",
+  "code": "OTHERCOMB003",
+  "reservedCodes": [
+    "OTHERCOMB003"
+  ],
+  "pastPostThreadIds": [
+    "1472424141519982806"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Aminotreal"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383095884746820",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328891363233932",
+      "name": "negator.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328890793070656/1472328891363233932/negator.png?ex=69922ca2&is=6990db22&hm=3eb8db0e9432e0e510c9a7caa1bd5f4320366747dcda26c95446e65d91600ccb&",
+      "timestamp": 1771100962113,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328882152804567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328882152804567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 103196,
+      "canDownload": true,
+      "width": 533,
+      "height": 622,
+      "path": "images/negator.png",
+      "hash": "f179ab569a35eec253a624477bc585b7295da58003877c817192ddbb668b87fe"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328891048792107",
+      "name": "OTHERCOMB003_negator.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328890793070656/1472328891048792107/negator.schem?ex=69922ca2&is=6990db22&hm=c2325b9db70a93951ce47f64dbb65d33c290c83b9cc693cae4c665e697c9c054&",
+      "timestamp": 1771100962113,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328882152804567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328882152804567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 676,
+      "canDownload": true,
+      "hash": "3980438cd8e22834eb9b0aa1e08472ec220b4cb216eca72b409253c27faaa109",
+      "path": "attachments/OTHERCOMB003_negator.schem",
+      "schematic": {
+        "size": "4x11x8",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Outputs the negative input (inverted, +1).",
+    "input": "4b number",
+    "output": "4b number",
+    "speed": "2 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472424141519982806",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472424146095833260"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472424141519982806",
+    "uploadMessageId": "1472424136000409742"
+  },
+  "archivedAt": 1771123669654,
+  "updatedAt": 1771123669654,
+  "num_comments": 0
+}
