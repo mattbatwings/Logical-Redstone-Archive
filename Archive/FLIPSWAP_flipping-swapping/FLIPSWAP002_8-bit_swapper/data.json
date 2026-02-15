@@ -1,0 +1,108 @@
+{
+  "id": "1472330586042532076",
+  "name": "8-bit swapper",
+  "code": "FLIPSWAP002",
+  "reservedCodes": [
+    "FLIPSWAP002"
+  ],
+  "pastPostThreadIds": [
+    "1472406963361939589"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "206482298491764736",
+      "username": "sloimay",
+      "displayName": "sloimay",
+      "iconURL": "https://cdn.discordapp.com/avatars/206482298491764736/a778f49416122ef2e9b2339658466528.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383130122981454",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383130122981455",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330586457899059",
+      "name": "8bit_swap.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330586042532076/1472330586457899059/8bit_swap.png?ex=69922e36&is=6990dcb6&hm=5392e1fddbf058a22bfd0c411550caff94ce195288206d6db0a53d0b5c74910a&",
+      "timestamp": 1771101366292,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330569613447331",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330569613447331/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 105311,
+      "canDownload": true,
+      "width": 285,
+      "height": 829,
+      "path": "images/8bit_swap.png",
+      "hash": "bdafda25f469754dc6907ea7e4f16e9de84a544063ca9278f3187d9c491e897b"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330586168234024",
+      "name": "FLIPSWAP002_8bit_swap.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330586042532076/1472330586168234024/8bit_swap.schem?ex=69922e36&is=6990dcb6&hm=b8837dd13a238a90812dd44ff039bf5b5cdde40963e68c80c176398da8854c21&",
+      "timestamp": 1771101366292,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330569613447331",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330569613447331/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 515,
+      "canDownload": true,
+      "hash": "afc194512c0743e01dcebed8379e25453c79f26b0dcbde497a12f91c983681e9",
+      "path": "attachments/FLIPSWAP002_8bit_swap.schem",
+      "schematic": {
+        "size": "3x17x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Swaps 2 columns of 8 bits",
+    "input": "2 8b numbers",
+    "output": "2 8b numbers",
+    "speed": "2 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406963361939589",
+    "forumId": "1472330426411384922",
+    "continuingMessageIds": [
+      "1472406967707242498"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406963361939589",
+    "uploadMessageId": "1472406959197126696"
+  },
+  "archivedAt": 1771119574437,
+  "updatedAt": 1771119574437,
+  "num_comments": 0
+}
