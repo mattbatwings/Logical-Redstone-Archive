@@ -4,6 +4,12 @@
   "code": "CROSSWIRE",
   "category": "🔌 WIRING",
   "description": "Devices that showcase crosswire techniques.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472330878146445394",
+      "code": "CROSSWIRE001",
+      "path": "CROSSWIRE001_Instant_crosswire_2_versions"
+    }
+  ]
 }

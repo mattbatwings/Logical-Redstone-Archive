@@ -1,0 +1,108 @@
+{
+  "id": "1472330878146445394",
+  "name": "Instant crosswire (2 versions)",
+  "code": "CROSSWIRE001",
+  "reservedCodes": [
+    "CROSSWIRE001"
+  ],
+  "pastPostThreadIds": [
+    "1472407008970936320"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "402883421363503125",
+      "username": "kuggo",
+      "displayName": "Kuggo",
+      "iconURL": "https://cdn.discordapp.com/avatars/402883421363503125/d3259ab3b09fe70a7ad821185584a4e4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383131813281829",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383131813281830",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330879039963298",
+      "name": "instant_crosswire.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330878146445394/1472330879039963298/instant_crosswire.png?ex=69922e7c&is=6990dcfc&hm=9c2fb86ae48813ce7b0a953fae8a1eb52345ad82a3d8187ccc5199b471ee3cfd&",
+      "timestamp": 1771101435935,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330873629053039",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330873629053039/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 157681,
+      "canDownload": true,
+      "width": 473,
+      "height": 580,
+      "path": "images/instant_crosswire.png",
+      "hash": "bfcdf486610ea0c9a64c8042808474f1d55d56bb99ab27709b56b78664d26eb1"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330878565879991",
+      "name": "CROSSWIRE001_instant_crosswire.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330878146445394/1472330878565879991/instant_crosswire.schem?ex=69922e7c&is=6990dcfc&hm=b1fbedf4695274b5c434e541e149010d2f40374838979c4351b81a49333bf7c1&",
+      "timestamp": 1771101435935,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330873629053039",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330873629053039/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 730,
+      "canDownload": true,
+      "hash": "3c2cd4b156c578b09a41b37a6e0d417e10aa01e70747a28437a898645444f768",
+      "path": "attachments/CROSSWIRE001_instant_crosswire.schem",
+      "schematic": {
+        "size": "7x19x17",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A way to cross multi-bit vertical wires through each other without delay.",
+    "input": "8b",
+    "output": "8b",
+    "speed": "0 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472407008970936320",
+    "forumId": "1472330471156355286",
+    "continuingMessageIds": [
+      "1472407012687089775"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472407008970936320",
+    "uploadMessageId": "1472406999835873437"
+  },
+  "archivedAt": 1771119584245,
+  "updatedAt": 1771119584245,
+  "num_comments": 0
+}
