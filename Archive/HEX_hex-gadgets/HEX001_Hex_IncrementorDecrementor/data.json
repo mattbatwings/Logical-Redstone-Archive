@@ -1,0 +1,112 @@
+{
+  "id": "1472329668681273504",
+  "name": "Hex Incrementor/Decrementor",
+  "code": "HEX001",
+  "reservedCodes": [
+    "HEX001"
+  ],
+  "pastPostThreadIds": [
+    "1472409734542921728"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383141208654017",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383141208654018",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329669419335833",
+      "name": "hex_incdec.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329668681273504/1472329669419335833/hex_incdec.png?ex=69922d5b&is=6990dbdb&hm=2e090bfdb6e2aab6829e8f8da13e6d55739b7cbf407a0b173a8f63a48436ce40&",
+      "timestamp": 1771101147576,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329648758329494",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329648758329494/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 140101,
+      "canDownload": true,
+      "width": 1009,
+      "height": 623,
+      "path": "images/hex_incdec.png",
+      "hash": "c75b92b9ac2cd4dfb850e8c8f49ae5c2805bf212e4b5bea2524184eaf359dbdb"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329668966219908",
+      "name": "HEX001_hex_incdec.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329668681273504/1472329668966219908/hex_incdec.schem?ex=69922d5b&is=6990dbdb&hm=dcd013df14541f068ae8dffe80b9f6ff848a2c7bd1acaca9021836a645870e2b&",
+      "timestamp": 1771101147576,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329648758329494",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329648758329494/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 889,
+      "canDownload": true,
+      "hash": "b9d00573788f64c98b4036c22229ad6ffce817d0870b94e271d524f4fbdd37ba",
+      "path": "attachments/HEX001_hex_incdec.schem",
+      "schematic": {
+        "size": "5x3x6",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Increments or decrements a hex number.",
+    "input": "Increment button, Decrement button",
+    "output": "Hex number",
+    "speed": "2 redstone ticks per inc/dec",
+    "notes": "You can increase/decrease by more than one by increasing the pulse length."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex",
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472409734542921728",
+    "forumId": "1472330964884520980",
+    "continuingMessageIds": [
+      "1472409738300883076"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472409734542921728",
+    "uploadMessageId": "1472409729052573716"
+  },
+  "archivedAt": 1771120234619,
+  "updatedAt": 1771120234619,
+  "num_comments": 0
+}

@@ -4,6 +4,12 @@
   "code": "HEX",
   "category": "🌐 MISCELLANEOUS",
   "description": "Devices that perform a small hexadecimal-related function.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329668681273504",
+      "code": "HEX001",
+      "path": "HEX001_Hex_IncrementorDecrementor"
+    }
+  ]
 }

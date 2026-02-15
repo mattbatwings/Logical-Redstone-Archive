@@ -24,6 +24,7 @@
     "HEXTOBIN001",
     "HEXTOBIN002",
     "BINTOHEX001",
-    "BINTOHEX002"
+    "BINTOHEX002",
+    "HEX001"
   ]
 }
