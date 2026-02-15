@@ -93,6 +93,15 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "BCD",
       "id": "1472378645967409273",
       "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",

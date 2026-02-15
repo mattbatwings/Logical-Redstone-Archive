@@ -98,6 +98,15 @@
       "matches": [
         "BCD"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Sync",
+      "id": "1472390929481728130",
+      "url": "https://discord.com/channels/1361854816837435433/1472390929481728130/1472390933466189975",
+      "matches": [
+        "Sync"
+      ]
     }
   ],
   "author_references": [],

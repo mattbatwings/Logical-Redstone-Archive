@@ -12,5 +12,7 @@
   "statusMessageID": "1472388698602737674",
   "updatedAt": 1771125571234,
   "references": [],
-  "referencedBy": []
+  "referencedBy": [
+    "REGISTERFILE001"
+  ]
 }

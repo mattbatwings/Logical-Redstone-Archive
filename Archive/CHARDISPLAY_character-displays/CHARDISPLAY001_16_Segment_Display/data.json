@@ -116,6 +116,24 @@
       "matches": [
         "Hex"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Stack",
+      "id": "1472390574349750416",
+      "url": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
+      "matches": [
+        "stack"
+      ]
     }
   ],
   "author_references": [],

@@ -86,7 +86,26 @@
     "output": "2 8b read ports"
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Register file",
+      "id": "1472388697826656417",
+      "url": "https://discord.com/channels/1361854816837435433/1472388697826656417/1472388698602737674",
+      "matches": [
+        "register file"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472407129418891294",

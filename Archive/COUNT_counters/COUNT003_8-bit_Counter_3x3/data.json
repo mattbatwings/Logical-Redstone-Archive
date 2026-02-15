@@ -90,7 +90,17 @@
     "output": "8b number"
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sync",
+      "id": "1472390929481728130",
+      "url": "https://discord.com/channels/1361854816837435433/1472390929481728130/1472390933466189975",
+      "matches": [
+        "sync"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472420962086686740",

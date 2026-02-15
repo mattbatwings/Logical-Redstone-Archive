@@ -106,7 +106,26 @@
     "notes": "Infinitely Expandable (7x4x2 per cell), Uses TTP to remove directionality issues."
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472406276838260859",

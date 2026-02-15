@@ -110,7 +110,26 @@
     "notes": "Infinitely Expandable (7x4x2 per cell), Infinite precision by adding bits to the output, Uses TTP to remove directionality issues. The speed depends on the output size because some numbers would take infinite time to be converted with infinite precision."
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MSB",
+      "id": "1472457972671184967",
+      "url": "https://discord.com/channels/1361854816837435433/1472457972671184967/1472457973522501653",
+      "matches": [
+        "MSB"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472669702164582595",

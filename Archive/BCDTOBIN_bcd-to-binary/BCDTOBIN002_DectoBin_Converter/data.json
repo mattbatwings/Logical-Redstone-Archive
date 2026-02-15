@@ -110,7 +110,17 @@
     "notes": "Infinitely Expandable (25x4x2 per cell)"
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472406590006104096",

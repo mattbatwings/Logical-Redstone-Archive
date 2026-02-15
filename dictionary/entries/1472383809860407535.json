@@ -12,11 +12,29 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Throughput",
       "id": "1472378895016661002",
       "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
       "matches": [
         "Hz"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "redstone tick"
       ]
     }
   ],

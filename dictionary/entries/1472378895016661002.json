@@ -12,7 +12,17 @@
   "status": "APPROVED",
   "statusMessageID": "1472378895931146271",
   "updatedAt": 1771113624883,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
   "referencedBy": [
     "DIVIDE001",
     "DIVIDE003",

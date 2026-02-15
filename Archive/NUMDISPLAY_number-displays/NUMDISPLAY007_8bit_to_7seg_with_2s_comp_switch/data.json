@@ -90,6 +90,15 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Twos Complement",
       "id": "1472379271392530514",
       "url": "https://discord.com/channels/1361854816837435433/1472379271392530514/1472379272248295481",

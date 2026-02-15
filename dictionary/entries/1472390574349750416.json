@@ -13,7 +13,12 @@
   "updatedAt": 1771185912380,
   "references": [],
   "referencedBy": [
+    "ADD008",
     "OTHERCOMB007",
-    "OTHERCOMB008"
+    "OTHERCOMB008",
+    "NUMDISPLAY006",
+    "CHARDISPLAY001",
+    "REGISTERFILE002",
+    "QSTACK001"
   ]
 }

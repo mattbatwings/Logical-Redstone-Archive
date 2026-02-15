@@ -11,6 +11,16 @@
   "status": "APPROVED",
   "statusMessageID": "1472387367858995252",
   "updatedAt": 1771125550954,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "D-Latch",
+      "id": "1472458903580311646",
+      "url": "https://discord.com/channels/1361854816837435433/1472458903580311646/1472458904158863456",
+      "matches": [
+        "D-latch"
+      ]
+    }
+  ],
   "referencedBy": []
 }

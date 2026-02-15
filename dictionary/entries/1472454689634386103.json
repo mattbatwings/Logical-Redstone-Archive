@@ -8,8 +8,18 @@
   "threadURL": "https://discord.com/channels/1361854816837435433/1472454689634386103",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472454689634386103/1472454691479621664",
   "status": "PENDING",
+  "statusMessageID": "1472454691479621664",
   "updatedAt": 1771130954967,
-  "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472454691479621664"
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "referencedBy": []
 }

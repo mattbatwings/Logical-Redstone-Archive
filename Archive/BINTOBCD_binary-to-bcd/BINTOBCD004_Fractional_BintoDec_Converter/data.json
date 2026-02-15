@@ -108,7 +108,26 @@
     "notes": "Infinitely Expandable (25x4x2 per cell), Infinite precision by adding digits to the output."
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MSB",
+      "id": "1472457972671184967",
+      "url": "https://discord.com/channels/1361854816837435433/1472457972671184967/1472457973522501653",
+      "matches": [
+        "MSB"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472669665674133779",

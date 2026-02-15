@@ -9,7 +9,17 @@
   "status": "APPROVED",
   "statusMessageID": "1472378647146139820",
   "updatedAt": 1771113004059,
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
   "referencedBy": [
     "BINTOBCD001",
     "BINTOBCD002",

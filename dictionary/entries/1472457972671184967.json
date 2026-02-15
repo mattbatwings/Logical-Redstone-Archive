@@ -31,5 +31,8 @@
       ]
     }
   ],
-  "referencedBy": []
+  "referencedBy": [
+    "BINTOBCD004",
+    "BCDTOBIN003"
+  ]
 }

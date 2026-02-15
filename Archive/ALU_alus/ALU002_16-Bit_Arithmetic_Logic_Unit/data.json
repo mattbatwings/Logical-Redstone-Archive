@@ -111,7 +111,17 @@
     "notes": "Refer to the attached table for the documented operations of this ALU.\nFeel free to mess around the ALU and find out, as you may discover undocumented operations that the ALU can perform."
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472589688002052355",

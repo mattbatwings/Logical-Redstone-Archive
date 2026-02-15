@@ -94,12 +94,30 @@
   "references": [
     {
       "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
       "term": "Hex",
       "id": "1472378753467285524",
       "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
       "matches": [
         "hex",
         "Hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
       ]
     }
   ],

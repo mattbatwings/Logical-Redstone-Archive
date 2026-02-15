@@ -87,7 +87,17 @@
     "notes": "Use the observer on the right side to count. Stack side by side for automatic multi-digit counting."
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Stack",
+      "id": "1472390574349750416",
+      "url": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
+      "matches": [
+        "Stack"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472416502064877579",

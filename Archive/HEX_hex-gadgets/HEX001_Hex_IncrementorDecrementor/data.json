@@ -94,6 +94,15 @@
         "hex",
         "Hex"
       ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "redstone tick"
+      ]
     }
   ],
   "author_references": [],

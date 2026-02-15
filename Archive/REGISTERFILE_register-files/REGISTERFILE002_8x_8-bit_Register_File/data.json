@@ -86,7 +86,17 @@
     "output": "8b number"
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Stack",
+      "id": "1472390574349750416",
+      "url": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
+      "matches": [
+        "stack"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1472419743372935254",

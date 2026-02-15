@@ -10,6 +10,21 @@
   "status": "APPROVED",
   "statusMessageID": "1472390933466189975",
   "updatedAt": 1771125612672,
-  "references": [],
-  "referencedBy": []
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "referencedBy": [
+    "MULTIPY001",
+    "COUNT003",
+    "NUMDISPLAY001",
+    "NUMDISPLAY002"
+  ]
 }
