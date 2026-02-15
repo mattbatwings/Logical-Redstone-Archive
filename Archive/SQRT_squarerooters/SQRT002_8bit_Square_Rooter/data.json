@@ -1,0 +1,170 @@
+{
+  "id": "1472446931018973307",
+  "name": "8bit Square Rooter",
+  "code": "SQRT002",
+  "reservedCodes": [
+    "SQRT002"
+  ],
+  "pastPostThreadIds": [
+    "1472462338887258315"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1081652933038440569",
+      "username": "safetyiwisher",
+      "displayName": "SafetyIWisher",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081652933038440569/4ece3beafe764bc1747b18f851c47f4b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383086338773106",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472447749851975851",
+      "name": "17711292643154465268931961841064.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472446931018973307/1472447749851975851/17711292643154465268931961841064.png?ex=69929b54&is=699149d4&hm=2a9735d2da00e7d371bf1d9c974e2180e2ab7f331d88aa6dd05f1c74d7a54f51&",
+      "timestamp": 1771129300192,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1081652933038440569",
+        "username": "safetyiwisher",
+        "displayName": "SafetyIWisher",
+        "iconURL": "https://cdn.discordapp.com/avatars/1081652933038440569/4ece3beafe764bc1747b18f851c47f4b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Above view of square-rooter near the remainder.",
+      "size": 403216,
+      "canDownload": true,
+      "width": 1200,
+      "height": 750,
+      "path": "images/17711292643154465268931961841064.png",
+      "hash": "9e2f0f0e9f30fa39db410509a4dfa3c2b48790289e2d0e76d28d2000a1a8c1cb"
+    },
+    {
+      "id": "1472447750846287945",
+      "name": "17711292814353450082511174444754.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472446931018973307/1472447750846287945/17711292814353450082511174444754.png?ex=69929b54&is=699149d4&hm=446e7d9d116433212774923d66cd649c66b9058a16aeb2e221fd21d4502c9291&",
+      "timestamp": 1771129300192,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1081652933038440569",
+        "username": "safetyiwisher",
+        "displayName": "SafetyIWisher",
+        "iconURL": "https://cdn.discordapp.com/avatars/1081652933038440569/4ece3beafe764bc1747b18f851c47f4b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "View of the root.",
+      "size": 259396,
+      "canDownload": true,
+      "width": 1200,
+      "height": 750,
+      "path": "images/17711292814353450082511174444754.png",
+      "hash": "90a5fd289898b492808a1388ea7a3f558daf442db95832246aff9755b83cf1aa"
+    },
+    {
+      "id": "1472447751269646406",
+      "name": "17711292925238959991834742815253.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1472446931018973307/1472447751269646406/17711292925238959991834742815253.jpg?ex=69929b54&is=699149d4&hm=1471f2e644c3239d45a2ac9309bd2f7a19cbb3a29e15f21c40fbb904e58977f6&",
+      "timestamp": 1771129300192,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1081652933038440569",
+        "username": "safetyiwisher",
+        "displayName": "SafetyIWisher",
+        "iconURL": "https://cdn.discordapp.com/avatars/1081652933038440569/4ece3beafe764bc1747b18f851c47f4b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "View of the integer input and extraction button.",
+      "size": 109735,
+      "canDownload": true,
+      "width": 736,
+      "height": 461,
+      "path": "images/17711292925238959991834742815253.png",
+      "hash": "9ca5ddd137b449540cf382d366883a9c09d9a12166234a06844f791b6d347c5f"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472448816371335179",
+      "name": "SQRT002_8bit_seq_sqrt_71rt.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472446931018973307/1472448816371335179/8bit_seq_sqrt_71rt.schem?ex=69929c52&is=69914ad2&hm=f2e5aa344333a71cc26488ac49818bd31ed95a20d58c948c69866fded62e947c&",
+      "timestamp": 1771129554519,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1081652933038440569",
+        "username": "safetyiwisher",
+        "displayName": "SafetyIWisher",
+        "iconURL": "https://cdn.discordapp.com/avatars/1081652933038440569/4ece3beafe764bc1747b18f851c47f4b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "WorldEdit Schematic",
+      "size": 3411,
+      "canDownload": true,
+      "hash": "092b9bf107e4ac7d5dcfb4a87b9c34da2f4953ea9f5400ecc4c16d70cc570886",
+      "path": "attachments/SQRT002_8bit_seq_sqrt_71rt.schem",
+      "schematic": {
+        "size": "21x23x15",
+        "version": "1.21.10"
+      }
+    }
+  ],
+  "records": {
+    "description": "8-bit sequential square root extractor",
+    "input": "8-bit Number, Extraction Button",
+    "output": "4-bit Square Root, 5-bit Remainder",
+    "speed": "Total of 71 rTicks after button press",
+    "notes": "Once the button is pressed, it takes 2 ticks to initiate the circuit. The Square Root is saved 4 rTicks after the Remainder, and the circuit is cleared for 1 cycle, 1 rTick after the Root is saved. 1 cycle lasts 13 rTicks, so it takes 8t for init, 4 clock cycles, and 11 ticks to finish saving and clearing. This uses a Non-restoring / trial subtraction Binary Digit-by-Digit Square Root Algorithm."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472462338887258315",
+    "forumId": "1472326463179985037",
+    "continuingMessageIds": [
+      "1472462343538475029"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472462338887258315",
+    "uploadMessageId": "1472462331811463169"
+  },
+  "archivedAt": 1771132775529,
+  "updatedAt": 1771132775529,
+  "num_comments": 0
+}
