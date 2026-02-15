@@ -7,9 +7,9 @@
   "definition": "A form of memory where inputs are stored in a specific order. When a value is requested, the last value inputted is the first value out. (FILO, First in last out)\n\ni.e. if the numbers 1, 2, 3, 4 are pushed (inputted into the stack) in that order, popping (requesting values from the stack) will give 4, 3, 2, 1 in that order.\n\nCall stack: A specialized stack in a computer which tracks which instruction a function was called from so that it can return to the appropriate address when the function finishes.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472390574349750416",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472390574349750416/1472390575893385309",
-  "status": "PENDING",
-  "updatedAt": 1771115668869,
+  "status": "APPROVED",
+  "statusMessageID": "1472390575893385309",
+  "updatedAt": 1771125606183,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472390575893385309"
+  "referencedBy": []
 }
