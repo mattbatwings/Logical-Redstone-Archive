@@ -4,6 +4,12 @@
   "code": "ROM",
   "category": "🧩 CPU COMPONENTS",
   "description": "Read Only Memory - Memory used for only reading in a CPU.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472331192262201478",
+      "code": "ROM001",
+      "path": "ROM001_1024x_16_bit_Instruction_Memory"
+    }
+  ]
 }

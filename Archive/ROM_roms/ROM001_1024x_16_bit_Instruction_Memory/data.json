@@ -1,0 +1,103 @@
+{
+  "id": "1472331192262201478",
+  "name": "1024x 16 bit Instruction Memory",
+  "code": "ROM001",
+  "reservedCodes": [
+    "ROM001"
+  ],
+  "pastPostThreadIds": [
+    "1472398101930180608"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383149441945790",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331193230819470",
+      "name": "instruction_memory.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331192262201478/1472331193230819470/instruction_memory.png?ex=69922ec7&is=6990dd47&hm=52765843f924e3b3f26efcd543ded8cf9f700d6ff914c06eb6be1c25e3d28aed&",
+      "timestamp": 1771101510826,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 628630,
+      "canDownload": true,
+      "width": 1170,
+      "height": 913,
+      "path": "images/instruction_memory.png",
+      "hash": "8c0d0c6b955524d80689a24b9aa957de0c7ee3b9d7b1d45431c28568498002fa"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331192681369783",
+      "name": "ROM001_instruction_memory.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331192262201478/1472331192681369783/instruction_memory.schem?ex=69922ec6&is=6990dd46&hm=d2dc8137b108edc26d8e33a6ab3c48f0bf12c6de13ae3f641d99f1a724e159b5&",
+      "timestamp": 1771101510826,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 6956,
+      "canDownload": true,
+      "hash": "995ca084b6199ec02986cc4d393f56bf4881aad54ef011fb5cd6966473735db2",
+      "path": "attachments/ROM001_instruction_memory.schem",
+      "schematic": {
+        "size": "115x58x71",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An instruction memory with 1024 addresses, 16 bits each. Programmed by changing the blocks to repeaters.",
+    "input": "10b address",
+    "output": "16b read port"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472398101930180608",
+    "forumId": "1472331730621960202",
+    "continuingMessageIds": [
+      "1472398105826689107"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472398101930180608",
+    "uploadMessageId": "1472398093063426281"
+  },
+  "archivedAt": 1771117460763,
+  "updatedAt": 1771117460763,
+  "num_comments": 0
+}
