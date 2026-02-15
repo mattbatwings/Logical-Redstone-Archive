@@ -4,7 +4,7 @@
   "code": "BINTOBCD",
   "category": "💱 CONVERSION",
   "description": "Devices that convert binary to binary coded decimal.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329898172485652",
@@ -15,6 +15,11 @@
       "id": "1472329910583427146",
       "code": "BINTOBCD002",
       "path": "BINTOBCD002_8-bit_Sequential_Binary_to_BCD"
+    },
+    {
+      "id": "1472329916400926886",
+      "code": "BINTOBCD003",
+      "path": "BINTOBCD003_BintoDec_Converter_4.2"
     }
   ]
 }

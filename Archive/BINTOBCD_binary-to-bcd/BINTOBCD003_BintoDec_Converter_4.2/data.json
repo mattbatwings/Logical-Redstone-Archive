@@ -1,0 +1,123 @@
+{
+  "id": "1472329916400926886",
+  "name": "BintoDec Converter 4.2",
+  "code": "BINTOBCD003",
+  "reservedCodes": [
+    "BINTOBCD003"
+  ],
+  "pastPostThreadIds": [
+    "1472406276838260859"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "698322584810553404",
+      "username": "xoliks",
+      "displayName": "Xoliks",
+      "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383124104151279",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383124104151280",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329916904112209",
+      "name": "image10.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329916400926886/1472329916904112209/image10.png?ex=69922d96&is=6990dc16&hm=0bc01f8ccd08462018608f22e812f339644f62eaf3de585508267a108a5386de&",
+      "timestamp": 1771101206637,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329894099947701",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329894099947701/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 131390,
+      "canDownload": true,
+      "width": 677,
+      "height": 901,
+      "path": "images/image10.png",
+      "hash": "0b0867b0747a00223655de0c0b8c1744a6d644fd14f7893246fb4f1c0ede2f66"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329917206106316",
+      "name": "BINTOBCD003_BintoDec_Converter_4.2.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329916400926886/1472329917206106316/BintoDec_Converter_4.2.schem?ex=69922d96&is=6990dc16&hm=688719e7cf6b6c84eceefe91b36c3c101b4ca8865b9a0d11ac472cd8ce9dc1d6&",
+      "timestamp": 1771101206637,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329894099947701",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329894099947701/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2697,
+      "canDownload": true,
+      "hash": "b20473fa6db19116f8b4e95f65ed6773d93f938b38cf2719739c196857f6fc3b",
+      "path": "attachments/BINTOBCD003_BintoDec_Converter_4.2.schem",
+      "schematic": {
+        "size": "7x19x15",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts a Binary number into a Decimal to tile with 7 segment displays.",
+    "input": "Nb number",
+    "output": "N digit decimal number (signal strength)",
+    "speed": "2*b + 1 ticks (b = number of bits)",
+    "notes": "Infinitely Expandable (7x4x2 per cell), Uses TTP to remove directionality issues."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406276838260859",
+    "forumId": "1472330124052398243",
+    "continuingMessageIds": [
+      "1472406281590407380"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406276838260859",
+    "uploadMessageId": "1472406270177972225"
+  },
+  "archivedAt": 1771119410222,
+  "updatedAt": 1771119410222,
+  "num_comments": 0
+}
