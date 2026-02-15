@@ -1,6 +1,7 @@
 {
   "id": "1472460841465937940",
   "terms": [
+    "Data sizes",
     "Bit",
     "Nibble",
     "Byte",
@@ -13,7 +14,8 @@
   "threadURL": "https://discord.com/channels/1361854816837435433/1472460841465937940",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
   "status": "PENDING",
-  "updatedAt": 1771132421657,
+  "statusMessageID": "1472460842254467194",
+  "updatedAt": 1771132766128,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -25,6 +27,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1472460842254467194"
+  "referencedBy": []
 }
