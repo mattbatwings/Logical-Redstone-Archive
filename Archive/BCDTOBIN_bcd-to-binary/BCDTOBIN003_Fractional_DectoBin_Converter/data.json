@@ -1,0 +1,127 @@
+{
+  "id": "1472656513129775205",
+  "name": "Fractional DectoBin Converter",
+  "code": "BCDTOBIN003",
+  "reservedCodes": [
+    "BCDTOBIN003"
+  ],
+  "pastPostThreadIds": [
+    "1472669702164582595"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "698322584810553404",
+      "username": "xoliks",
+      "displayName": "Xoliks",
+      "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    },
+    {
+      "type": "discord-external",
+      "id": "762007539197411350",
+      "username": "stickman_cookies",
+      "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383125706244308",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1452394664723222620",
+      "name": "area_render_44_.png",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1452394664392134686/1452394664723222620/area_render_44_.png?ex=6992d2b0&is=69918130&hm=dc6a63a15d34a25f309bd8b2814e9ca1518df2bac69664392cd651d3f445ce8b&",
+      "timestamp": 1771179073365,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "displayName": "Xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": true,
+      "width": 594,
+      "height": 863,
+      "size": 144985,
+      "path": "images/area_render_44_.png",
+      "hash": "59ec48b7444efbdfe83c7abc5c6bff48b438e5feb4b8cae999bf0587481d8fa3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1452394665004367922",
+      "name": "BCDTOBIN003_Fractional_DectoBin_Converter.schem",
+      "contentType": "discord",
+      "url": "https://cdn.discordapp.com/attachments/1452394664392134686/1452394665004367922/Fractional_DectoBin_Converter.schem?ex=6992d2b0&is=69918130&hm=22a3b7cdb98276f9aaf4c6407b04c162271f532a19fe7fad098ff7e490c87363&",
+      "timestamp": 1771179073365,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "displayName": "Xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "URLInMessage",
+      "description": "",
+      "canDownload": true,
+      "hash": "c167a0b62a2f9feed2541eef3b61c8ba6709e354645fef33146a1814e36bda1e",
+      "path": "attachments/BCDTOBIN003_Fractional_DectoBin_Converter.schem",
+      "size": 3443,
+      "schematic": {
+        "size": "7x18x14",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts a Fractional Decimal number into Binary",
+    "input": "n digit value as ss on the top",
+    "output": "n bit value on the side (MSB at the top)",
+    "speed": "2(d-1)+2(p-1)+3rt, (d = # of digits in input, p = degree of precision or # of binary outputs)",
+    "notes": "Infinitely Expandable (7x4x2 per cell), Infinite precision by adding bits to the output, Uses TTP to remove directionality issues. The speed depends on the output size because some numbers would take infinite time to be converted with infinite precision."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472669702164582595",
+    "forumId": "1472330151210516531",
+    "continuingMessageIds": [
+      "1472669706224926782"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472669702164582595",
+    "uploadMessageId": "1472669696905183314"
+  },
+  "archivedAt": 1771182215550,
+  "updatedAt": 1771182215550,
+  "num_comments": 0
+}
