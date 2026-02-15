@@ -1,0 +1,126 @@
+{
+  "id": "1472532775235227799",
+  "name": "16bit sequential divider with adjustable decomal point",
+  "code": "DIVIDE005",
+  "reservedCodes": [
+    "DIVIDE005"
+  ],
+  "pastPostThreadIds": [
+    "1472589085699735753"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "761200678940311582",
+      "username": "mnbiom",
+      "displayName": "MNbiom",
+      "iconURL": "https://cdn.discordapp.com/avatars/761200678940311582/7869884aac81dd525b124a3aa38fdfa8.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168811",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472532775528825055",
+      "name": "screenshot.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472532775235227799/1472532775528825055/screenshot.png?ex=6992ea84&is=69919904&hm=19dd231e0466e880dcf70f4bd7d6ac367a8a3e3776324df5c08ac90acf0d4d74&",
+      "timestamp": 1771149571952,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "761200678940311582",
+        "username": "mnbiom",
+        "displayName": "MNbiom",
+        "iconURL": "https://cdn.discordapp.com/avatars/761200678940311582/7869884aac81dd525b124a3aa38fdfa8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 115829,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/screenshot.png",
+      "hash": "31439d3817ac6e2fb7af2d38d7bb79dfbdd237167516f7b022f49f11cf7dc934"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472532775885209634",
+      "name": "DIVIDE005_16bit_divider_offset.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472532775235227799/1472532775885209634/16bit_divider_offset.schem?ex=6992ea84&is=69919904&hm=c6c86f2ab4df105de763a9c1ba4579b07b11cc07d4a2801cb3e022e0a743fdb3&",
+      "timestamp": 1771149571952,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "761200678940311582",
+        "username": "mnbiom",
+        "displayName": "MNbiom",
+        "iconURL": "https://cdn.discordapp.com/avatars/761200678940311582/7869884aac81dd525b124a3aa38fdfa8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 5709,
+      "canDownload": true,
+      "hash": "714949c9b1afa7340473d5eba84e68c638f5fdc5bf4fd645edbe095b4bd06ad2",
+      "path": "attachments/DIVIDE005_16bit_divider_offset.schem",
+      "schematic": {
+        "size": "12x39x20",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Its an 16bit sequential divider with adjustable decimal point. So you can set whether is should calculate 16.0 or 15.1 ... or 1.15 (integer.fraction (amount of bits))",
+    "input": "A(16bit), B(16bit), amount of fractional bits(hex), button to start(9rt pulse)",
+    "output": "A/B, A%B",
+    "speed": "9rt/bit + initial 7rt (151rt for 16.0(best case); 286rt for 1.15(worst case))",
+    "notes": "A%B output sometimes outputs 1rt pulse, so you might have to filter it with a torch or a comparator"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472589085699735753",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1472589090678374493"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472589085699735753",
+    "uploadMessageId": "1472589082298421279"
+  },
+  "archivedAt": 1771162994465,
+  "updatedAt": 1771162994465,
+  "num_comments": 0
+}
