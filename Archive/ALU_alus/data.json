@@ -4,6 +4,12 @@
   "code": "ALU",
   "category": "🧩 CPU COMPONENTS",
   "description": "Arithmetic Logic Units, used to perform many small functions in a CPU.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472331179465244743",
+      "code": "ALU001",
+      "path": "ALU001_8_bit_ALU_CCA-based"
+    }
+  ]
 }

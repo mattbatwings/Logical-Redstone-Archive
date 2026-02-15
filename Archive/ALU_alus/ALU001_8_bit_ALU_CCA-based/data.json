@@ -1,0 +1,103 @@
+{
+  "id": "1472331179465244743",
+  "name": "8 bit ALU (CCA-based)",
+  "code": "ALU001",
+  "reservedCodes": [
+    "ALU001"
+  ],
+  "pastPostThreadIds": [
+    "1472407087693959312"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383145008562312",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331180450779168",
+      "name": "alu_cca.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331179465244743/1472331180450779168/alu_cca.png?ex=69922ec4&is=6990dd44&hm=79b4f58a6bbd2d749a3ff45f8d6e3fcaf119655831501197f0847bf17c7922d2&",
+      "timestamp": 1771101507775,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 290500,
+      "canDownload": true,
+      "width": 930,
+      "height": 889,
+      "path": "images/alu_cca.png",
+      "hash": "a78cd3d22415a59e10a7c81a94145d684c4a343725bf7a6ff951ad361fc51e80"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331180073287935",
+      "name": "ALU001_alu_cca.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331179465244743/1472331180073287935/alu_cca.schem?ex=69922ec3&is=6990dd43&hm=0059c86b00c054df854766cb315dbda8d326612b8c066129a160214cd6f40e9d&",
+      "timestamp": 1771101507775,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331174822023226",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331174822023226/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3719,
+      "canDownload": true,
+      "hash": "4fa213c46c4759a761f8473e21079bfcd487b1decb0e4df53ec6b96d05fa7d96",
+      "path": "attachments/ALU001_alu_cca.schem",
+      "schematic": {
+        "size": "33x21x22",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Performs many operations on 2 8b numbers.",
+    "input": "2 8b numbers, 11 operation options",
+    "output": "8b number"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472407087693959312",
+    "forumId": "1472331373846069430",
+    "continuingMessageIds": [
+      "1472407092626460828"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472407087693959312",
+    "uploadMessageId": "1472407076935307387"
+  },
+  "archivedAt": 1771119602458,
+  "updatedAt": 1771119602458,
+  "num_comments": 0
+}
