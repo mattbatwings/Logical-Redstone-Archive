@@ -1,0 +1,110 @@
+{
+  "id": "1472330284321214731",
+  "name": "Upward Hex Transmission",
+  "code": "TRANSMIT003",
+  "reservedCodes": [
+    "TRANSMIT003"
+  ],
+  "pastPostThreadIds": [
+    "1472406820503949555"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383128646717446",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383128646717447",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472330284954292467",
+      "name": "hex_transmit_up.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472330284321214731/1472330284954292467/hex_transmit_up.png?ex=69922dee&is=6990dc6e&hm=d9984d378e4ea3718f6a8569e87548c96001ea12ea708b6f2f9af8ec915c06ed&",
+      "timestamp": 1771101294356,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330268130934788",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330268130934788/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 71364,
+      "canDownload": true,
+      "width": 303,
+      "height": 944,
+      "path": "images/hex_transmit_up.png",
+      "hash": "2feda243e6189e62933582bb790ab0ebb8916ffbc4cbf2787e22ccbd57020609"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472330284543246447",
+      "name": "TRANSMIT003_hex_transmit_up.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472330284321214731/1472330284543246447/hex_transmit_up.schem?ex=69922dee&is=6990dc6e&hm=6f712e7df830e9e123a79f4890f4e6bd866da3accfa16fc8b84438409a1dd489&",
+      "timestamp": 1771101294356,
+      "author": {
+        "type": "discord-external",
+        "id": "1472330268130934788",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472330268130934788/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 930,
+      "canDownload": true,
+      "hash": "58101de633efa78157662a2a2adbaaea16802fc551943dd269935542794c542d",
+      "path": "attachments/TRANSMIT003_hex_transmit_up.schem",
+      "schematic": {
+        "size": "7x16x2",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A way to transmit hex upward quickly.",
+    "input": "Hex",
+    "output": "Hex"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex",
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472406820503949555",
+    "forumId": "1472330395033927893",
+    "continuingMessageIds": [
+      "1472406823758991444"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472406820503949555",
+    "uploadMessageId": "1472406814623793203"
+  },
+  "archivedAt": 1771119539829,
+  "updatedAt": 1771119539829,
+  "num_comments": 0
+}
