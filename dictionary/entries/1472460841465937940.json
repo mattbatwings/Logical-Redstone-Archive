@@ -1,0 +1,30 @@
+{
+  "id": "1472460841465937940",
+  "terms": [
+    "Bit",
+    "Nibble",
+    "Byte",
+    "Kilobit",
+    "Kibibit",
+    "Kilobyte",
+    "Kibibyte"
+  ],
+  "definition": "Guide to data storage sizes:\n\n**Bit**: The smallest unit of data, representing a 0 or a 1 in binary. Abbreviated as b\n\n**Nibble**: One hexadecimal \"digit,\" representing either **4 bits** or the 16 states of redstone dust.\n\n**Byte**: Equivalent to **8 bits or 2 nibbles**. This is a very common unit of data storage in redstone. Abbreviated as B (not to be confused with b, bit)\n\n**Kilobit**: Equivalent to 1000 bits or 125B. Not very commonly used since powers of 1000 are not usually practical in the context of redstone. Abbreviated as kb or Kb\n\n**Kibibit**: Equivalent to 1024 (2^10) bits or 128B. Abbreviated as Kib.\n\n**Kilobyte**: Equivalent to 1000 Bytes or 8 Kb. Abbreviated as KB.\n\n**Kibibyte**: Equivalent to 1024 (2^10) Bytes, 8192 bits, or 8 Kb. Used when referring to the size of large quantities of memory in redstone. Abbreviated as KiB.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472460841465937940",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+  "status": "PENDING",
+  "updatedAt": 1771132421657,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hexadecimal"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472460842254467194"
+}
