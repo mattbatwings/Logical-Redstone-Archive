@@ -1,0 +1,98 @@
+{
+  "id": "1472328960430969046",
+  "name": "Configurable clock",
+  "code": "OTHERSEQ003",
+  "reservedCodes": [
+    "OTHERSEQ003"
+  ],
+  "pastPostThreadIds": [
+    "1472422044858585242"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383103463854139",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383103463854140",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328960913444944",
+      "name": "config_clock.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328960430969046/1472328960913444944/config_clock.png?ex=69922cb2&is=6990db32&hm=8485ed3e668c2652787a461bc352d11a979ba4730a2cbb7d6d8e54bc1c0a949a&",
+      "timestamp": 1771100978716,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 115535,
+      "canDownload": true,
+      "width": 1079,
+      "height": 754,
+      "path": "images/config_clock.png",
+      "hash": "894391b5c4edef4319e51ccf148138a01005d51e976d2155b0ef673170694fe8"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328960556794026",
+      "name": "OTHERSEQ003_config_clock.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328960430969046/1472328960556794026/config_clock.schem?ex=69922cb2&is=6990db32&hm=05a8878432715ac561785be72d954b20bf5222b4042ea9083d2eabb37272a81f&",
+      "timestamp": 1771100978716,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328932358361309",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328932358361309/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 576,
+      "canDownload": true,
+      "hash": "56538523ea99235af492b2e338a58b1a381740b479b762f1b01cc1c36e6a13d9",
+      "path": "attachments/OTHERSEQ003_config_clock.schem",
+      "schematic": {
+        "size": "10x2x2",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A clock with configurable period and pulse length.",
+    "notes": "Increase/decrease the delay going into the side of the first comparator to change the period. Increase/decrease the delay going into the side of the second comparator to change the pulse length."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472422044858585242",
+    "forumId": "1472329168116256841",
+    "continuingMessageIds": [
+      "1472422047891325012"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472422044858585242",
+    "uploadMessageId": "1472422039963832468"
+  },
+  "archivedAt": 1771123170057,
+  "updatedAt": 1771123170057,
+  "num_comments": 0
+}

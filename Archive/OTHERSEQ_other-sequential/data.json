@@ -4,7 +4,7 @@
   "code": "OTHERSEQ",
   "category": "🕐 SEQUENTIAL BLOCKS",
   "description": "Devices that perform other sequential functions.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329158062379119",
@@ -15,6 +15,11 @@
       "id": "1472329150919610584",
       "code": "OTHERSEQ002",
       "path": "OTHERSEQ002_16-bit_Automatic_Accumulator"
+    },
+    {
+      "id": "1472328960430969046",
+      "code": "OTHERSEQ003",
+      "path": "OTHERSEQ003_Configurable_clock"
     }
   ]
 }
