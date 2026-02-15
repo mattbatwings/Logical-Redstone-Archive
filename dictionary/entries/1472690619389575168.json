@@ -1,0 +1,25 @@
+{
+  "id": "1472690619389575168",
+  "terms": [
+    "ALU",
+    "Arithmetic Logic Unit"
+  ],
+  "definition": "A CPU component which performs most of the logical calculations in a core. ALUs are able to perform Addition, Subtraction, Add with Carry, Subtraction with Borrow, and Bitwise functions. Certain ALUs are also able to perform right shifts. In rare cases, ALUs can sometimes also perform multiplication and division.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472690619389575168",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472690619389575168/1472690620207206585",
+  "status": "PENDING",
+  "updatedAt": 1771187205018,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Barrel Shifter",
+      "id": "1472456321486819338",
+      "url": "https://discord.com/channels/1361854816837435433/1472456321486819338/1472456323147759700",
+      "matches": [
+        "right shift"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472690620207206585"
+}
