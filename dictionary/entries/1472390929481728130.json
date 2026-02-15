@@ -1,0 +1,15 @@
+{
+  "id": "1472390929481728130",
+  "terms": [
+    "Sync",
+    "Desync"
+  ],
+  "definition": "Sync: All input values take the same amount of time to reach the output, no matter the input.\nDesync: The opposite of sync: There is a possibility some input combinations take longer to process than some others, or some output bits take longer than others",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472390929481728130",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472390929481728130/1472390933466189975",
+  "status": "PENDING",
+  "updatedAt": 1771115753366,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472390933466189975"
+}
