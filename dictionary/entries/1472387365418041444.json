@@ -8,9 +8,9 @@
   "definition": "A buffer for displays which allows a device to write to a display without the new data being instantly shown on the display. This allows full frames to be written to a screen at once.\n\nSR-latch buffer: A buffer using SR-latches, typically where all pixels are reset at once, and set to \"1\" when triggered.\n\nD-latch buffer: More flexible than an SR-latch buffer, allowing pixels to be set to \"0\" or \"1\" when triggered.\n\nPictured: D-latch buffer from the 16x16 pixel display from RWPU. The first repeater lock (D-latch) is the buffer, and the second repeater lock is for the currently displayed frame.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472387365418041444",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472387365418041444/1472387367858995252",
-  "status": "PENDING",
-  "updatedAt": 1771114903915,
+  "status": "APPROVED",
+  "statusMessageID": "1472387367858995252",
+  "updatedAt": 1771125550954,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472387367858995252"
+  "referencedBy": []
 }
