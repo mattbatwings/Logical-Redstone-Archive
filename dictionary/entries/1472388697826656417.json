@@ -8,9 +8,9 @@
   "definition": "Register: A series of d-latches (repeater locks) that holds one binary value. A register has a data input, a write wire (which when pulsed, sets the value in the register to the input) and a read wire (which when activated, reads the value in the register)\n\nRegister file: A collection of addressed registers. A user or device can select which register is being written to and read from.\n\nDual read register: Useful in CPUs where two registers need to be read at once, as required by an ALU input.\n\nSimulated dual read: Where two copies of each value are stored in two separate registers, allowing each register file to read two different registers independently.\n\nTrue dual read: Where only one version of the data is kept, and two registers in the same register file are read at once.\n\nDual read can also be achieved by reading two registers in quick succession.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472388697826656417",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472388697826656417/1472388698602737674",
-  "status": "PENDING",
-  "updatedAt": 1771115221314,
+  "status": "APPROVED",
+  "statusMessageID": "1472388698602737674",
+  "updatedAt": 1771125571234,
   "references": [],
-  "referencedBy": [],
-  "statusMessageID": "1472388698602737674"
+  "referencedBy": []
 }
