@@ -1,12 +1,402 @@
 [
   {
-    "id": "1472297504958840934",
-    "name": "adders",
-    "code": "AD",
-    "embedding": "NxEpCCYl/xbix/Hs+R8AHPn79gbz7hzlAAr28scUDvMi+N780frzAwH37QsE9no7+gDhGQgLFQP5+f/2QPwhAAkI/hTwCArxB+wu3v0YJR0lBFJLFvoU7+ok+ccS9BzYBfkpCAr7JOMA8wDq7wwDDi/42BoY8+wO8ykcCB8KBQ3d6Qn2DQD02PX9FgztERQ5BtHkD/cY6fsB7OQUBAzMAgANGBQRAAbt7ufg6SoR5/4bNAP96vHnAQkO/vsCC+DaJAj06+ojJSAQDyMD5/wO9Rns/8M47gf09PMO3yUeDBXkJS/oLeT1EQgh/f4FACfbCfANAObxFwvtBAQTBvI8AA==",
-    "category": "NEW ARITHMETIC",
-    "path": "Archive/AD_adders",
-    "description": "Adders",
-    "position": 47
+    "id": "1472327318457290846",
+    "name": "adders-subtractors",
+    "code": "ADD",
+    "embedding": "Lhos8D4O5gYAzwsGGwv1GOnp/BLz/jXP+hjr2sEYFQMS5Pz81fL97fPz2/z1/K4L9vfXHf4gAwHl+g/8OgMu9wMAIfbiEPH15QEh5AgCDvsnDT8yEwXy/ggq+cEr7Q7jAOcMEfztSe/7/Pfg4hYIAjMs5SES/ukMAAULGgoNJwzy1/b4Jfn9tPkBAxj5+B8M7tL5GxIo09/99OQIFx3hGfP0ERH0DRYSFQfiyCci4/n8Mx7aAuIMAhwL9+/0DPjWFQAN3dsqJQQVBiAa8xYO6ADjBM8k5xgA9Oka3Qn6ARfLK0nyEwD19AgPHfLzCyTY6vz5APACEAL6B+r2CfAvCA==",
+    "category": "➕ ARITHMETIC",
+    "path": "Archive/ADD_adders-subtractors",
+    "description": "Devices that add/subtract 2 numbers.",
+    "position": 49
+  },
+  {
+    "id": "1472326395312082986",
+    "name": "multipliers",
+    "code": "MULTIPY",
+    "embedding": "PRcw+UUw9BHz3BUAGhb7DuzmDiLy/UXvCRHl3OIr8AIJ9PsE1Pf+AAfd+xD4GKkN9uzaEgIXFADj8AnuKwUj9wz9JAHr+BH54fQn5gUUHwwhD0It7/0KEfU+67kX4B3j/NUQERICN/7v9u3o0A4E+C0G8ikmAAER9xAMHxkQGAjr1PYQHPcDzRQM8QTl8ygMAOj8HQgl0/j88/kNGgDnAv/tFgMLHhYuDwbr1w8Y0g0lHgPfAfgV+g/tCADzIszKCAf52s0mIwYSCDEI7REG9hUAA70R0xYEAQYC/jL5+RbXJzj8AO316gEeJhASBB7S9vTxDNz6CAf3/vYBCfEuEg==",
+    "category": "➕ ARITHMETIC",
+    "path": "Archive/MULTIPY_multipliers",
+    "description": "Devices that multiply 2 numbers.",
+    "position": 50
+  },
+  {
+    "id": "1472326416350843093",
+    "name": "dividers",
+    "code": "DIVIDE",
+    "embedding": "QPsm8FEt4QTx0gz5CyrvKP3/Cwvm9zXeCyL22ukeAAMX7QLl1PTwGgnX/QD0Abcp8P/MFfYb+vn04Qn3Qg0R9x7+Jf3v+A7v//YU+PEOHxIeCjc1APP6+P0n6sgi4iDSFfgRIhDzMeoIAu/h2w/4+SgW5hgkCfkL8hACGQgDIAbx5O0VFP/9xBwPEAr1BxoI7NXtF/QW3vz78fEOC/X0DfD3BAAAGxwcDQD0zgsSzgYgIAHl8/Qh+ATzAPznL9HJEwQZ1dYUKBgaCyTl7hUKCir6CcEr4iQG9fYB6R3cACbmMjsHJO7rDhwhEwcQCjHY6/cKFOz+HPz1DOv5++AkBQ==",
+    "category": "➕ ARITHMETIC",
+    "path": "Archive/DIVIDE_dividers",
+    "description": "Devices that divide one number by another.",
+    "position": 51
+  },
+  {
+    "id": "1472326463179985037",
+    "name": "squarerooters",
+    "code": "SQRT",
+    "embedding": "RQQtESIxDAz2+QIZBAD6H/jt9xn54TrlEQ7/5u0m+AUNz+/15AAE9QPu8A/s9qsj6eftM9IHBBIS6R3nG/AW+BEHIAXuDvf45+D+3gIzHiAZ/zAt9foK8fQdC7gX4hrsDuIbHRXoO/f6/gfk5fziAx3/8worDQr4CAr1Fib6HRvc0ekSEPzwwQIA8BXyAx4Z8tf4HAAT+x396Q/q8+/qANjk/AscGxYgGePk2RwH6AUKEgf6//kb/PPrDPgoFNbUIAcM6dsTFSwMEifq3ewdBiz1CLgazCYi5OQR6Cbp+w/bKyruFMXu6A4XIwMa/hnjEwHsHOvbKwcCDt4VAOkjCg==",
+    "category": "➕ ARITHMETIC",
+    "path": "Archive/SQRT_squarerooters",
+    "description": "Devices that take the square root of a number.",
+    "position": 52
+  },
+  {
+    "id": "1472326515067850834",
+    "name": "other-arithmetic",
+    "code": "OTHERARITH",
+    "embedding": "OAgU6jMJ/wv65AD6AgbpEgTdDxDx9zzd9gn42tgJ+hIGAvgQxe0E+/zt6xIBEsoj6fvQHgQdFxjq5xHxPRIO7iPiLvvVCvkJ1AQq8gL/IRAzFTQ/AAIC7QE068gg5Avb8PIHHf7gNez1//HXwAoSCyUH3RcVDu8AGwsJFx4INAXvuvsANgDrzw8P7Af26g0P7O0GEQAezu/45ukDIA3gB+vkAgP7IA4KCATiyBgc7QcFOhDl6eoC+v0CCPENEszhGvsQ1eQVORsdIiMWDCAP+iUFFbgH2BMB7Oj58hf9ER7SHTEPEA0I5AkcLu8HDSnh7QgFFQANDPn6A+38AuIaCQ==",
+    "category": "➕ ARITHMETIC",
+    "path": "Archive/OTHERARITH_other-arithmetic",
+    "description": "Devices that perform other arithmetic operations.",
+    "position": 53
+  },
+  {
+    "id": "1472327138215727382",
+    "name": "encoders",
+    "code": "ENCODE",
+    "embedding": "NxIq9zYr+BDwzuPr+BvdCvzwGBTq7THx+wXr6rwC9w0N7fb5tPrnAune6xIFD6E67QLJH/QqAgsI5hQALQITChb9A/gN8/39EAAU5gkKMxsfBSQ2+PcK9fE/7bQb8wbk9fsLHf7qIeD//vLUzhQY/hgS4RgY+vIRAQARChAPB/z51+8SGwwPzgL6+iDiBgoA7Of+LAUJ2vwL7uMSAPrq7eT0FCH49QwKAgP2ABka7PoaPQfr7/f9APLmAAnwGdvnIPMT2+U9Lh4cCB/x5gIN8i34FMcM1C7z6egB4EjlAhznMBX7Ouv8AwYe9vYeCCb1BRICAN33Ivv5EvIRCuIjEQ==",
+    "category": "🔨 COMBINATIONAL BLOCKS",
+    "path": "Archive/ENCODE_encoders",
+    "description": "Devices that encode custom patterns per each unique input.",
+    "position": 54
+  },
+  {
+    "id": "1472327175737704703",
+    "name": "decoders",
+    "code": "DECODE",
+    "embedding": "OwsU90Qo+B3r2vDo9CnvAvnzFBz26BnpCBHq6MUF9g0I3O8IuOntB+Tr+xwKB5op9OzRJvguDQgD4B3uLPcbAREAD/QS+fjx+/wY9wMUIREiAhgwAvIA8fA497Qp7xLs/g4SFAryHOYB9e7eyQgQ9iEN1R0iC+4LBQoNAB4CFgz20+0TGhADxRD99xLo/gMP6e/2HfkO5f4X4OECF/rlBeD1DiP4/QgUBwHv9CYX4v0mMv/s7fX98P3y/An8K9ThHfMH394tHxsvBwzk5fUZADfuDacT1DX76O4A3irq/SXlMxnwKPnw+gIW/vAcESztBgX+BO7nG/39FAccCesoCw==",
+    "category": "🔨 COMBINATIONAL BLOCKS",
+    "path": "Archive/DECODE_decoders",
+    "description": "Devices that decode a custom pattern into unique outputs.",
+    "position": 55
+  },
+  {
+    "id": "1472328867602628849",
+    "name": "other-combinational",
+    "code": "OTHERCOMB",
+    "embedding": "PQUr6jsL8RXtzgX6/xHbEQnoHRMG9B/eFPfm8N8gAw8K+f0KsOH2AOvy7xUEGKAq7PXVFQ8jKhr46hHxMRb78R/xIv7qB/oH7P0s2u7uHgwqFSk77wUAAPUu89IZ7BXe/un/GP/qIPL9+N3lzicU/y8O8hobE/YCDgIPEy4AJQblyv4OHgLwyREG7xL23BIK8/T7JPUA4Aj07+kPKPrs8ekA+wkIGv8MBQTh1g4Y5QkMKgwI4vf9/AbyFu8FG9TiFvX509QeKBgqJCEP+BsT9yn0DLv13yAQ8QDx/SLxDi3qNzD/Gv0AABEpDQoWFi/N6wn9KOz8Cv8N9ewGGeswAA==",
+    "category": "🔨 COMBINATIONAL BLOCKS",
+    "path": "Archive/OTHERCOMB_other-combinational",
+    "description": "Devices that perform other combinational functions.",
+    "position": 56
+  },
+  {
+    "id": "1472328937248915517",
+    "name": "latches-flipflops",
+    "code": "LFF",
+    "embedding": "PQsuFTIz3Rra5fAV/gHpCADhPwcD7hXqFAvx6OEZ9f8ED/IQ6xMR+tTtAwLuDq8f8v/iFOwRASP5+ALyPAQoIBDy+AABEAoMG+Qg8fUEOgkj/UVLCPwO999SBt8Y4Qza3/43H/UCJ9/48u7qzgwOCS77ABsX9uD8BSL+CCMf9Rvw3uQCARLw0QX3JRHk9wsf8s/QMtoM9/4Y4eH8/vvbAwkO/xIqBgn5Ggbp8xkv0w8IDgjpA8z8BwAH//wA/NHOIg0T9O44Hhv8FPYD6PIBCBr999oC0hP5B+8A8CspDhHsHjf6KPnz6ToMLQwEABbl+goGBwzfIQPn/fsBBvUU8A==",
+    "category": "🕐 SEQUENTIAL BLOCKS",
+    "path": "Archive/LFF_latches-flipflops",
+    "description": "SR latches, Data latches, and T flip flops.",
+    "position": 57
+  },
+  {
+    "id": "1472329063317242077",
+    "name": "counters",
+    "code": "COUNT",
+    "embedding": "Mwsu5zYL9RPt1wAB/xP6EhwAFwT+7TPm8Pvv5c0QBP4h7gv72P76+vjn/w4MHJkK/ezRF/8VBPrt/wD2QA8r+grhLwsEAfEPAAsq+/8QJQ4ZDTg+6v4W+u81B71A7QDw6gcJGwHeOeP63gHn2BwBASYZ/yIkAAcCEv8AFxUSFgv20fwQE+nr1xcEByrl9PoR+NDiEPkU3vgK8e8KCgTjEd0FFAsZHwcIHPXl7h8h3yQbHuzv8dEf9fz1EA8BDeDfFP3419MhKhIcGR8E0xIN7xcCCdEZ2Cb63OQJ2Bv4Aj/sJDYBIvn29xssAAMM9Sjd5vILIPj4Cv3qAeUE9uYyDA==",
+    "category": "🕐 SEQUENTIAL BLOCKS",
+    "path": "Archive/COUNT_counters",
+    "description": "Devices that count up or count down.",
+    "position": 58
+  },
+  {
+    "id": "1472329079880421558",
+    "name": "registers",
+    "code": "REGISTER",
+    "embedding": "Nx8g6D8g6CLr6ProCf/p/QDxFxbw8xvwBAT42coO+RIbBQALuvjrAO7k7h4AGq04APfGEPElCgjs/QMDRBsX/BvbIPT57fcTA/YJ9PMBPQojFSNG+wAG5+Mw7L8h9gbm8f0YMQL2KOMQ5ufn1hQTARAE7yYhBAcNDf4IACANIg34x+0JEhH48wMACQ//+QMABNjqD/kY7v4G5+X8FyHyCuAGBRkKFQMPKPn30hse7gwfLAzl8OwE+/kBGvcAEtTiLuUN3O4oKRAYDhr76QMJAxwAE8El1Cjb8egE4C75DT3jKzUCK9n7BSUmAgAaEzDxAgELD/j1EPfqA/ADBuIt7g==",
+    "category": "🕐 SEQUENTIAL BLOCKS",
+    "path": "Archive/REGISTER_registers",
+    "description": "Devices that store data.",
+    "position": 59
+  },
+  {
+    "id": "1472329117041954866",
+    "name": "shift-registers",
+    "code": "SHIFT",
+    "embedding": "NRwq5S4k3iT11fLxB/XtAP/XFh317CvlCRz518Eb9A4W/gQQxvj58tj0/yAAH7Mv7fXOCPooCwrtAPTyNAwT8h/dHebr9fMV9vUN8PHvLhcmCzBDC/EL7vUu5cEdDAHlBgsgM/nqLtwW+fbg3g0G/w8KDSMQ8PoLA/78DhIEGwL5wOcNDAf/7gwDAgn85xz6B9DVG/4V7+/+2vD9Ex7x/NoL/wz9EwgUJhMA5gke4hopMwnj9/AACu0KCfj7DsblMugM1PEwNQ4MBP306gsCBCMGFc0g4Bve+eoG8SkADDXnJkQEKd/y/w8dBv8WFC3pAfwRBPnwGfX5Def0DNMn+g==",
+    "category": "🕐 SEQUENTIAL BLOCKS",
+    "path": "Archive/SHIFT_shift-registers",
+    "description": "Devices that store data and shift it.",
+    "position": 60
+  },
+  {
+    "id": "1472329168116256841",
+    "name": "other-sequential",
+    "code": "OTHERSEQ",
+    "embedding": "Q/0U7C4U5Rrq0PgE9hfpDgjmCgf/9hnl/wnl5NQL9QkW7f4Pw+4JAOjt+R8TJawd7P/FHwYgFgr/8f0HQRgK/xzrIPfp/voA8w0v7uv3FhszBy1K6wX97AAs7cQd6g3q/eoBJgPaGub27+znxRIlBhgM2x0bEfgADu0BHSD4LP7cy/oXFRP2xAoL/xT24AkQ/+joG/EWyAHw2vL+KAfk7+D69gsLCAYFDwPy6AUa6BUGOAD75+oG/fj3EAn+E8XWFeL23tweJCMmMw4F+A0b+y73DsL01C3++Oz45Rn5CyTnHSYGG/0AAAkvIgIWER3Z7w0CKu/0HvX9A+r+FuUvEg==",
+    "category": "🕐 SEQUENTIAL BLOCKS",
+    "path": "Archive/OTHERSEQ_other-sequential",
+    "description": "Devices that perform other sequential functions.",
+    "position": 61
+  },
+  {
+    "id": "1472329335309471776",
+    "name": "display-modules",
+    "code": "DISMODULE",
+    "embedding": "MxIk8z0H3v3w4/r6FBD2/Qrr/Qz24CH5Cf708fAU8t/87NkH4Qz9D/vkDwj7CbAkDR3BGPMnBPgcGxUNKiARChnpBAT6Df0HAeUk+gX7Dw8pCjUn/AAZ/vpFzdf9Bhjo9/wa/vTiK9T8/9/k2SP04S393jACAPYRHAgAFB8GCA321wEZCwkGyg4VIhH5+xka68ziEOMT9/Xuz+IUNgPF8g4YEQcEFvv0K/D2zQIJ3PgeKef38Ozy6vzwAN7qDd3a++UG9fsLBzIVGxP+8AkHAScFDb0Y5y3y8QD75z8a3zLEITYCLvTnDxM2BffzGyTW/u7zIhDrMPv9APjo/+smAA==",
+    "category": "📺 DISPLAYS",
+    "path": "Archive/DISMODULE_display-modules",
+    "description": "Modules for the final wiring part of displays.",
+    "position": 62
+  },
+  {
+    "id": "1472329280129204314",
+    "name": "number-displays",
+    "code": "NUMDISPLAY",
+    "embedding": "PQ8o4zol5RDp5Af7DBzvDfYLDgDr8S3W/BLs5r8Y9gAY8f4E4A35CfvQAxT0+50UGQ3UDfATAPP76ggBOwcfBhbrMAwBCv4F/u4X8vEkF/wcFj4y/wUS/P4r8sgf3gfp/OwGGQfnP+Ty7+/m5wL76CkD+x8eBwkJ+f8NDxYTGQvw5v0aIPkB0QILGA/w7xkJBdj6EfYc2Pr+0/oAIA3aA+v3Ew//JQUNEfru1hInzQAiCALa7eIeA/jkEPv2EtTLEfcF6tYiKg8cETcH+hMIAhP/Fa814ywB9ucA8RoI+yvLLjQMGObiCRcd/vwJBCrW/fL4CfHxFfX4+Nf19d08Dg==",
+    "category": "📺 DISPLAYS",
+    "path": "Archive/NUMDISPLAY_number-displays",
+    "description": "Devices that display numbers.",
+    "position": 63
+  },
+  {
+    "id": "1472329368914104463",
+    "name": "character-displays",
+    "code": "CHARDISPLAY",
+    "embedding": "GR4T8S0X8R/sxu7yDBD2BPsA/P7t6R7eBQv7CNcN7fkb6eX7yxsMEfTICxL99J0yDgvNDuoD/P/t8iISRxAI5w/zCAcA/vsQAN4V8/YhJPwXFTpF5Poe9uUj4bcF5Qfk+fMCD+nZNd3z5+bx3h8K/yQA8xgKBvgQHvEKCi8JCP/14gQhExYC3wMCDgnj8Rca+9vuFOr+0vMW4PUBCwfb6dT36AgCHPz3CucC8xwV8gcRFfnr8AEN/vLtDPECFcbdGAEA7s8WGxwR/SEA4AMrGyoDEM4n2SHtCObz4y378CTORSsGLtfkFQIf5ukm/jbiCe0AAujzFv7zA/r+CtdD/w==",
+    "category": "📺 DISPLAYS",
+    "path": "Archive/CHARDISPLAY_character-displays",
+    "description": "Devices that display characters.",
+    "position": 64
+  },
+  {
+    "id": "1472329599731105862",
+    "name": "pixel-displays",
+    "code": "PIXDISPLAY",
+    "embedding": "PRUt7TEk0yHn3PXn+RsAFPwBDRPw+xzRD+/p6dUG9wYH6wj93gPtDPrj9BP4A7QoAgTVBPYk/f///BgLNAIE7/vhIgAMCvf9APoU+fcQFgUvFjlI6voY7fQtCMke6hDO/uYPDOzuIefu7eDr1hUO+TQD8hoUHvn0BwgRFBsKKP0B3fIQIf3/3Rj1BPX04RgG8uT+C9kG2RT54sv/EfTT7/zlAwr/KP0LHPYA2hQi8f86Ov/l5+IEAOvvJ/gJFsnWGucO1t4EIh0k+Cb32v8RFhoAE78s5jUF//cJ4Sb67DjcGiQJKeDhEg8gBfYMHjnY+QcI/fXmGfgC/QbuANwzCA==",
+    "category": "📺 DISPLAYS",
+    "path": "Archive/PIXDISPLAY_pixel-displays",
+    "description": "Devices that display any combination of pixels.",
+    "position": 65
+  },
+  {
+    "id": "1472329731553886301",
+    "name": "texture-pack-displays",
+    "code": "PACKDISPLAY",
+    "embedding": "NQkd+Tn+1h/4zOX3BxsMDAH/DQL34yQBHucEAOUAz/b63PsC5Qzx9vzmAAoG/a1M0g7XD/IP/QIJAxcJOPoLFOLxBQUF7QMBAOMf/Pj/CgUoBU4s+AQd9fom/9II8ynN/P4RD/baJeD9+uXm1ioQ4yv1BRgbEN8c9BISEA0AMvrg6Q0hEgUG1Pn7DRTf/RIoAMDkBN8Z5O8H3fA4E/PY/e0JBQsDLfD8JOcA8gAX6fYtPgz46OoF+e7lCuz4BdrsCvX+/9YlOBoWCgMA4vsiExkHB8Yx6DIC8/oH4jMt6A7iFRflMtvdCAkw8usoFBHd7eIA9AHqIfPy9Ofx8/gXFQ==",
+    "category": "📺 DISPLAYS",
+    "path": "Archive/PACKDISPLAY_texture-pack-displays",
+    "description": "Texture packs used to aid displays.",
+    "position": 66
+  },
+  {
+    "id": "1472329757856235794",
+    "name": "other-displays",
+    "code": "OTHERDISPLAY",
+    "embedding": "Nwsc7j8I3Bru1PsFABb9G/7qDAb66yDlCf3s8sYP/QcR8ugIxfb6/PbjABUBC6gnCBXOIQkcEwwC9Qr2QhQP/B3oG/D2/+8F+fos7QD9FgAsDS095fr/6v4t4dca4xXp/ukOGPrYINr54+3nyhkL+B4D4R8kGfYIIvwBGiIFJPzdzgYUGxD30RML/gIA4wkV9+ryD+YLyf772+gHNvnn9d/4AAf8Ler+Hfbx1gIZ7A8cLgYD4fIP/vH8F/T9BrHWCfME19gTKRodIh0I4wwhBSAIELEU5zn57un16RYJCifdGigEJu76BwQeCfghER/l5fsRIPPnFAIA/ub0CtgwBw==",
+    "category": "📺 DISPLAYS",
+    "path": "Archive/OTHERDISPLAY_other-displays",
+    "description": "Devices that perform other display functions.",
+    "position": 67
+  },
+  {
+    "id": "1472330051646390365",
+    "name": "binary-to-hex",
+    "code": "BINTOHEX",
+    "embedding": "JgsZ80IP7i713OL79wEAA+zmFwz09wvqAxPz0dUL+wr67QUhvuT89vEGBB8AG6Q26v7tBe8XFwz8/PYNRPkP+AjvFv38//cD9uAn3RMbJ/wnIkYuCgcbHPM738MhC/vWBf0pGRPrOusMAPLa6AkV+BgKAh0X//kV/SD2ByT2HAXn7vEtJvb94OcF8gXx8RYQ+fzpIPoY+v8F5t0HDvzR79zr9gIRFAQVA/kSzx4Y5wMXL/fe8P//+/Tb+/EUMN7bK/QU69MwCyodDxH45QQSETACGckXzQoU8+4K2ynkEyLuOy4AKuvz8gsYDf8ADz7iA/0I+tgIJ/z/Au4ECuswAA==",
+    "category": "💱 CONVERSION",
+    "path": "Archive/BINTOHEX_binary-to-hex",
+    "description": "Devices that convert binary to hexadecimal.",
+    "position": 68
+  },
+  {
+    "id": "1472330081488867479",
+    "name": "hex-to-binary",
+    "code": "HEXTOBIN",
+    "embedding": "Hg0X9UQL5Sf12OX/9QABBPHdFgz49ArqAxHz0s4P/gv/7wImvd3+9/IH+h3+GJ876f7wCO4SFRD+/vQQPf8N+wPwFvz/+/MF9uQo4BcaKP4sJ0EyCwUZG/I34cgkCvvbB/4jFBnxN+kMAPLY5ggV8RYI/SUa//oXACT2DijwIAnm7PIwIff+3OsD9ATw9BgP9/7jHfYU9AAB6OQDCvrQ7dfu9gIYFQgbCfUKzh8W6AIaMfvg8PcA/fbZ/fYRL+HfKvkN7NEzDSEgDg/95AsNDCwBEs8TywkP9O8H2SvfChzvPDQEJ+v29Q4bEwUCEz3gBvsJ/9kKJQAA//EHCOou+w==",
+    "category": "💱 CONVERSION",
+    "path": "Archive/HEXTOBIN_hex-to-binary",
+    "description": "Devices that convert hexadecimal to binary.",
+    "position": 69
+  },
+  {
+    "id": "1472330124052398243",
+    "name": "binary-to-bcd",
+    "code": "BINTOBCD",
+    "embedding": "IwkZ+kgb6hsA5e72/QYBCQjODRDs+QT5/hT9x8cA+w0M/gYgw+Lk9ef5AysIGaQe7/PlB+kRDAcAAP4AOPEd+xryEfP77/P7BeAj6AoOOvAuGzMuCxYZDO003dgg/QbcAvYaFQfuOPUVAPHY3QkK3hUG/wYTAf4q+xTyAhzvHADx++kXFgEIyfz29xnwCAb/APfgKPch4vz66c/9DgPh7urx+BEPAxYNAwD/xBka6AAWRObc9f0JB/rXBfYUPezdFvEM4sZBEgoPAxwB9CMaHCsEE74N5RcG4/Ed3SfmAyDoMDUDJ/Tv+BYjJwXoAjXk/P4BCt//IwAFA/0KBec4CQ==",
+    "category": "💱 CONVERSION",
+    "path": "Archive/BINTOBCD_binary-to-bcd",
+    "description": "Devices that convert binary to binary coded decimal.",
+    "position": 70
+  },
+  {
+    "id": "1472330151210516531",
+    "name": "bcd-to-binary",
+    "code": "BCDTOBIN",
+    "embedding": "JQoY+UYZ6Rz94/H9+AMCCwrJDA3t9wP0+hT8x8kA+w8LAQMgwODm8uf9/iYEGJwk7O/sC+8SCgoC/vsAL/Uf9xX1EPX+7fL6Ad8h6Q4TOvUxHjQ0DhMUD+0y39oc/QPeCfcVEwrwNfUS//LY3gcO3RQJ+g4UAQAl/hnyCB/yHv/v++0eFgAHyvnw8hXyCgj/AP3cJ/Yf4/355dX/CADf7eb2+xAXARURCP36whgY6AAXQefe9fkMCv7cBfUSQeveHfQK4sk+Ew4VBx7+8CQVHTACDsQN4hMH5/Ma2ybg/h7jMzkDK/T1/RwgJQvzCjThAP0BB97+JAMEAv8MBeYyCQ==",
+    "category": "💱 CONVERSION",
+    "path": "Archive/BCDTOBIN_bcd-to-binary",
+    "description": "Devices that convert binary coded decimal to binary.",
+    "position": 71
+  },
+  {
+    "id": "1472330299160399883",
+    "name": "redcoders",
+    "code": "REDCODE",
+    "embedding": "ICwf/UE29BgD5+3n9hX7EOTyBxHz9hje+R7ozMcP9R7/7AcIwfXv9uf7AwUIJLgu9gPmDvwLEAj08gABKQ8WKgf2I/T+/fzx7e0W0REXJwwWBzcjB/IGEe858LQqAPHnCvAMKDTyMtgABNnq4wAR7g4h5C0hFPj2/Bb8DQ3pC/3s5+gxCAwAwusJ5A7m8Q/75vLsFgcf+vL23uQMEvTL+OHY+ggG/AAi//r28yEN5usoKwDp9e/yAgrZAvX5J933FQIFz+M0GQ0WBCvw1uwWByzsEMcF1ggN++UQ3jvj+xH6RRz7Jd/q9ef9EQ0KCCv4ExcD3swSIQsLC+sG/t4nAQ==",
+    "category": "💱 CONVERSION",
+    "path": "Archive/REDCODE_redcoders",
+    "description": "Devices that convert hexadecimal to one of 16 unique outputs.",
+    "position": 72
+  },
+  {
+    "id": "1472330395033927893",
+    "name": "transmission",
+    "code": "TRANSMIT",
+    "embedding": "PAAc+EME5SH90gEHECDlDfztChv36BztEgL4AcAeAf4J8tj00OvuB/bsBRT4HKYy6wLIKQQjExr69gP/KBYNCxvYEwUA/v8MAewr4OsAIhwuEhQ19worB/Yu6cEK8AvoBvwKA/z6KfUB9P3bxisV6CX85gAd8vIZ7wsTCBMOJAXk3/IMFx752Q0A9RXr7RkO9eDWCwAL1QH//+EJIBzy5+37DwUJCQEDFenw7RcZ1P8lLPH56OgE8vvmFR0ECsrEEvz56e0hKhw5Fw3t7QkjDy35Crgh1hLo7fH89DUIEzHjIyoBK+7q/xQlBfkSDxnaBgAHLPrtMBAFEPUSGOUl9A==",
+    "category": "🔌 WIRING",
+    "path": "Archive/TRANSMIT_transmission",
+    "description": "Devices that showcase transmission techniques.",
+    "position": 73
+  },
+  {
+    "id": "1472330426411384922",
+    "name": "flipping-swapping",
+    "code": "FLIPSWAP",
+    "embedding": "NxMd8DwA1BPx0foOBQr2EA/WKQ4C5g7aDfoD8Lwj+usg8e/r1frx8/T4DRX9Ap0f7O3cJfwM9gUE9QD8TBcJBwP3HQf5/gr///ZD5wMbLxAXESo2CgIODAUg6sId9ify7vIlDA/hG/AH7ffG2iMNDScF8hssBNsLCBL8GBkNFxLpywYMBfz71hMMAA735BwQ9enIKeEQ7f4B3vIUGv3q+uT9ABwLFgAWAAv3+A4UzRIjG/T47u4NBe/qABMPHs3dGQT9/NAeIiIODQAC2+4jAzICHr0U1CQE3ffz/yMIAB3nNC4EOOThDgAWEgIYDS7U9QvxJOjvCAz1//jvCPok/g==",
+    "category": "🔌 WIRING",
+    "path": "Archive/FLIPSWAP_flipping-swapping",
+    "description": "Devices that showcase flipping and swapping techniques.",
+    "position": 74
+  },
+  {
+    "id": "1472330471156355286",
+    "name": "crosswire",
+    "code": "CROSSWIRE",
+    "embedding": "QP8VAUX68grs6v0TAhX3EPDzK/7v2iT4Bvv83d0YCAAK4ukH3AjrBgXqDx4O+pcp+QfNLPELDB32AAzvQBH/FA7vCvfmABL1CvMx6e0CNhMe/Sw69/ATAPIg97kL+Ajw/vUb/wb1DuwN+OXU0h4O/yfr5iEmFAAQAyTuJSENDAD12Psf/v370hD9/Rvw2h4T8+HSFu8O7xDs9+36KwLU4/zzABIHBgL1Afvk9gcI4RQiLOME8u8A8Pb7Ag3wFNnMFPz73+AiHiU8Dgrp4fsk+x7lEbcd5Bz9AQH59ioB+CncHxMJK/EI/Pw8DQoi/jjqChz0H/TRJfEG/ukKJupC6A==",
+    "category": "🔌 WIRING",
+    "path": "Archive/CROSSWIRE_crosswire",
+    "description": "Devices that showcase crosswire techniques.",
+    "position": 75
+  },
+  {
+    "id": "1472331373846069430",
+    "name": "alus",
+    "code": "ALU",
+    "embedding": "OAQa/zMSAwcA7vfg/wnw+gbwFhT6/yrp9gkH59P98hb/B/D06gr37v7v7/73/MsX4PXlC+wPFicF+gDkQ/8M7BPFKP3iAe4D1esMBgjtCDQhJEA++/4E6PAv17If6gLQ9QkaLAD7PQALB+3u1w368TAU4xkDGvwCDiEUExjkGeoI1gIQIwQA7REGAC/r6P3w5fH5CAQo0+74AfgNDuDh9unv/ecdKw4MJOvjyCEX4wYMMhvi/eL3FQQGAu4NF+jnBQsM+tUnKR0dHS8E6B4gBDwX/aQf3Qb25+4ZzR7f+SjhEz3zCwj52Q8WG/sfFyvk9QEFBgb7JPf8BPDr8OsJ9g==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/ALU_alus",
+    "description": "Arithmetic Logic Units, used to perform many small functions in a CPU.",
+    "position": 76
+  },
+  {
+    "id": "1472331518817992704",
+    "name": "register-files",
+    "code": "REGISTERFILE",
+    "embedding": "MR4D9jYQ6Rjp/O/l+gbpAAzwIgv+8Rz7+xEA3NMH1xgPCuILyhf78gvh8RsFGLQs5PrQE+gg/RH+AwYJQhYj+BfTAP/g4f4W+fIE7wv4KxstKjE+CPIA6+kv+tYU9Anb9RkWQfXyJdII7+H72RcEAQAC5hkh8fz//gEc9hIOLfn+tPwPDQ366vb1BhMW9/379fHX8P4b+/0Y7Of+IwX9C9oMASAJBvH/Nf7v4hQjAAgoMSHa++EE/vwCCvICIuTlLd8LBv0eKhcSFAju3wbyAC0DCtUi0i7n6dkGyTIADjnaJDf4MNj5+w8s9w0pEjTsAPP7Bx3vEPP69Q3/7uUW6Q==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/REGISTERFILE_register-files",
+    "description": "Collections of registers, used to store frequently accessed data in a CPU.",
+    "position": 77
+  },
+  {
+    "id": "1472331318439444502",
+    "name": "read-write-memory",
+    "code": "RWM",
+    "embedding": "JQ8GBzf27Rjr6/TwERHqAx7+HikF8Cn7FzH6wdb4xRwACQAa4xv45+Hw7RD1Gbge0/rOGO0eBTr0AAMXTREJ9hfCFNsF7/ck7PED5Q8AGBQVJSQsDQkj+N8m5Mgc+/zh+Q0XKgf5K+b69wDT0g4TCAsa4ggE6+oECvkc+w3hI/QGxf0LFQbuAQYI9hkM7gcGBvHnCfwM8/kH4ur0DRzuA+P//hT/Jfr3HvsL2CAf+gcSNgnL8+sAHPbwGuYMEs/NDfAm9vcdPTMhEhQD9fMSCyoGD9MZ2h/c9OsE7iP8EyfbMzcEJOv8+BE+AfkJLwfcBu8J/BHgHOrzBQ4ADNwGAg==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/RWM_read-write-memory",
+    "description": "Memory storage used for reading and writing data in a CPU.",
+    "position": 78
+  },
+  {
+    "id": "1472331730621960202",
+    "name": "roms",
+    "code": "ROM",
+    "embedding": "GgsN/C718hPd9+8C9hHtFPrzBBcL/BruFi/619fkzioC/ekb3Sn49O/t5v4AHq8c0PDcBfIiAyby/fUGUhMG5/rUDeAM4fka++4D1A0WDh0zFS8NDf0JEPEj9tIh5QbXAQMWMfj9F9jmCv3p4AACASgW2Qf2/fAGGgAO6jTuLPz80wEbAvvr+AkE/wng6/8a6OfqF+Tu9wgV0fb6CvDj/tfu8wkUHgvqIO7vzCMB+RUUJQXF89QPFv/cIO8fCsvUHeUQ7OwFHikjCv0X5/AiCUcJ5twp1ibp7OL/7Af2/BfUIicAKNMEAABLCfMJIvnZ5/gI9A3ZEvH9BvffBuMe+A==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/ROM_roms",
+    "description": "Read Only Memory - Memory used for only reading in a CPU.",
+    "position": 79
+  },
+  {
+    "id": "1472331484122583040",
+    "name": "io-ports",
+    "code": "IOPORT",
+    "embedding": "Jv4Z8zYS4x/2zP8FBgft8/v8GRgSAR4ZFRLs4tL+7gwI4PH92BEHBOfsAxQMEaoeCgvgF/ULABoNAgD7QxcO/gzP6dQA7vUL/eQc9w8JMBsdDTI5DvEaIeY2A8MO/xLy9hgZKgP2NO/99QXo3Sj17B0j3hPv/PLzHhAfFRzvKBL7tgEDF/0Byvr+9/z22/8J+9zX+woF9QD58QABMAnb7P8MARMXFQv8HvYS3CAn9vEqMxvX6vMBCgft6/EO//LTEA0b/tMbFDYaBhL+1QcODAkF+NgR6RQE9+oV4lEFIy/jI0YhC+/0+gA9FhQAICvW8QDuFv7kKeABCe4DCd8d7w==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/IOPORT_io-ports",
+    "description": "Input and output ports for a CPU.",
+    "position": 80
+  },
+  {
+    "id": "1472331966744625264",
+    "name": "caches",
+    "code": "CACHE",
+    "embedding": "MR0VBCH4+B3m0wP8Bw3r9g8GFSoE8Tn1/xLm78j81god5usM1xkD/wXl6BsBEaAb4erYA/QN/SAG9Qn4QAgMAArn9Pr3+Q77EwMPAeoRFxsNDC89//4T/Nsi/cAe8f7UCgEbHO3hIeoH6fzr1B4BAA8Z5BUJ5e8CACc0/CAUKQvtwhYEI+wR4vD9BCXZ6gga7tb28wgZ4/wM5QITGfXZ+eMBAwwUHuQLFfr04Boa/hIVOg3m7N4GDvHpCOwJLNzRGPPz/vAeNy0NFRjo1gMH7x8bEL4e2hvy6vMM3zsZCybgEznvMt3z9fc9FgECJzDT//IBBPrxCfrh//74AO4OBg==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/CACHE_caches",
+    "description": "Caches for a CPU.",
+    "position": 81
+  },
+  {
+    "id": "1472330822794350663",
+    "name": "queues-stacks",
+    "code": "QSTACK",
+    "embedding": "Rhcc+x8M8Sjv5//9+gbgABTqHwYY4jLmEfToAOQA6QEk5PT65iMo9fDx6xQAEK4I3Pzc+uYl+wkGAuf8PwoP8//hAwPtBAYGJeUd/fsSFQ8mATxAAfYW/dov98IS9grqAA4RGu74MdoO+w7W0Q8G9gwH2CgI4+EWEBgzABL+I+v5ww4gE/b60wD+FSHm4SYYD+fE8BET4/QA4gb7EPDj8/ML8RYUGvv0DuwF6wsX+f8hLA3r6+H/D/LrDgAFFtjuCPYV+OkRKDIZFRrj3A/k9AgHCLoB2RQG+80L3EQPBiLvEEcAMtrvFu8f+gkJFzzM+fsFGg7pFebyBfz1EOoiAw==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/QSTACK_queues-stacks",
+    "description": "Queues and stacks for a CPU.",
+    "position": 82
+  },
+  {
+    "id": "1472375461345493093",
+    "name": "other-cpu",
+    "code": "OTHERCPU",
+    "embedding": "O/8R8i0A6h7t0/wG/BLmCwbrHhER8Sr3ABDz8s0E6hoM5e0Oyf0B/+zx8BoEFrAZ8QDfGAENFhoD6wEAQxoG6BLaDeTs+fX/8vYx5gYAHBosFytA8gAH9vYq8Ngq8Ajg+wAPIv7dIOQF5/btwxUMAg4V1B0W+f0BIgELEykIMfr2tgobHwn61gYE7A/x2hIT8PHw//kVzf/45/0BKuHx6c7n+wL/KfT6GADxywsjBhAcPwvu4uAOBu/8De8KFdTWHP8K5eAQKykdFxUFzgwU/ScNB77/3yj94OX+2R/4GSnqKTYAFwb/9/4lGwAbIirX5wQAHfjuFvwB+/D6D9crBg==",
+    "category": "🧩 CPU COMPONENTS",
+    "path": "Archive/OTHERCPU_other-cpu",
+    "description": "Devices that perform other CPU functions.",
+    "position": 83
+  },
+  {
+    "id": "1472330671040237599",
+    "name": "randomizers",
+    "code": "RANDOM",
+    "embedding": "UAgp/zoL7B7s0eztCA7nCuv3HAT/9yjWCAr0494G6xEm7fryvfAFBv3n6h328Z8l6N7ZD94FDfwK7R/tRQoZFBT4OgT76fry9u0j+PMqJRI3ADgo9AoL/+sh8L0d6wvn9+UPGgzxJOP2CgbW1xwBACUK7B0a9gP++vsOEQMeJxHp3f0cBPoL2wb8+Rfj+AkS7OD7HO8e7Qzu6gAKAfr1/N0KCQkIAxQtDQj/4xId8RElAxLp3+MI8wPoCgUBIdnsKQgJ0eopJCAQARbl2wQACCUBELca3SgX/PIA7ynkByLrRSD8L+DyCAobAgsVABvUDwrtEuQEIvbh/9f4COgxDg==",
+    "category": "🌐 MISCELLANEOUS",
+    "path": "Archive/RANDOM_randomizers",
+    "description": "Devices that generate random numbers.",
+    "position": 84
+  },
+  {
+    "id": "1472330754854883398",
+    "name": "sorters",
+    "code": "SORT",
+    "embedding": "MgUfA0cZvhrd0ert+yP3BvMAEw4D5hzfBQbf59EG+Qsu6/n0zgHz9PXV6A70/5kgBgDcGvMhB/MD/gUEQAUrBBTsEPb8/QkEFvcK9fQXHxEPCyI/9QoB8Oww9dAc7xnn8/AYGgPvMuoO/evh4RwMAAYP8isl9fEVEhYEFQwNKwD01QAfGQr75v4PDQj1DgsN9dXlI9ki2/YE5vQDDPfiAs4OCBn5AxkTDgT93iQi3RcvFfrd7fMB9AYGAAYNA9TBMgIH7uQwFhkgAB3t4AQMACb9BLsZ3hgC6gH85Rz4Dy3kQFkHOO70GgIbAv8OBybvBgABF+v0GPX2/fv1/+0t+g==",
+    "category": "🌐 MISCELLANEOUS",
+    "path": "Archive/SORT_sorters",
+    "description": "Devices that sort data.",
+    "position": 85
+  },
+  {
+    "id": "1472330876703473869",
+    "name": "user-interfaces",
+    "code": "INTERFACE",
+    "embedding": "OQUh70IT2Sv80vgA9QjxBgjeDwb9/Azc/Pz+6uAA9O0O4esIz+7y/gDn8gX4FK4l9w/DJwwUCw0H2wv+NSAWABf5G//0+v8S5fUW5vsTCxYsJzU59AMO9uYj8rYd2B/v+hIMHfn1G+IB9OLbxCcUByMR+B0PCPYIEv4FGBMIFfwB0AURHRPz6hz1AysT6BYV9ev4CekG5wYJ+NwJJQf2Afz+BAcHKOjrJvwJ0Q0Y8fYeJv0A6uvtAwHf/wr2E9nTFQAe8dgoKhstBSDz7v0bABgUDss33Szb7PIC5EjyETrYGjUFPe/7BRQiBgskACfd/ef8HPbjLgD4FvoECOsqEA==",
+    "category": "🌐 MISCELLANEOUS",
+    "path": "Archive/INTERFACE_user-interfaces",
+    "description": "Devices that let users interact with projects.",
+    "position": 86
+  },
+  {
+    "id": "1472330964884520980",
+    "name": "hex-gadgets",
+    "code": "HEX",
+    "embedding": "Mggs+zcb4Tf/8/MA+BfrH/z3/g3x8h7rBwvy5ckaAxIT5PwCyvLx9vHtBgn5+JdB9vTfEQAJExEF+B3+QAIA/hALLQz5CfUD6PgR4PX/GRUY/VMs8e4FB/An7LgR+/zkCPEpIxXbOOr2COH22wz5ASUU9BkIEPH6CSz+Gjb3Jgvv8Oo7C+f43+4I7g3z7xQP5+n4DAAR9PMHAuv2BvfR8dLz3/EIGAoYA/YJ4xoK2g0NEhEA7vsCBPfeAfrxC8jTFgEA3+AeCh0ZJRH/3wIdFyX2B7gkzQsh9OX35xXpAjH0Pjb0MN/z4/gaDAwfEC7oAAz8B+ECIAnt8OEECOcx9A==",
+    "category": "🌐 MISCELLANEOUS",
+    "path": "Archive/HEX_hex-gadgets",
+    "description": "Devices that perform a small hexadecimal-related function.",
+    "position": 87
+  },
+  {
+    "id": "1472382816074338456",
+    "name": "bedrock-devices",
+    "code": "BEDROCK",
+    "embedding": "FBgqA0P26gz3xBYK8Av1GOb9EAMF8igAEAD6698H/gAi2/QY3Q/hBffj/hYSEbFB+xDbMBASEwD9BCcVTBLy1QX1Au33/RrxDeoI1/8QKgwVASMw5/YNCOcyB8Ye6BHj4gIjDwvpJfDj8+fX1gUI7hcSCCUMEekRCBQAFyAkCRPv1hANFgnp1wPRBQbQ9wA4AOLiJOEmBgwB8tAE/AXL69TnAAARLyH+LfsT5BQk+gA4NwAG5OwH7v31AQ7+D/rVFw37ANQwETAc9xQAzQgS9BL6FN8f5Rrq/QQE4CL6GBrgOiLwE+rH/QoRJRr/DxjpBPMEBAXzFgsBAf7oFPc6Hw==",
+    "category": "🎮 BEDROCK",
+    "path": "Archive/BEDROCK_bedrock-devices",
+    "description": "Devices compatible with Minecraft Bedrock Edition.",
+    "position": 88
   }
 ]
