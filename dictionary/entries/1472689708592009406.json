@@ -1,0 +1,16 @@
+{
+  "id": "1472689708592009406",
+  "terms": [
+    "Look-up Table",
+    "Look Up Table",
+    "LUT"
+  ],
+  "definition": "A circuit that takes in a binary value input and performs a function by decoding the binary value, and using a ROM to output the appropriate value. \n\nThese are typically used for expensive operations, where the precision is relatively low, which can save lots of time since the function doesn't have to be computed using an algorithm. Some functions can include exponentiation, logarithms, and trigonometry functions.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472689708592009406",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472689708592009406/1472689709527470101",
+  "status": "PENDING",
+  "updatedAt": 1771186987887,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472689709527470101"
+}
