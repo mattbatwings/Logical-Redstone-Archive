@@ -214,6 +214,21 @@
       "updatedAt": 1771125676521
     },
     {
+      "id": "1472456321486819338",
+      "terms": [
+        "Barrel Shifter",
+        "BSH",
+        "RSH",
+        "LSH",
+        "Left Shift",
+        "Right Shift",
+        "Arithmetic Right Shift",
+        "Logical Right Shift"
+      ],
+      "summary": "**BSH / Barrel Shifter**: A device capable of shifting a binary value by any number of bits left or right, which allows a processor to quickly multiply or divide numbers by powers of 2.\n\n**Logical ...",
+      "updatedAt": 1771184534034
+    },
+    {
       "id": "1472456562894311506",
       "terms": [
         "Spaghetti",
@@ -222,6 +237,15 @@
       ],
       "summary": "A messy assortment of wires that is unpleasing to look at; somewhat resembles spaghetti.",
       "updatedAt": 1771184488096
+    },
+    {
+      "id": "1472458731156537364",
+      "terms": [
+        "SR Latch",
+        "RS-NOR Latch"
+      ],
+      "summary": "A latch made typically out of two NOR gates pointing into each other, with two inputs, Set and Reset, and typically two outputs, Q and Q' (not Q).\n\nPulsing the \"set\" sets Q to 1, and Q' to 0\nPulsin...",
+      "updatedAt": 1771184526266
     },
     {
       "id": "1472458903580311646",
