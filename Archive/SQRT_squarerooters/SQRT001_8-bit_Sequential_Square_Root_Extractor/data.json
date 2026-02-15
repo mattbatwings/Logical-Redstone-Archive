@@ -1,0 +1,117 @@
+{
+  "id": "1472328650866032693",
+  "name": "8-bit Sequential Square Root Extractor",
+  "code": "SQRT001",
+  "reservedCodes": [
+    "SQRT001"
+  ],
+  "pastPostThreadIds": [
+    "1472426720521883769"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383086338773106",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383086338773107",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328651705024677",
+      "name": "8bit_sqrt.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328650866032693/1472328651705024677/8bit_sqrt.png?ex=69922c69&is=6990dae9&hm=9d25b709a0aff850e58e000a08ea49690c6ef48ed86b570cd4b1b1de4ce35860&",
+      "timestamp": 1771100904910,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328643970601031",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328643970601031/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 150321,
+      "canDownload": true,
+      "width": 805,
+      "height": 530,
+      "path": "images/8bit_sqrt.png",
+      "hash": "32c8efb17ecf3d85fe87b4ec7d7a447bb20514a8a28aa6ae5e0e17e9846dbd0d"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328651197518117",
+      "name": "SQRT001_8bit_sqrt.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328650866032693/1472328651197518117/8bit_sqrt.schem?ex=69922c68&is=6990dae8&hm=80bed07e0c98371ebfc9334984cf0278bbfa984a35d5b17aec1c72c592738cc1&",
+      "timestamp": 1771100904910,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328643970601031",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328643970601031/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3282,
+      "canDownload": true,
+      "hash": "1c1127f63a86b805e872e6dd1b235c34a360e0806d4a879e70bc67bb1f56f2de",
+      "path": "attachments/SQRT001_8bit_sqrt.schem",
+      "schematic": {
+        "size": "15x20x36",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit sequential square root extractor.",
+    "input": "1 8b number, Start button",
+    "output": "4b.2b square root"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472426720521883769",
+    "forumId": "1472326463179985037",
+    "continuingMessageIds": [
+      "1472426724540289192"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472426720521883769",
+    "uploadMessageId": "1472426713311870996"
+  },
+  "archivedAt": 1771124283690,
+  "updatedAt": 1771124283690,
+  "num_comments": 0
+}

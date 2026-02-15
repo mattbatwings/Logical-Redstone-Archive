@@ -4,6 +4,12 @@
   "code": "SQRT",
   "category": "➕ ARITHMETIC",
   "description": "Devices that take the square root of a number.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472328650866032693",
+      "code": "SQRT001",
+      "path": "SQRT001_8-bit_Sequential_Square_Root_Extractor"
+    }
+  ]
 }
