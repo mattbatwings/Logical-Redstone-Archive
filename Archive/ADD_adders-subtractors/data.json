@@ -4,6 +4,12 @@
   "code": "ADD",
   "category": "➕ ARITHMETIC",
   "description": "Devices that add/subtract 2 numbers.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329567745343593",
+      "code": "ADD001",
+      "path": "ADD001_4_Digit_Hex_Carry_Cancel_Adder"
+    }
+  ]
 }

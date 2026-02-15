@@ -1,0 +1,117 @@
+{
+  "id": "1472329567745343593",
+  "name": "4 Digit Hex Carry Cancel Adder",
+  "code": "ADD001",
+  "reservedCodes": [
+    "ADD001"
+  ],
+  "pastPostThreadIds": [
+    "1472411524952883334"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "594266311085785098",
+      "username": "yellowbunny.",
+      "displayName": "YellowBunny",
+      "iconURL": "https://cdn.discordapp.com/avatars/594266311085785098/dced3e23191503f2e8542b3fe821db73.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383093590720616",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329568428757217",
+      "name": "hex_cca.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329567745343593/1472329568428757217/hex_cca.png?ex=69922d43&is=6990dbc3&hm=0f7326d074db5ee7b45899536f63c2b8a6d7f7565cf5df2374e532ccc7ccbd5f&",
+      "timestamp": 1771101123511,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329562904854529",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329562904854529/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 230080,
+      "canDownload": true,
+      "width": 511,
+      "height": 925,
+      "path": "images/hex_cca.png",
+      "hash": "f3c5d03253326b82140449ae51c007a24a7ae953c209077c8c4bfdf997f8d7fc"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329568026230977",
+      "name": "ADD001_hex_cca.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329567745343593/1472329568026230977/hex_cca.schem?ex=69922d43&is=6990dbc3&hm=2d35fee539b1534d29997d6788dc6ed79dc94e17172ae72271ad83bdf7543935&",
+      "timestamp": 1771101123511,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329562904854529",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329562904854529/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1663,
+      "canDownload": true,
+      "hash": "9428d62b7113e7cfbffa252a44b43dcdec35433705bcc34c743dc789d7c4a909",
+      "path": "attachments/ADD001_hex_cca.schem",
+      "schematic": {
+        "size": "14x19x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A carry cancel adder but for hex numbers.",
+    "input": "2 4-digit hex numbers",
+    "output": "5-digit hex sum"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472411524952883334",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1472411530032316456"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472411524952883334",
+    "uploadMessageId": "1472411518518689925"
+  },
+  "archivedAt": 1771120660725,
+  "updatedAt": 1771120660725,
+  "num_comments": 0
+}
