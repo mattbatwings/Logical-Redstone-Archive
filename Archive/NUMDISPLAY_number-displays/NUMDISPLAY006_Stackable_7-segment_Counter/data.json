@@ -1,0 +1,104 @@
+{
+  "id": "1472329244070772928",
+  "name": "Stackable 7-segment Counter",
+  "code": "NUMDISPLAY006",
+  "reservedCodes": [
+    "NUMDISPLAY006"
+  ],
+  "pastPostThreadIds": [
+    "1472416502064877579"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "MaizumaGames"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383105225719920",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383105225719919",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329244767027280",
+      "name": "7seg_counter_stackable.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329244070772928/1472329244767027280/7seg_counter_stackable.png?ex=69922cf6&is=6990db76&hm=a78fc88f2327db8a33debc420ab84da2adfae6fbc5500a19959e75ccb88a1c3c&",
+      "timestamp": 1771101046341,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 141839,
+      "canDownload": true,
+      "width": 720,
+      "height": 704,
+      "path": "images/7seg_counter_stackable.png",
+      "hash": "d11b51d76393ac3cf953ae18401a5a7d4f31c06794b820566efef43d246a4282"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329244439740488",
+      "name": "NUMDISPLAY006_7seg_counter_stackable.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329244070772928/1472329244439740488/7seg_counter_stackable.schem?ex=69922cf6&is=6990db76&hm=e663b23df24e87af6bbb623597de189178f1c9234ef37d021714efc19817ce4d&",
+      "timestamp": 1771101046341,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329230124716173",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329230124716173/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1985,
+      "canDownload": true,
+      "hash": "4e56f6e7050943a2ee13c1b856f9a76170f4e5206810f90a2149e2f4327e4e64",
+      "path": "attachments/NUMDISPLAY006_7seg_counter_stackable.schem",
+      "schematic": {
+        "size": "4x9x14",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A stackable counter with a display.",
+    "input": "1 observer face",
+    "notes": "Use the observer on the right side to count. Stack side by side for automatic multi-digit counting."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472416502064877579",
+    "forumId": "1472329280129204314",
+    "continuingMessageIds": [
+      "1472416505894535243"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472416502064877579",
+    "uploadMessageId": "1472416495727284367"
+  },
+  "archivedAt": 1771121847602,
+  "updatedAt": 1771121847602,
+  "num_comments": 0
+}
