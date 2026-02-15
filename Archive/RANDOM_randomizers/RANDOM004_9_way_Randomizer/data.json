@@ -1,0 +1,94 @@
+{
+  "id": "1472331494990020679",
+  "name": "9 way Randomizer",
+  "code": "RANDOM004",
+  "reservedCodes": [
+    "RANDOM004"
+  ],
+  "pastPostThreadIds": [
+    "1472398306025148609"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383134480859375",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383134854156371",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472331495556382771",
+      "name": "0-9way_randomizer.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472331494990020679/1472331495556382771/0-9way_randomizer.png?ex=69922f0f&is=6990dd8f&hm=7e567af1609c235a5797f831b623f0a551ab1294efc811f51e79e6f439dc6857&",
+      "timestamp": 1771101583002,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331474870079570",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331474870079570/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 59253,
+      "canDownload": true,
+      "width": 854,
+      "height": 527,
+      "path": "images/0-9way_randomizer.png",
+      "hash": "0e4299f7d5ab0361c1287884bfac1b90bf6d5663d66426ea6a657a783ea84b8c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472331495246135346",
+      "name": "RANDOM004_0-9way_randomizer.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472331494990020679/1472331495246135346/0-9way_randomizer.schem?ex=69922f0f&is=6990dd8f&hm=0b99fed209ac6f2af09668b8ab81937c957b5fee411fcfa317bcf79bb95776ea&",
+      "timestamp": 1771101583002,
+      "author": {
+        "type": "discord-external",
+        "id": "1472331474870079570",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472331474870079570/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1137,
+      "canDownload": true,
+      "hash": "1ce01ecc98ab41e8d5048705b400f5aab1edf7d942dd93938b5606a63dfa8df1",
+      "path": "attachments/RANDOM004_0-9way_randomizer.schem"
+    }
+  ],
+  "records": {
+    "description": "Produces a random signal strength from 1-9 upon button press.",
+    "notes": "Requires /gamerule doTileDrops true\nBy taking out shulker boxes from the system, this can be modified to be any 0-9 way randomizer."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472398306025148609",
+    "forumId": "1472330671040237599",
+    "continuingMessageIds": [
+      "1472398309690708131"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472398306025148609",
+    "uploadMessageId": "1472398301352558592"
+  },
+  "archivedAt": 1771117510265,
+  "updatedAt": 1771117510265,
+  "num_comments": 0
+}
