@@ -23,6 +23,7 @@
     "TRANSMIT004",
     "HEXTOBIN001",
     "HEXTOBIN002",
-    "BINTOHEX001"
+    "BINTOHEX001",
+    "BINTOHEX002"
   ]
 }

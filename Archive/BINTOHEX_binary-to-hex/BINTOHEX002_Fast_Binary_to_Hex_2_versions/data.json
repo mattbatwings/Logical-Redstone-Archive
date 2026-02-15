@@ -1,0 +1,119 @@
+{
+  "id": "1472329700624826551",
+  "name": "Fast Binary to Hex (2 versions)",
+  "code": "BINTOHEX002",
+  "reservedCodes": [
+    "BINTOHEX002"
+  ],
+  "pastPostThreadIds": [
+    "1472409017987891384"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383114952314957",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383114952314958",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329701119885536",
+      "name": "fast_bin_to_hex.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329700624826551/1472329701119885536/fast_bin_to_hex.png?ex=69922d63&is=6990dbe3&hm=d7cfa41d3da827a1c85424206c19ac072c41b6101824d0c5987779d9c2f3515b&",
+      "timestamp": 1771101155192,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329694413328444",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329694413328444/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 420489,
+      "canDownload": true,
+      "width": 1200,
+      "height": 788,
+      "path": "images/fast_bin_to_hex.png",
+      "hash": "71f5593842289d6a521ae787dc525f357a451a6e885384e0db4d6e373f5be8b9"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329700763373719",
+      "name": "BINTOHEX002_fast_bin_to_hex.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329700624826551/1472329700763373719/fast_bin_to_hex.schem?ex=69922d63&is=6990dbe3&hm=ba0fd6d52d940ca455b8a6b6848afd488c7d0520bf62d8a420bb37f8906c7809&",
+      "timestamp": 1771101155192,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329694413328444",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329694413328444/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1713,
+      "canDownload": true,
+      "hash": "c4a28814bc955ddb8eb83e640bba73dc8b5f778530318450de078a43f0bae06b",
+      "path": "attachments/BINTOHEX002_fast_bin_to_hex.schem",
+      "schematic": {
+        "size": "27x11x17",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts 4 bit binary to hex.",
+    "input": "4b number",
+    "output": "Hex number (on the glass)",
+    "speed": "2 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex",
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472409017987891384",
+    "forumId": "1472330051646390365",
+    "continuingMessageIds": [
+      "1472409027383394387"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472409017987891384",
+    "uploadMessageId": "1472409013818757173"
+  },
+  "archivedAt": 1771120064113,
+  "updatedAt": 1771120064113,
+  "num_comments": 0
+}
