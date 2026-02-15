@@ -1,0 +1,15 @@
+{
+  "id": "1472395046694158458",
+  "terms": [
+    "MCHPRS",
+    "Minecraft High Performance Redstone Server"
+  ],
+  "definition": "A specialized server which allows computational redstone to run at tens of thousands of times its regular speed. However, some components do not work in this server such as pistons, observers and droppers. The term \"MCHPRS-compatible\" means a build can be directly transferred into this server.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472395046694158458",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472395046694158458/1472395047566835897",
+  "status": "PENDING",
+  "updatedAt": 1771116735013,
+  "references": [],
+  "referencedBy": [],
+  "statusMessageID": "1472395047566835897"
+}
