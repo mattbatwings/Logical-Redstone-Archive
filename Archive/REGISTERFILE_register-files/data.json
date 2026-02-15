@@ -1,0 +1,9 @@
+{
+  "id": "1472331518817992704",
+  "name": "register-files",
+  "code": "REGISTERFILE",
+  "category": "🧩 CPU COMPONENTS",
+  "description": "Collections of registers, used to store frequently accessed data in a CPU.",
+  "currentCodeId": 0,
+  "entries": []
+}
