@@ -4,6 +4,12 @@
   "code": "HEXTOBIN",
   "category": "💱 CONVERSION",
   "description": "Devices that convert hexadecimal to binary.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1472329752663687299",
+      "code": "HEXTOBIN001",
+      "path": "HEXTOBIN001_Hex_to_Binary"
+    }
+  ]
 }

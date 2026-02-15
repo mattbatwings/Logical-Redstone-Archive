@@ -1,0 +1,116 @@
+{
+  "id": "1472329752663687299",
+  "name": "Hex to Binary",
+  "code": "HEXTOBIN001",
+  "reservedCodes": [
+    "HEXTOBIN001"
+  ],
+  "pastPostThreadIds": [
+    "1472408031865081948"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Aminotreal"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383122384359521",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383122384359522",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329753510805655",
+      "name": "h2b_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329752663687299/1472329753510805655/h2b_render.png?ex=69922d6f&is=6990dbef&hm=bb2a7b8a516fa86ac6eb37ed15d067c43b1a2c710e6280b56e056b557b7da48e&",
+      "timestamp": 1771101167599,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329741833863210",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329741833863210/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 61090,
+      "canDownload": true,
+      "width": 501,
+      "height": 395,
+      "path": "images/h2b_render.png",
+      "hash": "f00f120589fadd99737afd96d6e93d3b0a67935c0cbc1945665939f064dad049"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329753838096535",
+      "name": "HEXTOBIN001_h2b.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329752663687299/1472329753838096535/h2b.schem?ex=69922d6f&is=6990dbef&hm=3253a01f0adcc3ccc7817b0755c5b68c4b3264585a2843d90c830e40ec6571b8&",
+      "timestamp": 1771101167599,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329741833863210",
+        "username": "wueffi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329741833863210/633ecb6ef74a34e91370791053912533.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1811,
+      "canDownload": true,
+      "hash": "0543b554e8cb7065e225fccaae3684872009a6f05c998c83ac815965a55defff",
+      "path": "attachments/HEXTOBIN001_h2b.schem",
+      "schematic": {
+        "size": "13x19x18",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts hex to 4 bit binary.",
+    "input": "Hex number",
+    "output": "4b number",
+    "speed": "2 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex",
+        "Hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472408031865081948",
+    "forumId": "1472330081488867479",
+    "continuingMessageIds": [
+      "1472408036495855727"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472408031865081948",
+    "uploadMessageId": "1472408025263374398"
+  },
+  "archivedAt": 1771119828379,
+  "updatedAt": 1771119828379,
+  "num_comments": 0
+}

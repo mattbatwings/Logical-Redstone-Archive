@@ -20,6 +20,7 @@
     "REDCODE003",
     "TRANSMIT002",
     "TRANSMIT003",
-    "TRANSMIT004"
+    "TRANSMIT004",
+    "HEXTOBIN001"
   ]
 }
