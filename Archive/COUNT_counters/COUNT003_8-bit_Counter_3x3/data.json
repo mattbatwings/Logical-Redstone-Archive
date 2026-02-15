@@ -1,0 +1,107 @@
+{
+  "id": "1472329024188715271",
+  "name": "8-bit Counter (3x3)",
+  "code": "COUNT003",
+  "reservedCodes": [
+    "COUNT003"
+  ],
+  "pastPostThreadIds": [
+    "1472420962086686740"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383098934268041",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383098934268042",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329024910004224",
+      "name": "8bit_counter.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329024188715271/1472329024910004224/8bit_counter.png?ex=69922cc2&is=6990db42&hm=a22658152732f1658d3ad657635407f18913e2f4fb1d33c2750e8fd15cc627e3&",
+      "timestamp": 1771100993917,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329019566461073",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329019566461073/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 82548,
+      "canDownload": true,
+      "width": 206,
+      "height": 874,
+      "path": "images/8bit_counter.png",
+      "hash": "2dd537ef951467eb9003ca77c7a41351a03eb9337b72b17d8dbf54618ac7b2f2"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329024578650326",
+      "name": "COUNT003_8bit_counter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329024188715271/1472329024578650326/8bit_counter.schem?ex=69922cc2&is=6990db42&hm=59e6a6e6b033334ea53d0a115921d7c0a3e22c507049555f66214b786ec6705a&",
+      "timestamp": 1771100993917,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329019566461073",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329019566461073/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 777,
+      "canDownload": true,
+      "hash": "50bba2f11740800d6789edf47cbb417efad8cae1e09326caf6b7fe8cb724734a",
+      "path": "attachments/COUNT003_8bit_counter.schem",
+      "schematic": {
+        "size": "3x18x4",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A compact & synced binary counter.",
+    "input": "Count button",
+    "output": "8b number"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472420962086686740",
+    "forumId": "1472329063317242077",
+    "continuingMessageIds": [
+      "1472420966951817297"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472420962086686740",
+    "uploadMessageId": "1472420956009136231"
+  },
+  "archivedAt": 1771122911482,
+  "updatedAt": 1771122911482,
+  "num_comments": 0
+}

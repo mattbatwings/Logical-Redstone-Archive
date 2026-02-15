@@ -4,7 +4,7 @@
   "code": "COUNT",
   "category": "🕐 SEQUENTIAL BLOCKS",
   "description": "Devices that count up or count down.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329033898266891",
@@ -15,6 +15,11 @@
       "id": "1472329029070880936",
       "code": "COUNT002",
       "path": "COUNT002_8-bit_UpDown_Counter_with_Load"
+    },
+    {
+      "id": "1472329024188715271",
+      "code": "COUNT003",
+      "path": "COUNT003_8-bit_Counter_3x3"
     }
   ]
 }
