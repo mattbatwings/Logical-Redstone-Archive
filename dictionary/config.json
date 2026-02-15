@@ -30,10 +30,11 @@
       "terms": [
         "Throughput",
         "Hz",
-        "Pipeline speed"
+        "Pipeline",
+        "Pipelined"
       ],
       "summary": "The time it takes before a circuit is ready for another input. \nFor example: If a circuit can accept a new input every 2 ticks, you may see this written as \"2 tick pipelinable\", or \"5 hz\" (5 per se...",
-      "updatedAt": 1771113013209
+      "updatedAt": 1771113624883
     },
     {
       "id": "1472379060658245824",
