@@ -4,7 +4,7 @@
   "code": "PIXDISPLAY",
   "category": "📺 DISPLAYS",
   "description": "Devices that display any combination of pixels.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329355219828786",
@@ -15,6 +15,11 @@
       "id": "1472329350102650941",
       "code": "PIXDISPLAY002",
       "path": "PIXDISPLAY002_4-function_Display"
+    },
+    {
+      "id": "1472329345035931698",
+      "code": "PIXDISPLAY003",
+      "path": "PIXDISPLAY003_ROM_Display"
     }
   ]
 }
