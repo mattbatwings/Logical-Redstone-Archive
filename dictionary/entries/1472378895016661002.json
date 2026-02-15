@@ -3,14 +3,15 @@
   "terms": [
     "Throughput",
     "Hz",
-    "Pipeline speed"
+    "Pipeline",
+    "Pipelined"
   ],
   "definition": "The time it takes before a circuit is ready for another input. \nFor example: If a circuit can accept a new input every 2 ticks, you may see this written as \"2 tick pipelinable\", or \"5 hz\" (5 per second).",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472378895016661002",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
   "status": "APPROVED",
   "statusMessageID": "1472378895931146271",
-  "updatedAt": 1771113013209,
+  "updatedAt": 1771113624883,
   "references": [],
   "referencedBy": []
 }
