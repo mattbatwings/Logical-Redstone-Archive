@@ -1,14 +1,16 @@
 {
   "id": "1472457972671184967",
   "terms": [
-    "MSB"
+    "MSB",
+    "Most Significant Bit",
+    "Sign Bit"
   ],
   "definition": "MSB: The most significant bit, the bit that has the most value in a binary value, also sometimes known as the sign bit in twos complement, and can be used for flags in an ALU, typically called \"negative\" or \"positive\"",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472457972671184967",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472457972671184967/1472457973522501653",
   "status": "PENDING",
   "statusMessageID": "1472457973522501653",
-  "updatedAt": 1771166027320,
+  "updatedAt": 1771184588255,
   "references": [
     {
       "type": "dictionaryTerm",
