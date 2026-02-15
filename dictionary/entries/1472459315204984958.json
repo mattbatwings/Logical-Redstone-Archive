@@ -1,0 +1,24 @@
+{
+  "id": "1472459315204984958",
+  "terms": [
+    "Serial RAM"
+  ],
+  "definition": "A form of RAM memory which receives and transmits a predetermined number of words at a time (usually a power of 2), with each word being received or transmitted in quick succession. Usually, this is used with a cache.",
+  "threadURL": "https://discord.com/channels/1361854816837435433/1472459315204984958",
+  "statusURL": "https://discord.com/channels/1361854816837435433/1472459315204984958/1472459316656345180",
+  "status": "PENDING",
+  "updatedAt": 1771132057925,
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "cache"
+      ]
+    }
+  ],
+  "referencedBy": [],
+  "statusMessageID": "1472459316656345180"
+}
