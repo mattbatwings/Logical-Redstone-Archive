@@ -5,7 +5,7 @@
 
 **Endorsed by:** *Waffle [Wueffi]*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Recommended, Tested & Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1361854816837435433/1472669665674133779)
 
