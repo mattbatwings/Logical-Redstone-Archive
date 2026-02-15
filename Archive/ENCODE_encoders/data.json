@@ -4,7 +4,7 @@
   "code": "ENCODE",
   "category": "🔨 COMBINATIONAL BLOCKS",
   "description": "Devices that encode custom patterns per each unique input.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472328765446029606",
@@ -15,6 +15,11 @@
       "id": "1472328755493208258",
       "code": "ENCODE002",
       "path": "ENCODE002_Encoder_vertical_to_horizontal"
+    },
+    {
+      "id": "1472328751135068429",
+      "code": "ENCODE003",
+      "path": "ENCODE003_Encoder_horizontal_to_horizontal"
     }
   ]
 }
