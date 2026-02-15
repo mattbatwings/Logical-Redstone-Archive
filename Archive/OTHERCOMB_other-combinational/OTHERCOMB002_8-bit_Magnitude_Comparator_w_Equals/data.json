@@ -1,0 +1,122 @@
+{
+  "id": "1472328895775899750",
+  "name": "8-bit Magnitude Comparator w/ Equals",
+  "code": "OTHERCOMB002",
+  "reservedCodes": [
+    "OTHERCOMB002"
+  ],
+  "pastPostThreadIds": [
+    "1472423842793132254"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "206482298491764736",
+      "username": "sloimay",
+      "displayName": "sloimay",
+      "iconURL": "https://cdn.discordapp.com/avatars/206482298491764736/a778f49416122ef2e9b2339658466528.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "660917615149056025",
+      "username": "ecando",
+      "displayName": "ECanDo",
+      "iconURL": "https://cdn.discordapp.com/avatars/660917615149056025/3568e26871ac546c3e891175384c103d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383095884746820",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328896874680545",
+      "name": "8bit_magnitude_comparator_with_equals.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328895775899750/1472328896874680545/8bit_magnitude_comparator_with_equals.png?ex=69922ca3&is=6990db23&hm=ff143bc3ad922c2d6942c601e498896707b275909b2f9743d47470af0b0ce7a9&",
+      "timestamp": 1771100963301,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328882152804567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328882152804567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 132045,
+      "canDownload": true,
+      "width": 340,
+      "height": 857,
+      "path": "images/8bit_magnitude_comparator_with_equals.png",
+      "hash": "f9014f37307bb10c0326cc775889ca3e76ba61a768236aa76f32109f20d20747"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328896337940643",
+      "name": "OTHERCOMB002_8bit_magnitude_comparator_with_equals.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328895775899750/1472328896337940643/8bit_magnitude_comparator_with_equals.schem?ex=69922ca3&is=6990db23&hm=81f8df54a1ace1ac43febc4fdbaeb7e6eb19e710466501bcbbf3b6eb3c21aba1&",
+      "timestamp": 1771100963301,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328882152804567",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328882152804567/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1254,
+      "canDownload": true,
+      "hash": "1792eede0fc5b2243f70f30fc315930a619b6f3388108b09f7f27d2c73fc74f8",
+      "path": "attachments/OTHERCOMB002_8bit_magnitude_comparator_with_equals.schem",
+      "schematic": {
+        "size": "11x26x15",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Compares the size of 2 8 bit numbers.",
+    "input": "2 8b numbers",
+    "output": "At each bit size: 1b for left > right, 1b for left == right",
+    "speed": "3 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472423842793132254",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472423846026940689"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472423842793132254",
+    "uploadMessageId": "1472423835591508000"
+  },
+  "archivedAt": 1771123597823,
+  "updatedAt": 1771123597823,
+  "num_comments": 0
+}
