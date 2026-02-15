@@ -1,0 +1,123 @@
+{
+  "id": "1472639401770352671",
+  "name": "fastest and smallest possible 1t/port vertical read ports",
+  "code": "OTHERCOMB011",
+  "reservedCodes": [
+    "OTHERCOMB011"
+  ],
+  "pastPostThreadIds": [
+    "1472693169832460381"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1192922842673717318",
+      "username": "rcs_33_91379",
+      "displayName": "RCS_33",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472639402277732412",
+      "name": "readports.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472639401770352671/1472639402277732412/readports.png?ex=69934dd1&is=6991fc51&hm=5f798867aa4841655614ec213c2b91dbb202891c32e5454870eeffbe77d7034f&",
+      "timestamp": 1771174993699,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 192603,
+      "canDownload": true,
+      "width": 714,
+      "height": 810,
+      "path": "images/readports.png",
+      "hash": "1b222601856be08d33a5d896a68b8a4edf9b09e9e54b2921a0ee59dc2135f42a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472639402587983993",
+      "name": "OTHERCOMB011_readports.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472639401770352671/1472639402587983993/readports.schem?ex=69934dd1&is=6991fc51&hm=d3f646a9953c9d585d1219652a66dd18f8e18ef9f8d28feb65143eb042dbbc69&",
+      "timestamp": 1771174993699,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1192922842673717318",
+        "username": "rcs_33_91379",
+        "displayName": "RCS_33",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 13653,
+      "canDownload": true,
+      "hash": "bad8a7cde42dc24efc3c30037041463f8a32cbf06dbd38583bd7d0d2954eeef4",
+      "path": "attachments/OTHERCOMB011_readports.schem",
+      "schematic": {
+        "size": "33x41x19",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Description: distributes N inputs(numbers) onto K(numbers) outputs.\n\nInput: N numbers of any size s. additionally N K-sized bit vectors at the bottom specifying from which N to pull Data from\nOutput: K numbers of size s.\n\nSpeed:\n1) 1t per N/5\n2) 1t per K + (2t base from number input or 1t base from selection input at the bottom)\n\nSize:(ceil of fraction)\nx = 3-wide tileable per N\nz = 4-wide tileable per K\ny = 2 * bitwidth + 3 * (bitwidth/8) < (air gaps between bytes. Note that they are 1 block taller than in typical designs)\n\nUse cases:\n- insanely useful for all sorts of Memory when you want to read to multiple locations in parallel\n- can be used for Schedulers, Ram, Cache and basically any form of Memory. It can let components/clients read in parallel without interfering with each other. (quad read registers for example)\n\nNote:\n- it is optimal in speed and size and both bit-width and port-count can be expanded indefinitely\n- For Reference, Read ports distribute N->K where the delay scales less with N than it does with K. Use them if N > K. (Hand rule: use read ports when you have more inputs than Outputs)\n\nSchematic Content:\nbit-width = 16bit\nK = 10\nN = 4\n*grows towards +x +y +z when pasting*"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "byte"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Cache",
+      "id": "1472382442458447913",
+      "url": "https://discord.com/channels/1361854816837435433/1472382442458447913/1472382443175547060",
+      "matches": [
+        "Cache"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472693169832460381",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472693175222009920"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472693169832460381",
+    "uploadMessageId": "1472693162970448058"
+  },
+  "archivedAt": 1771187810311,
+  "updatedAt": 1771187810311,
+  "num_comments": 0
+}

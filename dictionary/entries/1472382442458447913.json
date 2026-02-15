@@ -18,6 +18,7 @@
   "referencedBy": [
     "ROM002",
     "RWM002",
-    "OTHERCOMB010"
+    "OTHERCOMB010",
+    "OTHERCOMB011"
   ]
 }
