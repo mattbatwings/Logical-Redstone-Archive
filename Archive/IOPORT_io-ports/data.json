@@ -1,0 +1,9 @@
+{
+  "id": "1472331484122583040",
+  "name": "io-ports",
+  "code": "IOPORT",
+  "category": "🧩 CPU COMPONENTS",
+  "description": "Input and output ports for a CPU.",
+  "currentCodeId": 0,
+  "entries": []
+}
