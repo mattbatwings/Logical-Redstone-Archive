@@ -77,7 +77,11 @@
       "size": 1585,
       "canDownload": true,
       "hash": "990217574cc66c4996a01d095aeef9665976ea10b9d915ebddaaf926b7484884",
-      "path": "attachments/INTERFACE004_banner_keyboard.schem"
+      "path": "attachments/INTERFACE004_banner_keyboard.schem",
+      "schematic": {
+        "size": "13x9x8",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

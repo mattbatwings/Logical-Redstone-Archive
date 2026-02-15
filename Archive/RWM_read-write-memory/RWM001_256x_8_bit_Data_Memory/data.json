@@ -73,7 +73,11 @@
       "size": 34791,
       "canDownload": true,
       "hash": "7b16ffc201e7fa1bf9b23243f00361e927c57eb9740596abc8c603e5bb939294",
-      "path": "attachments/RWM001_data_memory.schem"
+      "path": "attachments/RWM001_data_memory.schem",
+      "schematic": {
+        "size": "69x38x71",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

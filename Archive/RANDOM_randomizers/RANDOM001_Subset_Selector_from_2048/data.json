@@ -77,7 +77,11 @@
       "size": 2505,
       "canDownload": true,
       "hash": "f1353313cd7c13be54f3d78f677512f8e60e2a1457a58ef1358955a39613f514",
-      "path": "attachments/RANDOM001_subset_selector.schem"
+      "path": "attachments/RANDOM001_subset_selector.schem",
+      "schematic": {
+        "size": "24x10x27",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

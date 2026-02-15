@@ -74,7 +74,11 @@
       "size": 6535,
       "canDownload": true,
       "hash": "78da795333cc0c4db52f71ebfd86caed5b6b6de753c86936d7531b84b2df6595",
-      "path": "attachments/SORT001_counting_sorter.schem"
+      "path": "attachments/SORT001_counting_sorter.schem",
+      "schematic": {
+        "size": "50x30x24",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

@@ -74,7 +74,11 @@
       "size": 2637,
       "canDownload": true,
       "hash": "87e55093b8204557b27efdca28f3ac93c8cb5c52c536cd0c253a662ac4650763",
-      "path": "attachments/SORT002_bubble_sorter.schem"
+      "path": "attachments/SORT002_bubble_sorter.schem",
+      "schematic": {
+        "size": "24x32x62",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

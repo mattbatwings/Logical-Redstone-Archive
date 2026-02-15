@@ -69,7 +69,11 @@
       "size": 680,
       "canDownload": true,
       "hash": "6b8dfb3064f970b903cb1a2e0ccb777b636b86854dc3f4ba94a5b7e808299d57",
-      "path": "attachments/RANDOM003_3way_randomizer.schem"
+      "path": "attachments/RANDOM003_3way_randomizer.schem",
+      "schematic": {
+        "size": "3x3x6",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

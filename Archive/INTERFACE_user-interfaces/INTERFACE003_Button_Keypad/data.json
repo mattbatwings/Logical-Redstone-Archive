@@ -77,7 +77,11 @@
       "size": 627,
       "canDownload": true,
       "hash": "11792a2a4da73850ddc881e0180996bdfa30c2d8b34eaa5441cbb741a96e962c",
-      "path": "attachments/INTERFACE003_button_keypad.schem"
+      "path": "attachments/INTERFACE003_button_keypad.schem",
+      "schematic": {
+        "size": "5x8x5",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

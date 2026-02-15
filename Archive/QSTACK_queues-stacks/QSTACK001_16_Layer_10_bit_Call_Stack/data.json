@@ -73,7 +73,11 @@
       "size": 3153,
       "canDownload": true,
       "hash": "72ecf79d087c4c3a16da45df5a5de01d8f5f343b0e435c50812b9160268b8304",
-      "path": "attachments/QSTACK001_call_stack.schem"
+      "path": "attachments/QSTACK001_call_stack.schem",
+      "schematic": {
+        "size": "55x24x18",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {

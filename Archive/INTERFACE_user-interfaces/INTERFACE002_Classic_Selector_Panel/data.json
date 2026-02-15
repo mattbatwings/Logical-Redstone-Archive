@@ -77,7 +77,11 @@
       "size": 608,
       "canDownload": true,
       "hash": "f52add4e4a6599d2ae47e68873151fe471760db899eac8a4da8ed53c8130dfb8",
-      "path": "attachments/INTERFACE002_classic_selector.schem"
+      "path": "attachments/INTERFACE002_classic_selector.schem",
+      "schematic": {
+        "size": "7x4x9",
+        "version": "1.21.4"
+      }
     }
   ],
   "records": {
