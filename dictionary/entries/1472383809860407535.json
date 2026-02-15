@@ -6,8 +6,9 @@
   "definition": "Refers to a form of data transfer where less wires are used to transfer more data: Each bit is sent one after the other. One wire can be used to transfer an infinite amount of data.\n\nTypical speeds for serial:\n5 Hz serial: One bit every 2 redstone ticks\n10 Hz serial: One bit every 1 redstone tick\n\nPictured is a 10 Hz serial transmitter.",
   "threadURL": "https://discord.com/channels/1361854816837435433/1472383809860407535",
   "statusURL": "https://discord.com/channels/1361854816837435433/1472383809860407535/1472383812335042583",
-  "status": "PENDING",
-  "updatedAt": 1771114056285,
+  "status": "APPROVED",
+  "statusMessageID": "1472383812335042583",
+  "updatedAt": 1771114211299,
   "references": [
     {
       "type": "dictionaryTerm",
@@ -19,6 +20,5 @@
       ]
     }
   ],
-  "referencedBy": [],
-  "statusMessageID": "1472383812335042583"
+  "referencedBy": []
 }
