@@ -1,0 +1,106 @@
+{
+  "id": "1472329312660226060",
+  "name": "Word Processor",
+  "code": "CHARDISPLAY002",
+  "reservedCodes": [
+    "CHARDISPLAY002"
+  ],
+  "pastPostThreadIds": [
+    "1472414751928881356"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383108333441152",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383108333441153",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472329313885094141",
+      "name": "word_processor.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472329312660226060/1472329313885094141/word_processor.png?ex=69922d06&is=6990db86&hm=f894f8f9f1ea95ae897ef4e124501902306c38d62c648ababdde047e33b1f717&",
+      "timestamp": 1771101062694,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329299796426986",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329299796426986/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 256993,
+      "canDownload": true,
+      "width": 1179,
+      "height": 747,
+      "path": "images/word_processor.png",
+      "hash": "64699382c5ddc77a4247cfae880c7ca367c775404a527d81c9604de8e72127dd"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472329314405060670",
+      "name": "CHARDISPLAY002_word_processor.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472329312660226060/1472329314405060670/word_processor.schem?ex=69922d07&is=6990db87&hm=ba724f39012f678958383b4dc00719182d0ce28245f46bd542b11ee54b063971&",
+      "timestamp": 1771101062694,
+      "author": {
+        "type": "discord-external",
+        "id": "1472329299796426986",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472329299796426986/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 9712,
+      "canDownload": true,
+      "hash": "fbd2c170fc39cedd3c98be791592b778f2b59ba3649fe295f081310a497c4302",
+      "path": "attachments/CHARDISPLAY002_word_processor.schem",
+      "schematic": {
+        "size": "192x30x39",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A word processor (text display) that supports lowercase, uppercase, and symbols.",
+    "input": "7b character code, Type button"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472414751928881356",
+    "forumId": "1472329368914104463",
+    "continuingMessageIds": [
+      "1472414755183394827"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472414751928881356",
+    "uploadMessageId": "1472414745784226029"
+  },
+  "archivedAt": 1771121431006,
+  "updatedAt": 1771121431006,
+  "num_comments": 0
+}
