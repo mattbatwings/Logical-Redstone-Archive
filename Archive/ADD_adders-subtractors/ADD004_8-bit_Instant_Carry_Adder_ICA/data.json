@@ -1,0 +1,101 @@
+{
+  "id": "1472328051193942169",
+  "name": "8-bit Instant Carry Adder (ICA)",
+  "code": "ADD004",
+  "reservedCodes": [
+    "ADD004"
+  ],
+  "pastPostThreadIds": [
+    "1472430068696616990"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "Q2CK"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328051793854566",
+      "name": "8bit_ica.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328051193942169/1472328051793854566/8bit_ica.png?ex=69922bda&is=6990da5a&hm=115a51974177be0153c703df35b1861b39c811b53cf0176bc0ee4fbf1d8b5f0e&",
+      "timestamp": 1771100761937,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 225038,
+      "canDownload": true,
+      "width": 909,
+      "height": 606,
+      "path": "images/8bit_ica.png",
+      "hash": "7e63c7a725f71fbc9494e319c5f1d2caf5c923d16b036d9c408f6f2b235a4317"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328051437076613",
+      "name": "ADD004_8bit_ica.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328051193942169/1472328051437076613/8bit_ica.schem?ex=69922bd9&is=6990da59&hm=ff4e07a6895fdc0435e055d95d3a89f3cced7d235a7179412a184db5bb2d0787&",
+      "timestamp": 1771100761937,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328021078835223",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328021078835223/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1261,
+      "canDownload": true,
+      "hash": "a8796b3737599fd16f16625adf043f2768293bcef87c55e0061ef61b13e9c15b",
+      "path": "attachments/ADD004_8bit_ica.schem",
+      "schematic": {
+        "size": "16x7x22",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit adder using pistons to handle carries.",
+    "input": "2 8b numbers",
+    "output": "8b sum",
+    "speed": "4 ticks"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1472430068696616990",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1472430072932864013"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472430068696616990",
+    "uploadMessageId": "1472430061343735921"
+  },
+  "archivedAt": 1771125081594,
+  "updatedAt": 1771125081594,
+  "num_comments": 0
+}
