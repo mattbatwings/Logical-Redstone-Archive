@@ -13,6 +13,7 @@
   "referencedBy": [
     "BINTOBCD001",
     "BINTOBCD002",
-    "BCDTOBIN001"
+    "BCDTOBIN001",
+    "NUMDISPLAY001"
   ]
 }
