@@ -14,6 +14,7 @@
   "referencedBy": [
     "SQRT001",
     "DIVIDE002",
-    "DIVIDE004"
+    "DIVIDE004",
+    "MULTIPY004"
   ]
 }

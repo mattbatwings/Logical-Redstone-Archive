@@ -1,0 +1,117 @@
+{
+  "id": "1472328524768739547",
+  "name": "8-bit Sequential Multiplier",
+  "code": "MULTIPY004",
+  "reservedCodes": [
+    "MULTIPY004"
+  ],
+  "pastPostThreadIds": [
+    "1472429093344510054"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383083402494010",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328525812863187",
+      "name": "8bit_multiplier.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328524768739547/1472328525812863187/8bit_multiplier.png?ex=69922c4b&is=6990dacb&hm=7bcf767c25a3153f4bb927f07b1891cb0369818c2616d3f2bf4fe58ab9a9c2c4&",
+      "timestamp": 1771100874846,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 174631,
+      "canDownload": true,
+      "width": 475,
+      "height": 854,
+      "path": "images/8bit_multiplier.png",
+      "hash": "05122ae336b4acb86d1a135c518f694d9fa76aefa223a5dccedf3e12443b23b0"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328526068711639",
+      "name": "MULTIPY004_8bit_multiplier.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328524768739547/1472328526068711639/8bit_multiplier.schem?ex=69922c4b&is=6990dacb&hm=c3eab665fb9e00090e4039d133473e6163bea69b2436673161d45c66686dabf6&",
+      "timestamp": 1771100874846,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328518418436230",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328518418436230/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2417,
+      "canDownload": true,
+      "hash": "7077923d7186ed3f125daed2d7bf720eec4c7c41af940d69a3e9c839a5e28ca4",
+      "path": "attachments/MULTIPY004_8bit_multiplier.schem",
+      "schematic": {
+        "size": "18x32x8",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit sequential multiplier.",
+    "input": "2 8b numbers, Start button",
+    "output": "16b product"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472429093344510054",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1472429097178103839"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472429093344510054",
+    "uploadMessageId": "1472429086268854356"
+  },
+  "archivedAt": 1771124849555,
+  "updatedAt": 1771124849555,
+  "num_comments": 0
+}
