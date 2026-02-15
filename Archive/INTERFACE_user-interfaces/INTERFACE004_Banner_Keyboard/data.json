@@ -1,0 +1,112 @@
+{
+  "id": "1472332084965282105",
+  "name": "Banner Keyboard",
+  "code": "INTERFACE004",
+  "reservedCodes": [
+    "INTERFACE004"
+  ],
+  "pastPostThreadIds": [
+    "1472393642403430654"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383139534995697",
+      "name": "Recommended"
+    },
+    {
+      "id": "1472383139534995696",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472332085577515109",
+      "name": "banner_keyboard.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472332084965282105/1472332085577515109/banner_keyboard.png?ex=69922f9b&is=6990de1b&hm=9387ac2770841ca3b068a9f904250d203d4127f16fc24b0f49c1d14b4187dcdf&",
+      "timestamp": 1771101723663,
+      "author": {
+        "type": "discord-external",
+        "id": "1472332077662863554",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472332077662863554/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 194262,
+      "canDownload": true,
+      "width": 827,
+      "height": 793,
+      "path": "images/banner_keyboard.png",
+      "hash": "a8949ba60c292a417e28f0493b9d920c0dfe8dd7b708c58bffaa233fe67365e8"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472332085170536611",
+      "name": "INTERFACE004_banner_keyboard.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472332084965282105/1472332085170536611/banner_keyboard.schem?ex=69922f9b&is=6990de1b&hm=325e701e085c76e7dceff37c94c560cddfb79dcc47571b17b2c20b1ed7eb6faa&",
+      "timestamp": 1771101723663,
+      "author": {
+        "type": "discord-external",
+        "id": "1472332077662863554",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472332077662863554/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1585,
+      "canDownload": true,
+      "hash": "990217574cc66c4996a01d095aeef9665976ea10b9d915ebddaaf926b7484884",
+      "path": "attachments/INTERFACE004_banner_keyboard.schem"
+    }
+  ],
+  "records": {
+    "description": "A keyboard made from banners. Key is output as 2 hex numbers.",
+    "output": "2 hex numbers"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472393642403430654",
+    "forumId": "1472330876703473869",
+    "continuingMessageIds": [
+      "1472393645905805458"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472393642403430654",
+    "uploadMessageId": "1472393633796980738"
+  },
+  "archivedAt": 1771116396993,
+  "updatedAt": 1771116396993,
+  "num_comments": 0
+}

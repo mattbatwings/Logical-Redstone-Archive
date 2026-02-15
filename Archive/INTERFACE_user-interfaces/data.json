@@ -4,7 +4,7 @@
   "code": "INTERFACE",
   "category": "🌐 MISCELLANEOUS",
   "description": "Devices that let users interact with projects.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1472332102128242981",
@@ -20,6 +20,11 @@
       "id": "1472332090765869117",
       "code": "INTERFACE003",
       "path": "INTERFACE003_Button_Keypad"
+    },
+    {
+      "id": "1472332084965282105",
+      "code": "INTERFACE004",
+      "path": "INTERFACE004_Banner_Keyboard"
     }
   ]
 }
