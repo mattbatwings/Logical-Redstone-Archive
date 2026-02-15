@@ -1,0 +1,109 @@
+{
+  "id": "1472328855267184881",
+  "name": "Small Priority Circuit",
+  "code": "OTHERCOMB005",
+  "reservedCodes": [
+    "OTHERCOMB005"
+  ],
+  "pastPostThreadIds": [
+    "1472424700461191179"
+  ],
+  "authors": [],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383095884746820",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472328855749529682",
+      "name": "small_priority.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472328855267184881/1472328855749529682/small_priority.png?ex=69922c99&is=6990db19&hm=95a26aef2f526e353eb2dbabbddf604cd110a50de6484bab150e73b9c087e65d&",
+      "timestamp": 1771100953643,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328844487688246",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328844487688246/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 196457,
+      "canDownload": true,
+      "width": 1200,
+      "height": 589,
+      "path": "images/small_priority.png",
+      "hash": "ed09fc7c2a1a979de89a107b0837ae6fd86925605c0589f7a85e45d52c8da994"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472328855384621147",
+      "name": "OTHERCOMB005_small_priority.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472328855267184881/1472328855384621147/small_priority.schem?ex=69922c99&is=6990db19&hm=3d8bc0e523ae3b9d9a6ec58041c26040e241af1bfb1de884e2bd0644924c2da8&",
+      "timestamp": 1771100953643,
+      "author": {
+        "type": "discord-external",
+        "id": "1472328844487688246",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/1472328844487688246/bab9e922b259ddda571647aa9dfd20c8.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 520,
+      "canDownload": true,
+      "hash": "72a699cd97c8caa6e19b55cf7a9b4c184c5db3f618bf80c2901ea3c6eb384626",
+      "path": "attachments/OTHERCOMB005_small_priority.schem",
+      "schematic": {
+        "size": "7x2x10",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Outputs the rightmost input. Unsynced due to rippling, but size grows linearly as expanded.",
+    "input": "4b",
+    "output": "4b one-hot"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "One-hot",
+      "id": "1472379322797920317",
+      "url": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
+      "matches": [
+        "one-hot"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472424700461191179",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472424703439409183"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472424700461191179",
+    "uploadMessageId": "1472424696069755124"
+  },
+  "archivedAt": 1771123802873,
+  "updatedAt": 1771123802873,
+  "num_comments": 0
+}
