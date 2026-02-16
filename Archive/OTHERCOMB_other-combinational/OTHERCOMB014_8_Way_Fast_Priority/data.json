@@ -1,0 +1,125 @@
+{
+  "id": "1472759479752982639",
+  "name": "8 Way Fast Priority",
+  "code": "OTHERCOMB014",
+  "reservedCodes": [
+    "OTHERCOMB014"
+  ],
+  "pastPostThreadIds": [
+    "1472763604045398026"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1246228722026025011",
+      "username": "blazeycrazey7878",
+      "displayName": "BlazeyCrazey",
+      "iconURL": "https://cdn.discordapp.com/avatars/1246228722026025011/b4b47927427d9c579d327b946921d7c4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472759480138596515",
+      "name": "area_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472759479752982639/1472759480138596515/area_2026-02-15_16.55.16.png?ex=6993bda6&is=69926c26&hm=7c9461bd457e2d8d254ccdc6af1d04a73bc36928b9ff7fc101b71d214dd81bc5&",
+      "timestamp": 1771203622521,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1246228722026025011",
+        "username": "blazeycrazey7878",
+        "displayName": "BlazeyCrazey",
+        "iconURL": "https://cdn.discordapp.com/avatars/1246228722026025011/b4b47927427d9c579d327b946921d7c4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Preview render of build.",
+      "size": 83320,
+      "canDownload": true,
+      "width": 936,
+      "height": 582,
+      "path": "images/area_render.png",
+      "hash": "9d58954862a4485c8f74498742683f05927e973298fc2c52aa730a8c2a9c1a5c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472762171074150440",
+      "name": "OTHERCOMB014_priority_8_way_fast.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472759479752982639/1472762171074150440/priority_8_way_fast.schem?ex=6993c028&is=69926ea8&hm=ea448ac9b40c6fa6800c72841bdd9dbc491275b8c4d28c7b5d4a8b2165b96348&",
+      "timestamp": 1771204263062,
+      "author": {
+        "type": "discord-external",
+        "id": "1246228722026025011",
+        "username": "blazeycrazey7878",
+        "iconURL": "https://cdn.discordapp.com/avatars/1246228722026025011/b4b47927427d9c579d327b946921d7c4.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "4617ea47d16be4650de11146d76c16b89856d2852680fd627b8f7acd2972f87c",
+      "path": "attachments/OTHERCOMB014_priority_8_way_fast.schem",
+      "size": 973,
+      "schematic": {
+        "size": "17x3x15",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 8 way fast priority circuit.",
+    "input": "8 bits",
+    "output": "8 bits",
+    "speed": "2 ticks",
+    "notes": "Will have 2 outputs for 2 ticks after new input is entered."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472763604045398026",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1472763620906762240"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472763604045398026",
+    "uploadMessageId": "1472763598777356470"
+  },
+  "archivedAt": 1771204602932,
+  "updatedAt": 1771204602932,
+  "num_comments": 0
+}
