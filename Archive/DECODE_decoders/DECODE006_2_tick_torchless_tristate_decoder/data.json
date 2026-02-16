@@ -1,0 +1,125 @@
+{
+  "id": "1472782337363152928",
+  "name": "2 tick torchless tristate decoder",
+  "code": "DECODE006",
+  "reservedCodes": [
+    "DECODE006"
+  ],
+  "pastPostThreadIds": [
+    "1473018624896794706"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383091925581957",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472782460973748326",
+      "name": "screenshot_1.png",
+      "url": "https://cdn.discordapp.com/attachments/1472782337363152928/1472782460973748326/screenshot_1.png?ex=6993d30d&is=6992818d&hm=c7d122795b9d25b1843b3367d594496821864eb1642081b9a6d661f21b72b6ca&",
+      "timestamp": 1771209100767,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "size": 119068,
+      "path": "images/screenshot_1.png",
+      "hash": "4e97e746a9512a0f88c3d272826fcc2f45fbc04cacd1c704443a8f9db69c82a3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472782549301330111",
+      "name": "DECODE006_torchlesstristatedecoder.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472782337363152928/1472782549301330111/torchlesstristatedecoder.schem?ex=6993d322&is=699281a2&hm=f7938b5db927e56625b22b251cc09027464b5e0604fdfe614de3847b4428b244&",
+      "timestamp": 1771209121892,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "2b564e486b0a2648736eca8c32fe2c99cbbf0fb5941a9528565da6dd10dcd2eb",
+      "path": "attachments/DECODE006_torchlesstristatedecoder.schem",
+      "size": 3716,
+      "schematic": {
+        "size": "8x16x22",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A decoder where if 15 ss is inputted into the decoder, it acts as a normal decoder, however, inputting 14ss onto all bits enables all outputs. You can also customize which bits are marked as \"don't care\" by inputting 14ss onto separate layers.",
+    "input": "3 bit tri-state value.\n15ss -> Bit on\n14ss -> Don't care\n0ss -> Bit off",
+    "output": "8 binary values",
+    "speed": "2 ticks, 1 tick inverted output",
+    "notes": "Thanks to Uni for the idea for this decoder as well as some of the wiring tricks were \"borrowed\" :P.\n\nYou can also remove a part of the decoder in order to get the 1 tick inverted output if that is useful."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "Bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473018624896794706",
+    "forumId": "1472327175737704703",
+    "continuingMessageIds": [
+      "1473018628629860447"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473018624896794706",
+    "uploadMessageId": "1473018621352612014"
+  },
+  "archivedAt": 1771265403449,
+  "updatedAt": 1771265403449,
+  "num_comments": 0
+}

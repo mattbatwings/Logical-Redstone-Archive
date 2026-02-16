@@ -4,7 +4,7 @@
   "code": "DECODE",
   "category": "🔨 COMBINATIONAL BLOCKS",
   "description": "Devices that decode a custom pattern into unique outputs.",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1472328816616804483",
@@ -30,6 +30,11 @@
       "id": "1472772546146467850",
       "code": "DECODE005",
       "path": "DECODE005_2_tick_torchless_decoder"
+    },
+    {
+      "id": "1472782337363152928",
+      "code": "DECODE006",
+      "path": "DECODE006_2_tick_torchless_tristate_decoder"
     }
   ]
 }
