@@ -1,0 +1,126 @@
+{
+  "id": "1472870796039950538",
+  "name": "Up/Down counter with load",
+  "code": "COUNT004",
+  "reservedCodes": [
+    "COUNT004"
+  ],
+  "pastPostThreadIds": [
+    "1472880052722204738"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "421790102562537473",
+      "username": "tlamp_",
+      "displayName": "tlamp",
+      "iconURL": "https://cdn.discordapp.com/avatars/421790102562537473/58b8466fa4708e94fdb131c634807e84.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383098934268041",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472870796631343104",
+      "name": "counter_Updown.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1472870796039950538/1472870796631343104/area_render.png?ex=69942552&is=6992d3d2&hm=7ba0d44ae5766b27a52e9183b8f8d3a493be961f0f980459152d5b67be721ae8&",
+      "timestamp": 1771230162392,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "421790102562537473",
+        "username": "tlamp_",
+        "displayName": "tlamp",
+        "iconURL": "https://cdn.discordapp.com/avatars/421790102562537473/58b8466fa4708e94fdb131c634807e84.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "8 bit vertical counter",
+      "size": 57419,
+      "canDownload": true,
+      "width": 381,
+      "height": 692,
+      "path": "images/counter_Updown.png",
+      "hash": "6f57b696062a7853104c2b49f2fb793f009c40a8f0b252e50f11178bb2e9d973"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472870797474271354",
+      "name": "COUNT004_up_down_load_counter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1472870796039950538/1472870797474271354/up_down_load_counter.schem?ex=69942552&is=6992d3d2&hm=327bec3ccd5fb875ae7303e310656b9161bf83764b8f0a7fb4d254719c3ad664&",
+      "timestamp": 1771230162392,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "421790102562537473",
+        "username": "tlamp_",
+        "displayName": "tlamp",
+        "iconURL": "https://cdn.discordapp.com/avatars/421790102562537473/58b8466fa4708e94fdb131c634807e84.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1832,
+      "canDownload": true,
+      "hash": "d640e8ca58ec50a5414228c29358ccc7f76c2326a51a03a69284f6f8a3b31976",
+      "path": "attachments/COUNT004_up_down_load_counter.schem",
+      "schematic": {
+        "size": "13x19x8",
+        "version": "1.21.10"
+      }
+    }
+  ],
+  "records": {
+    "description": "A compact counter (the base is 7x9 blocks) that permit to count up, down and to load any 8 bit number",
+    "input": "8-bit number, load button, count button, up or down lever",
+    "output": "8-bit number",
+    "speed": "the count is 4 ticks and the load 6 ticks",
+    "notes": "The output can seems asynchronous, but it's just the redstone lamps that turn on faster than it turn off. The redstone signal is synchronous."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472880052722204738",
+    "forumId": "1472329063317242077",
+    "continuingMessageIds": [
+      "1472880057356910647"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472880052722204738",
+    "uploadMessageId": "1472880045784829984"
+  },
+  "archivedAt": 1771232365343,
+  "updatedAt": 1771232365343,
+  "num_comments": 0
+}
