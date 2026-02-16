@@ -1,0 +1,132 @@
+{
+  "id": "1472772546146467850",
+  "name": "2 tick torchless decoder",
+  "code": "DECODE005",
+  "reservedCodes": [
+    "DECODE005"
+  ],
+  "pastPostThreadIds": [
+    "1472977649205772485"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383091925581957",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1472772673011454046",
+      "name": "screenshot.png",
+      "url": "https://cdn.discordapp.com/attachments/1472772546146467850/1472772673011454046/screenshot.png?ex=6993c9f0&is=69927870&hm=82f88be1b36b47a117cee578310832cb21204ea4f818ccc199adbf8dfc89f6e5&",
+      "timestamp": 1771206767287,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "size": 170869,
+      "path": "images/screenshot.png",
+      "hash": "262c6b9726b2c37dc036dfcd64061efebea8ec64a8703367161e60ba8485a133"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1472772770621292655",
+      "name": "DECODE005_torchlessdecode.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472772546146467850/1472772770621292655/torchlessdecode.schem?ex=6993ca07&is=69927887&hm=29831ac976d99145cc33c18ba3eae481f84b91baa19b8e63c9c13ea62d825743&",
+      "timestamp": 1771206790623,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "320e6af2887795db3ff1aac9f907cd4a626138fa8f0e26935ad0f80b85bb9560",
+      "path": "attachments/DECODE005_torchlessdecode.schem",
+      "size": 2510,
+      "schematic": {
+        "size": "6x13x20",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A decoder that does not use torches, vertical to horizontal (2 ws, staggered). Part of the decoder can also be removed in order to get the inverted output.",
+    "input": "Up to 8 bit binary value (Schematic: 3 bits)",
+    "output": "One-hot binary value, expandable (Schematic: 8 outputs)",
+    "speed": "1 tick inverted output, 2 ticks output (for 8 outputs)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "One-hot",
+      "id": "1472379322797920317",
+      "url": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
+      "matches": [
+        "One-hot"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1472977649205772485",
+    "forumId": "1472327175737704703",
+    "continuingMessageIds": [
+      "1472977653358133310"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1472977649205772485",
+    "uploadMessageId": "1472977646362165299"
+  },
+  "archivedAt": 1771255632772,
+  "updatedAt": 1771255632772,
+  "num_comments": 0
+}
