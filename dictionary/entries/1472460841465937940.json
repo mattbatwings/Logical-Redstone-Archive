@@ -94,6 +94,7 @@
     "DECODE006",
     "TRANSMIT006",
     "SQRT004",
-    "BINTOBCD005"
+    "BINTOBCD005",
+    "BEDROCK001"
   ]
 }

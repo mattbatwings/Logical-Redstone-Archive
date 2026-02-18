@@ -4,6 +4,12 @@
   "code": "BEDROCK",
   "category": "🎮 BEDROCK",
   "description": "Devices compatible with Minecraft Bedrock Edition.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1473714033516613773",
+      "code": "BEDROCK001",
+      "path": "BEDROCK001_32-Bit_Serial_Binary_to_BCD"
+    }
+  ]
 }
