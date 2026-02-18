@@ -1,0 +1,150 @@
+{
+  "id": "1473617584871178264",
+  "name": "4 Tick Square Root Lookup Table",
+  "code": "SQRT004",
+  "reservedCodes": [
+    "SQRT004"
+  ],
+  "pastPostThreadIds": [
+    "1473618906676596758"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "Hahahahah5",
+      "reason": "Provided the concept + the PLA mapping"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383086338773106",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383086338773107",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473617585042886857",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1473617584871178264/1473617585042886857/image.png?ex=6996dcd2&is=69958b52&hm=a66c649174364050ff60ce160030f21f80a4c0a62960f445d376c89546f943d6&",
+      "timestamp": 1771408210724,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 98248,
+      "canDownload": true,
+      "width": 449,
+      "height": 509,
+      "path": "images/image.png",
+      "hash": "a9b26002495b947a5d6859cea1488092d62576266f04f21f4d3c814f5df2045a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473617585529557043",
+      "name": "SQRT004_4tsqrt.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1473617584871178264/1473617585529557043/4tsqrt.schem?ex=6996dcd2&is=69958b52&hm=d9e7d30f62817efe6542fbcefa3da6cc04bed5d1b91f81028545f23bc56d59a3&",
+      "timestamp": 1771408210724,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2989,
+      "canDownload": true,
+      "hash": "37763a09aa9effa70770313e3492e71615dfec7e4740364251a777ad4f20c703",
+      "path": "attachments/SQRT004_4tsqrt.schem",
+      "schematic": {
+        "size": "19x28x12",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 4 tick combinational square root",
+    "input": "8 bit number",
+    "output": "4 bit floored square root",
+    "speed": "4 rt"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473618906676596758",
+    "forumId": "1472326463179985037",
+    "continuingMessageIds": [
+      "1473618910904586459"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473618906676596758",
+    "uploadMessageId": "1473618896090173500"
+  },
+  "archivedAt": 1771408520200,
+  "updatedAt": 1771408520200,
+  "num_comments": 0
+}
