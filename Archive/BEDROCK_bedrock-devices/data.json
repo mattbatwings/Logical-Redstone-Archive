@@ -12,11 +12,6 @@
       "path": "BEDROCK001_32-Bit_Serial_Binary_to_BCD"
     },
     {
-      "id": "1473712538188513352",
-      "code": "BEDROCK002",
-      "path": "BEDROCK002_16-Bit_Sequential_Multiplier"
-    },
-    {
       "id": "1473711975488950474",
       "code": "BEDROCK003",
       "path": "BEDROCK003_16-Bit_Sequential_Divider"
