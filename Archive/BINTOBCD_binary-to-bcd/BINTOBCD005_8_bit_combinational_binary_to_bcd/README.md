@@ -9,7 +9,15 @@
 
 **Original post:** [View on Discord](https://discord.com/channels/1361854816837435433/1473598941730963551)
 
-biji
+A nice combinational 8 bit binary to BCD using a compact ripple carry adder (by Ammorth) with a 1 wide gap
+## Input
+8b
+## Output
+3 digit bcd
+## Speed
+50 rt
+## Notes
+Due to its inherent design, this device is unable to synchronize.
 
 ## Resources
 - [BINTOBCD005_8bit_combinational_bin2bcd.schem](attachments/BINTOBCD005_8bit_combinational_bin2bcd.schem): unknown

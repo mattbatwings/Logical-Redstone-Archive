@@ -81,10 +81,42 @@
     }
   ],
   "records": {
-    "description": "biji"
+    "description": "A nice combinational 8 bit binary to BCD using a compact ripple carry adder (by Ammorth) with a 1 wide gap",
+    "input": "8b",
+    "output": "3 digit bcd",
+    "speed": "50 rt",
+    "notes": "Due to its inherent design, this device is unable to synchronize."
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1473598941730963551",
@@ -96,6 +128,6 @@
     "uploadMessageId": "1473598938257952789"
   },
   "archivedAt": 1771403764134,
-  "updatedAt": 1771403764134,
+  "updatedAt": 1771434384545,
   "num_comments": 0
 }

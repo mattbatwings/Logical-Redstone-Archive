@@ -16,6 +16,7 @@
     "DIVIDE003",
     "MULTIPY002",
     "MULTIPY003",
-    "SQRT004"
+    "SQRT004",
+    "BINTOBCD005"
   ]
 }

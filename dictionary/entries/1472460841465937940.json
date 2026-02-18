@@ -93,6 +93,7 @@
     "DECODE005",
     "DECODE006",
     "TRANSMIT006",
-    "SQRT004"
+    "SQRT004",
+    "BINTOBCD005"
   ]
 }
