@@ -1,0 +1,101 @@
+{
+  "id": "1473513873062498324",
+  "name": "8 bit combinational binary to bcd",
+  "code": "BINTOBCD005",
+  "reservedCodes": [
+    "BINTOBCD005"
+  ],
+  "pastPostThreadIds": [
+    "1473598941730963551"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "960355164194230283",
+      "username": "nandpixellz",
+      "displayName": "Nand",
+      "iconURL": "https://cdn.discordapp.com/avatars/960355164194230283/ef11798c230a340577316ebdf1aae688.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383124104151279",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473514231872618658",
+      "name": "2026-02-18_10.55.28.png",
+      "url": "https://cdn.discordapp.com/attachments/1473513873062498324/1473514231872618658/2026-02-18_10.55.28.png?ex=69967c91&is=69952b11&hm=1ad05e7fb847a6d6521f099406b0c1adaf30ef83d4f0a2d770cf50148ee01004&",
+      "timestamp": 1771383568094,
+      "author": {
+        "type": "discord-external",
+        "id": "960355164194230283",
+        "username": "nandpixellz",
+        "iconURL": "https://cdn.discordapp.com/avatars/960355164194230283/ef11798c230a340577316ebdf1aae688.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "size": 535044,
+      "path": "images/2026-02-18_10.55.28.png",
+      "hash": "c9c485ad2512f3dd709778ec2a62020af8cc0ce52f8a22b42b1dd8b1f783f655"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473514372134604830",
+      "name": "BINTOBCD005_8bit_combinational_bin2bcd.schem",
+      "url": "https://cdn.discordapp.com/attachments/1473513873062498324/1473514372134604830/8bit_combinational_bin2bcd.schem?ex=69967cb2&is=69952b32&hm=9569716dae83fce1ae2021953570fff100794c6705e6ece3e59c6e46198372e3&",
+      "timestamp": 1771383601282,
+      "author": {
+        "type": "discord-external",
+        "id": "960355164194230283",
+        "username": "nandpixellz",
+        "iconURL": "https://cdn.discordapp.com/avatars/960355164194230283/ef11798c230a340577316ebdf1aae688.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "5e0e9fd8afd000a8eb38c80f1d50cba9e95c353a240ba389eaf91b9c05e2b60e",
+      "path": "attachments/BINTOBCD005_8bit_combinational_bin2bcd.schem",
+      "size": 1376,
+      "schematic": {
+        "size": "85x9x22",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "biji"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1473598941730963551",
+    "forumId": "1472330124052398243",
+    "continuingMessageIds": [
+      "1473598946487308432"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473598941730963551",
+    "uploadMessageId": "1473598938257952789"
+  },
+  "archivedAt": 1771403764134,
+  "updatedAt": 1771403764134,
+  "num_comments": 0
+}
