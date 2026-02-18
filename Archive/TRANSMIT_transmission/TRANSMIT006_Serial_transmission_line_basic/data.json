@@ -1,0 +1,117 @@
+{
+  "id": "1473424419014709309",
+  "name": "Serial transmission line basic",
+  "code": "TRANSMIT006",
+  "reservedCodes": [
+    "TRANSMIT006"
+  ],
+  "pastPostThreadIds": [
+    "1473594784076533846"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1416841956365172748",
+      "username": "indestinated",
+      "displayName": "Indy",
+      "iconURL": "https://cdn.discordapp.com/avatars/1416841956365172748/1d6e2dc019641836167b2a4e901020df.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383128646717446",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473424420348629116",
+      "name": "serial_render.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1473424419014709309/1473424420348629116/serial_render.png?ex=699628ec&is=6994d76c&hm=c38d53eff06e1e08e7999ec0da27ffe3668a387602c253233a6382f4f7620276&",
+      "timestamp": 1771362156395,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1416841956365172748",
+        "username": "indestinated",
+        "displayName": "Indy",
+        "iconURL": "https://cdn.discordapp.com/avatars/1416841956365172748/1d6e2dc019641836167b2a4e901020df.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 120002,
+      "canDownload": true,
+      "width": 1200,
+      "height": 530,
+      "path": "images/serial_render.png",
+      "hash": "1cdf7974f4fec4a22aca8c8a4a71cfe45f89962aa6e99a66c2510800e7cdaf66"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473424419501117685",
+      "name": "TRANSMIT006_8b_serial_transmission.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1473424419014709309/1473424419501117685/8b_serial_transmission.schem?ex=699628ec&is=6994d76c&hm=abd6e1d45a3cc992bf6777ad1f0b168936b7d888b5d4fc9ab397510f1835c440&",
+      "timestamp": 1771362156395,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1416841956365172748",
+        "username": "indestinated",
+        "displayName": "Indy",
+        "iconURL": "https://cdn.discordapp.com/avatars/1416841956365172748/1d6e2dc019641836167b2a4e901020df.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1011,
+      "canDownload": true,
+      "hash": "a10851059d473ecaf909bc08f36ccd549c017f30055ab30b67d89914530b3867",
+      "path": "attachments/TRANSMIT006_8b_serial_transmission.schem",
+      "schematic": {
+        "size": "10x3x47",
+        "version": "1.21.7"
+      }
+    }
+  ],
+  "records": {
+    "description": "sends an 8 bit binary number serially over 1 line and 1 clock line.",
+    "input": "8b input, CLK (must be pressed 1x for load, 8x for transmission)",
+    "output": "8b output",
+    "speed": "16RT (2RT per pulse) + 1RT every 15 blocks",
+    "notes": "To load a number, you have to press the clock ONCE, disable the inputs, and then press 8x to transmit."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473594784076533846",
+    "forumId": "1472330395033927893",
+    "continuingMessageIds": [
+      "1473594788472295557"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473594784076533846",
+    "uploadMessageId": "1473594780943646783"
+  },
+  "archivedAt": 1771402772186,
+  "updatedAt": 1771402772186,
+  "num_comments": 0
+}
