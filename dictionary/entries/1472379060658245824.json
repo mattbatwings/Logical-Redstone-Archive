@@ -12,13 +12,11 @@
   "updatedAt": 1771113020489,
   "references": [],
   "referencedBy": [
-    "SQRT001",
+    "MULTIPY004",
     "DIVIDE002",
     "DIVIDE004",
-    "MULTIPY004",
-    "SQRT002",
     "DIVIDE005",
-    "BEDROCK002",
-    "BEDROCK003"
+    "SQRT001",
+    "SQRT002"
   ]
 }

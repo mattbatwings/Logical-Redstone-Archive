@@ -21,13 +21,12 @@
     }
   ],
   "referencedBy": [
-    "BINTOBCD001",
-    "BINTOBCD002",
-    "BCDTOBIN001",
     "NUMDISPLAY001",
     "NUMDISPLAY003",
     "NUMDISPLAY005",
+    "BINTOBCD001",
+    "BINTOBCD002",
     "BINTOBCD005",
-    "BEDROCK001"
+    "BCDTOBIN001"
   ]
 }
