@@ -5,11 +5,5 @@
   "category": "🎮 BEDROCK",
   "description": "Devices compatible with Minecraft Bedrock Edition.",
   "currentCodeId": 3,
-  "entries": [
-    {
-      "id": "1473711975488950474",
-      "code": "BEDROCK003",
-      "path": "BEDROCK003_16-Bit_Sequential_Divider"
-    }
-  ]
+  "entries": []
 }
