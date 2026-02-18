@@ -1,0 +1,107 @@
+{
+  "id": "1473811994841972756",
+  "name": "Vertical-to-Horizontal BCD Shift Register",
+  "code": "SHIFT005",
+  "reservedCodes": [
+    "SHIFT005"
+  ],
+  "pastPostThreadIds": [
+    "1473818888876724254"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1208972328948604968",
+      "username": "qmb_official",
+      "displayName": "QMB",
+      "iconURL": "https://cdn.discordapp.com/avatars/1208972328948604968/38da33af4417d15652982bd13d2b93be.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383101924544569",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473811995118800996",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1473811994841972756/1473811995118800996/image.png?ex=699791e1&is=69964061&hm=95cb7d7cd17e40cf572442116ad35a977b892a04976b3a1d2e200d656a5a07b0&",
+      "timestamp": 1771454561673,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1208972328948604968",
+        "username": "qmb_official",
+        "displayName": "QMB",
+        "iconURL": "https://cdn.discordapp.com/avatars/1208972328948604968/38da33af4417d15652982bd13d2b93be.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A Vertical-to-Horizontal BCD Shift Register.",
+      "size": 89440,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/image.png",
+      "hash": "ec44e7bcd405f275c67b142ca82ce14795a672ffda83fa6e5dc2c992fe31a8b3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473811995667992656",
+      "name": "SHIFT005_bcd_shift_register.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1473811994841972756/1473811995667992656/bcd_shift_register.schem?ex=699791e1&is=69964061&hm=2b0b6787c8de8641caad72cf06a1b65420055cdd2f0f4983596369907ec4c433&",
+      "timestamp": 1771454561673,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1208972328948604968",
+        "username": "qmb_official",
+        "displayName": "QMB",
+        "iconURL": "https://cdn.discordapp.com/avatars/1208972328948604968/38da33af4417d15652982bd13d2b93be.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Vertical-to-Horizontal BCD Shift Register.",
+      "size": 736,
+      "canDownload": true,
+      "hash": "992828cc19f4a52a4ed7b72e8668cfc5c19bfba45f1b7ff7f4a8668de3b7ed4e",
+      "path": "attachments/SHIFT005_bcd_shift_register.schem",
+      "schematic": {
+        "size": "9x10x8",
+        "version": "1.21.7"
+      }
+    }
+  ],
+  "records": {
+    "description": "Modified, very simple version of matt's decoder from his first calculator. Tileable.",
+    "input": "1 nybble",
+    "output": "1 nybble(locked)",
+    "speed": "2rt",
+    "notes": "Repeater on the locking line in the image is an error. In the schem, there is no repeater and you will have to add them as needed. Tileable on the wires. also, works quite nicely for a fast input solution for calculator screens."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1473818888876724254",
+    "forumId": "1472329117041954866",
+    "continuingMessageIds": [
+      "1473818893213634646"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473818888876724254",
+    "uploadMessageId": "1473818885856694283"
+  },
+  "archivedAt": 1771456203923,
+  "updatedAt": 1771456203923,
+  "num_comments": 0
+}
