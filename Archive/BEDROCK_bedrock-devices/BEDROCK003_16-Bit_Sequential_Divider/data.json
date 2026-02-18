@@ -1,0 +1,77 @@
+{
+  "id": "1473711975488950474",
+  "name": "16-Bit Sequential Divider",
+  "code": "BEDROCK003",
+  "reservedCodes": [
+    "BEDROCK003"
+  ],
+  "pastPostThreadIds": [
+    "1473734528315953152"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1287699112472612864",
+      "username": "jvdc_2024",
+      "displayName": "Zenith",
+      "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1472383154760454324"
+    }
+  ],
+  "images": [],
+  "attachments": [],
+  "records": {
+    "description": "A nice sequential 16 bit binary divider for Minecraft Bedrock Edition",
+    "input": "16-Bit No. (A, B), reset button, and calculate button",
+    "output": "16-Bit No. (Answer & Remainder)",
+    "speed": "213 RT",
+    "notes": "Uses pistons to reset (Not Solid State), and only works in Bedrock Edition since Java QC breaks it. The bigger number goes in the left input while the smaller number goes in the right input."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "Bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473734528315953152",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473734528315953152",
+    "uploadMessageId": ""
+  },
+  "archivedAt": 1771436090243,
+  "updatedAt": 1771436090243,
+  "num_comments": 0
+}
