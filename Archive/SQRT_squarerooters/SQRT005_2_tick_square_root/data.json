@@ -1,0 +1,128 @@
+{
+  "id": "1473915288004071487",
+  "name": "2 tick square root",
+  "code": "SQRT005",
+  "reservedCodes": [
+    "SQRT005"
+  ],
+  "pastPostThreadIds": [
+    "1473915703101755433"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383086338773106",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383086338773107",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473915288671092858",
+      "name": "area_render_62_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1473915288004071487/1473915288671092858/area_render_62_.png?ex=6997f214&is=6996a094&hm=d1c60e0165e5c33f2449eaf80e0727bc0ab40c6e04b1f56d880671074904d811&",
+      "timestamp": 1771479188682,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "323916552028028929",
+        "username": "mattbatwings",
+        "displayName": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "An 8 bit square root extractor that takes only 2 ticks.",
+      "size": 57854,
+      "canDownload": true,
+      "width": 695,
+      "height": 565,
+      "path": "images/area_render_62_.png",
+      "hash": "5978937bd833b4cd6a68512eb8682c615f2c64460172f5328b5ba56c04adc46c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473915470389444761",
+      "name": "SQRT005_2tsqrt.schem",
+      "url": "https://cdn.discordapp.com/attachments/1473915288004071487/1473915470389444761/2tsqrt.schem?ex=6997f240&is=6996a0c0&hm=f0217a49052f3ed1e915628550e3146d58d4eb0fccdbd82e4b00628cab7ace49&",
+      "timestamp": 1771479231333,
+      "author": {
+        "type": "discord-external",
+        "id": "323916552028028929",
+        "username": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "9af67e866673e8b230498345672dcd1e510471d469ca1b7af8b8358fa4d75302",
+      "path": "attachments/SQRT005_2tsqrt.schem",
+      "size": 3877,
+      "schematic": {
+        "size": "29x18x18",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "The fastest possible 8 bit square root extractor.",
+    "input": "8b",
+    "output": "4b",
+    "speed": "2 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473915703101755433",
+    "forumId": "1472326463179985037",
+    "continuingMessageIds": [
+      "1473915705932906711"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473915703101755433",
+    "uploadMessageId": "1473915697447960617"
+  },
+  "archivedAt": 1771479284487,
+  "updatedAt": 1771479284487,
+  "num_comments": 0
+}
