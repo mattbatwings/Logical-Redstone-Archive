@@ -1,0 +1,124 @@
+{
+  "id": "1473712538188513352",
+  "name": "16-Bit Sequential Multiplier",
+  "code": "BEDROCK002",
+  "reservedCodes": [
+    "BEDROCK002"
+  ],
+  "pastPostThreadIds": [
+    "1473732247503900775",
+    "1473859154300113127"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1287699112472612864",
+      "username": "jvdc_2024",
+      "displayName": "Zenith",
+      "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1472383154760454324"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473712538762871007",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1473712538188513352/1473712538762871007/image.png?ex=69973541&is=6995e3c1&hm=400e68bec56716f9dbca270afb11233351820cf21decde92e0e21e006176132e&",
+      "timestamp": 1771430849359,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "displayName": "Zenith",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A Nice 16-Bit Sequential Multiplier",
+      "size": 72495,
+      "canDownload": true,
+      "width": 901,
+      "height": 721,
+      "path": "images/image.png",
+      "hash": "e1d66ac3a80435925e9816486b9e5fd6176a1f4e549e5de133941a80ceefca51"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473712539266191491",
+      "name": "BEDROCK002_16-Bit_Multiplier.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1473712538188513352/1473712539266191491/16-Bit_Multiplier.mcstructure?ex=69973541&is=6995e3c1&hm=c90f23ddcd734df8c6ab8502108b8e6986b1b17944a6240e41906f7720092e1c&",
+      "timestamp": 1771430849359,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "displayName": "Zenith",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "16-Bit Sequential Multiplier (Mcstructure)",
+      "size": 114348,
+      "canDownload": true,
+      "hash": "713bc70e4fea28b351701b1b2d93e85f2defe89e5f7fd8747515db58a2b2919f",
+      "path": "attachments/BEDROCK002_16-Bit_Multiplier.mcstructure"
+    }
+  ],
+  "records": {
+    "description": "A compact and fast sequential 16 bit binary multiplier for Minecraft Bedrock Edition",
+    "input": "16-Bit No. (A, B), reset button, and calculate button",
+    "output": "32-Bit No.",
+    "speed": "Dependent on A, B inputs but longest case is 93 RT",
+    "notes": "Uses pistons to reset (Not Solid State), and only works in Bedrock Edition since Java QC breaks it."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "Bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473859154300113127",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1473859158557065430"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473859154300113127",
+    "uploadMessageId": "1473859149631590522"
+  },
+  "archivedAt": 1771465801989,
+  "updatedAt": 1771465801989,
+  "num_comments": 0
+}
