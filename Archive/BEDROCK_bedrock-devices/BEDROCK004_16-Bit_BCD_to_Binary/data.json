@@ -1,0 +1,121 @@
+{
+  "id": "1473946594956021770",
+  "name": "16-Bit BCD to Binary",
+  "code": "BEDROCK004",
+  "reservedCodes": [
+    "BEDROCK004"
+  ],
+  "pastPostThreadIds": [
+    "1474070076226408498"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1287699112472612864",
+      "username": "jvdc_2024",
+      "displayName": "Zenith",
+      "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1472383154760454324"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473946595203743744",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1473946594956021770/1473946595203743744/image.png?ex=69980f3c&is=6996bdbc&hm=2a3b44cbaffdc0d0bed97001ab128b90388bd57fd50ed7d797fb5c9074c40937&",
+      "timestamp": 1771486652841,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "displayName": "Zenith",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A Nice, and Compact 16-Bit BCD to Binary Converter",
+      "size": 121866,
+      "canDownload": true,
+      "width": 1200,
+      "height": 960,
+      "path": "images/image.png",
+      "hash": "b13e93c243c1b301ab6af31741d5b1d43fd04fd4094a8f23944adee02b6743da"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473946598483562496",
+      "name": "BEDROCK004_B2BCD.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1473946594956021770/1473946598483562496/B2BCD.mcstructure?ex=69980f3d&is=6996bdbd&hm=6f403f981e9bb9a9b34c8d3b229e370cf838ea1df38f02ab8d739496d169af98&",
+      "timestamp": 1771486652841,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "displayName": "Zenith",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "16-Bit BCD to Binary (Mcstructure)",
+      "size": 58627,
+      "canDownload": true,
+      "hash": "00f4c595a6bb002a7c0350f978f47ba49ff2fa2948dcbb9558c124b8bd9e8164",
+      "path": "attachments/BEDROCK004_B2BCD.mcstructure"
+    }
+  ],
+  "records": {
+    "description": "A nice, and compact 16-Bit BCD to Binary converter for Minecraft Bedrock Edition",
+    "input": "BCD Digit, reset button, and calculate button",
+    "output": "16-Bit No.",
+    "notes": "- BCD Digits must be inputted one after the other (Input BCD Digit, press the calculate button, and repeat)\n\n- Uses pistons to reset (Not Solid State), and only works in Bedrock Edition since Java QC breaks.\n\n- Highest BCD No. this can convert is 65535"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "Bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1474070076226408498",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1474070087014023305"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1474070076226408498",
+    "uploadMessageId": "1474070071759601665"
+  },
+  "archivedAt": 1771516089369,
+  "updatedAt": 1771516089369,
+  "num_comments": 0
+}
