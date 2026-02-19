@@ -10,6 +10,11 @@
       "id": "1473714033516613773",
       "code": "BEDROCK001",
       "path": "BEDROCK001_32-Bit_Serial_Binary_to_BCD"
+    },
+    {
+      "id": "1473711975488950474",
+      "code": "BEDROCK003",
+      "path": "BEDROCK003_16-Bit_Sequential_Divider"
     }
   ]
 }

@@ -1,0 +1,124 @@
+{
+  "id": "1473711975488950474",
+  "name": "16-Bit Sequential Divider",
+  "code": "BEDROCK003",
+  "reservedCodes": [
+    "BEDROCK003"
+  ],
+  "pastPostThreadIds": [
+    "1473734528315953152",
+    "1473859087346434211"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1287699112472612864",
+      "username": "jvdc_2024",
+      "displayName": "Zenith",
+      "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1472383154760454324"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473711975992131646",
+      "name": "image.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1473711975488950474/1473711975992131646/image.png?ex=699734bb&is=6995e33b&hm=f2dd30681dd6038f26a88e25e0a3835849fb1abe6d25787e1d5d988ff2bf5e0b&",
+      "timestamp": 1771430715201,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "displayName": "Zenith",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A Nice 16-Bit Sequential Divider",
+      "size": 76953,
+      "canDownload": true,
+      "width": 901,
+      "height": 721,
+      "path": "images/image.png",
+      "hash": "ea96ca2218283fa21be548d0292789a8085171a0a9cdd570552e217ca0926d3b"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473711976503840869",
+      "name": "BEDROCK003_16-Bit_Divider.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1473711975488950474/1473711976503840869/16-Bit_Divider.mcstructure?ex=699734bb&is=6995e33b&hm=1dadd1b36accb2ccaec6d53886f5d46557f4bf7c18ba65a442ee22ac6d674035&",
+      "timestamp": 1771430715201,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "displayName": "Zenith",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "16-Bit Sequential Divider (Mcstructure)",
+      "size": 84780,
+      "canDownload": true,
+      "hash": "7ae8b92a163e649ba1638538cea2ac64ecb37590ebf248ff098283f7f9bbb665",
+      "path": "attachments/BEDROCK003_16-Bit_Divider.mcstructure"
+    }
+  ],
+  "records": {
+    "description": "A nice sequential 16 bit binary divider for Minecraft Bedrock Edition",
+    "input": "16-Bit No. (A, B), reset button, and calculate button",
+    "output": "16-Bit No. (Answer & Remainder)",
+    "speed": "213 RT",
+    "notes": "Uses pistons to reset (Not Solid State), and only works in Bedrock Edition since Java QC breaks it. The bigger number goes in the left input while the smaller number goes in the right input."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "Bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473859087346434211",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1473859091477827806"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473859087346434211",
+    "uploadMessageId": "1473859082434646231"
+  },
+  "archivedAt": 1771465786201,
+  "updatedAt": 1771465786201,
+  "num_comments": 0
+}
