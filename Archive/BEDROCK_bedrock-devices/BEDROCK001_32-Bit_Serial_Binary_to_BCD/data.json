@@ -1,0 +1,150 @@
+{
+  "id": "1473714033516613773",
+  "name": "32-Bit Serial Binary to BCD",
+  "code": "BEDROCK001",
+  "reservedCodes": [
+    "BEDROCK001"
+  ],
+  "pastPostThreadIds": [
+    "1473732183704211648",
+    "1473858983998656634"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1287699112472612864",
+      "username": "jvdc_2024",
+      "displayName": "Zenith",
+      "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Tested & Functional",
+      "id": "1472383154760454324"
+    }
+  ],
+  "images": [
+    {
+      "id": "1473840968712327362",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1473714033516613773/1473840968712327362/image.png?ex=6997acdd&is=69965b5d&hm=463eed25f21493a13c003c9352a9c148232b5a4483b4f713dac153e1cbb72e9e&",
+      "timestamp": 1771461469645,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "displayName": "Zenith",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "A Nice 32-Bit Serial Binary to BCD Converter",
+      "size": 179575,
+      "canDownload": true,
+      "width": 1200,
+      "height": 960,
+      "path": "images/image.png",
+      "hash": "4214e3dde85ada02813f880f2364e28a9d7d353815127e5317db1fcedf571a9e"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1473841431985783018",
+      "name": "BEDROCK001_BCD2B_-_1_.mcstructure",
+      "url": "https://cdn.discordapp.com/attachments/1473714033516613773/1473841431985783018/BCD2B_-_1_.mcstructure?ex=6997ad4c&is=69965bcc&hm=33759a0823ef77bc3da4749b28c17a22bda95e9afc8112a9226f667e8a318989&",
+      "timestamp": 1771461579043,
+      "author": {
+        "type": "discord-external",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "a5250062c94e0aabddeb2f260ee833ab0d4cfda381051c40a667dc900d3e67d4",
+      "path": "attachments/BEDROCK001_BCD2B_-_1_.mcstructure",
+      "size": 150356
+    },
+    {
+      "id": "1473841504811225148",
+      "name": "BEDROCK001_BCD2B_-_2.mcstructure",
+      "url": "https://cdn.discordapp.com/attachments/1473714033516613773/1473841504811225148/BCD2B_-_2.mcstructure?ex=6997ad5d&is=69965bdd&hm=41b32db7b048eac8fce87e27e64b5c4c0af775ddc11a68f7de73656e154ddbe7&",
+      "timestamp": 1771461596261,
+      "author": {
+        "type": "discord-external",
+        "id": "1287699112472612864",
+        "username": "jvdc_2024",
+        "iconURL": "https://cdn.discordapp.com/avatars/1287699112472612864/1dcb994a3d54ff8bbffca8db64cc2dc7.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "76e4670cd1b6aad916d0a183b85ed1f24bf111c914ca853ee1865aa373a8864d",
+      "path": "attachments/BEDROCK001_BCD2B_-_2.mcstructure",
+      "size": 196412
+    }
+  ],
+  "records": {
+    "description": "A nice, and fast 32-Bit Serial Binary to BCD converter for Minecraft Bedrock Edition",
+    "input": "32-Bit No., reset button, and calculate button",
+    "output": "10 digit BCD No.",
+    "speed": "103 RT",
+    "notes": "Uses pistons (Not Solid State), and only works in Bedrock Edition since Java QC breaks it. When loading the structure, load \"BCD2B - 1\" first then go to the 2nd structure block that comes with \"BCD2B - 1\" and load \"BCD2B - 2\" but change the y offset to 0."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "Bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Serial",
+      "id": "1472383809860407535",
+      "url": "https://discord.com/channels/1361854816837435433/1472383809860407535/1472383812335042583",
+      "matches": [
+        "Serial"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1473858983998656634",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1473858987614277745"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1473858983998656634",
+    "uploadMessageId": "1473858980127440917"
+  },
+  "archivedAt": 1771465760615,
+  "updatedAt": 1771465760615,
+  "num_comments": 0
+}

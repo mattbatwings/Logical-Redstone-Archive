@@ -39,6 +39,7 @@
     }
   ],
   "referencedBy": [
-    "RWM002"
+    "RWM002",
+    "BEDROCK001"
   ]
 }
