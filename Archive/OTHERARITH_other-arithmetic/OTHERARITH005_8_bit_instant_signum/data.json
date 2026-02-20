@@ -1,0 +1,129 @@
+{
+  "id": "1474480410590445783",
+  "name": "8 bit instant signum",
+  "code": "OTHERARITH005",
+  "reservedCodes": [
+    "OTHERARITH005"
+  ],
+  "pastPostThreadIds": [
+    "1474480601082892420"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383088519676017",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383088519676018",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1474480410795704662",
+      "name": "area_render_63_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1474480410590445783/1474480410795704662/area_render_63_.png?ex=699a0064&is=6998aee4&hm=ba283e2e7f695c9564daecbe6831686a2e1b9e3b0f91f3c6cb5a0863fcc603d7&",
+      "timestamp": 1771613924406,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "323916552028028929",
+        "username": "mattbatwings",
+        "displayName": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 20270,
+      "canDownload": true,
+      "width": 259,
+      "height": 802,
+      "path": "images/area_render_63_.png",
+      "hash": "654890b1e3297681f002a05aee480a56604f620f9d28d70368d136716694ef38"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1474480411131383869",
+      "name": "OTHERARITH005_8b_signum.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1474480410590445783/1474480411131383869/8b_signum.schem?ex=699a0064&is=6998aee4&hm=d667ccf18237400934470af43e284555d7b7a3fc80cd85cef9b7c431b84e855f&",
+      "timestamp": 1771613924406,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "323916552028028929",
+        "username": "mattbatwings",
+        "displayName": "mattbatwings",
+        "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 645,
+      "canDownload": true,
+      "hash": "00b0d7c5b82657e3a6a6d99720763f4f1bcc7f382b3fdbf9c26cb3e0c2e9b7bf",
+      "path": "attachments/OTHERARITH005_8b_signum.schem",
+      "schematic": {
+        "size": "5x16x5",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8 bit instant signum function",
+    "input": "8b",
+    "output": "8b",
+    "speed": "0 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1474480601082892420",
+    "forumId": "1472326515067850834",
+    "continuingMessageIds": [
+      "1474480604803371243"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1474480601082892420",
+    "uploadMessageId": "1474480594510549176"
+  },
+  "archivedAt": 1771613965545,
+  "updatedAt": 1771613965545,
+  "num_comments": 0
+}
