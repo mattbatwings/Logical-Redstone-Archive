@@ -68,6 +68,7 @@
     "DECODE005",
     "DECODE006",
     "SQRT004",
-    "SQRT005"
+    "SQRT005",
+    "OTHERARITH004"
   ]
 }

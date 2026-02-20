@@ -1,0 +1,133 @@
+{
+  "id": "1474417074380996608",
+  "name": "5 bit instant signum",
+  "code": "OTHERARITH004",
+  "reservedCodes": [
+    "OTHERARITH004"
+  ],
+  "pastPostThreadIds": [
+    "1474464251015069737"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "362608109018939394",
+      "username": "walvischris",
+      "displayName": "WalvisChris",
+      "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383088519676017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1474417074616139876",
+      "name": "screenshot_1.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1474417074380996608/1474417074616139876/screenshot_1.png?ex=6999c567&is=699873e7&hm=875af78c9056c876e01470c2396393dbff646718033c6a878390e3bd2fa5a0c9&",
+      "timestamp": 1771598823877,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "362608109018939394",
+        "username": "walvischris",
+        "displayName": "WalvisChris",
+        "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "An 5 bit instant (0 tick) signum function.",
+      "size": 75131,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/screenshot_1.png",
+      "hash": "6b4ea379e83c664eda93c0dafb1aa883cfc157d1a4e57073b7ef572d331bfbd3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1474418003021140018",
+      "name": "OTHERARITH004_5bit_instant_signum.schem",
+      "url": "https://cdn.discordapp.com/attachments/1474417074380996608/1474418003021140018/5bit_instant_signum.schem?ex=6999c645&is=699874c5&hm=f9e48b6ce547f03120257653c984bab5d01d72d0e309fdf579d8fe4c0756fc6b&",
+      "timestamp": 1771599044585,
+      "author": {
+        "type": "discord-external",
+        "id": "362608109018939394",
+        "username": "walvischris",
+        "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "061201e0c4e0ad09ddcbce48439f1c248ea84e0117486b5ecfdddbbd36aabd64",
+      "path": "attachments/OTHERARITH004_5bit_instant_signum.schem",
+      "size": 489,
+      "schematic": {
+        "size": "11x10x3",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 5 bit instant (0 tick) signum function (2s complement).",
+    "input": "5b",
+    "output": "5b",
+    "speed": "0 ticks"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Twos Complement",
+      "id": "1472379271392530514",
+      "url": "https://discord.com/channels/1361854816837435433/1472379271392530514/1472379272248295481",
+      "matches": [
+        "2s complement"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1474464251015069737",
+    "forumId": "1472326515067850834",
+    "continuingMessageIds": [
+      "1474464256597692499"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1474464251015069737",
+    "uploadMessageId": "1474464247940387099"
+  },
+  "archivedAt": 1771610066180,
+  "updatedAt": 1771610066180,
+  "num_comments": 0
+}
