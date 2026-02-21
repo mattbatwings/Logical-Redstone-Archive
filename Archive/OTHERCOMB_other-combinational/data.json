@@ -4,7 +4,7 @@
   "code": "OTHERCOMB",
   "category": "🔨 COMBINATIONAL BLOCKS",
   "description": "Devices that perform other combinational functions.",
-  "currentCodeId": 14,
+  "currentCodeId": 15,
   "entries": [
     {
       "id": "1472328901517770888",
@@ -75,6 +75,11 @@
       "id": "1472759479752982639",
       "code": "OTHERCOMB014",
       "path": "OTHERCOMB014_8_Way_Fast_Priority"
+    },
+    {
+      "id": "1474790244137308443",
+      "code": "OTHERCOMB015",
+      "path": "OTHERCOMB015_3-tick_absolute_value"
     }
   ]
 }

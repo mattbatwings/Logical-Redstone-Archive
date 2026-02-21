@@ -1,0 +1,133 @@
+{
+  "id": "1474790244137308443",
+  "name": "3-tick absolute value",
+  "code": "OTHERCOMB015",
+  "reservedCodes": [
+    "OTHERCOMB015"
+  ],
+  "pastPostThreadIds": [
+    "1474809511306067978"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1474790244422516939",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1474790244137308443/1474790244422516939/image.png?ex=699b20f2&is=6999cf72&hm=d3d142e70bfa7341e7f37fdf6ba92dad6c7b73d92787a83605358fd0b7eb3381&",
+      "timestamp": 1771687794480,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "displayName": "LLucas",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 142764,
+      "canDownload": true,
+      "width": 462,
+      "height": 665,
+      "path": "images/image.png",
+      "hash": "3816fbaa1143d9fc15b958a849fd9ebb87675a84562051665de74d59d3af91f9"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1474790535494504530",
+      "name": "OTHERCOMB015_3tabsval.schem",
+      "url": "https://cdn.discordapp.com/attachments/1474790244137308443/1474790535494504530/3tabsval.schem?ex=699b2137&is=6999cfb7&hm=35f30c24e57bab35b54583c8d9551878be5b279ac854367a1192cb6d603213fb&",
+      "timestamp": 1771687862536,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "aba37b5a2214005c5630be25c7c32fb43e778faed40d6e6c44decc010d5a8c2d",
+      "path": "attachments/OTHERCOMB015_3tabsval.schem",
+      "size": 3976,
+      "schematic": {
+        "size": "10x18x9",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "3 tick compact absolute value",
+    "input": "8 bit signed number HARD POWER",
+    "output": "8 bit absolute value 15ss",
+    "notes": "There is a 2 tick version possible and I am working on optimizing it"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hard Power",
+      "id": "1472396073682206740",
+      "url": "https://discord.com/channels/1361854816837435433/1472396073682206740/1472396074374398004",
+      "matches": [
+        "HARD POWER"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1474809511306067978",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1474809516091773199"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1474809511306067978",
+    "uploadMessageId": "1474809502820864061"
+  },
+  "archivedAt": 1771692382324,
+  "updatedAt": 1771692382324,
+  "num_comments": 0
+}
