@@ -1,0 +1,215 @@
+{
+  "id": "1474837855770640555",
+  "name": "Super Tiny Torchless Decoders",
+  "code": "DECODE007",
+  "reservedCodes": [
+    "DECODE007"
+  ],
+  "pastPostThreadIds": [
+    "1474839116058460321"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383091925581957",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1474838006446690536",
+      "name": "screenshot_4.png",
+      "url": "https://cdn.discordapp.com/attachments/1474837855770640555/1474838006446690536/screenshot_4.png?ex=699b4d6d&is=6999fbed&hm=21e2617ca6fe859fd3b1a19081b1e017ae8018e9bdfecc31e3d63837086d3152&",
+      "timestamp": 1771699180785,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "size": 119350,
+      "path": "images/screenshot_4.png",
+      "hash": "e6030c5ee123f62823f25a136613580986f3b276f9c2f0cbee7db02e253ce3be"
+    },
+    {
+      "id": "1474838743436234813",
+      "name": "screenshot_3.png",
+      "url": "https://cdn.discordapp.com/attachments/1474837855770640555/1474838743436234813/screenshot_3.png?ex=699b4e1d&is=6999fc9d&hm=853a115281f1a7cc93edf69fe01824cb24ef60bb4070873933127fae8537e32d&",
+      "timestamp": 1771699355364,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "size": 114002,
+      "path": "images/screenshot_3.png",
+      "hash": "2d6566fd0d71a676996d3354d27b044fff109147acbfce7100d200584995f87c"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1474838395623702729",
+      "name": "DECODE007_smalltorchlessb.schem",
+      "url": "https://cdn.discordapp.com/attachments/1474837855770640555/1474838395623702729/smalltorchlessb.schem?ex=699b4dca&is=6999fc4a&hm=16b471d71c467459dd9530170dd6e028af51a4365d2e4a19f2483a62ec8354b5&",
+      "timestamp": 1771699273825,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "e5d306b9334f94eb58f578bea6c1240bf18c22c1a9a2377e74a4e8ee8df4bf4e",
+      "path": "attachments/DECODE007_smalltorchlessb.schem",
+      "size": 3629,
+      "schematic": {
+        "size": "4x15x23",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1474838497339773129",
+      "name": "DECODE007_smalltorchlessa.schem",
+      "url": "https://cdn.discordapp.com/attachments/1474837855770640555/1474838497339773129/smalltorchlessa.schem?ex=699b4de2&is=6999fc62&hm=57570a96ee123227df36812d15c122aede1fc423fbf79088bf71ad696292daae&",
+      "timestamp": 1771699298096,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "f1c1fce5fa45919986586f938e371d26e3f166b959c184ad0c7a31c9a59c3b57",
+      "path": "attachments/DECODE007_smalltorchlessa.schem",
+      "size": 3559,
+      "schematic": {
+        "size": "7x15x22",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1474838553992364155",
+      "name": "DECODE007_smalltristatea.schem",
+      "url": "https://cdn.discordapp.com/attachments/1474837855770640555/1474838553992364155/smalltristatea.schem?ex=699b4df0&is=6999fc70&hm=0b359600751d0cd32e19b53fe86a7c4cad4402a6313e4a69e3e95bce6a419c3b&",
+      "timestamp": 1771699311746,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "a4c45088205078030a8460e0bc073df3b20d432645aee6e3059e6a2da2ed0772",
+      "path": "attachments/DECODE007_smalltristatea.schem",
+      "size": 3633,
+      "schematic": {
+        "size": "6x16x22",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1474838651044368605",
+      "name": "DECODE007_smalltristateb.schem",
+      "url": "https://cdn.discordapp.com/attachments/1474837855770640555/1474838651044368605/smalltristateb.schem?ex=699b4e07&is=6999fc87&hm=1d163e8663cde3087d8045dbbfc16eaabc7992cfaa93e5e8b16fa11b56bb4586&",
+      "timestamp": 1771699334707,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "cbf03c95b8cf7720acee9e91d42dc60b28127586d49e813d2a03e68d92e9729b",
+      "path": "attachments/DECODE007_smalltristateb.schem",
+      "size": 3670,
+      "schematic": {
+        "size": "6x17x20",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Two variations of torchless decoder (tristate and regular). Tristate has one barrel protruding that makes it 4 wide, while normal torchless is 3 wide.",
+    "input": "3-bit flipped binary number (For tristate, there are 3 don't care \"X\" bits)",
+    "output": "8 result bits (Inverted!) (A: 1ss, B: 15ss)",
+    "speed": "A: 1 tick, B: 2 ticks",
+    "notes": "Torchless A - Regular 3-wide torchless decoder, 1 tick 1ss out (Pictured)\nTorchless B - Regular 3-wide torchless decoder, 2 tick 15ss out\nTristate A - Tristate decoder, 1 tick 1ss out (Pictured)\nTristate B - Tristate decoder, 2 ticks 15ss out\nOUTPUTS ARE INVERTED\nnot expandable!"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1474839116058460321",
+    "forumId": "1472327175737704703",
+    "continuingMessageIds": [
+      "1474839120701292768",
+      "1474839121578037410"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1474839116058460321",
+    "uploadMessageId": "1474839111058587730"
+  },
+  "archivedAt": 1771699442827,
+  "updatedAt": 1771699442827,
+  "num_comments": 0
+}
