@@ -4,7 +4,7 @@
   "code": "OTHERARITH",
   "category": "➕ ARITHMETIC",
   "description": "Devices that perform other arithmetic operations.",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1472726848822575286",
@@ -30,6 +30,11 @@
       "id": "1474480410590445783",
       "code": "OTHERARITH005",
       "path": "OTHERARITH005_8_bit_instant_signum"
+    },
+    {
+      "id": "1474726020383772723",
+      "code": "OTHERARITH006",
+      "path": "OTHERARITH006_8_bit_absolute_value"
     }
   ]
 }

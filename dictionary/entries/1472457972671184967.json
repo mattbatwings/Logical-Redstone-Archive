@@ -33,6 +33,7 @@
   ],
   "referencedBy": [
     "BINTOBCD004",
-    "BCDTOBIN003"
+    "BCDTOBIN003",
+    "OTHERARITH006"
   ]
 }

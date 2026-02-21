@@ -1,0 +1,146 @@
+{
+  "id": "1474726020383772723",
+  "name": "8 bit absolute value",
+  "code": "OTHERARITH006",
+  "reservedCodes": [
+    "OTHERARITH006"
+  ],
+  "pastPostThreadIds": [
+    "1474739638450126929"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "362608109018939394",
+      "username": "walvischris",
+      "displayName": "WalvisChris",
+      "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383088519676017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1474726020673175592",
+      "name": "screenshot2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1474726020383772723/1474726020673175592/screenshot2.png?ex=699ae522&is=699993a2&hm=f673c266743653a2ee7a64000e54b2189aa66d8873bd2239ad544768f47eabce&",
+      "timestamp": 1771672482344,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "362608109018939394",
+        "username": "walvischris",
+        "displayName": "WalvisChris",
+        "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 102034,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/screenshot2.png",
+      "hash": "279aedf2d6a6b5cea05a7f3778afa56276ad25a8bdc0a4166c7fcf8aa2fa8b52"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1474726283261902885",
+      "name": "OTHERARITH006_8b_absolute.schem",
+      "url": "https://cdn.discordapp.com/attachments/1474726020383772723/1474726283261902885/8b_absolute.schem?ex=699ae561&is=699993e1&hm=a78c7eb6468db8beef712014752bb40fa5e7424ee90a66fc7758c5ce5c6013a7&",
+      "timestamp": 1771672544259,
+      "author": {
+        "type": "discord-external",
+        "id": "362608109018939394",
+        "username": "walvischris",
+        "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "159399a04dc8bd3fb81bac277829e427e232b87c1bd1a1582b6de6104e819c24",
+      "path": "attachments/OTHERARITH006_8b_absolute.schem",
+      "size": 1086,
+      "schematic": {
+        "size": "13x19x7",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Description\nAn 8 bit absolute value function (2s complement).",
+    "input": "8 bit input",
+    "output": "8 bit output (1/6 ss, so use repeater)",
+    "speed": "6 ticks",
+    "considerations": [
+      "I haven't put any time into making it fast or small, so please if you can make a smaller and faster version. I just added a inverted adder and a toggle based on the signed bit."
+    ],
+    "notes": "IMPORTANT: top most bit (MSB/signed) has to be connected to the staircase at the bottom, so if you want to make it smaller (like 5 bit) you have to connect the 5th bit to the torch at the bottom!\n\nALSO make sure that when you make it smaller the top layer stays identical."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Twos Complement",
+      "id": "1472379271392530514",
+      "url": "https://discord.com/channels/1361854816837435433/1472379271392530514/1472379272248295481",
+      "matches": [
+        "2s complement"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MSB",
+      "id": "1472457972671184967",
+      "url": "https://discord.com/channels/1361854816837435433/1472457972671184967/1472457973522501653",
+      "matches": [
+        "MSB"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1474739638450126929",
+    "forumId": "1472326515067850834",
+    "continuingMessageIds": [
+      "1474739643575435400"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1474739638450126929",
+    "uploadMessageId": "1474739635342282843"
+  },
+  "archivedAt": 1771675722761,
+  "updatedAt": 1771675722761,
+  "num_comments": 0
+}
