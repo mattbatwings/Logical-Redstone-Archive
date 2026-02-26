@@ -1,0 +1,120 @@
+{
+  "id": "1476350457441026079",
+  "name": "64x64 Expandable Matrix Decoder",
+  "code": "OTHERDISPLAY003",
+  "reservedCodes": [
+    "OTHERDISPLAY003"
+  ],
+  "pastPostThreadIds": [
+    "1476618154300932209"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "362608109018939394",
+      "username": "walvischris",
+      "displayName": "WalvisChris",
+      "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383113035256058",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1476350457948405862",
+      "name": "64x64_matrix_decoder.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1476350457441026079/1476350457948405862/64x64_matrix_decoder.png?ex=69a0ce02&is=699f7c82&hm=39ebc0b65ec96bf846b7afa4dc49952ec63b8a385317b09b265c7697a756b70e&",
+      "timestamp": 1772059778319,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "362608109018939394",
+        "username": "walvischris",
+        "displayName": "WalvisChris",
+        "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "image",
+      "size": 350680,
+      "canDownload": true,
+      "width": 630,
+      "height": 1033,
+      "path": "images/64x64_matrix_decoder.png",
+      "hash": "dd12c78d93653ae7731513c2672a15a99a89f0feeb91789da8ae126a2df85abb"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1476350684155875489",
+      "name": "OTHERDISPLAY003_64x64_expandable_decoder_matrix.schem",
+      "url": "https://cdn.discordapp.com/attachments/1476350457441026079/1476350684155875489/64x64_expandable_decoder_matrix.schem?ex=69a0ce38&is=699f7cb8&hm=7c331138bd57e2bc0e3d80a791cbe82b2d6f45b6cc8bab6eb191c1d94d26ee36&",
+      "timestamp": 1772059831565,
+      "author": {
+        "type": "discord-external",
+        "id": "362608109018939394",
+        "username": "walvischris",
+        "iconURL": "https://cdn.discordapp.com/avatars/362608109018939394/f79d140a203d704f0408d1812303bf8d.webp"
+      },
+      "source": "DirectUpload",
+      "description": "schematic",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "5940760e398a8b444b921eb65f98a736747cc6b6357cbe18cb67c70745f71105",
+      "path": "attachments/OTHERDISPLAY003_64x64_expandable_decoder_matrix.schem",
+      "size": 4836,
+      "schematic": {
+        "size": "140x140x10",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Description\nAn XY decoder that plots a pixel on a grid. Great for a pixel display. Infinitely expandable!",
+    "input": "6b X, 6b Y",
+    "output": "plotted pixel",
+    "speed": "40 ticks (20 redstone ticks) for farthest pixel.",
+    "considerations": [
+      "not meant to be fast, just small and infinitely expandable.",
+      "only expandable when binary decoders are adjusted for bigger sizes!"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick",
+        "redstone tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1476618154300932209",
+    "forumId": "1472329757856235794",
+    "continuingMessageIds": [
+      "1476618169635307543"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1476618154300932209",
+    "uploadMessageId": "1476618152434466817"
+  },
+  "archivedAt": 1772123600038,
+  "updatedAt": 1772123600038,
+  "num_comments": 0
+}
