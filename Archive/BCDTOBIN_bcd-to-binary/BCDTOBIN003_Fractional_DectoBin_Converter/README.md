@@ -1,7 +1,7 @@
 # Fractional DectoBin Converter
 <img alt="area_render_44_.png" src="images/area_render_44_.png?raw=1" height="300px">
 
-**Authors:** *Xoliks, Flyingdean, Uni, stickman_cookies*
+**Authors:** *Xoliks, Flyingdean, Uni, Stickman*
 
 **Endorsed by:** *Waffle [Wueffi]*
 

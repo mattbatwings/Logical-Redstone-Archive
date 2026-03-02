@@ -1,7 +1,7 @@
 # Fractional BintoDec Converter
 <img alt="FractionalBintoDec.png" src="images/FractionalBintoDec.png?raw=1" height="300px">
 
-**Authors:** *Xoliks, Flyingdean, Uni, stickman_cookies*
+**Authors:** *Xoliks, Flyingdean, Uni, Stickman*
 
 **Endorsed by:** *Waffle [Wueffi]*
 

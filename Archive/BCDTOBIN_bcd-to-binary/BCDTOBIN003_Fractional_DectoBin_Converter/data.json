@@ -31,9 +31,10 @@
       "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
     },
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "762007539197411350",
       "username": "stickman_cookies",
+      "displayName": "Stickman",
       "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp"
     }
   ],
