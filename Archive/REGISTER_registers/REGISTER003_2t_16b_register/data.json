@@ -1,0 +1,148 @@
+{
+  "id": "1476900513185402972",
+  "name": "2t 16b register",
+  "code": "REGISTER003",
+  "reservedCodes": [
+    "REGISTER003"
+  ],
+  "pastPostThreadIds": [
+    "1477951485387214858",
+    "1479219110511378645"
+  ],
+  "authors": [
+    {
+      "type": "unknown",
+      "username": "odmen.2159"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383100062404727",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1476900513621737632",
+      "name": "8aadfdec-1353-4ae8-9a7b-0ba4b6476f9f.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476900513185402972/1476900513621737632/8aadfdec-1353-4ae8-9a7b-0ba4b6476f9f.jpg?ex=69a2ce49&is=69a17cc9&hm=10b94adc2cc53af7983640627ba6a87e3bb79b946d7666cb6bfe231a86aaa0e7&",
+      "timestamp": 1772190921828,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "16b register\nInputs: read button, write button, 16b number\nOutput: 16b number\nSpeed: 2t",
+      "size": 88877,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/8aadfdec-1353-4ae8-9a7b-0ba4b6476f9f.png",
+      "hash": "3f9030eeb15f7f145477279f15632914e9cf385393dfa9742f5177963f7d4d59"
+    },
+    {
+      "id": "1476900514003423373",
+      "name": "91b7f48a-7810-4b98-87e5-cbf7f4076a0d.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476900513185402972/1476900514003423373/91b7f48a-7810-4b98-87e5-cbf7f4076a0d.jpg?ex=69a2ce4a&is=69a17cca&hm=7a4f67dc3be005a99bf2700c9c2b03161423e8ecbd3e1c3606cab88d96d744a2&",
+      "timestamp": 1772190921828,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "16b register\nInputs: read button, write button, 16b number\nOutput: 16b number\nSpeed: 2t",
+      "size": 156609,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/91b7f48a-7810-4b98-87e5-cbf7f4076a0d.png",
+      "hash": "af8dc7874d650d77854a653464c13fc0b82fdb91d3ac58918c75172d45bf6ee4"
+    },
+    {
+      "id": "1476900514359808071",
+      "name": "b52122a5-571e-4e86-abe1-5611f82cf5f5.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476900513185402972/1476900514359808071/b52122a5-571e-4e86-abe1-5611f82cf5f5.jpg?ex=69a2ce4a&is=69a17cca&hm=b973f3c4e45a43cb112470470e7687fe947c78830562aa70a06053bbba291449&",
+      "timestamp": 1772190921828,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "16b register\nInputs: read button, write button, 16b number\nOutput: 16b number\nSpeed: 2t",
+      "size": 81338,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/b52122a5-571e-4e86-abe1-5611f82cf5f5.png",
+      "hash": "e518125d0f90cc2b0391944de1a945463604d1fc8d4f42bff5c0f256a306641d"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479195678784884746",
+      "name": "REGISTER003_16bit_register.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1476900513185402972/1479195678784884746/16bit_register.schem?ex=69ab27d3&is=69a9d653&hm=4247076f59052c958cfcf5c28f5a8cf33b12b2ff5ec62e10fd72361ffc2c21d5&",
+      "timestamp": 1772738132052,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1344,
+      "canDownload": true,
+      "hash": "5e4f5f00e264824a31878bc5c641f74667517723d1170026dc776e282d1aaca1",
+      "path": "attachments/REGISTER003_16bit_register.schem",
+      "schematic": {
+        "size": "7x18x12",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "16b register",
+    "input": "read button, write button, 16b number",
+    "output": "16b number",
+    "speed": "2t"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1479219110511378645",
+    "forumId": "1472329079880421558",
+    "continuingMessageIds": [
+      "1479219118447001624"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479219110511378645",
+    "uploadMessageId": "1479219108204515493"
+  },
+  "archivedAt": 1772743717194,
+  "updatedAt": 1772743717194,
+  "num_comments": 0
+}
