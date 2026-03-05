@@ -1,0 +1,128 @@
+{
+  "id": "1478037410301481001",
+  "name": "8-bit register with  dual read",
+  "code": "REGISTER004",
+  "reservedCodes": [
+    "REGISTER004"
+  ],
+  "pastPostThreadIds": [
+    "1479218770601054409"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "582215227744190467",
+      "username": "odmen.2159",
+      "displayName": "LiBRoK",
+      "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383100062404727",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1478037410796535868",
+      "name": "2b1bcf1d-690b-498f-82ad-96436d824c80.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1478037410301481001/1478037410796535868/2b1bcf1d-690b-498f-82ad-96436d824c80.jpg?ex=69a6f11b&is=69a59f9b&hm=d6931ad79248304d1fb56b7c64f5fc4af6b818bd23bf8cbb74ea19d65611d447&",
+      "timestamp": 1772461979223,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "simulated dual read with write from one side and read from another\nInputs: 8b number, write button, read 1, read 2\nOutput: 2 8b numbers\nSpeed: 2t for write, 3t for read",
+      "size": 139908,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2b1bcf1d-690b-498f-82ad-96436d824c80.png",
+      "hash": "9be42eb86e1063e64bcb39e02e5bda3ffeb0cecb83eb1b6c890de43e51dc3323"
+    },
+    {
+      "id": "1478037411723219045",
+      "name": "3ca7d7e1-5bf6-4fbf-af53-b7d03d3ab4b9.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1478037410301481001/1478037411723219045/3ca7d7e1-5bf6-4fbf-af53-b7d03d3ab4b9.jpg?ex=69a6f11b&is=69a59f9b&hm=eb928c0426fa0d0d91226a4cec1406670766aa93047962f884ea8e202449e550&",
+      "timestamp": 1772461979223,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "simulated dual read with write from one side and read from another\nInputs: 8b number, write button, read 1, read 2\nOutput: 2 8b numbers\nSpeed: 2t for write, 3t for read",
+      "size": 210862,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/3ca7d7e1-5bf6-4fbf-af53-b7d03d3ab4b9.png",
+      "hash": "f3134ec82d0bc771084be59848fb3f7cfa316d894f9e250bffe4311643650a9a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479195077623414784",
+      "name": "REGISTER004_8bit_dual_read_register.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1478037410301481001/1479195077623414784/8bit_dual_read_register.schem?ex=69ab2744&is=69a9d5c4&hm=d0d5ec9982a0637a3d12161c00d2486abd729af8145ebe72417828b67c8c9121&",
+      "timestamp": 1772737988677,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1533,
+      "canDownload": true,
+      "hash": "02b39f30558115a05e1600cbe5b42457103d409c5c841446704c64742bfd254c",
+      "path": "attachments/REGISTER004_8bit_dual_read_register.schem",
+      "schematic": {
+        "size": "7x19x14",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "simulated dual read with write from one side and read from another",
+    "input": "8b number, write button, read 1, read 2",
+    "output": "2 8b numbers",
+    "speed": "2t for write, 3t for read"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1479218770601054409",
+    "forumId": "1472329079880421558",
+    "continuingMessageIds": [
+      "1479218777982763119"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479218770601054409",
+    "uploadMessageId": "1479218767727824996"
+  },
+  "archivedAt": 1772743635999,
+  "updatedAt": 1772743635999,
+  "num_comments": 0
+}

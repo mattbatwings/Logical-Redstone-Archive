@@ -4,7 +4,7 @@
   "code": "REGISTER",
   "category": "🕐 SEQUENTIAL BLOCKS",
   "description": "Devices that store data.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1472329064827060267",
@@ -15,6 +15,11 @@
       "id": "1472684559119286526",
       "code": "REGISTER002",
       "path": "REGISTER002_Tristate_Register"
+    },
+    {
+      "id": "1478037410301481001",
+      "code": "REGISTER004",
+      "path": "REGISTER004_8-bit_register_with_dual_read"
     }
   ]
 }
