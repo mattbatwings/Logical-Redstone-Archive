@@ -1,0 +1,125 @@
+{
+  "id": "1476551662670844047",
+  "name": "7-to-3 observer encoder (serial)",
+  "code": "TRANSMIT007",
+  "reservedCodes": [
+    "TRANSMIT007"
+  ],
+  "pastPostThreadIds": [
+    "1479225918621876276"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "582215227744190467",
+      "username": "odmen.2159",
+      "displayName": "LiBRoK",
+      "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383128646717446",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1476551663039811645",
+      "name": "e388cb2a-9614-4339-9e6a-8fa25223b8f1.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476551662670844047/1476551663039811645/e388cb2a-9614-4339-9e6a-8fa25223b8f1.jpg?ex=69a18965&is=69a037e5&hm=bfd593ac04abb5bc748ae689a73d80b168e50f52e8dffd3bc54d535c8a016da3&",
+      "timestamp": 1772107749384,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "7-to-3 encoder that sends encoded value as 4b information. Each bit sends every 2t (can be changed), summary 8t after pressing send.\n\nInputs: 7 levers, 1 button (send)\nOutputs: 1 serial 4b data\nSpeed: 1t to prepare and 8t to send",
+      "size": 206065,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/e388cb2a-9614-4339-9e6a-8fa25223b8f1.png",
+      "hash": "04c42dbc8834fa950d845c9ca17f9fb8eca2b742f9da4112abff642446e42d0d"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479194839227699200",
+      "name": "TRANSMIT007_7to3_serial_observer_encoder.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1476551662670844047/1479194839227699200/7to3_serial_observer_encoder.schem?ex=69ab270b&is=69a9d58b&hm=d501132a849e0c7f88647d2c3207ef5d4da0c3375539b22bcdb75be68d29482f&",
+      "timestamp": 1772737931841,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1055,
+      "canDownload": true,
+      "hash": "790a08155d6935e28e828d4ed05cb1dfd645bb06c24c62170205077e5af3715d",
+      "path": "attachments/TRANSMIT007_7to3_serial_observer_encoder.schem",
+      "schematic": {
+        "size": "9x5x12",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "7-to-3 encoder that sends encoded value as 4b information. Each bit sends every 2t (can be changed), summary 8t after pressing send.",
+    "input": "7 levers, 1 button (send)",
+    "output": "1 serial 4b data",
+    "speed": "1t to prepare and 8t to send"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Serial",
+      "id": "1472383809860407535",
+      "url": "https://discord.com/channels/1361854816837435433/1472383809860407535/1472383812335042583",
+      "matches": [
+        "serial"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1479225918621876276",
+    "forumId": "1472330395033927893",
+    "continuingMessageIds": [
+      "1479225927748550797"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479225918621876276",
+    "uploadMessageId": "1479225915438530726"
+  },
+  "archivedAt": 1772745336280,
+  "updatedAt": 1772745336280,
+  "num_comments": 0
+}

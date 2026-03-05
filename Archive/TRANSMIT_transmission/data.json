@@ -4,7 +4,7 @@
   "code": "TRANSMIT",
   "category": "🔌 WIRING",
   "description": "Devices that showcase transmission techniques.",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1472330274166542407",
@@ -35,6 +35,11 @@
       "id": "1473424419014709309",
       "code": "TRANSMIT006",
       "path": "TRANSMIT006_Serial_transmission_line_basic"
+    },
+    {
+      "id": "1476551662670844047",
+      "code": "TRANSMIT007",
+      "path": "TRANSMIT007_7-to-3_observer_encoder_serial"
     }
   ]
 }

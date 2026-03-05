@@ -40,6 +40,7 @@
   ],
   "referencedBy": [
     "RWM002",
-    "BEDROCK001"
+    "BEDROCK001",
+    "TRANSMIT007"
   ]
 }
