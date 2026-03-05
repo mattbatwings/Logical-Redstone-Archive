@@ -1,0 +1,160 @@
+{
+  "id": "1479038312948830239",
+  "name": "stackable vertical hex to binary",
+  "code": "HEXTOBIN003",
+  "reservedCodes": [
+    "HEXTOBIN003"
+  ],
+  "pastPostThreadIds": [
+    "1479218672601010196"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "582215227744190467",
+      "username": "odmen.2159",
+      "displayName": "LiBRoK",
+      "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383122384359521",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1479038313611657297",
+      "name": "4bc0e202-4b42-4a27-90d9-7982d786ac66.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1479038312948830239/1479038313611657297/4bc0e202-4b42-4a27-90d9-7982d786ac66.jpg?ex=69aa9545&is=69a943c5&hm=d3497c72402e0605ff8c909cfd0b402d177d52aaed05a24d35ea40d427f8435c&",
+      "timestamp": 1772700613010,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "ripple hex to binary. In crafters values (up to down) are: 8, 4, 2\nInput: hex number\nOutput: 4b number\nSpeed: 6t",
+      "size": 109984,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/4bc0e202-4b42-4a27-90d9-7982d786ac66.png",
+      "hash": "02dd24a662ce913b1d1b88ba81a287ca417a21b50c4d13e45d6d346af6656ba5"
+    },
+    {
+      "id": "1479038313976299703",
+      "name": "5a34cbfa-2143-41c2-923a-5caf5ddead36.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1479038312948830239/1479038313976299703/5a34cbfa-2143-41c2-923a-5caf5ddead36.jpg?ex=69aa9545&is=69a943c5&hm=e2d04c2c62b778da97db2bc059fcfcd383aba584eef677be4ff7ff9135c561cc&",
+      "timestamp": 1772700613010,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "ripple hex to binary. In crafters values (up to down) are: 8, 4, 2\nInput: hex number\nOutput: 4b number\nSpeed: 6t",
+      "size": 102435,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/5a34cbfa-2143-41c2-923a-5caf5ddead36.png",
+      "hash": "7b03fa948847bbf5d966551cf1d0e2d2c7a66fb2514246f0f6fcaf73669ab565"
+    },
+    {
+      "id": "1479038314395734016",
+      "name": "71d72826-c33b-46c6-83c6-4d69b93a4f75.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1479038312948830239/1479038314395734016/71d72826-c33b-46c6-83c6-4d69b93a4f75.jpg?ex=69aa9545&is=69a943c5&hm=2069e95316641111bc9354c7257defc41a767aeb4e9e03ff26d7af263827d590&",
+      "timestamp": 1772700613010,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "ripple hex to binary. In crafters values (up to down) are: 8, 4, 2\nInput: hex number\nOutput: 4b number\nSpeed: 6t",
+      "size": 81475,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/71d72826-c33b-46c6-83c6-4d69b93a4f75.png",
+      "hash": "e9a3df2bbf7efd34e78f8fd251817995c74bfefab1eeba54629d7b60f9760ce0"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479195533602979840",
+      "name": "HEXTOBIN003_vertical_ripple_hex2binary.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1479038312948830239/1479195533602979840/vertical_ripple_hex2binary.schem?ex=69ab27b1&is=69a9d631&hm=196c8c9d6ea82bd35c8376e8179e1c33e7ab9269b3b9f96ac7fc6301af03353c&",
+      "timestamp": 1772738097406,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 798,
+      "canDownload": true,
+      "hash": "1035dded315bcae6f02a87c35db0d791559faa553ee2bb589dffb3752923b83a",
+      "path": "attachments/HEXTOBIN003_vertical_ripple_hex2binary.schem",
+      "schematic": {
+        "size": "9x8x5",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "ripple hex to binary. In crafters values (up to down) are: 8, 4, 2",
+    "input": "hex number",
+    "output": "4b number",
+    "speed": "6t"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1479218672601010196",
+    "forumId": "1472330081488867479",
+    "continuingMessageIds": [
+      "1479218681434214421"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479218672601010196",
+    "uploadMessageId": "1479218669027590407"
+  },
+  "archivedAt": 1772743611739,
+  "updatedAt": 1772743611739,
+  "num_comments": 0
+}

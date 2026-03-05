@@ -39,6 +39,7 @@
     "NUMDISPLAY005",
     "LFF003",
     "DIVIDE005",
-    "ROM002"
+    "ROM002",
+    "HEXTOBIN003"
   ]
 }
