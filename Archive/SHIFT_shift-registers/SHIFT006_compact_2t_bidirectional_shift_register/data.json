@@ -1,0 +1,150 @@
+{
+  "id": "1478722879188369491",
+  "name": "compact 2t bidirectional shift register",
+  "code": "SHIFT006",
+  "reservedCodes": [
+    "SHIFT006"
+  ],
+  "pastPostThreadIds": [
+    "1479218704087777464"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "582215227744190467",
+      "username": "odmen.2159",
+      "displayName": "LiBRoK",
+      "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383101924544569",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1478722879397953708",
+      "name": "2bb1fbbe-6f04-403d-9b77-d50195b16a54.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1478722879188369491/1478722879397953708/2bb1fbbe-6f04-403d-9b77-d50195b16a54.jpg?ex=69a96f7f&is=69a81dff&hm=18b5bf6c4b9251f92e5b2a8e8007d6fff79750e4b58ee864e406b7813eac5711&",
+      "timestamp": 1772625407741,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Shift register with 4 functions: load (magenta), reset (pink), up (yellow), down (orange)\nInputs: 8b number, buttons: load, reset, up, down\nOutput: 8b number\nSpeed: 2t",
+      "size": 113112,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2bb1fbbe-6f04-403d-9b77-d50195b16a54.png",
+      "hash": "63b029af93f90447bfe5f30e93f142ba323e01a9dd65a3829df4b398671f739b"
+    },
+    {
+      "id": "1478722879808864398",
+      "name": "ca5a16e1-3435-4cd4-bbf2-c43d980902f2.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1478722879188369491/1478722879808864398/ca5a16e1-3435-4cd4-bbf2-c43d980902f2.jpg?ex=69a96f7f&is=69a81dff&hm=685ea94e5ad8c57a8233a8c3676decba2e6cdc647e7fee60398446840c4b20be&",
+      "timestamp": 1772625407741,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Shift register with 4 functions: load (magenta), reset (pink), up (yellow), down (orange)\nInputs: 8b number, buttons: load, reset, up, down\nOutput: 8b number\nSpeed: 2t",
+      "size": 108422,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/ca5a16e1-3435-4cd4-bbf2-c43d980902f2.png",
+      "hash": "91870d6875681032216a4807c4752fa8b4c7f3efe667bbe5fb00313dbe5257be"
+    },
+    {
+      "id": "1478722880182419486",
+      "name": "d91c2d86-bb86-47d8-8fd9-170b63a3c747.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1478722879188369491/1478722880182419486/d91c2d86-bb86-47d8-8fd9-170b63a3c747.jpg?ex=69a96f7f&is=69a81dff&hm=bd346e8ae5b8a085705a887e031eb317236c10785503bfc4e944dbc028c58d45&",
+      "timestamp": 1772625407741,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Shift register with 4 functions: load (magenta), reset (pink), up (yellow), down (orange)\nInputs: 8b number, buttons: load, reset, up, down\nOutput: 8b number\nSpeed: 2t",
+      "size": 120487,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/d91c2d86-bb86-47d8-8fd9-170b63a3c747.png",
+      "hash": "49e9d72a7dc6869f3df5d2f3c21518966a255a20a4335d27a3dccbc84bbee2f3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479195277423415407",
+      "name": "SHIFT006_2t_4function_shift_register.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1478722879188369491/1479195277423415407/2t_4function_shift_register.schem?ex=69ab2774&is=69a9d5f4&hm=ecc423a9d3c5c780cfd09bff0202a5222bc6a6fd8e7a5b4fae27a511d0845727&",
+      "timestamp": 1772738036320,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1689,
+      "canDownload": true,
+      "hash": "f394e3db71132a9956f4ab4a9825389061cc20e84d102fc9c910bfac23c71369",
+      "path": "attachments/SHIFT006_2t_4function_shift_register.schem",
+      "schematic": {
+        "size": "10x18x14",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Shift register with 4 functions: load (magenta), reset (pink), up (yellow), down (orange)",
+    "input": "8b number, buttons: load, reset, up, down",
+    "output": "8b number",
+    "speed": "2t"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1479218704087777464",
+    "forumId": "1472329117041954866",
+    "continuingMessageIds": [
+      "1479218711599779931"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479218704087777464",
+    "uploadMessageId": "1479218702665912320"
+  },
+  "archivedAt": 1772743620612,
+  "updatedAt": 1772743620612,
+  "num_comments": 0
+}
