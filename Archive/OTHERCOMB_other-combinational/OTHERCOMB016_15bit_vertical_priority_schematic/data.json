@@ -1,0 +1,161 @@
+{
+  "id": "1476179308627361872",
+  "name": "15bit vertical priority schematic",
+  "code": "OTHERCOMB016",
+  "reservedCodes": [
+    "OTHERCOMB016"
+  ],
+  "pastPostThreadIds": [
+    "1476298202306314261",
+    "1479218567399477281"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "582215227744190467",
+      "username": "odmen.2159",
+      "displayName": "LiBRoK",
+      "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1476179766443769927",
+      "name": "05807897-c503-41d5-8be4-3a2bedd6808a.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476179308627361872/1476179766443769927/05807897-c503-41d5-8be4-3a2bedd6808a.jpg?ex=69a02f0a&is=699edd8a&hm=a832c68f95775caf4a2bf5dc7acf72d6dc6b0deeb60bd757424cc34d777d96c7&",
+      "timestamp": 1772019083078,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 94891,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/05807897-c503-41d5-8be4-3a2bedd6808a.png",
+      "hash": "384344c089ea9a53987e5f664668c383aaaf4b4f30e5e44b883b63a3056f71e1"
+    },
+    {
+      "id": "1476179767505195222",
+      "name": "b11f02d7-5d55-4568-a2ef-49f4e0de145b.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476179308627361872/1476179767505195222/b11f02d7-5d55-4568-a2ef-49f4e0de145b.jpg?ex=69a02f0a&is=699edd8a&hm=648e3d7ec9bd350d6cc9ab319cb15bf2ba395ad78a4d643b4145b2b62ab13b5a&",
+      "timestamp": 1772019083078,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 88825,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/b11f02d7-5d55-4568-a2ef-49f4e0de145b.png",
+      "hash": "b1d908a8106a1b97326238b582a0c89b442131fa4a4d204f0ec2386fc34ab1b0"
+    },
+    {
+      "id": "1476179768381538425",
+      "name": "bb2cb608-5731-4a55-a8ba-467d25193e49.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476179308627361872/1476179768381538425/bb2cb608-5731-4a55-a8ba-467d25193e49.jpg?ex=69a02f0a&is=699edd8a&hm=75b47997612c0c19e8ff7b7511f6b332964e2fe36b8780b586c6d87b0da0da2a&",
+      "timestamp": 1772019083078,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 182813,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/bb2cb608-5731-4a55-a8ba-467d25193e49.png",
+      "hash": "013e38762b7cda465b9a35af608d4a60f5ff6b895789e5d4c91031d057046e5a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479196284920266772",
+      "name": "OTHERCOMB016_15bit_vertical_priority.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1476179308627361872/1479196284920266772/15bit_vertical_priority.schem?ex=69ab2864&is=69a9d6e4&hm=591f5ffcb8fba4e0d1b582d5adf2930819ddd31f196fbc01397d91d5deb92742&",
+      "timestamp": 1772738276564,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 611,
+      "canDownload": true,
+      "hash": "183f98c4b91c5da1b3ae63ef5a43554ef8d360b5c24c31fbcaf2b18359579151",
+      "path": "attachments/OTHERCOMB016_15bit_vertical_priority.schem",
+      "schematic": {
+        "size": "5x16x4",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "vertical priority, with raising priority from top to bottom (bottom has highest)",
+    "input": "15b number (any bits on or off)",
+    "output": "15b number (only 1 bit on or all off)",
+    "speed": "2t"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1479218567399477281",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1479218579982520401"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479218567399477281",
+    "uploadMessageId": "1479218563968667903"
+  },
+  "archivedAt": 1772743587641,
+  "updatedAt": 1772743587641,
+  "num_comments": 0
+}
