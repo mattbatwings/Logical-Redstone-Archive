@@ -1,0 +1,128 @@
+{
+  "id": "1476549582572753059",
+  "name": "7-to-3 observer encoder",
+  "code": "ENCODE006",
+  "reservedCodes": [
+    "ENCODE006"
+  ],
+  "pastPostThreadIds": [
+    "1479225971637751852"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "582215227744190467",
+      "username": "odmen.2159",
+      "displayName": "LiBRoK",
+      "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383090214179053",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1476549583076196453",
+      "name": "546bf21b-3edb-4898-ae37-ab7139626d37.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476549582572753059/1476549583076196453/546bf21b-3edb-4898-ae37-ab7139626d37.jpg?ex=69a18775&is=69a035f5&hm=7e61745cb25254a92e23cd3d2c2e5b17e6b80ac9d94145896c01f3eb517c1d3c&",
+      "timestamp": 1772107253450,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "encoder that impulses for 1t toggled lever's binary code. On the receiver end should be toggleable output\nInputs: 7 levers\nOutput: 3b\nSpeed: 1t",
+      "size": 73477,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/546bf21b-3edb-4898-ae37-ab7139626d37.png",
+      "hash": "d654097aec15db41eda17cb0ee83daddafd96919820fdf4fef0837c2dd4005b3"
+    },
+    {
+      "id": "1476549583931969617",
+      "name": "4804ca56-a641-4136-825e-f8580497fb98.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1476549582572753059/1476549583931969617/4804ca56-a641-4136-825e-f8580497fb98.jpg?ex=69a18775&is=69a035f5&hm=06f5c76fdf6a6df18afe3dfa5f7f5e55d185a81d0048fd92fd1ed2d00252883c&",
+      "timestamp": 1772107253450,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "encoder that impulses for 1t toggled lever's binary code. On the receiver end should be toggleable output\nInputs: 7 levers\nOutput: 3b\nSpeed: 1t",
+      "size": 64546,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/4804ca56-a641-4136-825e-f8580497fb98.png",
+      "hash": "956bebf3274e35cd91d85dd53f3fc37585ea56741b292936b9b965fc2b75159b"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479194143447060540",
+      "name": "ENCODE006_7to3_observer_encoder.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1476549582572753059/1479194143447060540/7to3_observer_encoder.schem?ex=69ab2665&is=69a9d4e5&hm=8d0c5371a9135a48ed83c9bc7a1c48fd84579c911cd50b3e8cb9153ca80e8eb6&",
+      "timestamp": 1772737765960,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 582,
+      "canDownload": true,
+      "hash": "9bba6b097fb97ad9fe00a164a71cb6b830829e5dad81bcb5bbe9f0b03ac5749a",
+      "path": "attachments/ENCODE006_7to3_observer_encoder.schem",
+      "schematic": {
+        "size": "5x5x6",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "encoder that impulses for 1t toggled lever's binary code. On the receiver end should be toggleable output",
+    "input": "7 levers",
+    "output": "3b",
+    "speed": "1t"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1479225971637751852",
+    "forumId": "1472327138215727382",
+    "continuingMessageIds": [
+      "1479225989488967780"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479225971637751852",
+    "uploadMessageId": "1479225969851105321"
+  },
+  "archivedAt": 1772745353157,
+  "updatedAt": 1772745353157,
+  "num_comments": 0
+}
