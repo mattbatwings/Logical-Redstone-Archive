@@ -40,6 +40,7 @@
     "LFF003",
     "DIVIDE005",
     "ROM002",
-    "HEXTOBIN003"
+    "HEXTOBIN003",
+    "BINTOHEX003"
   ]
 }

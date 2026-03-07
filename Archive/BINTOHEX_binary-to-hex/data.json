@@ -4,7 +4,7 @@
   "code": "BINTOHEX",
   "category": "💱 CONVERSION",
   "description": "Devices that convert binary to hexadecimal.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329704739569838",
@@ -15,6 +15,11 @@
       "id": "1472329700624826551",
       "code": "BINTOHEX002",
       "path": "BINTOHEX002_Fast_Binary_to_Hex_2_versions"
+    },
+    {
+      "id": "1479941025135857745",
+      "code": "BINTOHEX003",
+      "path": "BINTOHEX003_5t_vertical_binary_to_hex"
     }
   ]
 }

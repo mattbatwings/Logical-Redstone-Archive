@@ -1,0 +1,116 @@
+{
+  "id": "1479941025135857745",
+  "name": "5t vertical binary to hex",
+  "code": "BINTOHEX003",
+  "reservedCodes": [
+    "BINTOHEX003"
+  ],
+  "pastPostThreadIds": [
+    "1479948792416571565"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "582215227744190467",
+      "username": "odmen.2159",
+      "displayName": "LiBRoK",
+      "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383114952314957",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1479941026272776203",
+      "name": "vertical_binary2hex.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1479941025135857745/1479941026272776203/vertical_binary2hex.png?ex=69adddfc&is=69ac8c7c&hm=4c3f69aebc3533b438c15c3115a2788c4fee465bb17ab743bcf92ca030427ca9&",
+      "timestamp": 1772915836367,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "vertical binary to hex\nInput: 4b number\nOutput: 1 digit pf hex number\nSpeed: 5t",
+      "size": 26978,
+      "canDownload": true,
+      "width": 366,
+      "height": 812,
+      "path": "images/vertical_binary2hex.png",
+      "hash": "c039226f14abddbbcdf8db77d88579a72adc95a71c494964c121fbdb2ec34df9"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1479941121634336809",
+      "name": "BINTOHEX003_vertical_binary2hex.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1479941025135857745/1479941121634336809/vertical_binary2hex.schem?ex=69adde13&is=69ac8c93&hm=19332cba6938866c23ec1acc1e4a38269a10329bbad2928e5c93f7bcd727f34a&",
+      "timestamp": 1772915859459,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "582215227744190467",
+        "username": "odmen.2159",
+        "displayName": "LiBRoK",
+        "iconURL": "https://cdn.discordapp.com/avatars/582215227744190467/a9df407dbb28cb3227dfbef81f7d966b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 974,
+      "canDownload": true,
+      "hash": "845aaa270be650ca151858fd7484c0d95c37af3a7e51fa414226d7b277baa082",
+      "path": "attachments/BINTOHEX003_vertical_binary2hex.schem",
+      "schematic": {
+        "size": "4x9x5",
+        "version": "1.18.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "Vertical binary to hex",
+    "input": "4b number",
+    "output": "1 digit hex number",
+    "speed": "5t"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1479948792416571565",
+    "forumId": "1472330051646390365",
+    "continuingMessageIds": [
+      "1479948802528903280"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1479948792416571565",
+    "uploadMessageId": "1479948789799452682"
+  },
+  "archivedAt": 1772917685912,
+  "updatedAt": 1772917685912,
+  "num_comments": 0
+}
