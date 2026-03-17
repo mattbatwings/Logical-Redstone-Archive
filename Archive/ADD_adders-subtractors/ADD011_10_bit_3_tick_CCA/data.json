@@ -1,0 +1,127 @@
+{
+  "id": "1483545042541871346",
+  "name": "10 bit 3 tick CCA",
+  "code": "ADD011",
+  "reservedCodes": [
+    "ADD011"
+  ],
+  "pastPostThreadIds": [
+    "1483545446176784434"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1483545043502370846",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1483545042541871346/1483545043502370846/image.png?ex=69bafa7d&is=69b9a8fd&hm=43fe3191bf8696070df4e6a2294f3ebdec4fc17ae4c81cefba37f1174db73b89&",
+      "timestamp": 1773775101076,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 382203,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/image.png",
+      "hash": "543df388126b1547ed193ace05af0b16fea46de1d3877ea216d5717a6e71a855"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1483545044278579241",
+      "name": "ADD011_Mixel10bCCA.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1483545042541871346/1483545044278579241/Mixel10bCCA.schem?ex=69bafa7d&is=69b9a8fd&hm=398a432cffb89c01163661b98d3519d6947e8ccd5e9d220c03733802ed1d86bc&",
+      "timestamp": 1773775101076,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2841,
+      "canDownload": true,
+      "hash": "5bad8396bb840996c877229917d69f1b7640dc173b6da75ef9a673f413df4981",
+      "path": "attachments/ADD011_Mixel10bCCA.schem",
+      "schematic": {
+        "size": "11x24x9",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 10 bit CCA with carry-in",
+    "input": "2 10-bit inputs, carry-in",
+    "output": "10-bit output, carry-out",
+    "speed": "3 ticks",
+    "notes": "Uses Don's 3t CCA, inspired by Pippo's 10b CCA (without carry-in)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1483545446176784434",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1483545456683388990"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1483545446176784434",
+    "uploadMessageId": "1483545443576320094",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1483545446176784434/1483545450735861991/image.png?ex=69bafade&is=69b9a95e&hm=fa9472a3ae63db0d9e9dfd844fbcfde1e706b27a25431754100fea20bc757358&"
+  },
+  "archivedAt": 1773775194959,
+  "updatedAt": 1773775194959,
+  "num_comments": 0
+}
