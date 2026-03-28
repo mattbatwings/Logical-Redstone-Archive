@@ -34,8 +34,8 @@
       "type": "discord-in-guild",
       "id": "762007539197411350",
       "username": "stickman_cookies",
-      "displayName": "Stickman",
-      "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp",
+      "displayName": "Stickman"
     }
   ],
   "endorsers": [
@@ -146,6 +146,6 @@
     "uploadMessageId": "1472669696905183314"
   },
   "archivedAt": 1771182215550,
-  "updatedAt": 1771182215550,
+  "updatedAt": 1774722446086,
   "num_comments": 0
 }
