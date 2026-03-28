@@ -1,0 +1,151 @@
+{
+  "id": "1472656513129775205",
+  "name": "Fractional DectoBin Converter",
+  "code": "BCDTOBIN003",
+  "reservedCodes": [
+    "BCDTOBIN003"
+  ],
+  "pastPostThreadIds": [
+    "1472669702164582595",
+    "1487528241144004640"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "698322584810553404",
+      "username": "xoliks",
+      "displayName": "Xoliks",
+      "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "762007539197411350",
+      "username": "stickman_cookies",
+      "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp",
+      "displayName": "Stickman"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383125706244308",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383125706244309",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1487527941037490236",
+      "name": "area_render_44_.png",
+      "url": "https://cdn.discordapp.com/attachments/1472656513129775205/1487527941037490236/area_render_44_.png?ex=69c977da&is=69c8265a&hm=e3ceb452c2e66b0827d8f5ec0dd1a8152557b003b438693ecbe053ecc617f820&",
+      "timestamp": 1774724697245,
+      "author": {
+        "type": "discord-external",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 594,
+      "height": 863,
+      "size": 144985,
+      "path": "images/area_render_44_.png",
+      "hash": "59ec48b7444efbdfe83c7abc5c6bff48b438e5feb4b8cae999bf0587481d8fa3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1487528055449719014",
+      "name": "BCDTOBIN003_Fractional_DectoBin_Converter.schem",
+      "url": "https://cdn.discordapp.com/attachments/1472656513129775205/1487528055449719014/Fractional_DectoBin_Converter.schem?ex=69c977f5&is=69c82675&hm=82f79a53537bcd8d13565d8730a975a506c0c167adcc30c2244b412da67aeb32&",
+      "timestamp": 1774724724543,
+      "author": {
+        "type": "discord-external",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "c167a0b62a2f9feed2541eef3b61c8ba6709e354645fef33146a1814e36bda1e",
+      "path": "attachments/BCDTOBIN003_Fractional_DectoBin_Converter.schem",
+      "size": 3443,
+      "schematic": {
+        "size": "7x18x14",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts a Fractional Decimal number into Binary",
+    "input": "n digit value as ss on the top",
+    "output": "n bit value on the side (MSB at the top)",
+    "speed": "2(d-1)+2(p-1)+3rt, (d = # of digits in input, p = degree of precision or # of binary outputs)",
+    "notes": "Infinitely Expandable (7x4x2 per cell), Infinite precision by adding bits to the output, Uses TTP to remove directionality issues. The speed depends on the output size because some numbers would take infinite time to be converted with infinite precision."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "MSB",
+      "id": "1472457972671184967",
+      "url": "https://discord.com/channels/1361854816837435433/1472457972671184967/1472457973522501653",
+      "matches": [
+        "MSB"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1487528241144004640",
+    "forumId": "1472330151210516531",
+    "continuingMessageIds": [
+      "1487528255430066338"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1487528241144004640",
+    "uploadMessageId": "1487528239118160033",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1487528241144004640/1487528249952047135/area_render_44_.png?ex=69c97823&is=69c826a3&hm=7b1e58b62eac9eced0c73deaeefc8854d389ff21460adeb452ea20a51995437c&"
+  },
+  "archivedAt": 1774724767866,
+  "updatedAt": 1774724767866,
+  "num_comments": 0
+}

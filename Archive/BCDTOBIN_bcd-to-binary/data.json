@@ -10,6 +10,11 @@
       "id": "1472329991915175946",
       "code": "BCDTOBIN001",
       "path": "BCDTOBIN001_8-bit_Sequential_BCD_to_Binary"
+    },
+    {
+      "id": "1472656513129775205",
+      "code": "BCDTOBIN003",
+      "path": "BCDTOBIN003_Fractional_DectoBin_Converter"
     }
   ]
 }
