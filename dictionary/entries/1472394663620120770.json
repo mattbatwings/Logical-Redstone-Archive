@@ -76,6 +76,7 @@
     "DECODE007",
     "OTHERDISPLAY003",
     "ADD011",
-    "BINTOBCD004"
+    "BINTOBCD004",
+    "BCDTOBIN002"
   ]
 }
