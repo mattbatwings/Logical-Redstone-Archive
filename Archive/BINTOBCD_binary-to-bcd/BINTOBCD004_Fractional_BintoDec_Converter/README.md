@@ -1,5 +1,5 @@
 # Fractional BintoDec Converter
-<img alt="FractionalBintoDec.png" src="images/FractionalBintoDec.png?raw=1" height="300px">
+<img alt="area_render_5_.png" src="images/area_render_5_.png?raw=1" height="300px">
 
 **Authors:** *Xoliks, Flyingdean, Uni, Stickman*
 
@@ -15,9 +15,9 @@ n bit value on the side (MSB at the top)
 ## Output
 n digit value as ss on the top
 ## Speed
-4(b-1)+3rt, (b = # of bits in input)
+`3*b` redstone ticks, (b = # of bits in input)
 ## Notes
 Infinitely Expandable (25x4x2 per cell), Infinite precision by adding digits to the output.
 
 ## Resources
-- [BINTOBCD004_Fractional_BintoDec_Converter.schem](attachments/BINTOBCD004_Fractional_BintoDec_Converter.schem): discord
+- [BINTOBCD004_Fractional_BintoDec_Converter.schem](attachments/BINTOBCD004_Fractional_BintoDec_Converter.schem): unknown
