@@ -1,5 +1,5 @@
 # Fractional DectoBin Converter
-<img alt="area_render_44_.png" src="images/area_render_44_.png?raw=1" height="300px">
+<img alt="area_render_5_.png" src="images/area_render_5_.png?raw=1" height="300px">
 
 **Authors:** *Xoliks, Flyingdean, Uni, Stickman*
 
@@ -20,4 +20,4 @@ n bit value on the side (MSB at the top)
 Infinitely Expandable (7x4x2 per cell), Infinite precision by adding bits to the output, Uses TTP to remove directionality issues. The speed depends on the output size because some numbers would take infinite time to be converted with infinite precision.
 
 ## Resources
-- [BCDTOBIN003_Fractional_DectoBin_Converter.schem](attachments/BCDTOBIN003_Fractional_DectoBin_Converter.schem): discord
+- [BCDTOBIN003_Fractional_BintoDec_Converter.schem](attachments/BCDTOBIN003_Fractional_BintoDec_Converter.schem): unknown
