@@ -4,6 +4,12 @@
   "code": "OTHERCPU",
   "category": "🧩 CPU COMPONENTS",
   "description": "Devices that perform other CPU functions.",
-  "currentCodeId": 0,
-  "entries": []
+  "currentCodeId": 1,
+  "entries": [
+    {
+      "id": "1491552398743965896",
+      "code": "OTHERCPU001",
+      "path": "OTHERCPU001_Big_Math_Units"
+    }
+  ]
 }

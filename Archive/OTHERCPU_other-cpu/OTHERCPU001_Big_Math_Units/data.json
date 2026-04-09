@@ -1,0 +1,108 @@
+{
+  "id": "1491552398743965896",
+  "name": "Big Math Units",
+  "code": "OTHERCPU001",
+  "reservedCodes": [
+    "OTHERCPU001"
+  ],
+  "pastPostThreadIds": [
+    "1491664101301289021"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "839911466278322218",
+      "username": "antekcookie",
+      "displayName": "AntekCookie",
+      "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383152873017391",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1491552399138226256",
+      "name": "Big_Math_Units.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1491552398743965896/1491552399138226256/big_math_units.png?ex=69d81beb&is=69d6ca6b&hm=2114beaf919275d646d43342978885a38503b42036cbe3abd1301a23eeb349de&",
+      "timestamp": 1775684203564,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "839911466278322218",
+        "username": "antekcookie",
+        "displayName": "AntekCookie",
+        "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 324006,
+      "canDownload": true,
+      "width": 1000,
+      "height": 870,
+      "path": "images/Big_Math_Units.png",
+      "hash": "07c307ad273ae9473bcf84ff5509fe5a1590f7f374254d3820dccfb3531dcf06"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1491552399452541001",
+      "name": "OTHERCPU001_big_math_units.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1491552398743965896/1491552399452541001/big_math_units.schem?ex=69d81beb&is=69d6ca6b&hm=9a6512a173d0b2a1d561d6b7cb2d1604124f3898b2e7e3db6648c84bb7f9b55c&",
+      "timestamp": 1775684203564,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "839911466278322218",
+        "username": "antekcookie",
+        "displayName": "AntekCookie",
+        "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 9031,
+      "canDownload": true,
+      "hash": "9d2b26be6612ee31e3ad0a264288202d27748f1946b5c7bf8f83795cac4c7036",
+      "path": "attachments/OTHERCPU001_big_math_units.schem",
+      "schematic": {
+        "size": "33x28x37",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Performs one of the selected operations: Multiplication, Division, Square, Square Root, Modulo",
+    "input": "Numbers 8b A and 8b B, Start calculating, Multiply, Divide, Modulo, Square, Square Root",
+    "output": "8b value, Finished calculating",
+    "speed": "Division and Modulo 112rt, Multiplication and Square 76rt, Square root 127rt",
+    "notes": "Make sure only one operation is selected"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1491664101301289021",
+    "forumId": "1472375461345493093",
+    "continuingMessageIds": [
+      "1491664116446662768"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1491664101301289021",
+    "uploadMessageId": "1491664099275182260",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1491664101301289021/1491664108754305246/Big_Math_Units.png?ex=69d883f5&is=69d73275&hm=7655642d37143f5efa53519f99c59379af97e93f96ccf4eab7c86da2023de3b7&"
+  },
+  "archivedAt": 1775710834182,
+  "updatedAt": 1775710834182,
+  "num_comments": 0
+}
