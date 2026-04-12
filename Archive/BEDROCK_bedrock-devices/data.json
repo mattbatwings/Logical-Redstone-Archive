@@ -4,7 +4,7 @@
   "code": "BEDROCK",
   "category": "🎮 BEDROCK",
   "description": "Devices compatible with Minecraft Bedrock Edition.",
-  "currentCodeId": 7,
+  "currentCodeId": 8,
   "entries": [
     {
       "id": "1473714033516613773",
@@ -40,6 +40,11 @@
       "id": "1491738199050158251",
       "code": "BEDROCK007",
       "path": "BEDROCK007_Bedrock_RCA"
+    },
+    {
+      "id": "1491776580039610388",
+      "code": "BEDROCK008",
+      "path": "BEDROCK008_Subtractor"
     }
   ]
 }

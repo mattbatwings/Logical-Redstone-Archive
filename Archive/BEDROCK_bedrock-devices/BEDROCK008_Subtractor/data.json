@@ -1,0 +1,142 @@
+{
+  "id": "1491776580039610388",
+  "name": "Subtractor",
+  "code": "BEDROCK008",
+  "reservedCodes": [
+    "BEDROCK008"
+  ],
+  "pastPostThreadIds": [
+    "1492816673600831618"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1408856490927722616",
+      "username": "presleypoon",
+      "displayName": "Presley",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383154760454324",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1491776580857364634",
+      "name": "Subtractor_one_that_dont_work.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1491776580039610388/1491776580857364634/Screenshot_2026-04-09_132649.png?ex=69d8ecb4&is=69d79b34&hm=8c9bf73ae1e1ef99c166ce1a89f3326c3fc48da18757f8201cd168170cd38de2&",
+      "timestamp": 1775737652550,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "This is faulty, delete this pls",
+      "size": 30783,
+      "canDownload": true,
+      "width": 481,
+      "height": 607,
+      "path": "images/Subtractor_one_that_dont_work.png",
+      "hash": "1d9cbd99aaa8d64411720beac8c13a8857a6dc5dbc70862ae9050c77ed353066"
+    },
+    {
+      "id": "1491776581205754047",
+      "name": "Subtractor.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1491776580039610388/1491776581205754047/Screenshot_2026-04-09_132706.png?ex=69d8ecb4&is=69d79b34&hm=84c4a7f74f33e0a54aa49e357052864618218e8734b2eaeeb69339fe2366c6eb&",
+      "timestamp": 1775737652550,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "input: front, output: right",
+      "size": 35930,
+      "canDownload": true,
+      "width": 531,
+      "height": 552,
+      "path": "images/Subtractor.png",
+      "hash": "09e4ca128ae814ee3b1fcd41ad527f0b6688df3bfc7e503c01122e6b8a16acce"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1491776580249194616",
+      "name": "BEDROCK008_Subtractor.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1491776580039610388/1491776580249194616/Subtractor_FL.mcstructure?ex=69d8ecb4&is=69d79b34&hm=472f74942581df6c4248c3c8e0bddb77446230b4362850bb68c72832b39653fb&",
+      "timestamp": 1775737652550,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "input: front, output: right",
+      "size": 42616,
+      "canDownload": true,
+      "hash": "c981e2666a6e6242703fda6fd898a9da81b006d15528f3b9e9dfcc042d01eb8e",
+      "path": "attachments/BEDROCK008_Subtractor.mcstructure"
+    },
+    {
+      "id": "1491776580509368500",
+      "name": "BEDROCK008_Subtractor_one_that_dont_work.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1491776580039610388/1491776580509368500/Subtractor_FR.mcstructure?ex=69d8ecb4&is=69d79b34&hm=67b1eff870e0a54c3b4d866193bd0585f6b527a57ad4d650905416e1dc678693&",
+      "timestamp": 1775737652550,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "I uploaded it but didn't notice it is faulty, someone can delete this",
+      "size": 33949,
+      "canDownload": true,
+      "hash": "d392e498b166788e8e60af144a85199c8a4af759327675eed4cb8288f0be5545",
+      "path": "attachments/BEDROCK008_Subtractor_one_that_dont_work.mcstructure"
+    }
+  ],
+  "records": {
+    "description": "uses my CCA to do subtraction"
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1492816673600831618",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1492816688024916030"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1492816673600831618",
+    "uploadMessageId": "1492816671662932039",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1492816673600831618/1492816683184947291/Subtractor_one_that_dont_work.png?ex=69dcb560&is=69db63e0&hm=cd39151b505ceb1ca45b2c1d8849fe2d25d0cd24d9b037c1258690fda85398a7&"
+  },
+  "archivedAt": 1775985627461,
+  "updatedAt": 1775985627461,
+  "num_comments": 0
+}
