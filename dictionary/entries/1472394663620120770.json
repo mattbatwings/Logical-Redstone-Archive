@@ -78,6 +78,7 @@
     "ADD011",
     "BINTOBCD004",
     "BCDTOBIN002",
-    "BEDROCK005"
+    "BEDROCK005",
+    "BEDROCK006"
   ]
 }

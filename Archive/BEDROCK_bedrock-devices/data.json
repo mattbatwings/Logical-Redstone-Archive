@@ -4,7 +4,7 @@
   "code": "BEDROCK",
   "category": "🎮 BEDROCK",
   "description": "Devices compatible with Minecraft Bedrock Edition.",
-  "currentCodeId": 5,
+  "currentCodeId": 6,
   "entries": [
     {
       "id": "1473714033516613773",
@@ -30,6 +30,11 @@
       "id": "1491777535036358686",
       "code": "BEDROCK005",
       "path": "BEDROCK005_Multiplier"
+    },
+    {
+      "id": "1491770624673316884",
+      "code": "BEDROCK006",
+      "path": "BEDROCK006_Bedrock_8_bit_CCA"
     }
   ]
 }
