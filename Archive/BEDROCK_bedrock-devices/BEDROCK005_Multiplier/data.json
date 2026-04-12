@@ -1,0 +1,120 @@
+{
+  "id": "1491777535036358686",
+  "name": "Multiplier",
+  "code": "BEDROCK005",
+  "reservedCodes": [
+    "BEDROCK005"
+  ],
+  "pastPostThreadIds": [
+    "1492816536048500848"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1408856490927722616",
+      "username": "presleypoon",
+      "displayName": "Presley",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383154760454324",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1491777535628017736",
+      "name": "Multiplier.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1491777535036358686/1491777535628017736/Screenshot_2026-04-09_133108.png?ex=69d8ed98&is=69d79c18&hm=4330b89839e038e55acbb5ae339e898880561753d33a0b20620c11dcdc48d137&",
+      "timestamp": 1775737880239,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 41675,
+      "canDownload": true,
+      "width": 524,
+      "height": 528,
+      "path": "images/Multiplier.png",
+      "hash": "6cad2b7fc8b24412f252de9fb161e4947862112e5066dce03e79c90113c64c90"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1491777535124443297",
+      "name": "BEDROCK005_Multiplier.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1491777535036358686/1491777535124443297/Multiplier.mcstructure?ex=69d8ed98&is=69d79c18&hm=d836596eafcf6eec059f7056547877193478a86bd75f8394e4d3180898ad1c14&",
+      "timestamp": 1775737880239,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 132259,
+      "canDownload": true,
+      "hash": "8a11875654a768f7f7337da3d0feefb56752e21b4b0ba87e015feec4a3d8f9da",
+      "path": "attachments/BEDROCK005_Multiplier.mcstructure"
+    }
+  ],
+  "records": {
+    "description": "4 bit x 4 bit",
+    "notes": "Haven't counted ticks yet"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1492816536048500848",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1492816555359080448"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1492816536048500848",
+    "uploadMessageId": "1492816533552894054",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1492816536048500848/1492816543036477553/Multiplier.png?ex=69dcb53f&is=69db63bf&hm=5a7587dab9a048c881d8c8a134e016f8661b33e208b763c5db341554edb829dd&"
+  },
+  "archivedAt": 1775985593966,
+  "updatedAt": 1775985593966,
+  "num_comments": 0
+}
