@@ -1,0 +1,111 @@
+{
+  "id": "1491738199050158251",
+  "name": "Bedrock RCA",
+  "code": "BEDROCK007",
+  "reservedCodes": [
+    "BEDROCK007"
+  ],
+  "pastPostThreadIds": [
+    "1492816631963979776"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1408856490927722616",
+      "username": "presleypoon",
+      "displayName": "Presley",
+      "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383154760454324",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1491738199238643804",
+      "name": "RCA_Screenshot.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1491738199050158251/1491738199238643804/Screenshot_2026-04-09_105253.png?ex=69d8c8f5&is=69d77775&hm=747aa45322cda88dc5ad854e211da4d7f8e954bfa8ffe4224b71956827e20bd6&",
+      "timestamp": 1775728501809,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "RCA screenshot from a structure block",
+      "size": 37519,
+      "canDownload": true,
+      "width": 392,
+      "height": 599,
+      "path": "images/RCA_Screenshot.png",
+      "hash": "a3fbf04a4514f50e531227955add20304b442a4691556f7c03663fcad43e2c25"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1491738199507341322",
+      "name": "BEDROCK007_RCA.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1491738199050158251/1491738199507341322/RCA.mcstructure?ex=69d8c8f5&is=69d77775&hm=77253d60677a96a9d606a8875e6e4274d4d1e0bd09c522421657c7f2c9dec6dc&",
+      "timestamp": 1775728501809,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1408856490927722616",
+        "username": "presleypoon",
+        "displayName": "Presley",
+        "iconURL": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "source": "MessageAttachment",
+      "description": "Ripple Carry Adder",
+      "size": 75542,
+      "canDownload": true,
+      "hash": "3ebccb448639daf74f3d9e8683bc5c60f4abeb65872f8fdcfcd9351555d615ac",
+      "path": "attachments/BEDROCK007_RCA.mcstructure"
+    }
+  ],
+  "records": {
+    "description": "Ripple Carry Adder, infinity expandible",
+    "speed": "6 tick / layer (carry) & 3 tick to calc result after carry"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1492816631963979776",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1492816641954807851"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1492816631963979776",
+    "uploadMessageId": "1492816629296533565",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1492816631963979776/1492816637009592350/RCA_Screenshot.png?ex=69dcb555&is=69db63d5&hm=90faf0df500e0e7a1f812d50f1883d89b588367425ce408987b7237611e8f9de&"
+  },
+  "archivedAt": 1775985618233,
+  "updatedAt": 1775985618233,
+  "num_comments": 0
+}
