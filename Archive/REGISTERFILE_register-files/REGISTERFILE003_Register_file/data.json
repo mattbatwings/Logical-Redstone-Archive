@@ -1,0 +1,119 @@
+{
+  "id": "1478160822223241246",
+  "name": "Register file",
+  "code": "REGISTERFILE003",
+  "reservedCodes": [
+    "REGISTERFILE003"
+  ],
+  "pastPostThreadIds": [
+    "1493552016100687892"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1019226846115663882",
+      "username": "igorhah4",
+      "displayName": "Fayoumi",
+      "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383147936317670",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1493374049412452563",
+      "name": "Screenshot_2026-04-13-19-14-43-992_com.mojang.opticrafticf.png",
+      "contentType": "image/jpeg",
+      "url": "https://cdn.discordapp.com/attachments/1478160822223241246/1493374049412452563/Screenshot_2026-04-13-19-14-43-992_com.mojang.opticrafticf.jpg?ex=69debc76&is=69dd6af6&hm=1bf671560d2746441699f503ad55ab6c3fb7ef625fb9a8a0dacaf167be024fe9&",
+      "timestamp": 1776118519042,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1019226846115663882",
+        "username": "igorhah4",
+        "displayName": "Fayoumi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 189094,
+      "canDownload": true,
+      "width": 1200,
+      "height": 540,
+      "path": "images/Screenshot_2026-04-13-19-14-43-992_com.mojang.opticrafticf.png",
+      "hash": "0fb4a1c47132993f3430800354e5e8baad4df30bc863acfb0ab2fbed0e870990"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1493001027023143033",
+      "name": "REGISTERFILE003_REG_FILE.mcstructure",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1478160822223241246/1493001027023143033/REG_FILE.mcstructure?ex=69de09cf&is=69dcb84f&hm=45dc9f6dcbd1b823152965bf662b819bad6359e969e65de7e2457f43dd9814e8&",
+      "timestamp": 1776029583522,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1019226846115663882",
+        "username": "igorhah4",
+        "displayName": "Fayoumi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Reg file que poder ser adaptado para ram",
+      "size": 51021,
+      "canDownload": true,
+      "hash": "2306853d95329f84cc0e83ba768095f9f3cd7eb75625bf4a68c2f292e1400213",
+      "path": "attachments/REGISTERFILE003_REG_FILE.mcstructure"
+    }
+  ],
+  "records": {
+    "description": "Register file 8 bits in bedrock"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Register file",
+      "id": "1472388697826656417",
+      "url": "https://discord.com/channels/1361854816837435433/1472388697826656417/1472388698602737674",
+      "matches": [
+        "Register file"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1493552016100687892",
+    "forumId": "1472331518817992704",
+    "continuingMessageIds": [
+      "1493552027266187264"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1493552016100687892",
+    "uploadMessageId": "1493552014100140052",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1493552016100687892/1493552020416761936/Screenshot_2026-04-13-19-14-43-992_com.mojang.opticrafticf.png?ex=69df6236&is=69de10b6&hm=8ba56567a57742c617732adb7832f3ef8fb6cfdd43f281cec5e8d56b26ea304a&"
+  },
+  "archivedAt": 1776160945780,
+  "updatedAt": 1776160945780,
+  "num_comments": 0
+}
