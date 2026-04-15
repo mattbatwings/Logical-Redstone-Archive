@@ -1,0 +1,108 @@
+{
+  "id": "1493712201364668426",
+  "name": "Subtrator 6 ticks",
+  "code": "BEDROCK009",
+  "reservedCodes": [
+    "BEDROCK009"
+  ],
+  "pastPostThreadIds": [
+    "1494005742385234221"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1019226846115663882",
+      "username": "igorhah4",
+      "displayName": "Fayoumi",
+      "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383154760454324",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1493712351831261374",
+      "name": "Screenshot_2026-04-14-17-34-26-292_com.mojang.opticrafticf.png",
+      "url": "https://cdn.discordapp.com/attachments/1493712201364668426/1493712351831261374/Screenshot_2026-04-14-17-34-26-292_com.mojang.opticrafticf.jpg?ex=69dff788&is=69dea608&hm=ac0ec651beff0410aa8cfe8939f294b2a468adf976b8e1def0b57ce92c32f41a&",
+      "timestamp": 1776199175729,
+      "author": {
+        "type": "discord-external",
+        "id": "1019226846115663882",
+        "username": "igorhah4",
+        "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/jpeg",
+      "canDownload": true,
+      "width": 1200,
+      "height": 540,
+      "size": 39245,
+      "path": "images/Screenshot_2026-04-14-17-34-26-292_com.mojang.opticrafticf.png",
+      "hash": "1c448b4d59dc5f989b8e6969f71b4ccbcf5e93f8d5dbde5f40c12dcdcda9dceb"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1493712445762572398",
+      "name": "BEDROCK009_SUB_.mcstructure",
+      "url": "https://cdn.discordapp.com/attachments/1493712201364668426/1493712445762572398/SUB_.mcstructure?ex=69dff79e&is=69dea61e&hm=083384fe794605056bffc2ce3380732257f25d0505f63e2d83209810063962e6&",
+      "timestamp": 1776199198271,
+      "author": {
+        "type": "discord-external",
+        "id": "1019226846115663882",
+        "username": "igorhah4",
+        "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "91948f4844523d786a7fa5c46287e17f3bcef0cee8d0d3aa82806d7f87282009",
+      "path": "attachments/BEDROCK009_SUB_.mcstructure",
+      "size": 17440
+    }
+  ],
+  "records": {
+    "description": "subtrator 6 ticks for bedrock"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1494005742385234221",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1494005762756841632"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1494005742385234221",
+    "uploadMessageId": "1494005720482578654",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1494005742385234221/1494005747225333770/Screenshot_2026-04-14-17-34-26-292_com.mojang.opticrafticf.png?ex=69e108c7&is=69dfb747&hm=5b77efb32d2ab1902f526914135b376d77cf77a378d7d0994575af360bf3510e&"
+  },
+  "archivedAt": 1776269119289,
+  "updatedAt": 1776269119289,
+  "num_comments": 0
+}
