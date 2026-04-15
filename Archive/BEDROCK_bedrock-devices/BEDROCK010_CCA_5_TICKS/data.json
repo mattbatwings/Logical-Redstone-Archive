@@ -1,0 +1,108 @@
+{
+  "id": "1493711489385758983",
+  "name": "CCA 5 TICKS",
+  "code": "BEDROCK010",
+  "reservedCodes": [
+    "BEDROCK010"
+  ],
+  "pastPostThreadIds": [
+    "1494005798794301500"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1019226846115663882",
+      "username": "igorhah4",
+      "displayName": "Fayoumi",
+      "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383154760454324",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1493711690561224784",
+      "name": "Screenshot_2026-04-14-17-32-02-822_com.mojang.opticrafticf.png",
+      "url": "https://cdn.discordapp.com/attachments/1493711489385758983/1493711690561224784/Screenshot_2026-04-14-17-32-02-822_com.mojang.opticrafticf.jpg?ex=69dff6ea&is=69dea56a&hm=9b3990c60020346e7162c7f14ce9912f7d68a1fd4051a8e23c93f823ba8c0dbc&",
+      "timestamp": 1776199018001,
+      "author": {
+        "type": "discord-external",
+        "id": "1019226846115663882",
+        "username": "igorhah4",
+        "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/jpeg",
+      "canDownload": true,
+      "width": 1200,
+      "height": 540,
+      "size": 24975,
+      "path": "images/Screenshot_2026-04-14-17-32-02-822_com.mojang.opticrafticf.png",
+      "hash": "fa365e12a9ecd3ac8149723b0372ed07736c3bb3d8d3f997c83ae4c65c841636"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1493711781053599956",
+      "name": "BEDROCK010_CCA.mcstructure",
+      "url": "https://cdn.discordapp.com/attachments/1493711489385758983/1493711781053599956/CCA.mcstructure?ex=69dff700&is=69dea580&hm=38ad71a3c4088f85e4d58c876fba4ae104a1736f2b811c68c0dc63b43919be75&",
+      "timestamp": 1776199038373,
+      "author": {
+        "type": "discord-external",
+        "id": "1019226846115663882",
+        "username": "igorhah4",
+        "iconURL": "https://cdn.discordapp.com/avatars/1019226846115663882/1125e38fdb240bd39252de76082e05e5.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "c01b3427851cd3f92d27b1afbf49e16f657f40644cb3a0aff43af5baff07598d",
+      "path": "attachments/BEDROCK010_CCA.mcstructure",
+      "size": 16355
+    }
+  ],
+  "records": {
+    "description": "C.C.A. 5 ticks for bedrock"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1494005798794301500",
+    "forumId": "1472382816074338456",
+    "continuingMessageIds": [
+      "1494005811276419088"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1494005798794301500",
+    "uploadMessageId": "1494005796596482189",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1494005798794301500/1494005801726251118/Screenshot_2026-04-14-17-32-02-822_com.mojang.opticrafticf.png?ex=69e108d4&is=69dfb754&hm=69b57669e8372e1f12a477d1f9ce31bb052478b25abd5d88756d190b2f47162f&"
+  },
+  "archivedAt": 1776269138022,
+  "updatedAt": 1776269138022,
+  "num_comments": 0
+}
