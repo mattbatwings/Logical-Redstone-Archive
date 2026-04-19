@@ -1,0 +1,127 @@
+{
+  "id": "1495457799839420548",
+  "name": "32 bit Hex Comparator",
+  "code": "OTHERCOMB018",
+  "reservedCodes": [
+    "OTHERCOMB018"
+  ],
+  "pastPostThreadIds": [
+    "1495474063286603948"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "839911466278322218",
+      "username": "antekcookie",
+      "displayName": "AntekCookie",
+      "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1495457800086753570",
+      "name": "Hex_Comparator.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1495457799839420548/1495457800086753570/hex_comparator.png?ex=69e6511b&is=69e4ff9b&hm=e29a8e1c72d97e291b5af65861cf7912cded5027d2544014d70a84063d352427&",
+      "timestamp": 1776615323744,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "839911466278322218",
+        "username": "antekcookie",
+        "displayName": "AntekCookie",
+        "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 146074,
+      "canDownload": true,
+      "width": 610,
+      "height": 1000,
+      "path": "images/Hex_Comparator.png",
+      "hash": "8b3fe6e5f9da619af5f91936654f1062313aba9c1998ad29fd48efe21fb9b301"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1495457800443265195",
+      "name": "OTHERCOMB018_32bit_hex_comparator.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1495457799839420548/1495457800443265195/32bit_hex_comparator.schem?ex=69e6511b&is=69e4ff9b&hm=bab448118892f2408282771797b71fdb8b5c1ae4857b84fa9bb788c7a8c9d2bc&",
+      "timestamp": 1776615323744,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "839911466278322218",
+        "username": "antekcookie",
+        "displayName": "AntekCookie",
+        "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1240,
+      "canDownload": true,
+      "hash": "cb0aaec2e6ce9d3c3ed4c4c47dd86b4eb53a9d7e350a8cf906cb6e9d1f264664",
+      "path": "attachments/OTHERCOMB018_32bit_hex_comparator.schem",
+      "schematic": {
+        "size": "5x17x16",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Compares two 32 bit hex values and decides whether they are A < B, A > B or A = B",
+    "input": "32b input A, 32b input B",
+    "output": "3 flags: A < B, A > B, A = B",
+    "speed": "10rt",
+    "notes": "none"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1495474063286603948",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1495474075064340653"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1495474063286603948",
+    "uploadMessageId": "1495474060325556255",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1495474063286603948/1495474070693744660/Hex_Comparator.png?ex=69e66043&is=69e50ec3&hm=4fd5b1fc139841730b0d77758094f4ef8fee07ecb534c3ef2b851cc935275855&"
+  },
+  "archivedAt": 1776619198362,
+  "updatedAt": 1776619198362,
+  "num_comments": 0
+}
