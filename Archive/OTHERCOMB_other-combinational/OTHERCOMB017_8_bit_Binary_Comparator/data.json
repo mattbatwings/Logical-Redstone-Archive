@@ -1,0 +1,118 @@
+{
+  "id": "1495455807821582507",
+  "name": "8 bit Binary Comparator",
+  "code": "OTHERCOMB017",
+  "reservedCodes": [
+    "OTHERCOMB017"
+  ],
+  "pastPostThreadIds": [
+    "1495461386799546368"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "839911466278322218",
+      "username": "antekcookie",
+      "displayName": "AntekCookie",
+      "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1495455808455049467",
+      "name": "Binary_Comparator.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1495455807821582507/1495455808455049467/binary_comparator.png?ex=69e64f40&is=69e4fdc0&hm=1bcc65bc453563f0fc4b2d1993a4128f69ca40d3d3c2f8ee3541888efb4a6170&",
+      "timestamp": 1776614848810,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "839911466278322218",
+        "username": "antekcookie",
+        "displayName": "AntekCookie",
+        "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 126124,
+      "canDownload": true,
+      "width": 509,
+      "height": 1000,
+      "path": "images/Binary_Comparator.png",
+      "hash": "0ff72b8c3c83f1d03981dc91395371b9a366febf3d195632403cb74ace00e7b1"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1495455809826717869",
+      "name": "OTHERCOMB017_8bit_binary_comparator.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1495455807821582507/1495455809826717869/8bit_binary_comparator.schem?ex=69e64f41&is=69e4fdc1&hm=8f0434ecddc866454ba1feb6fd8f2fa98cecf49648848461c17006cca3835e91&",
+      "timestamp": 1776614848810,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "839911466278322218",
+        "username": "antekcookie",
+        "displayName": "AntekCookie",
+        "iconURL": "https://cdn.discordapp.com/avatars/839911466278322218/c6ab6da79dd7faf05f8959a55ae608a4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 1070,
+      "canDownload": true,
+      "hash": "92d44580dc1539903b56ad08a8b1be89d70de602328d5fe36ef589743c3a3db3",
+      "path": "attachments/OTHERCOMB017_8bit_binary_comparator.schem",
+      "schematic": {
+        "size": "5x17x12",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Compares two 8 bit binary values and decides whether they are A < B, A > B or A = B",
+    "input": "8b input A, 8b input B",
+    "output": "3 flags: A < B, A > B, A = B",
+    "speed": "8rt",
+    "notes": "none"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1495461386799546368",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1495461397000360189"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1495461386799546368",
+    "uploadMessageId": "1495461383330857050",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1495461386799546368/1495461392411791420/Binary_Comparator.png?ex=69e65474&is=69e502f4&hm=c525c97de49d62d1111f3a4125357f270b68387ff6e01267dd95b6eb5e894e67&"
+  },
+  "archivedAt": 1776616176388,
+  "updatedAt": 1776616176388,
+  "num_comments": 0
+}
