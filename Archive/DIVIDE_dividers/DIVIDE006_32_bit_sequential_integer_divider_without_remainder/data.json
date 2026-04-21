@@ -1,0 +1,129 @@
+{
+  "id": "1496190616587993128",
+  "name": "32 bit sequential (integer) divider without remainder",
+  "code": "DIVIDE006",
+  "reservedCodes": [
+    "DIVIDE006"
+  ],
+  "pastPostThreadIds": [
+    "1496205151743119451"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168811",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1496190617380851823",
+      "name": "2026-04-21_18.33.39.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1496190616587993128/1496190617380851823/2026-04-21_18.33.39.png?ex=69e8fb99&is=69e7aa19&hm=84b66c956194a07cbc74e5242284b2b65a704fa4970543ba7c1cac3d0ba8221f&",
+      "timestamp": 1776790040872,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 106769,
+      "canDownload": true,
+      "width": 1200,
+      "height": 750,
+      "path": "images/2026-04-21_18.33.39.png",
+      "hash": "000338369ef3ab4b719d1a1da8466bc95d230907b44bf7adf59ba414bb006c3e"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1496190617989021907",
+      "name": "DIVIDE006_32bitdivider.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496190616587993128/1496190617989021907/32bitdivider.schem?ex=69e8fb99&is=69e7aa19&hm=f26aabe6dddfe433ada0ec55ef0518968d6f6adc29465fa879a7ba835dc67b38&",
+      "timestamp": 1776790040872,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11550,
+      "canDownload": true,
+      "hash": "d5b26fb024410b53d045280650d6782604547de53f19900adfaabc44217edc2d",
+      "path": "attachments/DIVIDE006_32bitdivider.schem",
+      "schematic": {
+        "size": "22x71x19",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "32 bit sequential divider. Takes in two numbers A (max. 32 bit) and B (max. 31 bit) and computes A // B, i.e. the integer part of A divided by B. For example, dividing 7 by 2 returns 3. It uses non-restoring division, so B can only be 31 bit at most.",
+    "input": "two numbers A (max. 32 bit) and B (max. 31 bit)",
+    "output": "A // B, i.e. the integer part of A divided by B",
+    "speed": "It takes 32 cycles on a 11t clock, so 11t * 32 = 352t = 35.2 seconds, no matter what the inputs are.",
+    "considerations": [
+      "The remainder can technically be recovered as well, but sometimes one would have to perform an additional restoring step at the end, so do another addition, but I didnt see a nice way to do this."
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1496205151743119451",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1496205161452929054"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1496205151743119451",
+    "uploadMessageId": "1496205149612277962",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1496205151743119451/1496205155165540353/2026-04-21_18.33.39.png?ex=69e90923&is=69e7b7a3&hm=68f039eac3bdc6ff0aee3d9556eb88aa2eea6c5fbd21baf9b5e26f7fcd869e1f&"
+  },
+  "archivedAt": 1776793503917,
+  "updatedAt": 1776793503917,
+  "num_comments": 0
+}
