@@ -1,0 +1,126 @@
+{
+  "id": "1496067103973838998",
+  "name": "32 bit multiplier",
+  "code": "MULTIPY005",
+  "reservedCodes": [
+    "MULTIPY005"
+  ],
+  "pastPostThreadIds": [
+    "1496185798431739984"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1496067104330223646",
+      "name": "2026-04-21_10.22.16.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1496067103973838998/1496067104330223646/2026-04-21_10.22.16.png?ex=69e88891&is=69e73711&hm=a4fe7cb28118a831ecb953285e81d5c49a29b71c95de126bec9a96eb7ae1da2f&",
+      "timestamp": 1776760593170,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 342190,
+      "canDownload": true,
+      "width": 1200,
+      "height": 750,
+      "path": "images/2026-04-21_10.22.16.png",
+      "hash": "a80ae9287135cac7833135ffc2bbffd1079fd15e626ef03a0ccb527c1903aee3"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1496067104703512638",
+      "name": "MULTIPY005_16bitmult.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1496067103973838998/1496067104703512638/16bitmult.schem?ex=69e88891&is=69e73711&hm=73548f9c6753401585a9974c410ae424c1a0affd7496ff6c105a8d5cab18d0a5&",
+      "timestamp": 1776760593170,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 4767,
+      "canDownload": true,
+      "hash": "05046ca8b696e6579d1f1f90794761d67e9c6c7883fcff60d708e6107a0009a9",
+      "path": "attachments/MULTIPY005_16bitmult.schem",
+      "schematic": {
+        "size": "18x68x8",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "32 bit sequential multiplier, which allows for inputs of up to 32 bits. Note that its maximal output is 33 bit, so in order to ensure that the result is correct, the inputs should not be too large. Example: if A and B are both 16 bit or less, it works without problems. If A is e.g. 28 bit and B is 5 bit, it still works since the result is 33 bit. If A is 28 bit and B is 6 bit however the result will be wrong since it would be 34 bit. This uses the standard shift-and-add algorithm. The adder design that is used is the 3t CCA design by Amino.",
+    "input": "Two binary numbers A,B, can both be 32 bit, but want bit-length(A) + bit-length(B) <= 33 in order to ensure correct result",
+    "output": "33 bit binary product",
+    "speed": "4t per bit of B, plus additional 2t for every 8 bits of B"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Sequential",
+      "id": "1472379060658245824",
+      "url": "https://discord.com/channels/1361854816837435433/1472379060658245824/1472379061555953840",
+      "matches": [
+        "sequential"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1496185798431739984",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1496185809068622056"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1496185798431739984",
+    "uploadMessageId": "1496185792068849684",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1496185798431739984/1496185803099865159/2026-04-21_10.22.16.png?ex=69e8f71d&is=69e7a59d&hm=6da26729435188118306144859a89526562c4ce9c88c3c9e8e3c1533b6d1a236&"
+  },
+  "archivedAt": 1776788888095,
+  "updatedAt": 1776788888095,
+  "num_comments": 0
+}
