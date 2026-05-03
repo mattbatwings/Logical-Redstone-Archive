@@ -1,0 +1,117 @@
+{
+  "id": "1500414258213556234",
+  "name": "32 bit sequential (integer) divider",
+  "code": "DIVIDE007",
+  "reservedCodes": [
+    "DIVIDE007"
+  ],
+  "pastPostThreadIds": [
+    "1500422095551725629"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168811",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1500414258675187812",
+      "name": "2026-05-03_10.05.09.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1500414258213556234/1500414258675187812/2026-05-03_10.05.09.png?ex=69f8592b&is=69f707ab&hm=1f9a9b25093babe6a25b665db429221a8f0d2b96a808a1954b2eae0ad3b02ed9&",
+      "timestamp": 1777797035507,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 123165,
+      "canDownload": true,
+      "width": 1200,
+      "height": 750,
+      "path": "images/2026-05-03_10.05.09.png",
+      "hash": "b07c0f7ddde7de037b885a2e1befafc2e4a2d8b104efc35946bf62c453c8d2b4"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1500415689754935356",
+      "name": "DIVIDE007_32bitdiv.schem",
+      "url": "https://cdn.discordapp.com/attachments/1500414258213556234/1500415689754935356/32bitdiv.schem?ex=69f85a80&is=69f70900&hm=0bbe76b6cc07e108209f4dc54379e6fa281cc541ea55be14fe5db92c256878ef&",
+      "timestamp": 1777797375928,
+      "author": {
+        "type": "discord-external",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "b066095c585a45a10c89c5edc80f4af6aa67615d8e34d741d4234d66a1069d28",
+      "path": "attachments/DIVIDE007_32bitdiv.schem",
+      "size": 11380,
+      "schematic": {
+        "size": "21x69x20",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Takes in two binary numbers A (max. 32 bit) and B (max. 31 bit) and returns A // B, A % B, i.e. computes the integer part of A / B and the remainder. It performs non-restoring division, so in every iteration we compute both AQ+B and AQ-B (where AQ is the number stored in the accumulator.), and the sign of the previous iteration decides what result we pick.",
+    "input": "two binary numbers A (max. 32 bit) and B (max. 31 bit)",
+    "output": "A // B, A % B",
+    "speed": "Takes in total roughly 40 seconds from pressing the \"clock\" button to showing the result.  It takes 11t per bit, so 11t * 32 = 352t = 35.2 seconds, then it does the restoring step, plus additional input & output delays.",
+    "notes": "The adder design that is used is Amino's 3t CCA. This is a modification of my previous design that did not show the remainder, I added the gray circuits and also compacted the control logic a bit. When pasting the schematic, you should probably press the \"clock\" button once, to make sure everything is correctly resetted."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1500422095551725629",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1500422105093767240"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1500422095551725629",
+    "uploadMessageId": "1500422093706367087",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1500422095551725629/1500422099137986670/2026-05-03_10.05.09.png?ex=69f86078&is=69f70ef8&hm=6e5272e0dbcf618054120580c88c4f15a8befe822966ed4cdef94364ce8c5f06&"
+  },
+  "archivedAt": 1777798901918,
+  "updatedAt": 1777798901918,
+  "num_comments": 0
+}
