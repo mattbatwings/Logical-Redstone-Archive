@@ -1,0 +1,122 @@
+{
+  "id": "1500425513137602560",
+  "name": "Slow 32 bit (integer) square root",
+  "code": "SQRT006",
+  "reservedCodes": [
+    "SQRT006"
+  ],
+  "pastPostThreadIds": [
+    "1500433872863756348"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383086338773106",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1500425513980919908",
+      "name": "2026-05-03_11.00.35.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1500425513137602560/1500425513980919908/2026-05-03_11.00.35.png?ex=69f863a7&is=69f71227&hm=605166d0687c8923ae25d25cd818a4abe03ab6e9a1a4b164d17f93d0c5ef8b5d&",
+      "timestamp": 1777799718890,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 115091,
+      "canDownload": true,
+      "width": 1200,
+      "height": 750,
+      "path": "images/2026-05-03_11.00.35.png",
+      "hash": "2d079fcf0c03692daa86ec6a0b9e4009d6b42fc27cb3d90db92435b8710e2ec4"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1500425514421063824",
+      "name": "SQRT006_32bitsqrt.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1500425513137602560/1500425514421063824/32bitsqrt.schem?ex=69f863a7&is=69f71227&hm=18ebfa0b4ab1f5936a114d04bb81ca287e59ffb7dae354c0ed9b9e01b9527e0f&",
+      "timestamp": 1777799718890,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/522cd6128782349f06ff7631d6117dda.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 8501,
+      "canDownload": true,
+      "hash": "60cae2b7ff086d38d9f9ab4bd8d34a8886b6e9574593ac445f625392e85dbfe0",
+      "path": "attachments/SQRT006_32bitsqrt.schem",
+      "schematic": {
+        "size": "20x67x16",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Takes a binary number A (max. 32) bit and returns the integer part of sqrt(A) as well as the remainder, e.g. sqrt(11) would be 3 with remainder 2. Uses the shift-and-add algorithm featured in Mattbatwings' video with Amino's 3t CCA. By doing more iterations, can obtain bits after the decimal point up to 16 bits.",
+    "input": "binary number A (max. 32 bit)",
+    "output": "integer part of sqrt(A) as well as the remainder",
+    "speed": "18t per bit, so 18t * 16 = 288t = 28.8 seconds, plus input & output delay, so in total roughly 30 seconds",
+    "considerations": [
+      "Uses conditional subtractor, quite slow",
+      "Non-restoring algorithm could push down to at least 11t per bit"
+    ],
+    "notes": "CCA design that is used is Amino's 3t CCA. By increasing the time length of the capacitor at the bottom, could compute the square root up to 16 bits after the decimal point."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1500433872863756348",
+    "forumId": "1472326463179985037",
+    "continuingMessageIds": [
+      "1500433880786800652"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1500433872863756348",
+    "uploadMessageId": "1500433870842237029",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1500433872863756348/1500433876365869177/2026-05-03_11.00.35.png?ex=69f86b70&is=69f719f0&hm=7c5aecfdf7af6d87b38a9f66985242003dbf5b1f7c041d7056f77332cd9306f9&"
+  },
+  "archivedAt": 1777801710063,
+  "updatedAt": 1777801710063,
+  "num_comments": 0
+}
