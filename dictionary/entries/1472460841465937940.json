@@ -115,6 +115,7 @@
     "MULTIPY005",
     "DIVIDE006",
     "DIVIDE007",
-    "SQRT006"
+    "SQRT006",
+    "DIVIDE008"
   ]
 }

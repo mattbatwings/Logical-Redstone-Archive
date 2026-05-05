@@ -1,0 +1,133 @@
+{
+  "id": "1500992431376564385",
+  "name": "8b 4t/b integer divider",
+  "code": "DIVIDE008",
+  "reservedCodes": [
+    "DIVIDE008"
+  ],
+  "pastPostThreadIds": [
+    "1501093175819898951"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "635479806510891029",
+      "username": "zpippo_",
+      "displayName": "zPippo",
+      "iconURL": "https://cdn.discordapp.com/avatars/635479806510891029/45a9b12d50addac14f578ff6a3303cf4.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168811",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1500992432450568242",
+      "name": "divider.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1500992431376564385/1500992432450568242/image.png?ex=69fa73a2&is=69f92222&hm=2b7c2a4da1f58b534b4b248e677cb0aa4201098642a1cbc1b3a1c2e3ea287cfe&",
+      "timestamp": 1777934882731,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "635479806510891029",
+        "username": "zpippo_",
+        "displayName": "zPippo",
+        "iconURL": "https://cdn.discordapp.com/avatars/635479806510891029/45a9b12d50addac14f578ff6a3303cf4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "isometric render of the divider",
+      "size": 332349,
+      "canDownload": true,
+      "width": 1200,
+      "height": 946,
+      "path": "images/divider.png",
+      "hash": "7dfe67e2c66f081375a153e7c743db308a4a8fe7e9dc427f1a92469f7de49924"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1500992432916140233",
+      "name": "DIVIDE008_3_33hz_4tpb_8b_divider_zPippo.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1500992431376564385/1500992432916140233/3_33hz_4tpb_8b_divider_zPippo.schem?ex=69fa73a3&is=69f92223&hm=0920a877f308f70eeae747aefdb7f33cb857c062820d727b8bb12999adf3e8de&",
+      "timestamp": 1777934882731,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "635479806510891029",
+        "username": "zpippo_",
+        "displayName": "zPippo",
+        "iconURL": "https://cdn.discordapp.com/avatars/635479806510891029/45a9b12d50addac14f578ff6a3303cf4.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "divider schematic file",
+      "size": 12557,
+      "canDownload": true,
+      "hash": "593f13aeed3ff24a3f39c2be98ebe14e213c6b64a9e85f0636e12712e4c8a2b4",
+      "path": "attachments/DIVIDE008_3_33hz_4tpb_8b_divider_zPippo.schem",
+      "schematic": {
+        "size": "76x32x22",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "an 8 bit, 4 ticks per bit, 3.33hz restoring divider that gives quotient and remainder",
+    "speed": "4 ticks per bit, 3.33hz"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1501093175819898951",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1501093185055887361"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1501093175819898951",
+    "uploadMessageId": "1501093173479473266",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1501093175819898951/1501093179494236160/divider.png?ex=69fad176&is=69f97ff6&hm=e9526db4df17457e61e92fffca4c2a772401b7592c1f1fc5e2b373f291764508&"
+  },
+  "archivedAt": 1777958897900,
+  "updatedAt": 1777958897900,
+  "num_comments": 0
+}
