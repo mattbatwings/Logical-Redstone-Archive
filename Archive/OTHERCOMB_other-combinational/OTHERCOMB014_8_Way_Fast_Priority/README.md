@@ -1,7 +1,7 @@
 # 8 Way Fast Priority
 <img alt="area_render.png" src="images/area_render.png?raw=1" height="300px">
 
-**Authors:** *BlazeyCrazey*
+**Authors:** *B̵̪ͭ̐͢🅻🅐Ⓩ*
 
 **Endorsed by:** *mattbatwings*
 
