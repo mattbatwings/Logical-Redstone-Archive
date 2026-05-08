@@ -4,7 +4,7 @@
   "code": "ADD",
   "category": "➕ ARITHMETIC",
   "description": "Devices that add/subtract 2 numbers.",
-  "currentCodeId": 11,
+  "currentCodeId": 12,
   "entries": [
     {
       "id": "1472329567745343593",
@@ -60,6 +60,11 @@
       "id": "1483545042541871346",
       "code": "ADD011",
       "path": "ADD011_10_bit_3_tick_CCA"
+    },
+    {
+      "id": "1502352616577827026",
+      "code": "ADD012",
+      "path": "ADD012_Hexadecimal_Carry_Cancel_Adder_hex_cca_16nibbles"
     }
   ]
 }

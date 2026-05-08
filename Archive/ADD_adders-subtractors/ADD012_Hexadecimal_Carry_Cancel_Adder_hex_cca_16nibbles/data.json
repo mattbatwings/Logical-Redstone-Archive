@@ -1,0 +1,216 @@
+{
+  "id": "1502352616577827026",
+  "name": "Hexadecimal Carry Cancel Adder (hex_cca_16nibbles)",
+  "code": "ADD012",
+  "reservedCodes": [
+    "ADD012"
+  ],
+  "pastPostThreadIds": [
+    "1502358261431799818"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1474512749349572680",
+      "username": "louparmi",
+      "displayName": "LouParmi",
+      "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1502352617228079255",
+      "name": "2026-05-08_18.43.53.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502352616577827026/1502352617228079255/2026-05-08_18.43.53.png?ex=69ff6668&is=69fe14e8&hm=2075c7343798125502e857908a9dc4be9d97fd79142cc9aa6a12fd5812ce1a0a&",
+      "timestamp": 1778259176154,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "displayName": "LouParmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 375060,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-08_18.43.53.png",
+      "hash": "e815fc6e86b589383ce111510508aa546cd3b9e49ff3841bf09ada4dfa94b4cc"
+    },
+    {
+      "id": "1502352617957884059",
+      "name": "2026-05-08_18.43.22.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502352616577827026/1502352617957884059/2026-05-08_18.43.22.png?ex=69ff6668&is=69fe14e8&hm=d1432e126132c8a0a4342052fead8e925d54434f61c21cca08913e2fa39ce272&",
+      "timestamp": 1778259176154,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "displayName": "LouParmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 431103,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-08_18.43.22.png",
+      "hash": "b7a30738ac5a9e6438b32c5d0e00c5e67167553291832e08fbb2fe021a21a309"
+    },
+    {
+      "id": "1502352618499084390",
+      "name": "2026-05-08_18.07.00.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502352616577827026/1502352618499084390/2026-05-08_18.07.00.png?ex=69ff6668&is=69fe14e8&hm=20d16ecf4f5e5043303f2cc6f9fc345e973d3b9fc0407674b778535bc36459ae&",
+      "timestamp": 1778259176154,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "displayName": "LouParmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Input A is colored in blue, Input B is colored in green",
+      "size": 218626,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-08_18.07.00.png",
+      "hash": "d5d4e48e1d560136d8885ee3795209382240322d8f82d10878344cf1e67303a2"
+    },
+    {
+      "id": "1502352618893344970",
+      "name": "2026-05-08_18.42.14.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1502352616577827026/1502352618893344970/2026-05-08_18.42.14.png?ex=69ff6668&is=69fe14e8&hm=4d2d76eb9a6b2f6710fefe827a9c2954cd88ce1ad8580cef198cf8fe9ae5efdb&",
+      "timestamp": 1778259176154,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "displayName": "LouParmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Output is in majenta",
+      "size": 205242,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-08_18.42.14.png",
+      "hash": "8e10dd97f3d84bf34c4e6f102ef8d07880652e3bb2091a8ffff97c39a8431a1a"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1502356191525867721",
+      "name": "ADD012_hex_cca_16nibbles.schem",
+      "url": "https://cdn.discordapp.com/attachments/1502352616577827026/1502356191525867721/hex_cca_16nibbles.schem?ex=69ff69bc&is=69fe183c&hm=88ff74c71686cbe8f8a262e09291761d4a080d6626d8966788a815c9801806cc&",
+      "timestamp": 1778260027597,
+      "author": {
+        "type": "discord-external",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "0532ef4c5667d224a596a5c85fd4417940f4537b80ed27a4d8121a242318063e",
+      "path": "attachments/ADD012_hex_cca_16nibbles.schem",
+      "size": 2324,
+      "schematic": {
+        "size": "10x19x12",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "16 nibbles (64 bits), 6 ticks, 5 hz pipelineable, 10x12 footprint, 19 blocks high, carry in and carry out work, uses double density, java only",
+    "input": "Hexadecimal, Double density",
+    "output": "Hexadecimal, Double density",
+    "speed": "6 ticks, 5 hz pipelineable",
+    "considerations": [
+      "10x12 footprint",
+      "19 blocks high",
+      "java only"
+    ],
+    "notes": "Carry in and carry out work, credit LouParmi if you want to."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "nibble",
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "Hexadecimal"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1502358261431799818",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1502358280758890576"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1502358261431799818",
+    "uploadMessageId": "1502358257413652504",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1502358261431799818/1502358275130392577/2026-05-08_18.43.53.png?ex=69ff6bad&is=69fe1a2d&hm=5062def1cb0d3e1298fe5f6a04bd0bdb38c2a6ff49594f92246a093cb378dd32&"
+  },
+  "archivedAt": 1778260517150,
+  "updatedAt": 1778260517150,
+  "num_comments": 0
+}

@@ -42,6 +42,7 @@
     "ROM002",
     "HEXTOBIN003",
     "BINTOHEX003",
-    "OTHERCOMB018"
+    "OTHERCOMB018",
+    "ADD012"
   ]
 }
