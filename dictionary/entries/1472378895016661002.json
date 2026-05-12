@@ -24,19 +24,20 @@
     }
   ],
   "referencedBy": [
-    "DIVIDE001",
-    "DIVIDE003",
-    "MULTIPY001",
-    "MULTIPY002",
-    "MULTIPY003",
     "ADD002",
     "ADD006",
     "ADD010",
-    "OTHERCOMB009",
-    "RWM002",
-    "REGISTER002",
+    "ADD012",
+    "ADD013",
+    "DIVIDE001",
+    "DIVIDE003",
     "DIVIDE008",
     "DIVIDE009",
-    "ADD012"
+    "MULTIPY001",
+    "MULTIPY002",
+    "MULTIPY003",
+    "OTHERCOMB009",
+    "REGISTER002",
+    "RWM002"
   ]
 }

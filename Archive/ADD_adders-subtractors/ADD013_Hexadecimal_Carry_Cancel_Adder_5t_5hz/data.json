@@ -1,0 +1,175 @@
+{
+  "id": "1503788239956217946",
+  "name": "Hexadecimal Carry Cancel Adder (5t, 5hz)",
+  "code": "ADD013",
+  "reservedCodes": [
+    "ADD013"
+  ],
+  "pastPostThreadIds": [
+    "1503801589033599138"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1474512749349572680",
+      "username": "louparmi",
+      "displayName": "LouParmi",
+      "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "873944359849066588",
+      "username": "wueffi",
+      "displayName": "Waffle [Wueffi]",
+      "iconURL": "https://cdn.discordapp.com/avatars/873944359849066588/87917a2e2e49347a8586558dc3417e8a.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1503788240375779529",
+      "name": "2026-05-12_17.35.31.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1503788239956217946/1503788240375779529/2026-05-12_17.35.31.png?ex=6a049f6f&is=6a034def&hm=3462c276c8c679c78bddeb0860c28e5aa0debb5ba4e85291e80baa60a5eca423&",
+      "timestamp": 1778601455440,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "displayName": "LouParmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 437791,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-12_17.35.31.png",
+      "hash": "8f390c90b45ad8a7f7ee0d912692b4882c679c4326f44b420af21f8463b8c71c"
+    },
+    {
+      "id": "1503788241072164994",
+      "name": "2026-05-12_17.42.39.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1503788239956217946/1503788241072164994/2026-05-12_17.42.39.png?ex=6a049f6f&is=6a034def&hm=cd0fee0b9782488463652cd5687ec170aa9add0d991022610d720ad195796b75&",
+      "timestamp": 1778601455440,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "displayName": "LouParmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "The java build and the shematic are on the other picture, this one list all modifications nessesary to make it bedrock compatible (Which is to put a row of buttons where shown) (I also recomend to modify to this carry)",
+      "size": 389670,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-05-12_17.42.39.png",
+      "hash": "54d2dfbf0fa636a5c792472bb554cd1eb0fde00ffe3ff1c984b23bf5f5cc6142"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1503788241336275205",
+      "name": "ADD013_5t_5hz_hex_cca.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1503788239956217946/1503788241336275205/5t_5hz_hex_cca.schem?ex=6a049f6f&is=6a034def&hm=e1a7ac1ea3a9fe06c2753691c50535334bdd0818872def40526685dd7ee8da71&",
+      "timestamp": 1778601455440,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1474512749349572680",
+        "username": "louparmi",
+        "displayName": "LouParmi",
+        "iconURL": "https://cdn.discordapp.com/avatars/1474512749349572680/9da56ed246e8e3dc849811af45bd375e.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 2000,
+      "canDownload": true,
+      "hash": "55d41adf14d5d27d2add54612a99a8fc648f623dab7adc45bba90bedfe1f86cd",
+      "path": "attachments/ADD013_5t_5hz_hex_cca.schem",
+      "schematic": {
+        "size": "9x18x8",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "8x9 footprint, 18 blocks high",
+    "input": "Hexadecimal, 8 nibbles (32 bits), Carry in",
+    "output": "Hexadecimal, 8 nibbles (32 bits), Carry out",
+    "speed": "5 ticks, 5 hertz",
+    "notes": "Works in bedrock at 10hz with the modification of the second picture"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "Hexadecimal"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "nibble",
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1503801589033599138",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1503801598575509585"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1503801589033599138",
+    "uploadMessageId": "1503801587355877598",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1503801589033599138/1503801592623796364/2026-05-12_17.35.31.png?ex=6a04abde&is=6a035a5e&hm=1bfe229269c451951add3a64be08d786bb8d22f3ff02e1e9a2db05707a509dff&"
+  },
+  "archivedAt": 1778604633653,
+  "updatedAt": 1778604633653,
+  "num_comments": 0
+}
