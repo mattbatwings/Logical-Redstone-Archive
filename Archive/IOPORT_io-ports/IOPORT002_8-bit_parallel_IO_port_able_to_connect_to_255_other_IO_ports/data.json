@@ -1,0 +1,134 @@
+{
+  "id": "1508037828968448030",
+  "name": "8-bit parallel I/O port able to connect to 255 other I/O ports",
+  "code": "IOPORT002",
+  "reservedCodes": [
+    "IOPORT002"
+  ],
+  "pastPostThreadIds": [
+    "1508163572843286580"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "906546838008647691",
+      "username": "zebronicg",
+      "displayName": "Zebronic G",
+      "iconURL": "https://cdn.discordapp.com/avatars/906546838008647691/b8910cec598644fc2affe58d9cce6692.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383146547740799",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1508038218074030121",
+      "name": "2026-05-24_14.39.02.png",
+      "url": "https://cdn.discordapp.com/attachments/1508037828968448030/1508038218074030121/2026-05-24_14.39.02.png?ex=6a141589&is=6a12c409&hm=b18a7025c46ad0d2bcc5c3e78877288680cfb41ee50fd97abb3bf26a336d7f93&",
+      "timestamp": 1779614728119,
+      "author": {
+        "type": "discord-external",
+        "id": "906546838008647691",
+        "username": "zebronicg",
+        "iconURL": "https://cdn.discordapp.com/avatars/906546838008647691/b8910cec598644fc2affe58d9cce6692.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1200,
+      "height": 631,
+      "size": 46742,
+      "path": "images/2026-05-24_14.39.02.png",
+      "hash": "b6dc8cdc71efbccf9f42b3edef74dc3e772387343d83a6e9f8c5844d8d42e120"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1508162869676474538",
+      "name": "IOPORT002_IO.schem",
+      "url": "https://cdn.discordapp.com/attachments/1508037828968448030/1508162869676474538/IO.schem?ex=6a1489a0&is=6a133820&hm=fbf8c889212d01c07d61f49a1f85c521d6eb7d11b3b118e0b4871a251c6add60&",
+      "timestamp": 1779644447432,
+      "author": {
+        "type": "discord-external",
+        "id": "906546838008647691",
+        "username": "zebronicg",
+        "iconURL": "https://cdn.discordapp.com/avatars/906546838008647691/b8910cec598644fc2affe58d9cce6692.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "a8ebb4935eacdf33ac48fbefb9681dd6d26ab24407c2e0d7043a0b8d59159fb6",
+      "path": "attachments/IOPORT002_IO.schem",
+      "size": 5268,
+      "schematic": {
+        "size": "14x43x15",
+        "version": "26.1.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit IO port that can send data at a rate of 1-Byte per 40 ticks, has an address on a universal bus connected to other 255 ports, and can store a byte in a buffer until cleared. It can also receive data sent on the universal bus.",
+    "speed": "1-Byte per 40 ticks",
+    "notes": "Has an address on a universal bus connected to other 255 ports; can store the byte in a buffer until cleared; can receive data sent on the universal bus."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "Byte",
+        "byte"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Bus",
+      "id": "1472389037607227533",
+      "url": "https://discord.com/channels/1361854816837435433/1472389037607227533/1472389038723043390",
+      "matches": [
+        "bus"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1508163572843286580",
+    "forumId": "1472331484122583040",
+    "continuingMessageIds": [
+      "1508163589670961185"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1508163572843286580",
+    "uploadMessageId": "1508163570091950212",
+    "thumbnailURL": "https://cdn.discordapp.com/attachments/1508163572843286580/1508163576098066602/2026-05-24_14.39.02.png?ex=6a148a48&is=6a1338c8&hm=560233472ad1713e4419078168517a41fe022fc2ce08f2dfbc18120a41a9cb9b&"
+  },
+  "archivedAt": 1779644612440,
+  "updatedAt": 1779644612440,
+  "num_comments": 0
+}

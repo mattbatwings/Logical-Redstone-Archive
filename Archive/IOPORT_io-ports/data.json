@@ -4,12 +4,17 @@
   "code": "IOPORT",
   "category": "🧩 CPU COMPONENTS",
   "description": "Input and output ports for a CPU.",
-  "currentCodeId": 1,
+  "currentCodeId": 2,
   "entries": [
     {
       "id": "1472532157447798988",
       "code": "IOPORT001",
       "path": "IOPORT001_WafPortsV2"
+    },
+    {
+      "id": "1508037828968448030",
+      "code": "IOPORT002",
+      "path": "IOPORT002_8-bit_parallel_IO_port_able_to_connect_to_255_other_IO_ports"
     }
   ]
 }
