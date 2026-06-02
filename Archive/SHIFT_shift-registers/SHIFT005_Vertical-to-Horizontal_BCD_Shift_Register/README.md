@@ -1,7 +1,7 @@
 # Vertical-to-Horizontal BCD Shift Register
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *QMB*
+**Authors:** *qmb_official*
 
 **Endorsed by:** *mattbatwings*
 
