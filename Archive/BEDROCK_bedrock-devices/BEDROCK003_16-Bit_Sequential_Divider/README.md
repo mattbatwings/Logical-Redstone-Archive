@@ -1,7 +1,7 @@
 # 16-Bit Sequential Divider
 <img alt="image.png" src="images/image.png?raw=1" height="300px">
 
-**Authors:** *Zenith*
+**Authors:** *Zyndyt*
 
 **Endorsed by:** *mattbatwings*
 
