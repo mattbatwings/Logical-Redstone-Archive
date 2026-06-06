@@ -5,7 +5,7 @@
 
 **Endorsed by:** *mattbatwings*
 
-**Tags:** *Untested*
+**Tags:** *Tested & Functional*
 
 **Original post:** [View on Discord](https://discord.com/channels/1361854816837435433/1472428889773965322)
 
