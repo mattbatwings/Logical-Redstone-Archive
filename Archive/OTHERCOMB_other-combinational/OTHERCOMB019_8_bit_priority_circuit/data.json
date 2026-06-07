@@ -1,0 +1,138 @@
+{
+  "id": "1513182571209691357",
+  "name": "8 bit priority circuit",
+  "code": "OTHERCOMB019",
+  "reservedCodes": [
+    "OTHERCOMB019"
+  ],
+  "pastPostThreadIds": [
+    "1513182951532269782"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383095884746819",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383095884746820",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1513182571503157439",
+      "name": "screenshot_2.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1513182571209691357/1513182571503157439/screenshot_2.png?ex=6a26cc96&is=6a257b16&hm=cfd9bbf6aa9344f645243d5f52697f5057dc47457cffb63cd95eb2b595058f09&",
+      "timestamp": 1780841238549,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 134328,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/screenshot_2.png",
+      "hash": "871d3022ae37d3bf6575a0c8c4565e57b58ab9591271453d1d13347342726322",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1513182571209691357/1513182743956291834/1513182571503157439-screenshot_2.png?ex=6a26ccbf&is=6a257b3f&hm=e23e5056a0bbb14a284991da98153848e772315496c8bca279de79aca3a727a6&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1513182571851288718",
+      "name": "OTHERCOMB019_8b_priority.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1513182571209691357/1513182571851288718/8b_priority.schem?ex=6a26cc96&is=6a257b16&hm=75dca6a8b4b33f217d59d2c3c2a13c4636640882c854fc03f12f051a91d0c65d&",
+      "timestamp": 1780841238549,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 735,
+      "canDownload": true,
+      "hash": "5a3c416bbe596dcccff8410b7c9e91141ebee81b5972a9b5ce60693d388d689c",
+      "path": "attachments/OTHERCOMB019_8b_priority.schem",
+      "schematic": {
+        "size": "12x3x15",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8 bit combinational priority circuit",
+    "input": "8b number",
+    "output": "one-hot 8 bit number"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "One-hot",
+      "id": "1472379322797920317",
+      "url": "https://discord.com/channels/1361854816837435433/1472379322797920317/1472379323565478100",
+      "matches": [
+        "one-hot"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1513182951532269782",
+    "forumId": "1472328867602628849",
+    "continuingMessageIds": [
+      "1513182961728753724"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1513182951532269782",
+    "uploadMessageId": "1513182949183586375"
+  },
+  "archivedAt": 1780841325561,
+  "updatedAt": 1780841325561,
+  "num_comments": 0
+}
