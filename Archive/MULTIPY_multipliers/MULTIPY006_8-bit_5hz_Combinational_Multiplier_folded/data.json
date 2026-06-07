@@ -1,0 +1,147 @@
+{
+  "id": "1513184648648458250",
+  "name": "8-bit 5hz Combinational Multiplier (folded)",
+  "code": "MULTIPY006",
+  "reservedCodes": [
+    "MULTIPY006"
+  ],
+  "pastPostThreadIds": [
+    "1513185146436718734"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "323916552028028929",
+      "username": "mattbatwings",
+      "displayName": "mattbatwings",
+      "iconURL": "https://cdn.discordapp.com/avatars/323916552028028929/5a2049177a5010dc7b444fd9c34284f3.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "206482298491764736",
+      "username": "sloimay",
+      "displayName": "sloimay",
+      "iconURL": "https://cdn.discordapp.com/avatars/206482298491764736/a778f49416122ef2e9b2339658466528.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    },
+    {
+      "id": "1472383083402494010",
+      "name": "Recommended"
+    }
+  ],
+  "images": [
+    {
+      "id": "1513184648883343462",
+      "name": "screenshot_3.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1513184648648458250/1513184648883343462/screenshot_3.png?ex=6a26ce85&is=6a257d05&hm=de4ef310fda345432ccdb2f81fe0b44b7db7a893f410b0543ac4565969d51f95&",
+      "timestamp": 1780841733849,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 136036,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/screenshot_3.png",
+      "hash": "46ba27fc2f31de9f9dac64e2166da68924695747c648a14b2206b856c6e8478e",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1513184648648458250/1513185016224682014/1513184648883343462-screenshot_3.png?ex=6a26cedd&is=6a257d5d&hm=5d97078f9472782751ae87c1963e25759432e9852634b2330121739e068b538c&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1513184649172615208",
+      "name": "MULTIPY006_Matt5HzMult.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1513184648648458250/1513184649172615208/Matt5HzMult.schem?ex=6a26ce85&is=6a257d05&hm=296a1e82aab767b2fc95c304452eeb8bf2c88cefb40ae22677c3f65eec7d4c39&",
+      "timestamp": 1780841733849,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1041095929433968732",
+        "username": "mixelmaniac7",
+        "displayName": "Mixel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11337,
+      "canDownload": true,
+      "hash": "bdbb6616063f694b52aea784aad19d34add86edba5a6e7c3e38cc6051099819c",
+      "path": "attachments/MULTIPY006_Matt5HzMult.schem",
+      "schematic": {
+        "size": "34x33x18",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit combinational multiplier, pipelinable at 5hz.",
+    "input": "2 8b numbers",
+    "output": "16b product",
+    "speed": "5hz",
+    "notes": "The smaller footprint version used in the wireframe renderer"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Throughput",
+      "id": "1472378895016661002",
+      "url": "https://discord.com/channels/1361854816837435433/1472378895016661002/1472378895931146271",
+      "matches": [
+        "hz"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1513185146436718734",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1513185156272488510"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1513185146436718734",
+    "uploadMessageId": "1513185143626534914"
+  },
+  "archivedAt": 1780841849105,
+  "updatedAt": 1780841849105,
+  "num_comments": 0
+}
