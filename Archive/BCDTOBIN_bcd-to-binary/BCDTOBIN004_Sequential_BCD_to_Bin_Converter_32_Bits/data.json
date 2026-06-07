@@ -1,0 +1,155 @@
+{
+  "id": "1513185476465393724",
+  "name": "Sequential BCD to Bin Converter (32 Bits)",
+  "code": "BCDTOBIN004",
+  "reservedCodes": [
+    "BCDTOBIN004"
+  ],
+  "pastPostThreadIds": [
+    "1513197767487525105"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "aminotreal",
+      "reason": "Author of the 16b CCA this design is based on"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383125706244308",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1513185478105366650",
+      "name": "32_bits.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1513185476465393724/1513185478105366650/image.png?ex=6a26cf4b&is=6a257dcb&hm=48734c5a4ff639ae2e85efce770e625dabe08da2a48d5aac2c8ef51d85432420&",
+      "timestamp": 1780841931216,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 84870,
+      "canDownload": true,
+      "width": 258,
+      "height": 1200,
+      "path": "images/32_bits.png",
+      "hash": "cd78164fe2f8f0f87270b86595a38671f0214b847da19fc57406bfd59e0dd52f",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1513185476465393724/1513186681220763808/1513185478105366650-32_bits.png?ex=6a26d06a&is=6a257eea&hm=8c35c496c453793d327c104c28c58474dc2426639caaf1cfeac57476284bac88&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1513185476859920415",
+      "name": "BCDTOBIN004_Seq_BCD_to_Bin_Converter_32b.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1513185476465393724/1513185476859920415/Seq_BCD_to_Bin_Converter_32b.litematic?ex=6a26cf4b&is=6a257dcb&hm=9ac13b8954d76b6329d19ed710d209f701e39fa371f306764e07b8b0fd4a8b74&",
+      "timestamp": 1780841931216,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3410,
+      "canDownload": true,
+      "hash": "864dda01b621c5cb7d3587cc53708b8de81661de6f759acf7088c186d353eebf",
+      "path": "attachments/BCDTOBIN004_Seq_BCD_to_Bin_Converter_32b.litematic",
+      "litematic": {
+        "size": "14x67x8",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1513185477497458688",
+      "name": "BCDTOBIN004_Seq_BCD_to_Bin_Converter_32b.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1513185476465393724/1513185477497458688/Seq_BCD_to_Bin_Converter_32b.schem?ex=6a26cf4b&is=6a257dcb&hm=667ccdb44d3e3d10399c66a9993b117eb72af3098b3c43e0f421459b478aed77&",
+      "timestamp": 1780841931216,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 3099,
+      "canDownload": true,
+      "hash": "d9be01ee924dbd0b38c1317e313b9c707eff9f7179a4053fa22a8cc2342fee3e",
+      "path": "attachments/BCDTOBIN004_Seq_BCD_to_Bin_Converter_32b.schem",
+      "schematic": {
+        "size": "14x67x8",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "Converts a sequence of BCD digits into a 32-bit binary integer.",
+    "input": "BCD digit, Shift, Clear",
+    "output": "32b integer",
+    "notes": "Based on Aminotreal's 16b stackable CCA. Can be upscaled and downscaled for any number of bits."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "BCD",
+      "id": "1472378645967409273",
+      "url": "https://discord.com/channels/1361854816837435433/1472378645967409273/1472378647146139820",
+      "matches": [
+        "BCD"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1513197767487525105",
+    "forumId": "1472330151210516531",
+    "continuingMessageIds": [
+      "1513197776903602347"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1513197767487525105",
+    "uploadMessageId": "1513197764949835952"
+  },
+  "archivedAt": 1780844857779,
+  "updatedAt": 1780844857779,
+  "num_comments": 0
+}

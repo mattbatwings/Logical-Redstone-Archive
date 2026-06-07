@@ -4,7 +4,7 @@
   "code": "BCDTOBIN",
   "category": "💱 CONVERSION",
   "description": "Devices that convert binary coded decimal to binary.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1472329991915175946",
@@ -20,6 +20,11 @@
       "id": "1472329996646354944",
       "code": "BCDTOBIN002",
       "path": "BCDTOBIN002_DectoBin_Converter"
+    },
+    {
+      "id": "1513185476465393724",
+      "code": "BCDTOBIN004",
+      "path": "BCDTOBIN004_Sequential_BCD_to_Bin_Converter_32_Bits"
     }
   ]
 }
