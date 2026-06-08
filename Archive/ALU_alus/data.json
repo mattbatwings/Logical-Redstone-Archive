@@ -15,6 +15,11 @@
       "id": "1472694322758553600",
       "code": "ALU003",
       "path": "ALU003_small_4rt_alu"
+    },
+    {
+      "id": "1472543617108148320",
+      "code": "ALU002",
+      "path": "ALU002_16-Bit_Arithmetic_Logic_Unit"
     }
   ]
 }
