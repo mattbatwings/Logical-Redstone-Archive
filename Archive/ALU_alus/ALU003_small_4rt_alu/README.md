@@ -5,7 +5,7 @@
 
 **Endorsed by:** *mattbatwings*
 
-**Tags:** *Tested & Functional*
+**Tags:** *Tested & Functional, Recommended*
 
 **Original post:** [View on Discord](https://discord.com/channels/1361854816837435433/1472702174076342422)
 
@@ -22,5 +22,4 @@ Greyed areas mean only one input should be toggled, but either works.
 ## Resources
 - [ALU003_Truth_Table.png](attachments/ALU003_Truth_Table.png): image/webp
   - White indicates when an input should be powered. Black indicates when it should not. Grey indicates when either input can be toggled for the function to work but only one should be enable simultaneously
-- [ALU003_4rt_alu.schem](attachments/ALU003_4rt_alu.schem): unknown
-  - Signs may not display in file
+- [ALU003_Flyingdeans204rt20alu.schem](attachments/ALU003_Flyingdeans204rt20alu.schem): unknown
