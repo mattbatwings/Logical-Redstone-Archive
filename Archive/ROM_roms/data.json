@@ -12,11 +12,6 @@
       "path": "ROM001_1024x_16_bit_Instruction_Memory"
     },
     {
-      "id": "1472464443341275349",
-      "code": "ROM002",
-      "path": "ROM002_1_KiB_ROM_with_Cache_expandable"
-    },
-    {
       "id": "1472712483893678080",
       "code": "ROM003",
       "path": "ROM003_256_Byte_8-bit_word_ROM"
