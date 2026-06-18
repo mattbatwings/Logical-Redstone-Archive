@@ -4,7 +4,7 @@
   "code": "HEX",
   "category": "🌐 MISCELLANEOUS",
   "description": "Devices that perform a small hexadecimal-related function.",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1472329668681273504",
@@ -35,6 +35,11 @@
       "id": "1472329610132717809",
       "code": "HEX006",
       "path": "HEX006_Hex_FIFO_Register_Vertical_Dual-read"
+    },
+    {
+      "id": "1517266352992419851",
+      "code": "HEX007",
+      "path": "HEX007_DisctoHex_Reader"
     }
   ]
 }

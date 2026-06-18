@@ -1,0 +1,111 @@
+{
+  "id": "1517266352992419851",
+  "name": "DisctoHex Reader",
+  "code": "HEX007",
+  "reservedCodes": [
+    "HEX007"
+  ],
+  "pastPostThreadIds": [
+    "1517282256497021058"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "698322584810553404",
+      "username": "xoliks",
+      "displayName": "Xoliks",
+      "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383141208654017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1517266354124886097",
+      "name": "area_render_8_.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1517266352992419851/1517266354124886097/area_render_8_.png?ex=6a35a7e8&is=6a345668&hm=1c7bc94999ca158ed0457fca6a68c1c38909c7c75f4ccfb3e80ac8df6463f5a9&",
+      "timestamp": 1781814887999,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "displayName": "Xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 117541,
+      "canDownload": true,
+      "width": 762,
+      "height": 798,
+      "path": "images/area_render_8_.png",
+      "hash": "65b66fcdfbb224ff0eb87261ac973194c9b75e017f47445c914f6213840ddf6f",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1517266352992419851/1517266674452136169/1517266354124886097-area_render_8_.png?ex=6a35a834&is=6a3456b4&hm=332d45c29025669a16ce6564421c4bfb3dbead9cdabbcf82d0b2a3aeb527bca1&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1517270198841901236",
+      "name": "HEX007_DiscReaderV3.schem",
+      "url": "https://cdn.discordapp.com/attachments/1517266352992419851/1517270198841901236/DiscReaderV3.schem?ex=6a35ab7c&is=6a3459fc&hm=c947156e6d7be1fa8a31ad12c00264bf1586c92dbba7e96753c394a79c328d40&",
+      "timestamp": 1781815803953,
+      "author": {
+        "type": "discord-external",
+        "id": "698322584810553404",
+        "username": "xoliks",
+        "iconURL": "https://cdn.discordapp.com/avatars/698322584810553404/8127ebf2ddde5112e179873fbb89c457.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "576a5e4997e98bb9ccc5809754fc3099ef4c9555b8370a696616c2b8aa8a5af2",
+      "path": "attachments/HEX007_DiscReaderV3.schem",
+      "size": 2027,
+      "schematic": {
+        "size": "10x8x3",
+        "version": "1.21.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "Unpacks boxes of discs, reads their contents with a jukebox, and repackages the discs.",
+    "input": "Noteblock on top to start reading,\nBoxes containing discs in chest on top",
+    "output": "Signal strength pulses at the front\nRepackaged boxes in chest on bottom",
+    "speed": "8gt between pulses (hopperspeed)",
+    "considerations": [
+      "Minimum 2 items per box.",
+      "Any non-disc item can be used as 0, but stackable non-disc items might not be repackaged in the right order."
+    ],
+    "notes": "Dimensions: 2 wide tileable, 8 high stackable, 10 blocks deep."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1517282256497021058",
+    "forumId": "1472330964884520980",
+    "continuingMessageIds": [
+      "1517282267624378378"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1517282256497021058",
+    "uploadMessageId": "1517282253582106737"
+  },
+  "archivedAt": 1781818678317,
+  "updatedAt": 1781818678317,
+  "num_comments": 0
+}
