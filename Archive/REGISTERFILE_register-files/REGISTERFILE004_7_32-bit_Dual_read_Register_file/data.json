@@ -1,0 +1,124 @@
+{
+  "id": "1515271015314358293",
+  "name": "7 32-bit Dual read Register file",
+  "code": "REGISTERFILE004",
+  "reservedCodes": [
+    "REGISTERFILE004"
+  ],
+  "pastPostThreadIds": [
+    "1517787012873195570"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "906546838008647691",
+      "username": "zebronicg",
+      "displayName": "Zebronic G",
+      "iconURL": "https://cdn.discordapp.com/avatars/906546838008647691/b8910cec598644fc2affe58d9cce6692.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383147936317670",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1515271016052424744",
+      "name": "2026-06-13_13.50.16.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1515271015314358293/1515271016052424744/2026-06-13_13.50.16.png?ex=6a2e659a&is=6a2d141a&hm=016da8a8a8166a89a1545970ae7fc2463e480558898b7eaa1ae5874fed7cfa8c&",
+      "timestamp": 1781339162425,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "906546838008647691",
+        "username": "zebronicg",
+        "displayName": "Zebronic G",
+        "iconURL": "https://cdn.discordapp.com/avatars/906546838008647691/b8910cec598644fc2affe58d9cce6692.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "7 32-bit Register file with two independent output (A and B) Size:30x25x19",
+      "size": 175656,
+      "canDownload": true,
+      "width": 1200,
+      "height": 631,
+      "path": "images/2026-06-13_13.50.16.png",
+      "hash": "0b6954f55e01188dd1ee5ae63dabf60f0624b08ac5cf11de3beaec4b90a41b01",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1515271015314358293/1515273152127832075/1515271016052424744-2026-06-13_13.50.16.png?ex=6a2e6797&is=6a2d1617&hm=afa7fb6cd85ca029633f20cbd4b9eaf6eb7c29879835d1ad189c2313d031eeb9&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1515276860819378176",
+      "name": "REGISTERFILE004_32_bit_register.schem",
+      "url": "https://cdn.discordapp.com/attachments/1515271015314358293/1515276860819378176/32_bit_register.schem?ex=6a2e6b0c&is=6a2d198c&hm=f5552635a80f9a441789244ebc0ba422e2a877a8f3a8d39a29cf7d4238337d5d&",
+      "timestamp": 1781340555326,
+      "author": {
+        "type": "discord-external",
+        "id": "906546838008647691",
+        "username": "zebronicg",
+        "iconURL": "https://cdn.discordapp.com/avatars/906546838008647691/b8910cec598644fc2affe58d9cce6692.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "900f6aa52d9ee0e0eed8790b5630ec351633a40fab5f5692ff64d001e9bfeedc",
+      "path": "attachments/REGISTERFILE004_32_bit_register.schem",
+      "size": 4840,
+      "schematic": {
+        "size": "31x26x20",
+        "version": "26.1.2"
+      }
+    }
+  ],
+  "records": {
+    "description": "32-bit register file with two independent outputs (A and B).",
+    "output": "Two independent outputs (A and B).",
+    "notes": "Size: 30x25x19"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Register file",
+      "id": "1472388697826656417",
+      "url": "https://discord.com/channels/1361854816837435433/1472388697826656417/1472388698602737674",
+      "matches": [
+        "register file"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1517787012873195570",
+    "forumId": "1472331518817992704",
+    "continuingMessageIds": [
+      "1517787021962117141"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1517787012873195570",
+    "uploadMessageId": "1517787011296264282"
+  },
+  "archivedAt": 1781939020142,
+  "updatedAt": 1781939020142,
+  "num_comments": 0
+}

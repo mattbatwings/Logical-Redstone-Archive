@@ -4,7 +4,7 @@
   "code": "REGISTERFILE",
   "category": "🧩 CPU COMPONENTS",
   "description": "Collections of registers, used to store frequently accessed data in a CPU.",
-  "currentCodeId": 3,
+  "currentCodeId": 4,
   "entries": [
     {
       "id": "1472331185408446719",
@@ -20,6 +20,11 @@
       "id": "1478160822223241246",
       "code": "REGISTERFILE003",
       "path": "REGISTERFILE003_Register_file"
+    },
+    {
+      "id": "1515271015314358293",
+      "code": "REGISTERFILE004",
+      "path": "REGISTERFILE004_7_32-bit_Dual_read_Register_file"
     }
   ]
 }
