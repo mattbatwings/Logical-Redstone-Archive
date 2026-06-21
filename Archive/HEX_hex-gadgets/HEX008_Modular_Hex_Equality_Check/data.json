@@ -1,0 +1,151 @@
+{
+  "id": "1518202089702952960",
+  "name": "Modular Hex Equality Check",
+  "code": "HEX008",
+  "reservedCodes": [
+    "HEX008"
+  ],
+  "pastPostThreadIds": [
+    "1518214260050759680"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "754255417131008120",
+      "username": "dlfda",
+      "displayName": "doer",
+      "iconURL": "https://cdn.discordapp.com/avatars/754255417131008120/6cd6dc95f025fe3f14f786054d539412.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383141208654017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1518202090692939907",
+      "name": "Screenshot_117.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1518202089702952960/1518202090692939907/Screenshot_117.png?ex=6a390f61&is=6a37bde1&hm=401eb9f31db9a3d632cf1a910e385a829c7210759a60563f7ec46adf2b24ed80&",
+      "timestamp": 1782037985016,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "754255417131008120",
+        "username": "dlfda",
+        "displayName": "doer",
+        "iconURL": "https://cdn.discordapp.com/avatars/754255417131008120/6cd6dc95f025fe3f14f786054d539412.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 612427,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/Screenshot_117.png",
+      "hash": "a0f4c65d369fba5cab76111a7b6bf2a138b9e3df58085e23ebcfc7752a57f23c",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1518202089702952960/1518202385284071514/1518202090692939907-screenshot_117.png?ex=6a390fa7&is=6a37be27&hm=5a067eeeb95dbbc555c22baa219433de70bc693f58e63131eb0961f3d6c55901&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1518202092047700078",
+      "name": "HEX008_Hex_Equality_Check.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1518202089702952960/1518202092047700078/Hex_Equality_Check.schem?ex=6a390f61&is=6a37bde1&hm=6360e4341f5ba84590c85b03d56d41ae9bd6f98d11a46e7f7b9ba43aa811bd9d&",
+      "timestamp": 1782037985016,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "754255417131008120",
+        "username": "dlfda",
+        "displayName": "doer",
+        "iconURL": "https://cdn.discordapp.com/avatars/754255417131008120/6cd6dc95f025fe3f14f786054d539412.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Stacked",
+      "size": 880,
+      "canDownload": true,
+      "hash": "0fe1dfc29995ad6ff02ec0b46c029b01b2ce31fd3623e570f0fee8adc3094369",
+      "path": "attachments/HEX008_Hex_Equality_Check.schem",
+      "schematic": {
+        "size": "8x8x9",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1518202092374982777",
+      "name": "HEX008_Hex_Equality_Check_Single.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1518202089702952960/1518202092374982777/Hex_Equality_Check_Single.schem?ex=6a390f61&is=6a37bde1&hm=b7fbea654d4268baecd5a439d5f6f1e59a82190da2370e33aace7d0234c06186&",
+      "timestamp": 1782037985016,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "754255417131008120",
+        "username": "dlfda",
+        "displayName": "doer",
+        "iconURL": "https://cdn.discordapp.com/avatars/754255417131008120/6cd6dc95f025fe3f14f786054d539412.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Single Module",
+      "size": 813,
+      "canDownload": true,
+      "hash": "f3000703c9019e7b0bde78f4aff54f0ed48a738b4002e018d8cbbe28b3c35169",
+      "path": "attachments/HEX008_Hex_Equality_Check_Single.schem",
+      "schematic": {
+        "size": "7x5x7",
+        "version": "1.21.11"
+      }
+    }
+  ],
+  "records": {
+    "description": "2-wide stackable both left/right (if u stagger it) and up/down. Outputs TRUE if the input hex equal the 2 barrels.",
+    "input": "1 nibble ss",
+    "output": "True/False",
+    "speed": "6gt",
+    "notes": "The 2 barrel in one module is the one that used to compare. Those 2 barrelhave to be the same signal strength (i mean why wouldnt you?)"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "nibble"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1518214260050759680",
+    "forumId": "1472330964884520980",
+    "continuingMessageIds": [
+      "1518214268296630425"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1518214260050759680",
+    "uploadMessageId": "1518214256435400764"
+  },
+  "archivedAt": 1782040883435,
+  "updatedAt": 1782040883435,
+  "num_comments": 0
+}
