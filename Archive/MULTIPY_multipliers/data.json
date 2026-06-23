@@ -40,11 +40,6 @@
       "id": "1515700602779209760",
       "code": "MULTIPY007",
       "path": "MULTIPY007_Sequential_Multiplier_32_Bits"
-    },
-    {
-      "id": "1519015552746655986",
-      "code": "MULTIPY008",
-      "path": "MULTIPY008_Combinational_10_Bit_Multiplier"
     }
   ]
 }
