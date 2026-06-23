@@ -1,0 +1,138 @@
+{
+  "id": "1519015552746655986",
+  "name": "Combinational 10 Bit Multiplier",
+  "code": "MULTIPY008",
+  "reservedCodes": [
+    "MULTIPY008"
+  ],
+  "pastPostThreadIds": [
+    "1519016741986897940",
+    "1519027474896261363"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1240722958855704599",
+      "username": "dinasourmonster",
+      "displayName": "Froxxel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1240722958855704599/fcf4b22278ae2528398b4cccd86f5a0d.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1519015553233326200",
+      "name": "2026-06-23_19.18.44.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1519015552746655986/1519015553233326200/2026-06-23_19.18.44.png?ex=6a3c04f9&is=6a3ab379&hm=9871bfd77b904dd0860c790eaf9ea3fa20838e0c5ca1b4de647ad115fc4c2f45&",
+      "timestamp": 1782231929719,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1240722958855704599",
+        "username": "dinasourmonster",
+        "displayName": "Froxxel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1240722958855704599/fcf4b22278ae2528398b4cccd86f5a0d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 279881,
+      "canDownload": true,
+      "width": 1200,
+      "height": 636,
+      "path": "images/2026-06-23_19.18.44.png",
+      "hash": "ec6e8fe6e818470d66ca41f03d458a37d952fc730a47f9f4dca584736ecf4a80",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1519015552746655986/1519016015571320832/1519015553233326200-2026-06-23_19.18.44.png?ex=6a3c0568&is=6a3ab3e8&hm=f3ce686ca32cb32c8d2a46900b9414219cea431ad92152d8c0c9b2908f0955c7&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1519015553660878899",
+      "name": "MULTIPY008_10_Bit_Redstone_Multiplier.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1519015552746655986/1519015553660878899/10_Bit_Redstone_Multiplier.litematic?ex=6a3c04f9&is=6a3ab379&hm=5f67eac33edc7b637f6461a1f9ada21348e9355b9bedbd57abd2dfeaed8ddead&",
+      "timestamp": 1782231929719,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1240722958855704599",
+        "username": "dinasourmonster",
+        "displayName": "Froxxel",
+        "iconURL": "https://cdn.discordapp.com/avatars/1240722958855704599/fcf4b22278ae2528398b4cccd86f5a0d.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 21520,
+      "canDownload": true,
+      "hash": "d8fdf0a8124a3d60f5daf913471ffa21fbcd82b76fd8481af721b8bd27057648",
+      "path": "attachments/MULTIPY008_10_Bit_Redstone_Multiplier.litematic",
+      "litematic": {
+        "size": "51x49x55",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 10-bit combinational multiplier.",
+    "input": "2 10b numbers",
+    "output": "20b product",
+    "speed": "52 ticks(26 redstone ticks or 2.6 seconds)",
+    "notes": "Credit to Amino for his 16-bit CCA that I modified to work with 20 bits that I used in the multiplier"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Combinational",
+      "id": "1472379111153336494",
+      "url": "https://discord.com/channels/1361854816837435433/1472379111153336494/1472379112059437259",
+      "matches": [
+        "combinational"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick",
+        "redstone tick"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1519027474896261363",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1519027484966916226"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1519027474896261363",
+    "uploadMessageId": "1519027473134915664"
+  },
+  "archivedAt": 1782234768009,
+  "updatedAt": 1782234768009,
+  "num_comments": 0
+}
