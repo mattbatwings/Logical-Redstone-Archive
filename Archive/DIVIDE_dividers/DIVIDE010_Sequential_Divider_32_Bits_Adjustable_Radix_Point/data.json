@@ -1,0 +1,226 @@
+{
+  "id": "1520501918483353670",
+  "name": "Sequential Divider (32 Bits, Adjustable Radix Point)",
+  "code": "DIVIDE010",
+  "reservedCodes": [
+    "DIVIDE010"
+  ],
+  "pastPostThreadIds": [
+    "1520813298704978193"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "782309003111170048",
+      "username": "flyingdean",
+      "displayName": "Flyingdean",
+      "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+    },
+    {
+      "type": "unknown",
+      "username": "aminotreal",
+      "reason": "Author of the 16b CCA this design is based on"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383084820168811",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1520501919368613969",
+      "name": "image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1520501918483353670/1520501919368613969/image.png?ex=6a416d43&is=6a401bc3&hm=1ea81a6806e3eb8d4fb7a08a2064f08f2baedb89b62ad294c721eead7888afa9&",
+      "timestamp": 1782586306926,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 146935,
+      "canDownload": true,
+      "width": 268,
+      "height": 1200,
+      "path": "images/image.png",
+      "hash": "1080ba83d7932238eb282e6cf71f5d505d1475a5ceebbb220779f9695a717033",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1520501918483353670/1520502124910477595/1520501919368613969-image.png?ex=6a416d74&is=6a401bf4&hm=c4ec42656877b03de7937d48fbe3d325507e6211f1d07d25b9a615edf883fb93&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1520501919733383258",
+      "name": "DIVIDE010_Flyingdeans_32b_divider_Page_8.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1520501918483353670/1520501919733383258/Flyingdeans_32b_divider_Page_8.schem?ex=6a416d43&is=6a401bc3&hm=4822daf7ac5286f43d78e4e926d166b271374893d751658f65a601436f7330b7&",
+      "timestamp": 1782586306926,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7608,
+      "canDownload": true,
+      "hash": "2c6aee8a74ae20db76cf0e8d50d4e6a5d2d90d0afb607e770e70c82151777b24",
+      "path": "attachments/DIVIDE010_Flyingdeans_32b_divider_Page_8.schem",
+      "schematic": {
+        "size": "13x131x12",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1520501920077447331",
+      "name": "DIVIDE010_Flyingdeans_32b_divider_Page_4.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1520501918483353670/1520501920077447331/Flyingdeans_32b_divider_Page_4.litematic?ex=6a416d43&is=6a401bc3&hm=67436e156e6639bfb614ac26cad97098da9174059b3fae0d7dac0958248258a7&",
+      "timestamp": 1782586306926,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7285,
+      "canDownload": true,
+      "hash": "ea473377d9b88bca6a52ef19e1f56afa2619f70732e7ecd16522e59ee41e7f8b",
+      "path": "attachments/DIVIDE010_Flyingdeans_32b_divider_Page_4.litematic",
+      "litematic": {
+        "size": "13x67x12",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1520501920366858290",
+      "name": "DIVIDE010_Flyingdeans_32b_divider_Page_4.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1520501918483353670/1520501920366858290/Flyingdeans_32b_divider_Page_4.schem?ex=6a416d43&is=6a401bc3&hm=5b0d167c36a06b7e34f5f4a5eba861cd5e54b33c6e611fa0adec166ae820739c&",
+      "timestamp": 1782586306926,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7418,
+      "canDownload": true,
+      "hash": "a0f48e270091a84ac6306e32000c22f5e68329a26b9ce01ba5dc9fc24b633c88",
+      "path": "attachments/DIVIDE010_Flyingdeans_32b_divider_Page_4.schem",
+      "schematic": {
+        "size": "13x67x12",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1520501920718917713",
+      "name": "DIVIDE010_Flyingdeans_32b_divider_Page_8.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1520501918483353670/1520501920718917713/Flyingdeans_32b_divider_Page_8.litematic?ex=6a416d43&is=6a401bc3&hm=c702c4dae0253c07c5b2a8978eacea9e876cf4f0034b197354fb9e7fcfd815e3&",
+      "timestamp": 1782586306926,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 7580,
+      "canDownload": true,
+      "hash": "63d14df6062e5c3e03ac6af6cc127c8b1f283e27ac88f1e0396a85ae556b3372",
+      "path": "attachments/DIVIDE010_Flyingdeans_32b_divider_Page_8.litematic",
+      "litematic": {
+        "size": "13x131x12",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "1520501919368613969",
+      "name": "DIVIDE010_image.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1520501918483353670/1520501919368613969/image.png?ex=6a416d43&is=6a401bc3&hm=1ea81a6806e3eb8d4fb7a08a2064f08f2baedb89b62ad294c721eead7888afa9&",
+      "timestamp": 1782586306926,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "782309003111170048",
+        "username": "flyingdean",
+        "displayName": "Flyingdean",
+        "iconURL": "https://cdn.discordapp.com/avatars/782309003111170048/c829f53c2ee2fd917bfc77715f0c538b.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 274531,
+      "canDownload": true,
+      "hash": "ef8748c860eb5077cebffee9f1c5214221f0c84cf9e3eb1d68b6072b3742d7b8",
+      "path": "attachments/DIVIDE010_image.png",
+      "image": {
+        "width": 268,
+        "height": 1200
+      }
+    }
+  ],
+  "records": {
+    "description": "Divides two 32b values together sequentially using repeated subtraction. The number of resultant significant bits can be adjusted using the precision lectern.",
+    "input": "Two 32b values, Clock, Reset, Precision",
+    "output": "Varies based on the Output Setting [Min: 8b, Max: 120b]",
+    "speed": "13n+0.2s [130n+22rt, 260n+22gt] (n represents the selected precision.) Uses a 16rt loop.",
+    "considerations": [
+      "Uses a 16rt loop.",
+      "Overflow errors can sometimes occur when B > A >= 2^31 while using decimal precision so it is recommended to only use 31 bits for B in this case.",
+      "It is recommended to use Page 4 for integer outputs and Page 8 for decimal precision."
+    ],
+    "notes": "Based on Aminotreal's 16b stackable CCA."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1520813298704978193",
+    "forumId": "1472326416350843093",
+    "continuingMessageIds": [
+      "1520813307362021386",
+      "1520813308431827218",
+      "1520813309623013608"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1520813298704978193",
+    "uploadMessageId": "1520813295660171318"
+  },
+  "archivedAt": 1782660543043,
+  "updatedAt": 1782660543043,
+  "num_comments": 0
+}
