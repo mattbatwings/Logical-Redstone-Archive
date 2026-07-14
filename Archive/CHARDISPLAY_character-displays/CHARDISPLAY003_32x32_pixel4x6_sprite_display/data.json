@@ -1,0 +1,118 @@
+{
+  "id": "1526529099714007110",
+  "name": "32x32 pixel/4x6 sprite display",
+  "code": "CHARDISPLAY003",
+  "reservedCodes": [
+    "CHARDISPLAY003"
+  ],
+  "pastPostThreadIds": [
+    "1526534078072098886"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "761200678940311582",
+      "username": "mnbiom",
+      "displayName": "MNbiom",
+      "iconURL": "https://cdn.discordapp.com/avatars/761200678940311582/f821fe1ac1b89ed45ef1824ebee9794f.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383108333441152",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1526529429214462062",
+      "name": "Zrzut_ekranu_2026-07-14_113226.png",
+      "url": "https://cdn.discordapp.com/attachments/1526529099714007110/1526529429214462062/Zrzut_ekranu_2026-07-14_113226.png?ex=6a575ad1&is=6a560951&hm=eb0b223d5d2f63fb7f5a85873bd24561be3300fa3712dde6e3c479a706abad25&",
+      "timestamp": 1784023376346,
+      "author": {
+        "type": "discord-external",
+        "id": "761200678940311582",
+        "username": "mnbiom",
+        "iconURL": "https://cdn.discordapp.com/avatars/761200678940311582/f821fe1ac1b89ed45ef1824ebee9794f.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 1143,
+      "height": 697,
+      "size": 204596,
+      "path": "images/Zrzut_ekranu_2026-07-14_113226.png",
+      "hash": "ac68a1f9316b942594ac705bcda974d37ecaf2c5197a46236d41ed1fc4d9bb0f",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1526529099714007110/1526529436709818460/1526529429214462062-zrzut_ekranu_2026-07-14_113226.png?ex=6a575ad3&is=6a560953&hm=77accea3825c46f820868e437decdd88b637f82d23ec149c3a40f2aa3f7c6eb1&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1526529591026516018",
+      "name": "CHARDISPLAY003_screen_32x32_4x6_sprite_bottom_left.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1526529099714007110/1526529591026516018/screen_32x32_4x6_sprite_bottom_left.schem?ex=6a575af8&is=6a560978&hm=58ef2901275ca2760e224c92e1438219235ce296af62fb09ed3c9af2c8cff7cd&",
+      "timestamp": 1784023416077,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "761200678940311582",
+        "username": "mnbiom",
+        "displayName": "MNbiom",
+        "iconURL": "https://cdn.discordapp.com/avatars/761200678940311582/f821fe1ac1b89ed45ef1824ebee9794f.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 37372,
+      "canDownload": true,
+      "hash": "dce9ab5fceada9fb9b8c89c26ba5d59d0b8f12579fee0e18900766d9442f630b",
+      "path": "attachments/CHARDISPLAY003_screen_32x32_4x6_sprite_bottom_left.schem",
+      "schematic": {
+        "size": "30x83x85",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A 32x32 screen that allows you to set pixel to 1 or 0, fill the screen with 1 or 0, and draw a 4x6 sprite at any coordinate. It has a buffer.",
+    "input": "- pixel x (5 bit)\n- pixel y (5 bit)\n- sprite x (5 bit)\n- sprite y (5 bit)\n- sprite input (6 nibble)\n- draw sprite\n- pixel color\n- draw pixel\n- fill screen\n- buffer",
+    "output": "Lamps",
+    "speed": "Draws sprite in 4rt (6 pixels / 1rt)",
+    "notes": "- (0, 0) is in the top left corner.\n- Sprite coordinate specifies the bottom left corner of the sprite, so if you want to draw full 4x6 sprite in top left corner, sprite coordinate should be (0, 5)."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit",
+        "nibble"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1526534078072098886",
+    "forumId": "1472329368914104463",
+    "continuingMessageIds": [
+      "1526534088108802078"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1526534078072098886",
+    "uploadMessageId": "1526534075752382525"
+  },
+  "archivedAt": 1784024484143,
+  "updatedAt": 1784024484143,
+  "num_comments": 0
+}

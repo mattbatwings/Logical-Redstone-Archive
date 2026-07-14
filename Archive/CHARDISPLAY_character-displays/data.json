@@ -4,7 +4,7 @@
   "code": "CHARDISPLAY",
   "category": "📺 DISPLAYS",
   "description": "Devices that display characters.",
-  "currentCodeId": 2,
+  "currentCodeId": 3,
   "entries": [
     {
       "id": "1472329312660226060",
@@ -15,6 +15,11 @@
       "id": "1472329320226750485",
       "code": "CHARDISPLAY001",
       "path": "CHARDISPLAY001_16_Segment_Display"
+    },
+    {
+      "id": "1526529099714007110",
+      "code": "CHARDISPLAY003",
+      "path": "CHARDISPLAY003_32x32_pixel4x6_sprite_display"
     }
   ]
 }
