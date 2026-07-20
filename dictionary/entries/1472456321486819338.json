@@ -28,6 +28,7 @@
     }
   ],
   "referencedBy": [
-    "OTHERARITH007"
+    "OTHERARITH007",
+    "OTHERARITH008"
   ]
 }
