@@ -1,0 +1,171 @@
+{
+  "id": "1528820448488460310",
+  "name": "8b Dorito Logical RSH",
+  "code": "OTHERARITH007",
+  "reservedCodes": [
+    "OTHERARITH007"
+  ],
+  "pastPostThreadIds": [
+    "1528869041261903872"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "907116144815669259",
+      "username": "llucas_sixtynine",
+      "displayName": "LLucas",
+      "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383088519676017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1528821042699702454",
+      "name": "Screenshot_2026-07-20_114829.png",
+      "url": "https://cdn.discordapp.com/attachments/1528820448488460310/1528821042699702454/Screenshot_2026-07-20_114829.png?ex=6a5fb10c&is=6a5e5f8c&hm=017f70b82f6106c4e5c1f9ba5e4fa60f70fa3b5b34b83256e51b4e9b5113ad76&",
+      "timestamp": 1784569739892,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "image/png",
+      "canDownload": true,
+      "width": 876,
+      "height": 805,
+      "size": 198446,
+      "path": "images/Screenshot_2026-07-20_114829.png",
+      "hash": "aa42d422c41fb958803e80b290cf70846fb260c27386052f883fb227eedcbaab",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1528820448488460310/1528821050488393840/1528821042699702454-screenshot_2026-07-20_114829.png?ex=6a5fb10e&is=6a5e5f8e&hm=ed40cef299624a481ebdecb795122f8283f2ab6d39195f0513a76bdf115f037b&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1528868895975407766",
+      "name": "OTHERARITH007_8b_Dorito_Logical_RSH_Fix.litematic",
+      "url": "https://cdn.discordapp.com/attachments/1528820448488460310/1528868895975407766/8b_Dorito_Logical_RSH_Fix.litematic?ex=6a5fdd9d&is=6a5e8c1d&hm=a60e87b7f36923c4d6559ac55b61b3cc09fd24d4ffa0fa02c82813d24c738ca6&",
+      "timestamp": 1784581149058,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "91853fee677a61e1a7a259b49015858d2fa6cdb9258059f3a1c27ec2c5fc3c16",
+      "path": "attachments/OTHERARITH007_8b_Dorito_Logical_RSH_Fix.litematic",
+      "size": 2232,
+      "litematic": {
+        "size": "6x24x18",
+        "version": "1.20.4"
+      }
+    },
+    {
+      "id": "1528868950807543979",
+      "name": "OTHERARITH007_8b_dorito_rsh.schem",
+      "url": "https://cdn.discordapp.com/attachments/1528820448488460310/1528868950807543979/8b_dorito_rsh.schem?ex=6a5fddaa&is=6a5e8c2a&hm=fb34f67fc4c01ddb3be4aeb7ee87de7bcb14b5997f9a83640fc3bece4c08177a&",
+      "timestamp": 1784581162170,
+      "author": {
+        "type": "discord-external",
+        "id": "907116144815669259",
+        "username": "llucas_sixtynine",
+        "iconURL": "https://cdn.discordapp.com/avatars/907116144815669259/5c8c53ccc8fce889301e677f04f97c36.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "77cf6439dcdb1c9cb002018852f4f5c9fd5580ba4f6ad84cb655550b7ed2ff56",
+      "path": "attachments/OTHERARITH007_8b_dorito_rsh.schem",
+      "size": 2042,
+      "schematic": {
+        "size": "6x24x18",
+        "version": "1.20.4"
+      }
+    }
+  ],
+  "records": {
+    "description": "A barrel shifter based on the dorito design that is able to perform a logical right shift in 2 ticks whilst fitting in a 6 wide footprint",
+    "input": "8b value (1ss min), 3b shift value (15ss from lever, 13ss min from decoder)",
+    "output": "8b right shifted value",
+    "speed": "Input value 2t latency, Shift value 3t latency",
+    "considerations": [
+      "This does truncate the bits that have been shifted out"
+    ],
+    "notes": "This design is inspired off other designs, the original authors of which are unknown."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Barrel Shifter",
+      "id": "1472456321486819338",
+      "url": "https://discord.com/channels/1361854816837435433/1472456321486819338/1472456323147759700",
+      "matches": [
+        "barrel shifter",
+        "logical right shift",
+        "right shift"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Latency",
+      "id": "1472332630069477520",
+      "url": "https://discord.com/channels/1361854816837435433/1472332630069477520/1472332631419912367",
+      "matches": [
+        "latency"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1528869041261903872",
+    "forumId": "1472326515067850834",
+    "continuingMessageIds": [
+      "1528869063059575086"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1528869041261903872",
+    "uploadMessageId": "1528869033665888326"
+  },
+  "archivedAt": 1784581177780,
+  "updatedAt": 1784581177780,
+  "num_comments": 0
+}
