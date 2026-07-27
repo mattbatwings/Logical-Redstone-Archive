@@ -1,7 +1,7 @@
 # Modular Hex Equality Check
 <img alt="Screenshot_117.png" src="images/Screenshot_117.png?raw=1" height="300px">
 
-**Authors:** *lmt*
+**Authors:** *lmt.*
 
 **Endorsed by:** *Mixel*
 
