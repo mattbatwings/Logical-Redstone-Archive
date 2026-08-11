@@ -4,7 +4,7 @@
   "code": "OTHERARITH",
   "category": "➕ ARITHMETIC",
   "description": "Devices that perform other arithmetic operations.",
-  "currentCodeId": 8,
+  "currentCodeId": 9,
   "entries": [
     {
       "id": "1472726848822575286",
@@ -45,6 +45,11 @@
       "id": "1528879942706925628",
       "code": "OTHERARITH008",
       "path": "OTHERARITH008_8b_Dorito_LSH"
+    },
+    {
+      "id": "1536877059127648356",
+      "code": "OTHERARITH009",
+      "path": "OTHERARITH009_32_bit_cube_root_extractor"
     }
   ]
 }

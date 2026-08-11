@@ -1,0 +1,119 @@
+{
+  "id": "1536877059127648356",
+  "name": "32 bit cube root extractor",
+  "code": "OTHERARITH009",
+  "reservedCodes": [
+    "OTHERARITH009"
+  ],
+  "pastPostThreadIds": [
+    "1536878871755100323"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383088519676017",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1536877059886944337",
+      "name": "2026-08-12_01.09.49.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1536877059127648356/1536877059886944337/2026-08-12_01.09.49.png?ex=6a7cffcc&is=6a7bae4c&hm=81c18a6f6af9e066aecd8ecd0351981220720d647f4498e243eee14d762aa5d4&",
+      "timestamp": 1786490444691,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 105039,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-08-12_01.09.49.png",
+      "hash": "abe8be762181403bb4c61ae6a7d6f053caed45f0f91299270c192a782d2db149",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1536877059127648356/1536877364758315038/1536877059886944337-2026-08-12_01.09.49.png?ex=6a7d0015&is=6a7bae95&hm=2b970efc73718ed84cf578f86d1dcae340c51d219f72233cb1a0fc50ea9deec2&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1536877060625006592",
+      "name": "OTHERARITH009_32bitcbrt.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1536877059127648356/1536877060625006592/32bitcbrt.schem?ex=6a7cffcd&is=6a7bae4d&hm=a9f44c49cc6937cd37993c1aab86a8679869d838655eb48053fbafdd0980322a&",
+      "timestamp": 1786490444691,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 17980,
+      "canDownload": true,
+      "hash": "07dcb9d8a8a9639308c128f55e7f41c9b131eee64c960aa913df0995688c6bc8",
+      "path": "attachments/OTHERARITH009_32bitcbrt.schem",
+      "schematic": {
+        "size": "21x68x31",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Device computes C = floor(cuberoot(A)) and remainder R such that A = C^3 + R. It includes a “Clock” button to start computation and a “Reset” button in the back to clear outputs.",
+    "input": "Takes in a 32 Bit number A.",
+    "output": "Returns C = floor(cuberoot(A)) and the remainder R, i.e. A = C^3 + R.",
+    "speed": "Does 11 iterations, with one iteration needing 28rt (i.e. 2.8 sec). In total, it takes a little over 30 seconds.",
+    "notes": "Uses a CCA design by Amino. Algorithm: r ← (r << 3) | next_3_bits; trial ← S + 6p + 1; if r ≥ trial then r ← r − trial; S ← (S << 2) + 48p + 12; p ← 2p + 1; else S ← S << 2; p ← 2p."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "Bit",
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1536878871755100323",
+    "forumId": "1472326515067850834",
+    "continuingMessageIds": [
+      "1536878884027502694"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1536878871755100323",
+    "uploadMessageId": "1536878869565538355"
+  },
+  "archivedAt": 1786490874829,
+  "updatedAt": 1786490874829,
+  "num_comments": 0
+}
