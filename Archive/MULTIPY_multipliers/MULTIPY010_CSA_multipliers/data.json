@@ -1,0 +1,118 @@
+{
+  "id": "1536881401150836747",
+  "name": "CSA multipliers",
+  "code": "MULTIPY010",
+  "reservedCodes": [
+    "MULTIPY010"
+  ],
+  "pastPostThreadIds": [
+    "1536889067348693014"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1536881401494904842",
+      "name": "2026-08-12_01.33.09.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1536881401150836747/1536881401494904842/2026-08-12_01.33.09.png?ex=6a7d03d7&is=6a7bb257&hm=164d3228dca5a68347f3141db4e2825a9a0da7e63bbdb9010b5e3c3e152f72ac&",
+      "timestamp": 1786491479910,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 77518,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-08-12_01.33.09.png",
+      "hash": "51b59ac28fcd6aa8063b10e19d6136efaa216e457c35f1c60994147878508a17",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1536881401150836747/1536881546592518184/1536881401494904842-2026-08-12_01.33.09.png?ex=6a7d03fa&is=6a7bb27a&hm=dd6a6182aaa25fd24463d814cd882f46df9d71db283ee446a7cc25c7b7e3685e&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1536881402115792976",
+      "name": "MULTIPY010_csamult.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1536881401150836747/1536881402115792976/csamult.schem?ex=6a7d03d8&is=6a7bb258&hm=090fac2694230e6c37ec175c82a1100a33644e27e148f4bf33039a09d37a0bde&",
+      "timestamp": 1786491479910,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 13055,
+      "canDownload": true,
+      "hash": "3f804c9ce726a5f176fcbfeaa461530cc4d3ee8314f627401685c89cfcaa7a56",
+      "path": "attachments/MULTIPY010_csamult.schem",
+      "schematic": {
+        "size": "23x132x49",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A collection of three multipliers for multiplying 8/16/32-bit numbers. It uses a looping Carry Save Adder (CSA) design shown in Bennyscubes video. The Carry Save Adders have CCAs attached to them, with the CCA design by Amino. The device runs on a 3rt clock cycle. It also functions on Bedrock by turning the glass blocks (of the CCAs) into upper half slabs.",
+    "input": "Two 8 / 16 / 32 bit numbers",
+    "output": "16 / 32 / 64 bit Multiplication result",
+    "speed": "Runs on a 3rt clock cycle",
+    "notes": "On Bedrock, the glass blocks of the CCAs have to be turned into upper half slabs"
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1536889067348693014",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1536889080850153655"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1536889067348693014",
+    "uploadMessageId": "1536889065251803188"
+  },
+  "archivedAt": 1786493305435,
+  "updatedAt": 1786493305435,
+  "num_comments": 0
+}
