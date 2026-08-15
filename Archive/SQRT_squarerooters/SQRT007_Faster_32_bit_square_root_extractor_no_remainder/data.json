@@ -1,0 +1,122 @@
+{
+  "id": "1538220807648706652",
+  "name": "Faster 32 bit square root extractor (no remainder)",
+  "code": "SQRT007",
+  "reservedCodes": [
+    "SQRT007"
+  ],
+  "pastPostThreadIds": [
+    "1538226492578726009"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383086338773106",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1538220808059617300",
+      "name": "2026-08-15_18.13.45.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1538220807648706652/1538220808059617300/2026-08-15_18.13.45.png?ex=6a81e343&is=6a8091c3&hm=53ad6de4e9de9b4357671ff19dae034134f9917e92c34f5106bf76b0db1de26b&",
+      "timestamp": 1786810819304,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 85843,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-08-15_18.13.45.png",
+      "hash": "2e54dcde24d979dea3ca35b433c9c7535c0d5675222512baa0d3b4c36f50caaf",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1538220807648706652/1538220974191673354/1538220808059617300-2026-08-15_18.13.45.png?ex=6a81e36b&is=6a8091eb&hm=832bc36016b1db8a4a78352ac92a3534ca1fb61bc4848355439630d2ae080cb8&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1538220808407617656",
+      "name": "SQRT007_32bitsqrtbetter.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1538220807648706652/1538220808407617656/32bitsqrtbetter.schem?ex=6a81e343&is=6a8091c3&hm=7ca8fa89c01086586355888d90ec93137ff10b646967d7fb03e672a41e134e50&",
+      "timestamp": 1786810819304,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 11438,
+      "canDownload": true,
+      "hash": "1e2f8cb614afc3ea30dd758474b3d1fde65e077736636ae46d02de7f1e61ac0b",
+      "path": "attachments/SQRT007_32bitsqrtbetter.schem",
+      "schematic": {
+        "size": "14x68x15",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A device that takes a 32-bit number A as input and returns floor(sqrt(A)) using a non-restoring algorithm.",
+    "input": "A 32 bit number A.",
+    "output": "floor(sqrt(A)) (the square root of A rounded down).",
+    "speed": "Runs on a clock speed of 11rt per bit. Due to overhead, it needs a little over 20 seconds in total.",
+    "considerations": [
+      "No remainder. The remainder is stored on the yellow part in the middle of the unit, which is hard to access. Also, we sometimes have to perform an additional step at the end to obtain the correct remainder, which is also annoying to do.",
+      "No reset button. I didn't see a nice way how to clear the output. The previous output is just overwritten by the new output."
+    ],
+    "notes": "The CCA design used is by Amino. When posting the schematic using WorldEdit, you should give it one run to make sure everything correctly resetted, and only then start using it."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1538226492578726009",
+    "forumId": "1472326463179985037",
+    "continuingMessageIds": [
+      "1538226499793068112"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1538226492578726009",
+    "uploadMessageId": "1538226488854315028"
+  },
+  "archivedAt": 1786812172247,
+  "updatedAt": 1786812172247,
+  "num_comments": 0
+}

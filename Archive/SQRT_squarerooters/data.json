@@ -4,7 +4,7 @@
   "code": "SQRT",
   "category": "➕ ARITHMETIC",
   "description": "Devices that take the square root of a number.",
-  "currentCodeId": 6,
+  "currentCodeId": 7,
   "entries": [
     {
       "id": "1472328650866032693",
@@ -35,6 +35,11 @@
       "id": "1500425513137602560",
       "code": "SQRT006",
       "path": "SQRT006_Slow_32_bit_integer_square_root"
+    },
+    {
+      "id": "1538220807648706652",
+      "code": "SQRT007",
+      "path": "SQRT007_Faster_32_bit_square_root_extractor_no_remainder"
     }
   ]
 }
