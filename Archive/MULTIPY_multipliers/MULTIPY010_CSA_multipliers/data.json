@@ -10,9 +10,10 @@
   ],
   "authors": [
     {
-      "type": "discord-external",
+      "type": "discord-in-guild",
       "id": "1273400205542293626",
       "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
       "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/7533aee7a7d735a5850d117a0d2262a3.webp"
     }
   ],
@@ -22,7 +23,7 @@
       "id": "1041095929433968732",
       "username": "mixelmaniac7",
       "displayName": "Mixel",
-      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/e0dbce0d2e52e90454394e3a33ae9c7f.webp"
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/3817a5212a7003ba69876e00a15d70b0.webp"
     }
   ],
   "tags": [
