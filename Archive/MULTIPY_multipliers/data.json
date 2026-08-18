@@ -4,7 +4,7 @@
   "code": "MULTIPY",
   "category": "➕ ARITHMETIC",
   "description": "Devices that multiply 2 numbers.",
-  "currentCodeId": 10,
+  "currentCodeId": 11,
   "entries": [
     {
       "id": "1472328543588454690",
@@ -50,6 +50,11 @@
       "id": "1536881401150836747",
       "code": "MULTIPY010",
       "path": "MULTIPY010_CSA_multipliers"
+    },
+    {
+      "id": "1539397103846035556",
+      "code": "MULTIPY011",
+      "path": "MULTIPY011_Radix-4_Booth_Multipliers"
     }
   ]
 }

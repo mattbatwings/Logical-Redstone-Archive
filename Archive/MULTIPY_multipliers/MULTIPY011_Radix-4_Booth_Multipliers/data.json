@@ -1,0 +1,130 @@
+{
+  "id": "1539397103846035556",
+  "name": "Radix-4 Booth Multipliers",
+  "code": "MULTIPY011",
+  "reservedCodes": [
+    "MULTIPY011"
+  ],
+  "pastPostThreadIds": [
+    "1539410992054796330"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1273400205542293626",
+      "username": "mcdnldsmngr",
+      "displayName": "mcdnldsmngr",
+      "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/2dfaa577c1db8805309a75c48e887eba.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/3817a5212a7003ba69876e00a15d70b0.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383083402494009",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1539397104072654890",
+      "name": "2026-08-19_00.05.24.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1539397103846035556/1539397104072654890/2026-08-19_00.05.24.png?ex=6a862ac6&is=6a84d946&hm=48bf81ab582f2b5385e26740f97d511eb64cb9dabcc8d640796043d2d1c13138&",
+      "timestamp": 1787091270172,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/2dfaa577c1db8805309a75c48e887eba.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 83746,
+      "canDownload": true,
+      "width": 1200,
+      "height": 675,
+      "path": "images/2026-08-19_00.05.24.png",
+      "hash": "343e803828dd266b04db8f87b6d6624899bd2ffad03acb9b462ed93a196fb150",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1539397103846035556/1539397263837892608/1539397104072654890-2026-08-19_00.05.24.png?ex=6a862aec&is=6a84d96c&hm=31028ee691fb619d6532022e33cc822a6ca464508b4aab5afe35324aab3962a8&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1539397104487633006",
+      "name": "MULTIPY011_r4bmult.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1539397103846035556/1539397104487633006/r4bmult.schem?ex=6a862ac6&is=6a84d946&hm=59177c49f28ae201bcfc62c932bfd911a9d0ec2fffa69e861786aa5f2a0be320&",
+      "timestamp": 1787091270172,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "1273400205542293626",
+        "username": "mcdnldsmngr",
+        "displayName": "mcdnldsmngr",
+        "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/2dfaa577c1db8805309a75c48e887eba.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 15757,
+      "canDownload": true,
+      "hash": "1737071aebaf56a986f62b3196377f52c83148b154684448e2835db996c72947",
+      "path": "attachments/MULTIPY011_r4bmult.schem",
+      "schematic": {
+        "size": "28x130x33",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "Multiplies two unsigned 8/16/32-bit numbers to produce an unsigned product using a radix-4 Booth algorithm and specific CSA/CCA looping approaches.",
+    "input": "Two unsigned 8 / 16 / 32 bit numbers",
+    "output": "Unsigned 16 / 32 / 64 bit product",
+    "speed": "Processes two bits of A every 3rd, so does 4 / 8 / 16 iterations with one iteration being 3rd. The 32 bit multiplier shows the result less than 10 seconds after pressing the \"Start\" button (as far as I am aware).",
+    "considerations": [
+      "Uses 3t looping CSA shown in Bennyscube video and 3t CCA by Amino.",
+      "Uses the Radix-4 Booth algorithm which essentially also works for signed numbers in twos complement, but this would require additional logic afaik"
+    ]
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Twos Complement",
+      "id": "1472379271392530514",
+      "url": "https://discord.com/channels/1361854816837435433/1472379271392530514/1472379272248295481",
+      "matches": [
+        "twos complement"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1539410992054796330",
+    "forumId": "1472326395312082986",
+    "continuingMessageIds": [
+      "1539410999898148955"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1539410992054796330",
+    "uploadMessageId": "1539410989567713305"
+  },
+  "archivedAt": 1787094578265,
+  "updatedAt": 1787094578265,
+  "num_comments": 0
+}
