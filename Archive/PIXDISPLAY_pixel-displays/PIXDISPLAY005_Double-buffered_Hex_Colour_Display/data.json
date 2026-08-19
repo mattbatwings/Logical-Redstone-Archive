@@ -1,0 +1,236 @@
+{
+  "id": "1539370860899729482",
+  "name": "Double-buffered Hex Colour Display",
+  "code": "PIXDISPLAY005",
+  "reservedCodes": [
+    "PIXDISPLAY005"
+  ],
+  "pastPostThreadIds": [
+    "1539679371512774746"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "1081569090558246953",
+      "username": "unnecessarymb",
+      "displayName": "Uni",
+      "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp"
+    },
+    {
+      "type": "discord-in-guild",
+      "id": "158576177009786880",
+      "username": "tony_macaroni1",
+      "displayName": "Tony",
+      "iconURL": "https://cdn.discordapp.com/avatars/158576177009786880/a_eb184c7daca5948ee9c3ae0c6355a43a.gif"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/3817a5212a7003ba69876e00a15d70b0.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383109885460509",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1539659728752480446",
+      "name": "color-screen-front.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1539370860899729482/1539659728752480446/color-screen-front.png?ex=6a871f5c&is=6a85cddc&hm=e38ec9328015dda907fea165084dce09ee921b843f62c1cf238556c0dfbc1c87&",
+      "timestamp": 1787153885152,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "158576177009786880",
+        "username": "tony_macaroni1",
+        "displayName": "Tony",
+        "iconURL": "https://cdn.discordapp.com/avatars/158576177009786880/a_eb184c7daca5948ee9c3ae0c6355a43a.gif"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 64249,
+      "canDownload": true,
+      "width": 1200,
+      "height": 642,
+      "path": "images/color-screen-front.png",
+      "hash": "fd29aa9d15c433f175e0f97b3ad4a6acaf05ddcdf625b79d6e5029dfa5f3ce1e",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1539370860899729482/1539660232395980830/1539659728752480446-color-screen-front.png?ex=6a871fd4&is=6a85ce54&hm=e744f7b461f8590ea22ceb2361591d6a817df45be3f06f61c40d2b8270554c63&"
+    },
+    {
+      "id": "1539659729276637275",
+      "name": "color-screen-back.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1539370860899729482/1539659729276637275/color-screen-back.png?ex=6a871f5c&is=6a85cddc&hm=c52cac82cc03f6280b3fb6a57a190f018ed7f77f3cc38e56d979e778914087d4&",
+      "timestamp": 1787153885152,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "158576177009786880",
+        "username": "tony_macaroni1",
+        "displayName": "Tony",
+        "iconURL": "https://cdn.discordapp.com/avatars/158576177009786880/a_eb184c7daca5948ee9c3ae0c6355a43a.gif"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 196827,
+      "canDownload": true,
+      "width": 1200,
+      "height": 642,
+      "path": "images/color-screen-back.png",
+      "hash": "2de95c7ae6f6bd96304448c60552787ce9df77a4203716f86657dd52f8307776",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1539370860899729482/1539660232714625165/1539659729276637275-color-screen-back.png?ex=6a871fd4&is=6a85ce54&hm=048c9e1994f75c1b2b5e6c142850c47729cb209eccb404a51292dc5ddf5c05c0&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1539370863596412928",
+      "name": "PIXDISPLAY005_RGB_Redstone_2.1.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1539370860899729482/1539370863596412928/RGB_Redstone_2.1.zip?ex=6a861256&is=6a84c0d6&hm=cf689aa6b42ec32e74ba6282c5d0bb999ce6cf2cecaa85a68e11765ec52efca0&",
+      "timestamp": 1787085013366,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "158576177009786880",
+        "username": "tony_macaroni1",
+        "displayName": "Tony",
+        "iconURL": "https://cdn.discordapp.com/avatars/158576177009786880/a_eb184c7daca5948ee9c3ae0c6355a43a.gif"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 40466,
+      "canDownload": true,
+      "hash": "06bc34e739616935266ac965f795dabdc5ee1ffc04d5da705ce4d873fb6de88b",
+      "path": "attachments/PIXDISPLAY005_RGB_Redstone_2.1.zip"
+    },
+    {
+      "id": "1539370863961444362",
+      "name": "PIXDISPLAY005_MattPackColoredScreen_1.21.zip",
+      "contentType": "application/zip",
+      "url": "https://cdn.discordapp.com/attachments/1539370860899729482/1539370863961444362/MattPackColoredScreen_1.21.zip?ex=6a861256&is=6a84c0d6&hm=9d399cdfcd013ecc4bbaef7e6c16cf196c5e546abb51c113c2815fa96d53169b&",
+      "timestamp": 1787085013366,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "158576177009786880",
+        "username": "tony_macaroni1",
+        "displayName": "Tony",
+        "iconURL": "https://cdn.discordapp.com/avatars/158576177009786880/a_eb184c7daca5948ee9c3ae0c6355a43a.gif"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 337689,
+      "canDownload": true,
+      "hash": "e33cdde155b632bbf9443ebe1b01f8cc2ed9c898e00b7da520f029d4ee857197",
+      "path": "attachments/PIXDISPLAY005_MattPackColoredScreen_1.21.zip"
+    },
+    {
+      "id": "1539659729796595722",
+      "name": "PIXDISPLAY005_ColorScreenByUniAndTony2.schem",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1539370860899729482/1539659729796595722/ColorScreenByUniAndTony2.schem?ex=6a871f5d&is=6a85cddd&hm=8e8d86de01bb6b3d6be68528e08993413339907def9fe5cc9a13f59a33156f94&",
+      "timestamp": 1787153885152,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "158576177009786880",
+        "username": "tony_macaroni1",
+        "displayName": "Tony",
+        "iconURL": "https://cdn.discordapp.com/avatars/158576177009786880/a_eb184c7daca5948ee9c3ae0c6355a43a.gif"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 50462,
+      "canDownload": true,
+      "hash": "71e13cf2c183c759b2b59f2c46ee4c8eed1b171223e620926c1ed4fa7d189d97",
+      "path": "attachments/PIXDISPLAY005_ColorScreenByUniAndTony2.schem",
+      "schematic": {
+        "size": "27x46x50",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "A double-buffered 16x16 color pixel screen. It takes horizontal and vertical coordinates and a hex number representing a colour, draws pixels into a buffer, can fill the whole buffer with a selected colour, and can draw the buffer to the display. Back buffer is pipelinable at 3 redstone ticks. The screen requires a texture pack that replaces redstone dots with coloured cubes.",
+    "input": "Horizontal and vertical coordinates, plus a hex number representing colour.",
+    "output": "Draws a pixel into a buffer; can fill the whole buffer with a selected colour and then draw the buffer to the display.",
+    "speed": "Pipelinable at 3 redstone ticks.",
+    "considerations": [
+      "Requires a texture pack that replaces redstone dots with coloured cubes.",
+      "Uses specific texture packs: RGB Redstone 2.1 (attached) and a merged version of RGB Redstone 2.1 and Mattpack 1.21 (attached too) for development purposes."
+    ],
+    "notes": "Size: 16x16 pixels. Double-buffered. Authors: <@1081569090558246953> (base compact design) and <@158576177009786880> (syncing, harness and testing)."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Hex",
+      "id": "1472378753467285524",
+      "url": "https://discord.com/channels/1361854816837435433/1472378753467285524/1472378754364866674",
+      "matches": [
+        "hex"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "redstone tick"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "1081569090558246953",
+        "username": "unnecessarymb",
+        "iconURL": "https://cdn.discordapp.com/avatars/1081569090558246953/9e0bd46892e7d0387c254f86747047de.webp",
+        "displayName": "Uni"
+      },
+      "matches": [
+        "<@1081569090558246953>"
+      ]
+    },
+    {
+      "type": "userMention",
+      "user": {
+        "type": "discord-in-guild",
+        "id": "158576177009786880",
+        "username": "tony_macaroni1",
+        "iconURL": "https://cdn.discordapp.com/avatars/158576177009786880/a_eb184c7daca5948ee9c3ae0c6355a43a.gif",
+        "displayName": "Tony"
+      },
+      "matches": [
+        "<@158576177009786880>"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Sync",
+      "id": "1472390929481728130",
+      "url": "https://discord.com/channels/1361854816837435433/1472390929481728130/1472390933466189975",
+      "matches": [
+        "sync"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1539679371512774746",
+    "forumId": "1472329599731105862",
+    "continuingMessageIds": [
+      "1539679379989336187"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1539679371512774746",
+    "uploadMessageId": "1539679369272885408"
+  },
+  "archivedAt": 1787158563716,
+  "updatedAt": 1787158563716,
+  "num_comments": 0
+}
