@@ -34,9 +34,9 @@
     {
       "type": "discord-in-guild",
       "id": "762007539197411350",
-      "username": "stickman_cookies",
-      "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp",
-      "displayName": "Stickman"
+      "username": "stickmancookies",
+      "displayName": "Stickman",
+      "iconURL": "https://cdn.discordapp.com/avatars/762007539197411350/9534fbbc2e80d41c433a379340376249.webp"
     }
   ],
   "endorsers": [
