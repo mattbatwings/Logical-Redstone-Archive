@@ -10,10 +10,9 @@
   ],
   "authors": [
     {
-      "type": "discord-in-guild",
+      "type": "discord-external",
       "id": "1273400205542293626",
       "username": "mcdnldsmngr",
-      "displayName": "mcdnldsmngr",
       "iconURL": "https://cdn.discordapp.com/avatars/1273400205542293626/be3a02bf0a98efb3c3ab22497620ebc4.webp"
     }
   ],
