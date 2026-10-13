@@ -1,0 +1,111 @@
+{
+  "id": "1558514352460406894",
+  "name": "Fast BCD to 7seg (Current Fastest) Synced",
+  "code": "NUMDISPLAY008",
+  "reservedCodes": [
+    "NUMDISPLAY008"
+  ],
+  "pastPostThreadIds": [
+    "1559583643310104687"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "752812343695507466",
+      "username": "jay1717",
+      "displayName": "Jay1717",
+      "iconURL": "https://cdn.discordapp.com/avatars/752812343695507466/91f52ef34a7502cc98abd017150bcfb3.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/3817a5212a7003ba69876e00a15d70b0.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383105225719919",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1558514352749809754",
+      "name": "Fast_BCD_to_7seg.png",
+      "contentType": "image/png",
+      "url": "https://cdn.discordapp.com/attachments/1558514352460406894/1558514352749809754/area_render_42_.png?ex=6acbb719&is=6aca6599&hm=8e9cce50d315a56e87b0e6492234a628d12a05ef446cdf2a2073582edd34508b&",
+      "timestamp": 1791649177423,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "752812343695507466",
+        "username": "jay1717",
+        "displayName": "Jay1717",
+        "iconURL": "https://cdn.discordapp.com/avatars/752812343695507466/91f52ef34a7502cc98abd017150bcfb3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Pretty fast highly customizable display for your projects",
+      "size": 93267,
+      "canDownload": true,
+      "width": 422,
+      "height": 950,
+      "path": "images/Fast_BCD_to_7seg.png",
+      "hash": "a5ca803a7a1a42a1a5af4197f1f399bdaad660a020ac73ff1f4db57fb42e6d7b",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1558514352460406894/1558515113235980298/1558514352749809754-fast_bcd_to_7seg.png?ex=6acbb7ce&is=6aca664e&hm=ee71b09fa1325055ca904341a42a72488ba0a6eef1ebeb5682173062cb5a17d5&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1558514353249067079",
+      "name": "NUMDISPLAY008_FAST_BCD_to_7seg.litematic",
+      "contentType": "unknown",
+      "url": "https://cdn.discordapp.com/attachments/1558514352460406894/1558514353249067079/FAST_BCD_to_7seg.litematic?ex=6acbb719&is=6aca6599&hm=d63cfedce79771e9206544a4847e21ba4c3df88d1a65ab6dc15c0c700ddd76e8&",
+      "timestamp": 1791649177423,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "752812343695507466",
+        "username": "jay1717",
+        "displayName": "Jay1717",
+        "iconURL": "https://cdn.discordapp.com/avatars/752812343695507466/91f52ef34a7502cc98abd017150bcfb3.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "Litematica file for the Fast BCD to 7seg display",
+      "size": 2182,
+      "canDownload": true,
+      "hash": "3b754b9500806d91bf28612625b474283a2adf52d172b8e285294f7727fc65b3",
+      "path": "attachments/NUMDISPLAY008_FAST_BCD_to_7seg.litematic",
+      "litematic": {
+        "size": "15x26x7",
+        "version": "1.21.10"
+      }
+    }
+  ],
+  "records": {
+    "description": "A display device with dimensions 15x26x7 and configurable segment count.",
+    "input": "N/A (not explicitly stated).",
+    "output": "N/A (not explicitly stated).",
+    "speed": "4rt (3rt to turn on, 4rt to turn off).",
+    "considerations": [
+      "N/A (not explicitly stated)."
+    ],
+    "notes": "Pros: Customizable number segments; Can put any block near the display (for decoration)."
+  },
+  "styles": {},
+  "references": [],
+  "author_references": [],
+  "post": {
+    "threadId": "1559583643310104687",
+    "forumId": "1472329280129204314",
+    "continuingMessageIds": [
+      "1559583658904649729"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1559583643310104687",
+    "uploadMessageId": "1559583638788644884"
+  },
+  "archivedAt": 1791904111537,
+  "updatedAt": 1791904111537,
+  "num_comments": 0
+}
