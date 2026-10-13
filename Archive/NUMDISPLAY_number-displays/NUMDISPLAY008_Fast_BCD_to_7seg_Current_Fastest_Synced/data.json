@@ -84,17 +84,27 @@
     }
   ],
   "records": {
-    "description": "A display device with dimensions 15x26x7 and configurable segment count.",
-    "input": "N/A (not explicitly stated).",
-    "output": "N/A (not explicitly stated).",
+    "description": "A highly customizable 7 segment display for your everyday projects",
+    "input": "4bit Binary",
+    "output": "4x7 Number display",
     "speed": "4rt (3rt to turn on, 4rt to turn off).",
     "considerations": [
-      "N/A (not explicitly stated)."
-    ],
-    "notes": "Pros: Customizable number segments; Can put any block near the display (for decoration)."
+      "Customizable number segments",
+      "Can put any block near the display (for decoration)"
+    ]
   },
   "styles": {},
-  "references": [],
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    }
+  ],
   "author_references": [],
   "post": {
     "threadId": "1559583643310104687",
@@ -106,6 +116,6 @@
     "uploadMessageId": "1559583638788644884"
   },
   "archivedAt": 1791904111537,
-  "updatedAt": 1791904111537,
+  "updatedAt": 1791907116729,
   "num_comments": 0
 }
