@@ -1,0 +1,133 @@
+{
+  "id": "1564597704858927104",
+  "name": "8-bit Carry Cancel Adder",
+  "code": "ADD015",
+  "reservedCodes": [
+    "ADD015"
+  ],
+  "pastPostThreadIds": [
+    "1564598561226625044"
+  ],
+  "authors": [
+    {
+      "type": "discord-in-guild",
+      "id": "578810468974723073",
+      "username": "sqwib_duck420",
+      "displayName": "ITSYABOI119",
+      "iconURL": "https://cdn.discordapp.com/avatars/578810468974723073/a2896b5be85b4c65eb0d1e96d0ad8eb9.webp"
+    }
+  ],
+  "endorsers": [
+    {
+      "type": "discord-in-guild",
+      "id": "1041095929433968732",
+      "username": "mixelmaniac7",
+      "displayName": "Mixel",
+      "iconURL": "https://cdn.discordapp.com/avatars/1041095929433968732/3817a5212a7003ba69876e00a15d70b0.webp"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1472383093590720615",
+      "name": "Tested & Functional"
+    }
+  ],
+  "images": [
+    {
+      "id": "1564597705236287518",
+      "name": "Screenshot_2026-10-27_211228.png",
+      "contentType": "image/webp",
+      "url": "https://cdn.discordapp.com/attachments/1564597704858927104/1564597705236287518/Screenshot_2026-10-27_211228.png?ex=6ae1d8a9&is=6ae08729&hm=4851a581a1c6535842a9167b83a27828c1034878a5450ca456a988e31c9a3c10&",
+      "timestamp": 1793099561658,
+      "author": {
+        "type": "discord-in-guild",
+        "id": "578810468974723073",
+        "username": "sqwib_duck420",
+        "displayName": "ITSYABOI119",
+        "iconURL": "https://cdn.discordapp.com/avatars/578810468974723073/a2896b5be85b4c65eb0d1e96d0ad8eb9.webp"
+      },
+      "source": "MessageAttachment",
+      "description": "",
+      "size": 111121,
+      "canDownload": true,
+      "width": 723,
+      "height": 744,
+      "path": "images/Screenshot_2026-10-27_211228.png",
+      "hash": "8eef1f061df6e65132424a5fab82ef1dd61261606aea7713dc14da94025ebc11",
+      "processedUrl": "https://cdn.discordapp.com/attachments/1564597704858927104/1564597992550432849/1564597705236287518-screenshot_2026-10-27_211228.png?ex=6ae1d8ee&is=6ae0876e&hm=cf1580c1c75c72b00b01fa4a97694185ee3aecc0929a4e28a6a3d28c60cb2715&"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "1564598327738372136",
+      "name": "ADD015_tower8.schem",
+      "url": "https://cdn.discordapp.com/attachments/1564597704858927104/1564598327738372136/tower8.schem?ex=6ae1d93e&is=6ae087be&hm=292bc81685c05fc9d52928ceaf75a9754eb06b016152ee2d1c564491ce5ed090&",
+      "timestamp": 1793099709339,
+      "author": {
+        "type": "discord-external",
+        "id": "578810468974723073",
+        "username": "sqwib_duck420",
+        "iconURL": "https://cdn.discordapp.com/avatars/578810468974723073/a2896b5be85b4c65eb0d1e96d0ad8eb9.webp"
+      },
+      "source": "DirectUpload",
+      "description": "",
+      "contentType": "unknown",
+      "canDownload": true,
+      "hash": "e5cebfaedb25fc7490308c219054eea0a2efbb3e0f68006699c1fd5911ae1d47",
+      "path": "attachments/ADD015_tower8.schem",
+      "size": 1530,
+      "schematic": {
+        "size": "10x23x13",
+        "version": "1.21.8"
+      }
+    }
+  ],
+  "records": {
+    "description": "An 8-bit carry-cancel adder with carry in and carry out, where both are ready at 3 ticks and are synced; each bit reads both carry lines directly. It is based on ideas learned from unnecessarymb's 8-bit Carry Cancel Adder, including sharing one dust for the xor and copy comparators carrying the kill line to the sums, and it uses an own layout designed with Claude (AI). A first block of a 32-bit adder is also in progress.",
+    "speed": "3 ticks",
+    "notes": "Ideas learned from unnecessarymb's 8-bit Carry Cancel Adder: a bit's A and B share one dust for the xor, and copy comparators carry the kill line to the sums. Our own layout, designed with Claude (AI). First block of a 32-bit adder in progress."
+  },
+  "styles": {},
+  "references": [
+    {
+      "type": "dictionaryTerm",
+      "term": "Data sizes",
+      "id": "1472460841465937940",
+      "url": "https://discord.com/channels/1361854816837435433/1472460841465937940/1472460842254467194",
+      "matches": [
+        "bit"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Tick",
+      "id": "1472394663620120770",
+      "url": "https://discord.com/channels/1361854816837435433/1472394663620120770/1472394665230729298",
+      "matches": [
+        "tick"
+      ]
+    },
+    {
+      "type": "dictionaryTerm",
+      "term": "Sync",
+      "id": "1472390929481728130",
+      "url": "https://discord.com/channels/1361854816837435433/1472390929481728130/1472390933466189975",
+      "matches": [
+        "sync"
+      ]
+    }
+  ],
+  "author_references": [],
+  "post": {
+    "threadId": "1564598561226625044",
+    "forumId": "1472327318457290846",
+    "continuingMessageIds": [
+      "1564598572660564029"
+    ],
+    "threadURL": "https://discord.com/channels/1361854816837435433/1564598561226625044",
+    "uploadMessageId": "1564598559284658297"
+  },
+  "archivedAt": 1793099757726,
+  "updatedAt": 1793099757726,
+  "num_comments": 0
+}

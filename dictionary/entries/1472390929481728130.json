@@ -22,6 +22,7 @@
     }
   ],
   "referencedBy": [
+    "ADD015",
     "COUNT003",
     "MULTIPY001",
     "NUMDISPLAY001",
